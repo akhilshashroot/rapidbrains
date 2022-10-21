@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Validator;
 class EnquiryController extends Controller
 {
     public function MailFunction(Request $request){
-        dd($request->all());
+        //dd($request->all());
         $validator = Validator::make($request->all(), [
             'name' => 'required',
             'email' => 'nullable',

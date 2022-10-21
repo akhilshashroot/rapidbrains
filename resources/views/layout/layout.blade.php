@@ -59,7 +59,7 @@
                        </div>
                      </div>
                     
-                     <div class="col-md-12">
+                     <div class="col-md-12" id="emaildiv">
                        <div class="form-floating">
                        <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
                          <label for="email" class="form-label">Your Email *</label>
@@ -67,11 +67,11 @@
                      </div>
                      <div class="col-md-12">
                        <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" >
+                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" required>
                          <label for="phone" class="form-label">Your Phone No.</label>
                        </div>
                      </div>
-                     <div class="col-md-12">
+                     <div class="col-md-12" id="skilldiv">
                       <div class="form-floating">
                         <textarea id="skill" name="skill" class="form-control" placeholder="Skillset Required" style="height: 100px"  spellcheck="false"></textarea>
                         <label for="skill" class="form-label">Skills Required *</label>
@@ -81,14 +81,9 @@
                    </div>
                  </div>
                </div>
-<!--</br>
-               <div class="row">
-               <div class="col-md-12">
-               <div id="enquirenowcaptchadiv"></div>
-</div></div>-->
 
-<div id="recaptcha" class="g-recaptcha"
-          data-sitekey="6LefZI0iAAAAAJAXcSt0Vc0DeQZ348f-sUd2Ysgi"
+<div id="recaptcha1" class="g-recaptcha"
+          data-sitekey="{{env('INVISIBLE_RECAPTCHA_SITEKEY')}}"
           data-callback="onSubmit"
           data-size="invisible"></div>
  
@@ -119,74 +114,6 @@
 
 
 
-<div class="modal fade" id="gettouch" role="dialog">
-  <div class="modal-dialog modal-dialog-centered modal-sm">
-                     <div class="modal-content text-center">
-                       <div class="modal-body">
-                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                         <h2 class="mb-3 text-start"></h2>
-                         <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
-                         <form method="post" id="gettouchForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
-                            @csrf
-               <input type="hidden" id="type" name="enquirenow" value="gettouch">
-            
-               <div class="row">
-                 <div class="col-xl-12">
-                   <div class="row gy-3 gx-3">
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control"  id="name" name="name"  placeholder="Name *" required="">
-                         <label for="name" class="form-label">Your Name *</label>
-                       </div>
-                     </div>
-                    
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
-                         <label for="email" class="form-label">Your Email *</label>
-                       </div>
-                     </div>
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" >
-                         <label for="phone" class="form-label">Your Phone No.</label>
-                       </div>
-                     </div>
-                     <div class="col-md-12">
-                      <div class="form-floating">
-                        <textarea id="skill" name="skill" class="form-control" placeholder="Skillset Required" style="height: 100px"  spellcheck="false"></textarea>
-                        <label for="skill" class="form-label">Skills Required *</label>
-
-                      </div>
-                    </div>
-                   </div>
-                 </div>
-               </div>
-<!--</br>
-               <div class="row">
-               <div class="col-md-12">
-               <div id="getintouchcaptchadiv"></div>
-</div></div>-->
-
- 
-              <div class="btn-container mx-auto pt-5">
-                <button class="btn btn-primary d-block w-100" id="submit" type="submit">Get in Touch</button>
- 
-                  </div>
- 
-                                     
-                                 </div></form>
-                         <!--/.social -->
-                       </div>
-                       <!--/.modal-content -->
-                     </div>
-                     <!--/.modal-body -->
-                   </div>
-  
-  
-  
-            </div>
   
 
 
@@ -198,63 +125,7 @@
 
 
 
-<div class="modal fade" id="callback" role="dialog">
-  <div class="modal-dialog modal-dialog-centered modal-sm">
-                     <div class="modal-content text-center">
-                       <div class="modal-body">
-                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                         <h2 class="mb-3 text-start"></h2>
-                         <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
-                         <form method="post" id="callbackForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
-               @csrf
-                         <input type="hidden" id="type" name="enquirenow" value="callback">
-            
-               <div class="row">
-                 <div class="col-xl-12">
-                   <div class="row gy-3 gx-3">
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control"  id="name" name="name"  placeholder="Name *" required="">
-                         <label for="name" class="form-label">Your Name *</label>
-                       </div>
-                     </div>
-                    
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Your Phone Nmber *" required="">
-                         <label for="email" class="form-label">Your Phone No. *</label>
-                       </div>
-                     </div>
-                    
-                    
-                   </div>
-                 </div>
-               </div>
-<!--</br>
-               <div class="row">
-               <div class="col-md-12">
-               <div id="callbackcaptchadiv"></div>
-</div></div>-->
 
- 
-              <div class="btn-container mx-auto pt-5">
-                <button class="btn btn-primary d-block w-100" id="submit" type="submit">Request a call back</button>
- 
-                  </div>
- 
-                                     
-                                 </div></form>
-                         <!--/.social -->
-                       </div>
-                       <!--/.modal-content -->
-                     </div>
-                     <!--/.modal-body -->
-                   </div>
-  
-  
-  
-            </div>
   
 
 
@@ -330,10 +201,11 @@
  required: "Please enter valid email",
  email: "Please enter valid email",
  maxlength: "The email name should less than or equal to 50 characters",
- }, 
-     success: function (label, element) {
+ },
+ },
+ success: function (label, element) {
         grecaptcha.execute();
-        }},
+        },
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
@@ -341,6 +213,7 @@
  }
  });
  $('#submit').html('Please Wait...');
+
  $("#submit"). attr("disabled", true);
  $.ajax({
  url: "{{route('enquire')}}",
@@ -410,22 +283,26 @@
  },   
 
  },
+ success: function (label, element) {
+    console.log('hi');
+        grecaptcha.execute();
+        },
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
  'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
  }
  });
- $('#submit').html('Please Wait...');
- $("#submit"). attr("disabled", true);
+ $('#touchsubmit').html('Please Wait...');
+ $("#touchsubmit"). attr("disabled", true);
  $.ajax({
  url: "{{route('enquire')}}",
  type: "POST",
  data: $('#gettouchForm').serialize(),
  success: function( response ) {
     if(response.status == 'notok') {
-        $('#submit').html('Submit');
-        $("#submit"). attr("disabled", false);
+        $('#touchsubmit').html('Submit');
+        $("#touchsubmit"). attr("disabled", false);
         if(response.data['g-recaptcha-response']) {
             var msg = response.data['g-recaptcha-response'][0];
         } else {
@@ -440,8 +317,8 @@
  });
     } else {
         console.log(response);
- $('#submit').html('Submit');
- $("#submit"). attr("disabled", false);
+ $('#touchsubmit').html('Submit');
+ $("#touchsubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
  document.getElementById("gettouchForm").reset(); 
  swal({
@@ -482,22 +359,26 @@
  },   
 
  },
+ success: function (label, element) {
+    console.log('hi');
+        grecaptcha.execute();
+        },
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
  'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
  }
  });
- $('#submit').html('Please Wait...');
- $("#submit"). attr("disabled", true);
+ $('#callbacksubmit').html('Please Wait...');
+ $("#callbacksubmit"). attr("disabled", true);
  $.ajax({
  url: "{{route('enquire')}}",
  type: "POST",
  data: $('#callbackForm').serialize(),
  success: function( response ) {
     if(response.status == 'notok') {
-        $('#submit').html('Submit');
-        $("#submit"). attr("disabled", false);
+        $('#callbacksubmit').html('Submit');
+        $("#callbacksubmit"). attr("disabled", false);
         if(response.data['g-recaptcha-response']) {
             var msg = response.data['g-recaptcha-response'][0];
         } else {
@@ -511,8 +392,8 @@
  confirmButtonText: 'Okay'
  });
     } else {
-        $('#submit').html('Submit');
- $("#submit"). attr("disabled", false);
+        $('#callbacksubmit').html('Submit');
+ $("#callbacksubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
  document.getElementById("callbackForm").reset(); 
  swal({
@@ -536,11 +417,6 @@
 function enableBtn(){
    document.getElementById("join").disabled = false;
  }
- //var CaptchaCallback = function() {
-                //grecaptcha.render('enquirenowcaptchadiv', {'sitekey' : '6LefZI0iAAAAAJAXcSt0Vc0DeQZ348f-sUd2Ysgi'});
-                //grecaptcha.render('getintouchcaptchadiv', {'sitekey' : '6LefZI0iAAAAAJAXcSt0Vc0DeQZ348f-sUd2Ysgi'});
-                //grecaptcha.render('callbackcaptchadiv', {'sitekey' : '6LefZI0iAAAAAJAXcSt0Vc0DeQZ348f-sUd2Ysgi'});
-     //   };
         $("#success-msg").css('display','none');
     $("#danger-msg").css('display','none');
   
