@@ -4,10 +4,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time">
-  <meta name="keywords" content="remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees">
+  <meta name="description" content="@if(isset($data['description'])){{$data['description']}}@else A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time @endif">
+  <meta name="keywords" content="@if(isset($data['keywords'])){{$data['keywords']}}@else remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees @endif">
   <meta name="author" content="rapidbrains">
-  <title>RapidBrains - Build your remote team, rapidly</title>
+  <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
   <link rel="shortcut icon" href="{{asset('assets/img/favicon.png')}}">
   <link rel="stylesheet" href="{{asset('assets/css/plugins.css')}}">
   <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
@@ -20,7 +20,11 @@
   <div class="content-wrapper">
       <!--Header Starts  -->
       <!--Header Starts  -->
+      @if(Route::currentRouteName() == 'join')
+      @include('header2')
+      @else
       @include('header')
+      @endif
    @yield('section')
     
    
