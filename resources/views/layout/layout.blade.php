@@ -174,6 +174,7 @@
   <script src="{{asset('assets/js/plugins.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
+  <script src="{{asset('assets/js/newsletter.js')}}"></script>
 
   
 
