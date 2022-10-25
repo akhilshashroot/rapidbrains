@@ -52,12 +52,13 @@
                   <div id="mc_embed_signup_scroll2">
                     <div class="mc-field-group input-group form-floating">
                       <!-- <input type="email" value="" name="EMAIL" class="required email form-control" placeholder="Email Address" id="mce-EMAIL2"> -->
-                      <input type="text" class="form-control" id="email" name="email" placeholder="Email Address">
+                      <input type="text" class="form-control" id="emailnews" name="email" placeholder="Email Address">
 
                       <label for="email">Email Address</label>
                       <input type="submit" value="Join" id="subscribe" name="newsletter" class="btn btn-primary ">
-                      <p id="error-display" style="color:#dc3545;display:none">Please enter a valid email address</p>
+                      
                     </div>
+                    <p id="error-display" style="color:#dc3545;display:none">Please enter a valid email address</p>
                   </div>
                 </form>
                 <!--<form action="https://rapidbrains.us11.list-manage.com/subscribe/post?u=94f5ceb9f07b436db285d27b9&amp;id=cdc90d5b16&amp;f_id=009394e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

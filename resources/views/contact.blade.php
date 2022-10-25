@@ -187,7 +187,6 @@
           data-size="invisible"></div>
                 <div class="col-12 text-center">
                 <button class="btn btn-primary rounded-pill btn-send mb-3" id="contact" type="submit">Send message</button>
-                  <p class="text-muted"><strong>*</strong> These fields are required.</p>
                 </div>
                 <!-- /column -->
               </div>

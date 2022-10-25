@@ -1,22 +1,16 @@
 if ($("#newsletter").length > 0) {
   $("#newsletter").validate({
-    rules: {
-      email: {
-      required: true,
-      maxlength: 50,
-      email: true,
-      },  
-        
-      },
-      messages: {
-      email: {
-      required: "Please enter valid email",
-      email: "Please enter valid email",
-      maxlength: "The email name should less than or equal to 50 characters",
-      },
-      },
- 
   submitHandler: function(form) {
+    var inputText=$("#emailnews").val();
+    console.log(inputText);
+       var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+   if(!inputText.match(mailformat))
+   
+   {
+     $("#error-display").css('display','block');
+   
+   return false;
+   }
    
   $.ajaxSetup({
   headers: {
