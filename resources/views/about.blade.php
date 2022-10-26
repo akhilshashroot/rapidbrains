@@ -442,7 +442,7 @@
             <div class="card bg-soft-leaf mb-10">
               <div class="card-body p-12 pb-0">
                 <h3 class="h1 post-title mb-3">Life @ RapidBrains</h3>
-                <p>We give emphasis primarily on corporate governance, this leads to an effective decision-making process wherein we make most of our employees participate in decision-making processes, nerveless forget that what we are today is the thrive of our employees.</p>
+                <p style="height:163px">We give emphasis primarily on corporate governance, this leads to an effective decision-making process wherein we make most of our employees participate in decision-making processes, nerveless forget that what we are today is the thrive of our employees.</p>
               </div>
               <!--/.card-body -->
               <img class="card-img-bottom" src="./assets/img/photos/about11.jpg" srcset="./assets/img/photos/about11@2x.jpg 2x" alt="" />
@@ -454,7 +454,7 @@
             <div class="card bg-soft-pink">
               <div class="card-body p-12 pb-0">
                 <h3 class="h1 post-title mb-3">Our Culture</h3>
-                <p>A successful Manager has a frantic challenge of getting the best out of his workforce irrespective of any critical situation. He can do so only by keeping them motivated. A motivated workforce is an assurance of quality performance delivered.</p>
+                <p style="height:163px">A successful Manager has a frantic challenge of getting the best out of his workforce irrespective of any critical situation. He can do so only by keeping them motivated. A motivated workforce is an assurance of quality performance delivered.</p>
               </div>
               <!--/.card-body -->
               <img class="card-img-bottom" src="./assets/img/photos/about10.jpg" srcset="./assets/img/photos/about10@2x.jpg 2x" alt="" />
