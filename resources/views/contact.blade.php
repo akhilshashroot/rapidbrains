@@ -1,6 +1,6 @@
 @extends('layout.layout')
 @section('section')
-<section class="wrapper bg-light">
+<section class="wrapper bg-gray">
   <div class="container py-14 py-md-16">
     <div class="row gy-10 gx-lg-8 gx-xl-12 align-items-center">
       <div class="col-lg-7 position-relative">
@@ -182,7 +182,7 @@
                 </div>
                 <!-- /column -->
                 <div id="recaptcha" class="g-recaptcha"
-          data-sitekey="6LefZI0iAAAAAJAXcSt0Vc0DeQZ348f-sUd2Ysgi"
+          data-sitekey="{{env('INVISIBLE_RECAPTCHA_SITEKEY')}}"
           data-callback="onSubmit"
           data-size="invisible"></div>
                 <div class="col-12 text-center">

@@ -12,30 +12,6 @@
   <link rel="stylesheet" href="{{asset('assets/css/plugins.css')}}">
   <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/colors/navy.css')}}">
-    <style>
-      @media only screen and (max-width: 600px){
-  .file-css {
-    padding-bottom: 13px;
- 
-  }
-  }
-  input[type=file]::file-selector-button {
-    width:120px;
-    background-color: #9499a3 !important;
-    color: #fff !important;
-    border-color: transparent !important;
-    border-radius: 50rem !important;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    transform: translateY(0) !important;
-    letter-spacing: -.01rem;
-    box-shadow: none;
-   }
-   .invalid-feedback{
-    color: #dc3545;
-   }
-    </style>
     @yield('css_after')
 </head>
 
@@ -53,7 +29,11 @@
     
    
   <!-- /.content-wrapper -->
+  @if(Route::currentRouteName() == 'welcome')
   @include('footer')
+  @else
+      @include('footer2')
+      @endif
 
 
 

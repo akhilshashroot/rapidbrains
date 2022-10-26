@@ -6,7 +6,7 @@
       <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-1 position-relative order-lg-2" data-cue="zoomIn">
         <div class="shape bg-dot primary rellax w-17 h-19" data-rellax-speed="1" style="top: -1.7rem; left: -1.5rem;"></div>
         <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0" style="bottom: -1.8rem; right: -0.8rem; width: 85%; height: 90%;"></div>
-        <figure class="rounded"><img src="./assets/img/photos/about7.jpg" srcset="./assets/img/photos/about7@2x.jpg 2x" alt="" /></figure>
+        <figure class="rounded"><img src="./assets/img/photos/RB/RB2/the_process.jpg" srcset="./assets/img/photos/RB/RB2/the_process.jpg 2x" alt="" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-5 mt-lg-n10 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">

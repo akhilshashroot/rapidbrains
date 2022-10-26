@@ -4,7 +4,7 @@
           <div class="navbar-collapse-wrapper bg-white d-flex flex-row flex-nowrap w-100 justify-content-between align-items-center">
             <div class="navbar-brand w-100">
               <a href="{{route('welcome')}}">
-                <img src="{{asset('assets/img/logo-dark.svg')}}" srcset="{{asset('assets/img/logo-dark')}}@2x.svg 2x" alt="RapidBrains Logo"  class="img-logo"/>
+                <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo"  class="img-logo"/>
               </a>
             </div>
             <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">

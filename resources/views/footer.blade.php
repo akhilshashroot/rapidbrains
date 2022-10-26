@@ -4,7 +4,7 @@
       <div class="row gy-6 gy-lg-0">
         <div class="col-md-4 col-lg-3">
           <div class="widget">
-            <img class="mb-4" src="./assets/img/logo-dark.svg" srcset="./assets/img/logo-dark@2x.svg 2x" alt="RapidBrains Logo" width="200" style="margin-right:3rem;" />
+            <img class="mb-4" src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo" width="200" style="margin-right:3rem;" />
             <p class="mb-4">© 2022 RapidBrains. <br class="d-none d-lg-block" />A HashRoot Company</p>
             <nav class="nav social ">
                <a href="https://www.linkedin.com/company/rapidbrains"><i class="uil uil-linkedin"></i></a>
@@ -56,9 +56,8 @@
 
                       <label for="email">Email Address</label>
                       <input type="submit" value="Join" id="subscribe" name="newsletter" class="btn btn-primary ">
-                      
+                      <p id="error-display" style="color:#dc3545;display:none">Please enter a valid email address</p>
                     </div>
-                    <p id="error-display" style="color:#dc3545;display:none">Please enter a valid email address</p>
                   </div>
                 </form>
                 <!--<form action="https://rapidbrains.us11.list-manage.com/subscribe/post?u=94f5ceb9f07b436db285d27b9&amp;id=cdc90d5b16&amp;f_id=009394e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

@@ -153,7 +153,7 @@ input[type=file]::file-selector-button {
                <div id="callbackcaptchadiv"></div>
 </div></div>-->
 <div id="recaptcha" class="g-recaptcha"
-          data-sitekey="6LefZI0iAAAAAJAXcSt0Vc0DeQZ348f-sUd2Ysgi"
+          data-sitekey="{{env('INVISIBLE_RECAPTCHA_SITEKEY')}}"
           data-callback="onSubmit"
           data-size="invisible"></div>
 

@@ -14,7 +14,7 @@
     <!-- /.row -->
   </div>
   <!-- /.container -->
-  <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="./assets/img/photos/Web Banner-min.jpg
+  <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>
 <!-- /section -->
@@ -35,28 +35,28 @@
         <h4>Reduce employee cost by 70%
 </h4>
         <p class="mb-3">Hire pre-screened remote talents with strong technical and communication skills at unbeatable rates.</p>
-        <a href="https://rapidbrains.com/benefits.html" class="more hover link-yellow">Learn More</a>
+        <a href="https://www.rapidbrains.com/benefits" class="more hover link-yellow">Learn More</a>
       </div>
       <!--/column -->
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-red pe-none mb-5"> <i class="uil uil-shield-exclamation"></i> </div>
         <h4>Expand without a legal entity</h4>
         <p class="mb-3">We make sure that everything is in compliance with local labour law and act as a layer of legal insulation.</p>
-        <a href="https://rapidbrains.com/benefits.html" class="more hover link-red">Learn More</a>
+        <a href="https://www.rapidbrains.com/benefits" class="more hover link-red">Learn More</a>
       </div>
       <!--/column -->
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5"> <i class="uil uil-laptop-cloud"></i> </div>
         <h4>Build worldwide team rapidly</h4>
         <p class="mb-3">RapidBrains onboards your new team in as little as 24 hours, and saves you 100% on hiring costs</p>
-        <a href="https://rapidbrains.com/benefits.html" class="more hover link-leaf">Learn More</a>
+        <a href="https://www.rapidbrains.com/benefits" class="more hover link-leaf">Learn More</a>
       </div>
       <!--/column -->
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-blue pe-none mb-5"> <i class="uil uil-chart-line"></i> </div>
         <h4>Up-skilling and training process</h4>
         <p class="mb-3">We upskill and train the employees from time-to-time to help them with a staged career progression</p>
-        <a href="https://rapidbrains.com/benefits.html" class="more hover link-blue">Learn More</a>
+        <a href="https://www.rapidbrains.com/benefits" class="more hover link-blue">Learn More</a>
       </div>
       <!--/column -->
     </div>
@@ -386,7 +386,7 @@
         <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
         <h3 class="display-4 mb-5">RapidBrains Screening Process</h3>
         <p>With RapidBrains you can hire employee without having to set up a local entity. We do hiring, onboarding, HR activities and comply with the local labour law for minimum wage, tax, health insurance, termination and so on.</p>
-            <a href="https://rapidbrains.com/process.html" class="btn btn-navy rounded-pill mt-3">More Details</a>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-navy rounded-pill mt-3">More Details</a>
       </div>
       <!--/column -->
       <div class="col-lg-7 order-lg-2">
@@ -675,7 +675,7 @@
     padding-bottom: 1rem !important;">
       
     
-     <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="./assets/img/photos/RapidBrains-Footerbg.jpg">
+     <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}">
         <div class="card-body">
           <div class="row text-center">
             <div class="col-xl-11 col-xxl-9 mx-auto">
