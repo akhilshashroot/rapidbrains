@@ -31,10 +31,10 @@
           <div class="widget">
             <h4 class="widget-title  mb-3">Learn More</h4>
             <ul class="list-unstyled text-reset mb-0">
-              <li><a href="https://talents.rapidbrains.com/">Hire Talents</a></li>
+              <li><a href="https://www.talents.rapidbrains.com/">Hire Talents</a></li>
               <li><a href="{{route('about')}}">About Us</a></li>
               <li><a href="{{route('benefits')}}">Our Benefits</a></li>
-              <li><a href="{{route('process')}}">RapidBrains Process</a></li>
+              <li><a href="{{route('process')}}">The Process</a></li>
               <li><a href="{{route('contact')}}">Contact Us</a></li>
             </ul>
           </div>
