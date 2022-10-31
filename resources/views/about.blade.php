@@ -5,7 +5,7 @@
     <figure class="rounded"><img src="./assets/img/photos/about5.jpg" srcset="./assets/img/photos/about5@2x.jpg 2x" alt="" /></figure>
     <div class="row">
       <div class="col-xl-10 mx-auto">
-        <div class="card image-wrapper bg-full bg-image   text-black mt-n5 mt-lg-0 mt-lg-n50p mb-lg-n50p border-radius-lg-top" data-image-src="./assets/img/photos/RapidBrains-Footerbg.jpg">
+        <div class="card image-wrapper bg-full bg-image   text-black mt-n5 mt-lg-0 mt-lg-n50p mb-lg-n50p border-radius-lg-top" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}">
           <div class="card-body p-9 p-xl-10">
             <div class="row align-items-center counter-wrapper gy-4 text-center">
               <div class="col-6 col-lg-3">

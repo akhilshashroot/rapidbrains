@@ -1,4 +1,15 @@
 <header class="wrapper bg-gray">
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J34VMBKSQY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J34VMBKSQY');
+</script>
+
       <nav class="navbar navbar-expand-lg fancy navbar-light navbar-bg-light caret-none">
         <div class="container">
           <div class="navbar-collapse-wrapper bg-white d-flex flex-row flex-nowrap w-100 justify-content-between align-items-center">
@@ -15,7 +26,7 @@
               <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link" href="https://www.talents.rapidbrains.com/">Hire Talents</a>
+                    <a class="nav-link" href="https://talents.rapidbrains.com/">Hire Talents</a>
                     
                   </li>
                   <li class="nav-item ">

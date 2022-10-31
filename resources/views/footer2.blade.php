@@ -5,7 +5,7 @@
     <div class="container">
         
         
-        <div class="card image-wrapper bg-full bg-image bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-Footerbg.jpg')}}" style="background-image: url({{asset('assets/img/photos/RapidBrains-Footerbg.jpg')}});">        <div class="card-body p-10 p-xl-12">
+        <div class="card image-wrapper bg-full bg-image bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}" style="background-image: url({{asset('assets/img/photos/RapidBrains-footerbg.jpg')}});">        <div class="card-body p-10 p-xl-12">
           <div class="row text-center">
           <div class="col-xl-11 col-xxl-9 mx-auto">
               <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
@@ -56,7 +56,7 @@
           <div class="widget">
             <h4 class="widget-title  mb-3">Learn More</h4>
             <ul class="list-unstyled text-reset mb-0">
-              <li><a href="https://www.talents.rapidbrains.com/">Hire Talents</a></li>
+              <li><a href="https://talents.rapidbrains.com/">Hire Talents</a></li>
               <li><a href="{{route('about')}}">About Us</a></li>
               <li><a href="{{route('benefits')}}">Our Benefits</a></li>
               <li><a href="{{route('process')}}">The Process</a></li>
