@@ -40,6 +40,9 @@
                   <li class="nav-item ">
                     <a class="nav-link" href="{{route('process')}}">The Process</a>
                   </li>
+                  <li class="nav-item" style="padding-left:30px;">
+                    <a class="nav-link" href="https://jobs.rapidbrains.com/">Jobs</a>
+                  </li>
                   
                 </ul>
                 <!-- /.navbar-nav -->
