@@ -33,7 +33,7 @@ class ResumeCollection extends Controller
         }
         $ch = curl_init();
 
-curl_setopt($ch, CURLOPT_URL,"http://rapidbrains-talents.test:8080/api/join-rapidbrains");
+curl_setopt($ch, CURLOPT_URL,"https://talents.rapidbrains.com/api/join-rapidbrains");
 curl_setopt($ch, CURLOPT_POST, 1);
 curl_setopt($ch, CURLOPT_POSTFIELDS,
 $request->all());

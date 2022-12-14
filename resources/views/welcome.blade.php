@@ -32,7 +32,7 @@
     <div class="row gx-md-8 gy-8">
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-yellow pe-none mb-5"> <i class="uil uil-phone-volume"></i> </div>
-        <h4>Reduce employee cost by 70%
+        <h4>Reduce employee cost by 60%
 </h4>
         <p class="mb-3">Hire pre-screened remote talents with strong technical and communication skills at unbeatable rates.</p>
         <a href="https://www.rapidbrains.com/benefits" class="more hover link-yellow">Learn More</a>
@@ -164,7 +164,7 @@
 		<!-- /.row -->
 		<div class="row gy-6">
 			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?talent_id=se" class="card shadow-lg lift h-100">
+				<a href="https://talents.rapidbrains.com/filter?skill=developer" class="card shadow-lg lift h-100">
 					<div class="card-body p-5 d-flex flex-row">
 						<div>
 							<span class="avatar bg-red text-white w-11 h-11 fs-20 me-4">SE</span>
@@ -179,7 +179,7 @@
 			</div>
 			<!--/column -->
 			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?talent_id=md" class="card shadow-lg lift h-100">
+				<a href="https://talents.rapidbrains.com/filter?skill=android" class="card shadow-lg lift h-100">
 					<div class="card-body p-5 d-flex flex-row">
 						<div>
 							<span class="avatar bg-green text-white w-11 h-11 fs-20 me-4">MD</span>
@@ -228,7 +228,7 @@
 				<a href="https://talents.rapidbrains.com/filter?skill=html" class="card shadow-lg lift h-100">
 					<div class="card-body p-5 d-flex flex-row">
 						<div>
-							<span class="avatar bg-orange text-white w-11 h-11 fs-20 me-4">DE</span>
+							<span class="avatar bg-orange text-white w-11 h-11 fs-20 me-4">WD</span>
 						</div>
 						<div>
 							
@@ -549,7 +549,7 @@
 			 <!--Hiring Starts-->
             <section class="wrapper">
   <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">RapidBrians Vs Traditional Hiring</h2>
+    <h2 class="display-4 mb-3">RapidBrains Vs Traditional Hiring</h2>
     <p class="lead fs-lg">We do more to deliver you the suitable remote talents that satisfy and fit into the right skill set you are looking for. </p>
     <div class="row">
 
@@ -648,7 +648,7 @@
           <div class="col-lg-5">
             <div class="row gy-6 text-center">
               <div class="col-md-6">
-                <div class="progressbar semi-circle fuchsia" data-value="70"></div>
+                <div class="progressbar semi-circle fuchsia" data-value="60"></div>
                 <h4 class="mb-0">Cost savings</h4>
               </div>
               <!-- /column -->

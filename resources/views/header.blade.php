@@ -30,20 +30,23 @@
                     
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link " href="{{route('about')}}" >About RapidBrains</a>
+                    <a class="nav-link " href="{{route('about')}}" >About</a>
                     
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link" href="{{route('benefits')}}" >Our Benefits</a>
+                    <a class="nav-link" href="{{route('benefits')}}" >Benefits</a>
                     
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link" href="{{route('process')}}">The Process</a>
+                    <a class="nav-link" href="{{route('process')}}">Process</a>
                   </li>
-                  <li class="nav-item" style="padding-left:30px;">
-                    <a class="nav-link" href="https://jobs.rapidbrains.com/">Jobs</a>
+                 
                   </li>
-                  
+                  <li class="nav-item ">
+                    <a class="nav-link" href="https://jobs.rapidbrains.com/">Active Contracts</a>
+                  </li>
+                 
+                 
                 </ul>
                 <!-- /.navbar-nav -->
                 <div class="offcanvas-footer d-lg-none">
