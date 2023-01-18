@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="{{asset('assets/css/plugins.css')}}">
   <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/colors/navy.css')}}">
+    <link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">
     @yield('css_after')
 </head>
 
@@ -165,11 +166,11 @@
 
 
 
-  <div class="progress-wrap">
-    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-    </svg>
-  </div>
+  <!--<div class="progress-wrap">-->
+  <!--  <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">-->
+  <!--    <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />-->
+  <!--  </svg>-->
+  <!--</div>-->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
@@ -186,7 +187,7 @@
 
 
   </div>
- <script src="//code.tidio.co/3smfxyqnlejlkedsvwabrog1xmzfegwg.js" async></script> 
+
  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
  <script>
     $("#enquirenowForm").validate({
@@ -503,7 +504,8 @@ function enableBtn(){
         }
  })
  </script>
- 
+ <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
+
 </body>
 
 </html>

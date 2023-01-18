@@ -1,6 +1,6 @@
 @extends('layout.layout')
 @section('section')
-<section class="wrapper bg-gray">
+<!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
     <div class="row">
       <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
@@ -9,14 +9,47 @@
           <span><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn btn-primary me-2">Hire Now</a></span>
         </div>
       </div>
-      <!--/column -->
     </div>
-    <!-- /.row -->
   </div>
-  <!-- /.container -->
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
-</section>
+</section>-->
+<section class="wrapper bg-gray">
+      <div class="container pt-12 pt-md-14 pb-14 pb-md-16">
+        <div class="row gy-10 gy-md-13 gy-lg-0 align-items-center">
+          <div class="col-md-8 col-lg-5 d-flex position-relative mx-auto" data-cues="slideInDown" data-group="header">
+            <div class="img-mask mask-1"><img src="./assets/img/photos/about17.jpg" srcset="./assets/img/photos/about17@2x.jpg 2x" alt="" /></div>
+            <div class="card shadow-lg position-absolute" style="bottom: 10%; right: 2%;">
+              <div class="card-body py-4 px-5">
+                <div class="d-flex flex-row align-items-center">
+                  <div>
+                    <img src="./assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-sm text-primary mx-auto me-3" alt="" />
+                  </div>
+                  <div>
+                    <h3 class="counter mb-0 text-nowrap">250+</h3>
+                    <p class="fs-14 lh-sm mb-0 text-nowrap">Projects Done</p>
+                  </div>
+                </div>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-lg-6 offset-lg-1 col-xxl-5 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
+            <h1 class="display-1 mb-5">Build your remote team, rapidly!</h1>
+            <p class="lead fs-25 lh-sm mb-7 px-md-10 px-lg-0">A talent market place to hire remote developers on contract</p>
+            <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
+              <span><a href="#" class="btn btn-lg btn-primary rounded-pill me-2">See My Works</a></span>
+              <span><a href="{{route('contact')}}" class="btn btn-lg btn-outline-primary rounded-pill">Contact Me</a></span>
+            </div>
+          </div>
+          <!--/column -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
 <!-- /section -->
 
 
