@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="{{asset('assets/css/plugins.css')}}">
   <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/colors/navy.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">
+    <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
 
@@ -505,7 +505,29 @@ function enableBtn(){
  })
  </script>
  <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
-
+ <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "RapidBrains",
+  "url": "https://www.rapidbrains.com",
+  "logo": "https://www.rapidbrains.com/assets/img/RapidBrains-logo.svg",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "9778426319",
+    "contactType": "sales",
+    "areaServed": "IN",
+    "availableLanguage": "en"
+  },
+  "sameAs": [
+    "https://www.facebook.com/rapidbrains",
+    "https://twitter.com/rapidbrains",
+    "https://www.instagram.com/_rapidbrains/",
+    "https://www.youtube.com/channel/UCA0r0At5LeSDxqQ52POEpgQ",
+    "https://www.linkedin.com/company/rapidbrains"
+  ]
+}
+</script>
 </body>
 
 </html>
