@@ -1,5 +1,16 @@
 @extends('layout.layout')
 @section('section')
+<style>
+
+  .lgc{
+    background-color: #f6f7f9 !important;
+  }
+  @media (min-width: 768px){
+.pb-md-20 {
+    padding-bottom: 5rem !important;
+}
+}
+</style>
 <!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
     <div class="row">
@@ -14,7 +25,7 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper bg-soft-primary">
+<section class="wrapper bg-soft-primary lgc">
       <div class="container pt-10 pb-15 pt-md-14 pb-md-20">
         <div class="row gx-lg-8 gx-xl-12 gy-10 mb-5 align-items-center">
           <div class="col-md-10 offset-md-1 offset-lg-0 col-lg-5 text-center text-lg-start order-2 order-lg-0" data-cues="slideInDown" data-group="page-title" data-delay="600" data-disabled="true">
