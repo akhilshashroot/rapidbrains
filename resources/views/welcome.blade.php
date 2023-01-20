@@ -38,7 +38,7 @@
           <!--/column -->
           <div class="col-lg-6 offset-lg-1 col-xxl-5 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
             <h1 class="display-1 mb-5">Build your remote team, rapidly!</h1>
-            <p class="lead fs-25 lh-sm mb-7 px-md-10 px-lg-0">A talent market place to hire remote developers on contract</p>
+            <p class="lead fs-25 lh-sm mb-7 px-md-10 px-lg-0">A talent marketplace to hire remote developers on contract</p>
             <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
               <span><a href="https://talents.rapidbrains.com/"" class="btn btn-lg btn-primary rounded-pill me-2">Hire Talents</a></span>
               <span><a href="#" id="enquirenowID" class="btn btn-lg btn-outline-primary rounded-pill">Enquire Now</a></span>
