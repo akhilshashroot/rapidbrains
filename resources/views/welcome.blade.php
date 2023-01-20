@@ -33,9 +33,9 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
       <div class="col-lg-4 mt-lg-2">
-        <h2 class="fs-15 text-uppercase text-muted mb-3">Our Clients</h2>
-        <h3 class="display-4 mb-3 pe-xxl-5">Trusted by over 1200 clients</h3>
-        <p class="lead fs-lg mb-0 pe-xxl-5">We are trusted by leaders in the industry for building their team.</p>
+        <!-- <h2 class="fs-15 text-uppercase text-muted mb-3">Our Clients</h2> -->
+        <h3 class="display-4 mb-4 me-lg-n5">Trusted by over<br> 1200 clients</h3>
+        <p class="mb-6">We are trusted by leaders in the industry for building their team</p>
       </div>
       <!-- /column -->
       <div class="col-lg-8">
