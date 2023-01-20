@@ -14,35 +14,13 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper bg-gray">
-      <div class="container pt-12 pt-md-14 pb-14 pb-md-16">
-        <div class="row gy-10 gy-md-13 gy-lg-0 align-items-center">
-          <div class="col-md-8 col-lg-5 d-flex position-relative mx-auto" data-cues="slideInDown" data-group="header">
-            <div class="img-mask mask-1"><img src="./assets/img/photos/about17.jpg" srcset="./assets/img/photos/about17@2x.jpg 2x" alt="" /></div>
-            <div class="card shadow-lg position-absolute" style="bottom: 10%; right: 2%;">
-              <div class="card-body py-4 px-5">
-                <div class="d-flex flex-row align-items-center">
-                  <div>
-                    <img src="./assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-sm text-primary mx-auto me-3" alt="" />
-                  </div>
-                  <div>
-                    <h3 class="counter mb-0 text-nowrap">24 Hrs</h3>
-                    <p class="fs-14 lh-sm mb-0 text-nowrap">To Build Team</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-lg-6 offset-lg-1 col-xxl-5 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
-            <h1 class="display-1 mb-5">Build your remote team, rapidly!</h1>
-            <p class="lead fs-25 lh-sm mb-7 px-md-10 px-lg-0">A talent marketplace to hire remote developers on contract</p>
-            <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
-              <span><a href="https://talents.rapidbrains.com/"" class="btn btn-lg btn-primary rounded-pill me-2">Hire Talents</a></span>
-              <span><a href="#" id="enquirenowID" class="btn btn-lg btn-outline-primary rounded-pill">Enquire Now</a></span>
-            </div>
+<section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="./assets/img/photos/bg37.jpg" style="background-image: url(&quot;./assets/img/photos/bg37.jpg&quot;);">
+      <div class="container pt-17 pb-15 py-sm-17 py-xxl-20">
+        <div class="row">
+          <div class="col-sm-6 col-xxl-5 text-center text-sm-start" data-cues="slideInDown" data-group="page-title" data-interval="-200" data-delay="500" data-disabled="true">
+            <h2 class="display-1 fs-56 mb-4 mt-0 mt-lg-5 ls-xs pe-xl-5 pe-xxl-0" data-cue="slideInDown" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 500ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h2>
+            <p class="lead fs-23 lh-sm mb-7 pe-lg-5 pe-xl-5 pe-xxl-0" data-cue="slideInDown" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1000ms; animation-direction: normal; animation-fill-mode: both;">A talent marketplace to hire remote developers on contract</p>
+            <div data-cue="slideInDown" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1500ms; animation-direction: normal; animation-fill-mode: both;"><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn-primary rounded">Hire Talents</a></div>
           </div>
           <!--/column -->
         </div>
@@ -50,7 +28,6 @@
       </div>
       <!-- /.container -->
     </section>
-<!-- /section -->
 
 <section class="wrapper bg-light">
   <div class="container py-14 py-md-16">
