@@ -14,15 +14,22 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper image-wrapper bg-cover bg-image bg-xs-none bg-gray" data-image-src="./assets/img/photos/bg37.jpg" style="background-image: url(&quot;./assets/img/photos/bg37.jpg&quot;);">
-      <div class="container pt-17 pb-15 py-sm-17 py-xxl-20">
-        <div class="row">
-          <div class="col-sm-6 col-xxl-5 text-center text-sm-start" data-cues="slideInDown" data-group="page-title" data-interval="-200" data-delay="500" data-disabled="true">
-            <h2 class="display-1 fs-56 mb-4 mt-0 mt-lg-5 ls-xs pe-xl-5 pe-xxl-0" data-cue="slideInDown" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 500ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h2>
-            <p class="lead fs-23 lh-sm mb-7 pe-lg-5 pe-xl-5 pe-xxl-0" data-cue="slideInDown" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1000ms; animation-direction: normal; animation-fill-mode: both;">A talent marketplace to hire remote developers on contract</p>
-            <div data-cue="slideInDown" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1500ms; animation-direction: normal; animation-fill-mode: both;"><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn-primary rounded">Hire Talents</a></div>
+<section class="wrapper bg-soft-primary">
+      <div class="container pt-10 pb-15 pt-md-14 pb-md-20">
+        <div class="row gx-lg-8 gx-xl-12 gy-10 mb-5 align-items-center">
+          <div class="col-md-10 offset-md-1 offset-lg-0 col-lg-5 text-center text-lg-start order-2 order-lg-0" data-cues="slideInDown" data-group="page-title" data-delay="600" data-disabled="true">
+            <h1 class="display-1 mb-5 mx-md-n5 mx-lg-0" data-cue="slideInDown" data-group="page-title" data-delay="600" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 600ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h1>
+            <p class="lead fs-lg mb-7" data-cue="slideInDown" data-group="page-title" data-delay="600" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 900ms; animation-direction: normal; animation-fill-mode: both;">A talent marketplace to hire remote developers on contract</p>
+            <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900" data-cue="slideInDown" data-disabled="true">
+              <span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900"><a class="btn btn-primary rounded me-2" href="https://talents.rapidbrains.com/">Hire Talents</a></span>
+              <span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900"><a class="btn btn-yellow rounded" id="enquirenowID">Enquire Now</a></span>
+            </div>
           </div>
-          <!--/column -->
+          <!-- /column -->
+          <div class="col-lg-7" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
+            <figure><img class="w-auto" src="./assets/img/illustrations/i6.png" srcset="./assets/img/illustrations/i6@2x.png 2x" alt=""></figure>
+          </div>
+          <!-- /column -->
         </div>
         <!-- /.row -->
       </div>
