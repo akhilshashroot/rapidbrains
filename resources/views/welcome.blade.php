@@ -9,6 +9,9 @@
 .pb-md-20 {
     padding-bottom: 5rem !important;
 }
+.psb{
+  padding-top: 1rem !important;
+}
 }
 </style>
 <!--<section class="wrapper bg-gray">
@@ -46,59 +49,7 @@
       </div>
       <!-- /.container -->
     </section>
-
-<section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
-      <div class="col-lg-4 mt-lg-2">
-        <!-- <h2 class="fs-15 text-uppercase text-muted mb-3">Our Clients</h2> -->
-        <h3 class="display-4 mb-4 me-lg-n5">Trusted by over<br> 1200 clients</h3>
-        <p class="mb-6">We are trusted by leaders in the industry for building their team</p>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-8">
-        <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/1-A.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/2-A.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/3-A.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/4-A.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/1-B.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/2-B.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/3-B.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-          <div class="col">
-            <figure class="px-3 px-md-0 px-xxl-2"><img src="{{asset('assets/img/clients/4-B.png')}}" alt="" /></figure>
-          </div>
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-  </div>
-  <!-- /.container -->
-</section>
+    
 <!-- /section -->
 <section class="wrapper bg-light">
   <div class="container py-14 py-md-16">
@@ -357,7 +308,30 @@
 <!-- /section -->
 <!--pricing ends-->
 
- 
+<section class="wrapper bg-light">
+  <div class="container py-14 py-md-16 psb">
+    <h2 class="fs-15 text-uppercase text-muted text-center mb-8">Trusted by over 1200 clients</h2>
+    <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.png')}}" alt="" /></div>
+       
+        </div>
+        <!--/.swiper-wrapper -->
+      </div>
+      <!-- /.swiper -->
+    </div>
+    <!-- /.swiper-container -->
+  </div>
+  <!-- /.container -->
+</section>
 
 <!--Join Us Starts-->
                         
