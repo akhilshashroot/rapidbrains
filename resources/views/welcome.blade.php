@@ -1,16 +1,42 @@
-@extends('layout.layout')
+@extends('layout.layoutnew')
 @section('section')
 <style>
 
   .lgc{
     background-color: #f6f7f9 !important;
   }
+  
   @media (min-width: 768px){
 .pb-md-20 {
     padding-bottom: 5rem !important;
 }
 .psb{
   padding-top: 1rem !important;
+}
+
+}
+
+
+
+@media (min-width: 1400px){
+.col-xxl-6 {
+   
+    width: 60%  !important;
+}
+
+}
+@media (min-width: 1200px){
+.col-xl-7 {
+    
+    width: 68.333333% !important;
+}
+}
+
+
+@media (min-width: 1400px){
+.px-xxl-0 {
+    padding-right: 83px !important;
+  
 }
 }
 </style>
@@ -28,27 +54,25 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper bg-soft-primary lgc">
-      <div class="container pt-10 pb-15 pt-md-14 pb-md-20">
-        <div class="row gx-lg-8 gx-xl-12 gy-10 mb-5 align-items-center">
-          <div class="col-md-10 offset-md-1 offset-lg-0 col-lg-5 text-center text-lg-start order-2 order-lg-0" data-cues="slideInDown" data-group="page-title" data-delay="600" data-disabled="true">
-            <h1 class="display-1 mb-5 mx-md-n5 mx-lg-0" data-cue="slideInDown" data-group="page-title" data-delay="600" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 600ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h1>
-            <p class="lead fs-lg mb-7" data-cue="slideInDown" data-group="page-title" data-delay="600" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 900ms; animation-direction: normal; animation-fill-mode: both;">A talent marketplace to hire remote developers on contract</p>
-            <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900" data-cue="slideInDown" data-disabled="true">
-              <span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900"><a class="btn btn-primary rounded me-2" href="https://talents.rapidbrains.com/">Hire Talents</a></span>
-              <span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900"><a class="btn btn-yellow rounded" id="enquirenowID">Enquire Now</a></span>
+<section class="section-frame br-fix overflow-hidden">
+        <div class="wrapper image-wrapper bg-cover bg-image bg-overlay bg-overlay-500" data-image-src="{{asset('assets/img/photos/bg26.jpg')}}" style="background-image: url({{asset('assets/img/photos/bg26.jpg')}});">
+          <div class="container pt-18 pt-lg-21 pb-17 pb-lg-19 text-center">
+            <div class="row">
+              <div class="col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto" data-cues="zoomIn" data-group="page-title" data-interval="-200" data-delay="500" data-disabled="true">
+                <h2 class="h6 text-uppercase ls-xl text-white mb-5" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 500ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h2>
+                <h3 class="display-1 fs-54 text-white mb-7" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1000ms; animation-direction: normal; animation-fill-mode: both;">Talent marketplace to hire the best remote developers 
+</h3>
+<span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1200ms; animation-direction: normal; animation-fill-mode: both;"><a class="btn btn-primary rounded me-2 hed"  style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1500ms; animation-direction: normal; animation-fill-mode: both;" href="https://talents.rapidbrains.com/">Hire Talents</a>     </span>             </div>
+              <!-- /column -->
             </div>
+            <!-- /.row -->
           </div>
-          <!-- /column -->
-          <div class="col-lg-7" data-cue="slideInDown" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 0ms; animation-direction: normal; animation-fill-mode: both;">
-            <figure><img class="w-auto" src="./assets/img/illustrations/i6.png" srcset="./assets/img/illustrations/i6@2x.png 2x" alt=""></figure>
-          </div>
-          <!-- /column -->
+          <!-- /.container -->
+    
+          <!-- /.overflow-hidden -->
         </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </section>
+        <!-- /.wrapper -->
+      </section>
     
 <!-- /section -->
 <section class="wrapper bg-light">
