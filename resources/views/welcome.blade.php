@@ -357,8 +357,8 @@
                   </div>
                   
                   <div>
-                    <h3 class="counter mb-1">21k+</h3>
-                    <p class="mb-0">Profiles Generated</p>
+                    <h3 class="counter mb-1">100k+</h3>
+                    <p class="mb-0">Total Talents</p>
                   </div>
                 </div>
               </div>
