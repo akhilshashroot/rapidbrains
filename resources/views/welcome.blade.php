@@ -33,6 +33,12 @@
 }
 
 
+@media (min-width: 900px){
+.spx {
+    margin-right: -13px !important;
+  
+}
+}
 @media (min-width: 1400px){
 .px-xxl-0 {
     padding-right: 83px !important;

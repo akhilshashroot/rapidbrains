@@ -69,7 +69,7 @@
             </div>
             <!-- /.navbar-collapse -->
             <div class="navbar-other w-100 d-flex ms-auto">
-              <ul class="navbar-nav flex-row align-items-center ms-auto">
+              <ul class="navbar-nav flex-row align-items-center ms-auto spx">
                 
               <li class="nav-item"><a class="btn btn-primary btn-sm rounded-pill hed" id="enquirenowID">Enquire</a></li>
                 <li class="nav-item d-lg-none">
