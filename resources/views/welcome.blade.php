@@ -39,12 +39,14 @@
   
 }
 }
-@media (min-width: 1400px){
-.px-xxl-0 {
-    padding-right: 83px !important;
+ @media (max-width: 720px){
+.hed {
+  color: #fff !important;
+    background-color: #343f52  !important;
+    border-color: #343f52  !important;
   
 }
-}
+} 
 </style>
 <!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
