@@ -30,7 +30,7 @@
         <div class="col-md-4 col-lg-3">
           <div class="widget">
             <img class="mb-4" src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo" width="200" style="margin-right:3rem;" />
-            <p class="mb-4">© 2022 RapidBrains. <br class="d-none d-lg-block" />A HashRoot Company</p>
+            <p class="mb-4">© {{ date('Y') }} RapidBrains. <br class="d-none d-lg-block" />A HashRoot Company</p>
             <nav class="nav social ">
                <a href="https://www.linkedin.com/company/rapidbrains"><i class="uil uil-linkedin"></i></a>
               <a href="https://www.facebook.com/rapidbrains"><i class="uil uil-facebook-f"></i></a>
@@ -47,7 +47,7 @@
             <h4 class="widget-title  mb-3">Get in Touch</h4>
             <address class="pe-xl-15 pe-xxl-17"> Ground Floor, Athulya, Infopark, Kochi, Kerala, India</address>
             
-            <a href="mailto:contact@rapidbrains.com" class="link-body">contact@rapidbrains.com</a><br /> +91 (484) 404 1616
+            <a href="mailto:contact@rapidbrains.com" class="link-body">contact@rapidbrains.com</a><br /> +91 97784 26317
           </div>
           <!-- /.widget -->
         </div>
@@ -61,6 +61,7 @@
               <li><a href="{{route('about')}}">About Us</a></li>
               <li><a href="{{route('benefits')}}">Our Benefits</a></li>
               <li><a href="{{route('process')}}">The Process</a></li>
+                <li><a href="https://articles.rapidbrains.com">Articles</a></li>
               <li><a href="{{route('contact')}}">Contact Us</a></li>
             </ul>
           </div>

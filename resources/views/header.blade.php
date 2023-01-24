@@ -53,7 +53,7 @@
                   <div>
                       
                     <a href="mailto:contact@rapidbrains.com" class="link-inverse">contact@rapidbrains.com</a>
-                    <br /> +91 (484) 404 1616 <br />
+                    <br /> +91 97784 26317 <br />
                     
                     
                     <nav class="nav social social-white mt-4">
