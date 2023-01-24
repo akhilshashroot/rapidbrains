@@ -39,12 +39,14 @@
   
 }
 }
-@media (min-width: 1400px){
-.px-xxl-0 {
-    padding-right: 83px !important;
+ @media (max-width: 720px){
+.hed {
+  color: #fff !important;
+    background-color: #343f52  !important;
+    border-color: #343f52  !important;
   
 }
-}
+} 
 </style>
 <!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
@@ -181,37 +183,7 @@
              
              <!--             What makes us different Ends-->
              <!--Steps Starts-->
-             <section class="wrapper bg-soft-orange">
-  <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">How We Do It?</h2>
-    <p class="lead fs-lg mb-8">It’s just four steps to build your amazing remote team</p>
-    <div class="row gx-lg-8 gx-xl-12 gy-6 process-wrapper line">
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">01</span></span>
-        <h4 class="mb-1">Shortlist</h4>
-        <p class="mb-0">A pool of 1000+ candidates for you to choose from. Still not able to find the right one? Our hiring team got you covered.
-</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary pe-none mb-4"><span class="number">02</span></span>
-        <h4 class="mb-1">Schedule</h4>
-        <p class="mb-0">You can set your own process. If you don’t have one, we screen them with subject matter experts and get you feedback on every candidate.</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">03</span></span>
-        <h4 class="mb-1">Hire</h4>
-        <p class="mb-0">As simple as one click. No need to worry about employment paperworks or local labour laws. RapidBrains does it all!</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">04</span></span>
-        <h4 class="mb-1">Onboard</h4>
-        <p class="mb-0">Once you’ve picked your choice - voila! You can start with a meeting to kick it off or start assigning tasks.</p>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
+             
 <!-- /section -->
              
              <!--Steps Ends-->
@@ -632,6 +604,37 @@
 <!-- /section -->
              
              <!--Why comapnies love RB Ends-->
+             <section class="wrapper bg-soft-orange">
+  <div class="container py-14 py-md-16">
+    <h2 class="display-4 mb-3">How We Do It?</h2>
+    <p class="lead fs-lg mb-8">It’s just four steps to build your amazing remote team</p>
+    <div class="row gx-lg-8 gx-xl-12 gy-6 process-wrapper line">
+      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">01</span></span>
+        <h4 class="mb-1">Shortlist</h4>
+        <p class="mb-0">A pool of 1000+ candidates for you to choose from. Still not able to find the right one? Our hiring team got you covered.
+</p>
+      </div>
+      <!--/column -->
+      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary pe-none mb-4"><span class="number">02</span></span>
+        <h4 class="mb-1">Schedule</h4>
+        <p class="mb-0">You can set your own process. If you don’t have one, we screen them with subject matter experts and get you feedback on every candidate.</p>
+      </div>
+      <!--/column -->
+      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">03</span></span>
+        <h4 class="mb-1">Hire</h4>
+        <p class="mb-0">As simple as one click. No need to worry about employment paperworks or local labour laws. RapidBrains does it all!</p>
+      </div>
+      <!--/column -->
+      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">04</span></span>
+        <h4 class="mb-1">Onboard</h4>
+        <p class="mb-0">Once you’ve picked your choice - voila! You can start with a meeting to kick it off or start assigning tasks.</p>
+      </div>
+      <!--/column -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
     
 			 <!--Hiring Starts-->
             <section class="wrapper">
