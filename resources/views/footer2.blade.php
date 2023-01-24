@@ -47,7 +47,7 @@
             <h4 class="widget-title  mb-3">Get in Touch</h4>
             <address class="pe-xl-15 pe-xxl-17"> Ground Floor, Athulya, Infopark, Kochi, Kerala, India</address>
             
-            <a href="mailto:contact@rapidbrains.com" class="link-body">contact@rapidbrains.com</a><br /> +91 (484) 404 1616
+            <a href="mailto:contact@rapidbrains.com" class="link-body">contact@rapidbrains.com</a><br /> +91 97784 26317
           </div>
           <!-- /.widget -->
         </div>
@@ -61,6 +61,7 @@
               <li><a href="{{route('about')}}">About Us</a></li>
               <li><a href="{{route('benefits')}}">Our Benefits</a></li>
               <li><a href="{{route('process')}}">The Process</a></li>
+                <li><a href="https://articles.rapidbrains.com">Articles</a></li>
               <li><a href="{{route('contact')}}">Contact Us</a></li>
             </ul>
           </div>
