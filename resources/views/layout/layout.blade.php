@@ -16,7 +16,11 @@
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
-
+<style>
+    .grecaptcha-badge{
+    display:none;
+}
+</style>
 
 <body>
   <div class="content-wrapper">

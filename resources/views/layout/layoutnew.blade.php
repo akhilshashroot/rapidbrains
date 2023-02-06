@@ -18,6 +18,9 @@
 </head>
 
 <style>
+.grecaptcha-badge{
+    display:none;
+}
 .hed {
     color: #000 !important;
     background-color: #fff  !important;
