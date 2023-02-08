@@ -545,57 +545,69 @@
                          
                         
 
-<section class="wrapper bg-soft-red">
+<section class="wrapper bg-soft-orange">
   <div class="container py-10 py-md-16">
     <div class="row gx-md-10 gx-xl-12 gy-10">
         <h2 class="display-3 mb-10 text-center">Why do companies love RapidBrains?</h2>
       <div class="col-lg-6">
         <div class="d-flex flex-row">
-          <div>
-            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-          </div>
-          <div>
-            <h4>Cost-effective </h4>
-            <p class="mb-0">With RapidBrains you can hire pre-screened remote talents with strong technical and communication skills at unbeatable rates when compared to our competitors 
+            <div class="card card-border-start border-red">
+                <div class="card-body">
+                    <h4>Cost-effective</h4>
+                    <p class="mb-0">With RapidBrains you can hire pre-screened remote talents with strong technical and communication 
+                        skills at unbeatable rates when compared to our competitors</p>
+                </div>
+            </div>
+        </div>
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6">
+        <div class="d-flex flex-row">
+            <div class="card  card-border-end border-yellow">
+                <div class="card-body">
+                    <h4>No employer costs</h4>
+                    <p class="mb-0">RapidBrains take care of all employer costs including government requirements, 
+                        benefits, taxes, fees healthcare insurance and even expense management and monthly reimbursement</p>
+                </div>
+            </div>
+            
+        </div>
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6">
+        <div class="d-flex flex-row">
+            <div class="card shadow-lg card-border-end border-green">
+                <div class="card-body">
+                    <h4>Flexible Engagements</h4>
+                    <p class="mb-0">Choose an engagement model that best fits your business. 
+                        Take up an employee for either an hourly or monthly basis. Totally up to you!</p>
+                </div>
+            </div>
+        </div>
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6">
+        <div class="d-flex flex-row">
+            <div class="card  card-border-start border-purple">
+                <div class="card-body">
+                    <h4>No lock-in period</h4>
+                    <p class="mb-0">There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
+                </div>
+            </div>
+        </div>
+      </div>
+      <!-- /column -->
+      <!-- /column -->
+      <div class="col-lg-6">
+        <div class="d-flex flex-row">
+            <div class="card  card-border-start border-orange">
+                <div class="card-body">
+                    <h4>Custom Hiring Process</h4>
+                    <p class="mb-0">Our recruiting team can adapt to any of your processes - be it a machine test, 
+                        multiple rounds of interviews, our candidates will show their best.
 
-</p>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-          <div>
-            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-          </div>
-          <div>
-            <h4>No lock-in period</h4>
-            <p class="mb-0">There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-          <div>
-            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-          </div>
-          <div>
-            <h4>Flexible Engagements</h4>
-            <p class="mb-0">Choose an engagement model that best fits your business. Take up an employee for either an hourly or monthly basis. Totally up to you!</p>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-          <div>
-            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-          </div>
-          <div>
-            <h4>Custom Hiring Process</h4>
-            <p class="mb-0">Our recruiting team can adapt to any of your processes - be it a machine test, multiple rounds of interviews, our candidates will show their best.
-</p>
+                    </p>
+                </div>
             </div>
         </div>
       </div>
@@ -603,25 +615,12 @@
       <!-- /column -->
       <div class="col-lg-6">
         <div class="d-flex flex-row">
-          <div>
-            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-          </div>
-          <div>
-            <h4>No employer costs</h4>
-            <p class="mb-0">RapidBrains take care of all employer costs including government requirements, benefits, taxes, fees healthcare insurance and even expense management and monthly reimbursement</p>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-          <div>
-            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-          </div>
-          <div>
-            <h4>Upskilling and training</h4>
-            <p class="mb-0">We upskill and train your employees from time-to-time to help them with a staged career progression. Or if you want to train an employee for a specific skillset we got you covered.</p>
+            <div class="card shadow-lg  card-border-end border-pink">
+                <div class="card-body">
+                    <h4>Upskilling and training</h4>
+                    <p class="mb-0">We upskill and train your employees from time-to-time to help them with a staged career progression. 
+                        Or if you want to train an employee for a specific skillset we got you covered.</p>
+                </div>
             </div>
         </div>
       </div>

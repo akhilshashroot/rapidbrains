@@ -36,9 +36,9 @@ class RapidBrainMail extends Mailable
             Email :</b> ".$data['email']."<br/><br/><b>
             Phone :</b> ".$data['phone']."<br/><br/><b>
             skill : </b>".$data['skill']."<br/><br/><b>";
-            $subject  = "RapidBrain Enquiry";
-            $to_address="akhil.s@hashroot.com";
-            return $this->to($to_address)->from('site@rapidbrain.com', 'RapidBrain Enquiry')
+            $subject  = "RapidBrains Enquiry";
+            $to_address="contact@rapidbrains.com";
+            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Enquiry')
             ->subject($subject)
             ->html($message_content);
         }
@@ -47,9 +47,9 @@ class RapidBrainMail extends Mailable
             Email :</b> ".$data['email']."<br/><br/><b>
             Phone :</b> ".$data['phone']."<br/><br/><b>
             skill : </b>".$data['skill']."<br/><br/><b>";
-            $subject  = "RapidBrain Get in Touch";
-            $to_address="akhil.s@hashroot.com";
-            return $this->to($to_address)->from('site@rapidbrain.com', 'RapidBrain Get in Touch')
+            $subject  = "RapidBrains Get in Touch";
+            $to_address="contact@rapidbrains.com";
+            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Get in Touch')
             ->subject($subject)
             ->html($message_content);
         }
@@ -57,9 +57,9 @@ class RapidBrainMail extends Mailable
             $message_content = "<b>Name :</b> ".$data['name']."<br/><br/><b>
             Phone :</b> ".$data['phone']."<br/><br/><b>";
           
-            $subject  = "RapidBrain Callback Request";
-            $to_address="akhil.s@hashroot.com";
-            return $this->to($to_address)->from('site@rapidbrain.com', 'RapidBrain Callback Request')
+            $subject  = "RapidBrains Callback Request";
+            $to_address="contact@rapidbrains.com";
+            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Callback Request')
             ->subject($subject)
             ->html($message_content);
         }

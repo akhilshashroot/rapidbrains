@@ -35,9 +35,9 @@ class ContactMail extends Mailable
             Email :</b> ".$data['email']."<br/><br/><b>
             Department :</b> ".$data['department']."<br/><br/><b>
             Message : </b>".$data['message']."<br/><br/><b>";
-            $subject  = "RapidBrain Contact Mail";
-            $to_address="akhil.s@hashroot.com";
-            return $this->to($to_address)->from('site@rapidbrain.com', 'RapidBrain Enquiry')
+            $subject  = "RapidBrains Contact Mail";
+            $to_address="contact@rapidbrains.com";
+            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Enquiry')
             ->subject($subject)
             ->html($message_content);
     }

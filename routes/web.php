@@ -5,6 +5,7 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\EnquiryController;
 use App\Http\Controllers\ResumeCollection;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\AdditionalPagesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,3 +32,7 @@ Route::post('/enquire/mail', [EnquiryController::class, 'MailFunction'])->name('
 Route::get('/join', [HomeController::class, 'join'])->name('join');
 Route::post('join-rapidbrains', [ResumeCollection::class, 'store'])->name('rapidbrains.store');
 Route::post('contact-form', [ContactController::class, 'MailFunction'])->name('contact-form');
+
+
+//new updates
+Route::get('/hire-android-developers', [AdditionalPagesController::class, 'hireAndroiDevelopers'])->name('hire-android-developers');
