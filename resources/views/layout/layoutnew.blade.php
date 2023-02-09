@@ -142,7 +142,7 @@
 
 
   
-
+@include('getintouch')
 
 
 
@@ -540,6 +540,109 @@ function enableBtn(){
         }
  })
  </script>
+
+<script>
+ $(document).on('click','#getintouchup1',function(e) {
+    
+    $('#getintouchup').modal('show');
+
+});
+
+
+
+$("#gettouchForm1").validate({
+ rules: {
+ name: {
+ required: true,
+ maxlength: 50
+ },
+ email: {
+ required: true,
+ maxlength: 50,
+ email: true,
+ },  
+   
+ },
+ messages: {
+ name: {
+ required: "Please enter name",
+ maxlength: "Your name maxlength should be 50 characters long."
+ },
+ email: {
+ required: "Please enter valid email",
+ email: "Please enter valid email",
+ maxlength: "The email name should less than or equal to 50 characters",
+ },   
+
+ },
+ success: function (label, element) {
+    console.log('hi');
+        grecaptcha.execute();
+        },
+ submitHandler: function(form) {
+ $.ajaxSetup({
+ headers: {
+ 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+ }
+ });
+ $('#touchsubmit').html('Please Wait...');
+ $("#touchsubmit"). attr("disabled", true);
+ $.ajax({
+ url: "{{route('enquire')}}",
+ type: "POST",
+ data: $('#gettouchForm').serialize(),
+ success: function( response ) {
+    if(response.status == 'notok') {
+        $('#touchsubmit').html('Submit');
+        $("#touchsubmit"). attr("disabled", false);
+        if(response.data['g-recaptcha-response']) {
+            var msg = response.data['g-recaptcha-response'][0];
+        } else {
+            var msg = 'something went wrong';
+        }
+ swal({
+ title: 'Sorry',
+ text: msg,
+ type: 'error',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });
+    } else {
+        console.log(response);
+ $('#touchsubmit').html('Submit');
+ $("#touchsubmit"). attr("disabled", false);
+ //alert('Ajax form has been submitted successfully');
+ document.getElementById("gettouchForm1").reset(); 
+ swal({
+ title: 'We will get back to you at the earliest.',
+ text: "You won't be able to revert this!",
+ type: 'success',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });        
+ $('#getintouchup').modal('hide');
+  $('body').removeClass('modal-open');
+    }
+  
+ }
+ });
+ }
+ })
+
+
+ </script>
+
+
+
+
+
+
+
+
+
+
+
+
  <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
  <script type="application/ld+json">
 {

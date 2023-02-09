@@ -322,7 +322,7 @@
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-blue">
+  <section class="wrapper bg-soft-orange">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">
@@ -541,7 +541,11 @@
 
 <!--section ends-->
 
+<!--section starts-->
 
+@include('services.logo')<!-- /section -->
+
+<!--section ends-->
 
 
 <!--section starts-->

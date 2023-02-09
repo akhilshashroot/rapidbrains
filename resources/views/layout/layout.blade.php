@@ -20,6 +20,16 @@
     .grecaptcha-badge{
     display:none;
 }
+.dropdown-toggle::after {
+    font-family: "Unicons" !important;
+    display: inline-block !important;
+    margin-left: 0.05rem !important;
+    vertical-align: -3px !important;
+    font-weight: 700 !important;
+    content: "" !important;
+    border: 0 !important;
+    content: "\e92d" !important;
+}
 </style>
 
 <body>

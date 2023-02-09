@@ -299,7 +299,7 @@
 			<div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Still not able to find the right talent?</h2>
 				<p class="lead mb-5 px-md-16 px-lg-3">Make a request. Our hiring team got you covered.</p>
-				<a id="getintouch" class="btn btn-primary rounded-pill">Get in Touch</a>
+				<a id="getintouchup1" class="btn btn-primary rounded-pill">Get in Touch</a>
 			</div>
 			<!-- /column -->
 		</div>
