@@ -109,7 +109,7 @@
 
 <!--section starts-->
 
-<section class="wrapper bg-image" data-image-src="https://www.rapidbrains.com/assets/img/photos/RapidBrains-footerbg.jpg" style="padding-top: 50px;">
+<section class="wrapper bg-soft-yellow" data-image-src="https://www.rapidbrains.com/assets/img/photos/RapidBrains-footerbg.jpg" style="padding-top: 50px;">
   <div class="container py-14 py-md-5">
     <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring App Developers</h2>
     <!--<p class="lead text-center mb-10 px-md-16 px-lg-0">Our Benefits</p>-->
@@ -234,7 +234,7 @@
 
 <!--section starts-->
 
-<section class="wrapper bg-soft-yellow;" style="padding-top: 50px;">
+<section class="wrapper bg-light;" style="padding-top: 50px;">
   <div class="container py-14 py-md-16 text-center">
     <div class="row">
       <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">

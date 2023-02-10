@@ -1,4 +1,4 @@
-<section class="wrapper bg-light">
+<section class="wrapper bg-light" style="padding-top: 50px;">
 	<div class="container py-14 py-md-10">
 		<div class="row text-center">
 			<div class="col-xl-10 mx-auto">

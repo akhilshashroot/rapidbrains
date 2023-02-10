@@ -267,4 +267,5 @@ The data controller of your personal information is RapidBrains.</p>
     </div>
     <!-- /.container -->
   </div>
+  @include('services.logo')
 @endsection

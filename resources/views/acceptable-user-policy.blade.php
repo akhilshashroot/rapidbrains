@@ -252,4 +252,5 @@
     </div>
     <!-- /.container -->
   </div>
+  @include('services.logo')
 @endsection

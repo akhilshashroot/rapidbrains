@@ -20,6 +20,11 @@
     .grecaptcha-badge{
     display:none;
 }
+.dropdown-item{
+  color:#596273 !important;
+  font-weight:500 !important;
+
+}
 .dropdown-toggle::after {
     font-family: "Unicons" !important;
     display: inline-block !important;

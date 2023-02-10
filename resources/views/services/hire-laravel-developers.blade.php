@@ -7,7 +7,7 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Laravel-image.jpg')}}" srcset="{{asset('assets/img/services/Laravel-image.jpg')}} 2x" alt=""></figure>
           </div>
           <div class="item">
             <figure class="rounded shadow"><img src="{{asset('assets/img/services/Laravel.png')}}" srcset="{{asset('assets/img/services/Laravel.png')}} 2x" alt=""></figure>
@@ -82,7 +82,7 @@
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
 				<a href="https://talents.rapidbrains.com/filter?skill=laravel" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
             </div>
@@ -221,92 +221,93 @@
 
 <!--section starts-->
 
-<section class="wrapper bg-light">
-    <div class="container py-14 py-md-16 text-center">
-      <div class="row">
-        <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-          <h2 class="fs-15 text-uppercase text-muted mb-3">Hassle-free Steps to Laravel Developers</h2>
-          <h3 class="display-4 mb-10 px-xl-10">Learn all there is to know about hiring Laravel developers.</h3>
-        </div>
-        <!-- /column -->
+
+
+  <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16 text-center">
+    <div class="row">
+      <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+        <h2 class="fs-15 text-uppercase text-muted mb-3">Steps To Hire Laravel Developers</h2>
+        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire Laravel Developers for your organization.</h3>
       </div>
-      <!-- /.row -->
-      <div class="position-relative">
-        <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-        <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-        <div class="row gx-md-5 gy-5 text-center">
-          <div class="col-md-6 col-xl-3">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <img src="{{asset('assets/img/services/requirements.png')}}" style="width:50px; height:50px" alt="" />
-                <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
-                <p class="mb-2">Gathering the job responsibilities,
-                    skills, and experience required for the position.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 col-xl-3">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <img src="{{asset('assets/img/services/sourcing.png')}}" style="width:50px; height:50px" alt="" />
-                <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
-                <p class="mb-2">Search through the pool of top talents to identify
-                    suitable candidates matching the job specifications.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 col-xl-3">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <img src="{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
-                <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
-                <p class="mb-2">Schedule interviews with the selected
-                    candidates to evaluate their technical and soft skills and experience</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 col-xl-3">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <img src="{{asset('assets/img/services/onboarding.png')}}" style="width:50px; height:50px" alt="" />
-                <!--svg-inject-->
-                <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
-                <p class="mb-2">Based on the evaluation, choose the best
-                    candidate who best fits the needs and culture of the company.</p>
-                
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-      <!-- /.position-relative -->
+      <!-- /column -->
     </div>
-    <!-- /.container -->
-  </section>
-  <!-- /section -->
+    <!-- /.row -->
+    <div class="position-relative">
+      <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
+      <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
+      <div class="row gx-md-5 gy-5 text-center">
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/requirements.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
+              <p class="mb-2">Gathering the job responsibilities,
+                  skills, and experience required for the position.</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
+              <p class="mb-2">Search through the pool of top talents to identify
+                  suitable candidates matching the job specifications.</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/screening.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
+              <p class="mb-2">Schedule interviews with the selected
+                  candidates to evaluate their technical and soft skills and experience</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+              <!--svg-inject-->
+              <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
+              <p class="mb-2">Based on the evaluation, choose the best
+                  candidate who best fits the needs and culture of the company.</p>
+              
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+      </div>
+      <!--/.row -->
+    </div>
+    <!-- /.position-relative -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-  <!--section ends-->
-
+<!--section ends-->
 
 
 
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-blue">
+<section class="wrapper bg-soft-yellow">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">

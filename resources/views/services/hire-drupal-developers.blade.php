@@ -10,7 +10,7 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Drupal-image.jpg')}}" srcset="{{asset('assets/img/services/Drupal-image.jpg')}} 2x" alt=""></figure>
           </div>
           <div class="item">
             <figure class="rounded shadow"><img src="{{asset('assets/img/services/Drupal.png')}}" srcset="{{asset('assets/img/services/Drupal.png')}}" alt=""></figure>
@@ -82,7 +82,7 @@
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
 				<a href="https://talents.rapidbrains.com/filter?skill=drupal" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
             </div>
@@ -266,7 +266,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="C{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
                 <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
                 <p class="mb-2">Schedule interviews with the selected
                     candidates to evaluate their technical and soft skills and experience</p>
@@ -308,7 +308,7 @@
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-blue">
+<section class="wrapper bg-soft-orange">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">

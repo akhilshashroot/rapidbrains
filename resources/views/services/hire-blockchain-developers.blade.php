@@ -223,79 +223,89 @@
 
 
 
-<!--section starts-->
 
-<section class="wrapper bg-light wrapper-border">
-    <div class="container py-14 py-md-16">
-      <div class="row gy-10 gy-sm-13 gx-lg-3 align-items-center">
-        <div class="col-md-8 col-lg-6 position-relative">
-          <div class="shape bg-dot primary rellax w-17 h-21" data-rellax-speed="1" style="top: -2rem; left: -1.9rem;"></div>
-          <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0" style="bottom: -1.8rem; right: -1.5rem; width: 85%; height: 90%; "></div>
-          <figure class="rounded"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about7.jpg" srcset="./assets/img/photos/about7@2x.jpg 2x" alt="" /></figure>
+  <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16 text-center">
+    <div class="row">
+      <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+        <h2 class="fs-15 text-uppercase text-muted mb-3">Steps To Hire Blockchain Developers</h2>
+        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire Blockchain Developers for your organization.</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+    <div class="position-relative">
+      <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
+      <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
+      <div class="row gx-md-5 gy-5 text-center">
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/requirements.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
+              <p class="mb-2">Gathering the job responsibilities,
+                  skills, and experience required for the position.</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
         </div>
         <!--/column -->
-        <div class="col-lg-5 col-xl-4 offset-lg-1">
-          <h2 class="h1 mb-3">Steps To Hire Blockchain Developers</h2>
-          <p class="lead fs-lg mb-6">A comprehensive guide to find and hire Blockchain Developers for your organization.</p>
-          <div class="d-flex flex-row mb-6">
-            <div>
-              <span class="icon btn btn-circle btn-primary pe-none me-5"><span class="number fs-18">1</span></span>
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
+              <p class="mb-2">Search through the pool of top talents to identify
+                  suitable candidates matching the job specifications.</p>
             </div>
-            <div>
-              <h4 class="mb-0">Job Description and Requirements</h4>
-              <p class="mb-0">Gathering the job responsibilities,
-                skills, and experience required for the position </p>
-            </div>
+            <!--/.card-body -->
           </div>
-          <div class="d-flex flex-row mb-6">
-            <div>
-              <span class="icon btn btn-circle btn-primary pe-none me-5"><span class="number fs-18">2</span></span>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/screening.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
+              <p class="mb-2">Schedule interviews with the selected
+                  candidates to evaluate their technical and soft skills and experience</p>
             </div>
-            <div>
-              <h4 class="mb-1">Sourcing Candidates</h4>
-              <p class="mb-0">Search through the pool of top talents to identify
-                suitable candidates matching the job specifications</p>
-            </div>
+            <!--/.card-body -->
           </div>
-          <div class="d-flex flex-row mb-6">
-            <div>
-              <span class="icon btn btn-circle btn-primary pe-none me-5"><span class="number fs-18">3</span></span>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+              <!--svg-inject-->
+              <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
+              <p class="mb-2">Based on the evaluation, choose the best
+                  candidate who best fits the needs and culture of the company.</p>
+              
             </div>
-            <div>
-              <h4 class="mb-1">Screening and Interviewing</h4>
-              <p class="mb-0">Schedule interviews with the selected
-                candidates to evaluate their technical and soft skills and experience.
-                </p>
-            </div>
+            <!--/.card-body -->
           </div>
-          <div class="d-flex flex-row mb-6">
-            <div>
-              <span class="icon btn btn-circle btn-primary pe-none me-5"><span class="number fs-18">4</span></span>
-            </div>
-            <div>
-              <h4 class="mb-1">Offer and Onboarding</h4>
-              <p class="mb-0">Based on the evaluation, choose the best
-                candidate who best fits the needs and culture of the company.</p>
-            </div>
-          </div>
+          <!--/.card -->
         </div>
         <!--/column -->
       </div>
       <!--/.row -->
     </div>
-    <!-- /.container -->
-  </section>
-  <!-- /section -->
-
-  <!--section ends-->
-
-
+    <!-- /.position-relative -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
 
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-blue">
+<section class="wrapper bg-soft-yellow">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">

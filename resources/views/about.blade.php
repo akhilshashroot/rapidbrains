@@ -467,4 +467,5 @@
       </div>
       <!-- /.container -->
     </section>
+    @include('services.logo')
 @endsection

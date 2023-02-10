@@ -87,7 +87,7 @@
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
 				<a href="https://talents.rapidbrains.com/filter?skill=react-native" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
             </div>
@@ -107,7 +107,7 @@
 
 <section class="wrapper bg-soft-red" style="padding-top: 50px;">
     <div class="container py-14 py-md-5">
-      <h2 class="display-4 mb-3 text-center">Why Hire Remote Native React Developers from RapidBrains</h2>
+      <h2 class="display-4 mb-3 text-center">Why Hire Remote React Native Developers from RapidBrains</h2>
       <p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>
       <div class="row">
         <div class="col-lg-6 mb-0">
@@ -226,45 +226,84 @@
 
 <!--section starts-->
 
+
 <section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">Hire React Native Developers in 4 Simple Steps</h2>
-    <p class="lead fs-lg mb-8">A comprehensive guide to find and hire React Native Developers for your organization.</p>
-    <div class="row gx-lg-8 gx-xl-12 gy-6 process-wrapper line">
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">01</span></span>
-        <h4 class="mb-1">Job Description and Requirements</h4>
-        <p class="mb-0">Gathering the job responsibilities,
-          skills, and experience required for the position.
-          </p>
+  <div class="container py-14 py-md-16 text-center">
+    <div class="row">
+      <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+        <h2 class="fs-15 text-uppercase text-muted mb-3">Steps To Hire React Native Developers</h2>
+        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire React Native Developers for your organization.</h3>
       </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary pe-none mb-4"><span class="number">02</span></span>
-        <h4 class="mb-1">Sourcing Candidates</h4>
-        <p class="mb-0">Search through the pool of top talents to identify
-          suitable candidates matching the job specifications.
-          </p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">03</span></span>
-        <h4 class="mb-1">Screening and Interviewing</h4>
-        <p class="mb-0">Schedule interviews with the selected
-          candidates to evaluate their technical and soft skills and experience.</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">04</span></span>
-        <h4 class="mb-1">Offer and Onboarding</h4>
-        <p class="mb-0">Based on the evaluation, choose the best
-          candidate who best fits the needs and culture of the company</p>
-      </div>
-      <!--/column -->
+      <!-- /column -->
     </div>
-    <!--/.row -->
+    <!-- /.row -->
+    <div class="position-relative">
+      <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
+      <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
+      <div class="row gx-md-5 gy-5 text-center">
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/requirements.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
+              <p class="mb-2">Gathering the job responsibilities,
+                  skills, and experience required for the position.</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
+              <p class="mb-2">Search through the pool of top talents to identify
+                  suitable candidates matching the job specifications.</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/screening.png')}}" style="width:50px; height:50px" alt="" />
+              <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
+              <p class="mb-2">Schedule interviews with the selected
+                  candidates to evaluate their technical and soft skills and experience</p>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+        <div class="col-md-6 col-xl-3">
+          <div class="card shadow-lg">
+            <div class="card-body">
+              <img src="{{asset('assets/img/android/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+              <!--svg-inject-->
+              <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
+              <p class="mb-2">Based on the evaluation, choose the best
+                  candidate who best fits the needs and culture of the company.</p>
+              
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!--/.card -->
+        </div>
+        <!--/column -->
+      </div>
+      <!--/.row -->
+    </div>
+    <!-- /.position-relative -->
   </div>
   <!-- /.container -->
 </section>
 <!-- /section -->
 
-  <!--section ends-->
 
 
 
@@ -272,7 +311,7 @@
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-blue">
+<section class="wrapper bg-soft-yellow">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">

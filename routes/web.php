@@ -78,6 +78,9 @@ Route::get('/hire-wordpress-developers', [AdditionalPagesController::class, 'hir
 Route::get('/hire-xamarin-developers', [AdditionalPagesController::class, 'hireXamarinDevelopers'])->name('hire-xamarin-developers');
 Route::get('/hire-react-node-developers', [AdditionalPagesController::class, 'hireReactnodeDevelopers'])->name('hire-react-node-developers');
 Route::get('/hire-app-developers', [AdditionalPagesController::class, 'hireAppDevelopers'])->name('hire-app-developers');
+Route::get('/hire-sap-developers', [AdditionalPagesController::class, 'hireSapDevelopers'])->name('hire-sap-developers');
+Route::get('/hire-salesforce-developers', [AdditionalPagesController::class, 'hireSalesforceDevelopers'])->name('hire-salesforce-developers');
+
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');

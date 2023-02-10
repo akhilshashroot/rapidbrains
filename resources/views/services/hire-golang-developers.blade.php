@@ -12,7 +12,7 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Golang-image.jpg')}}" srcset="{{asset('assets/img/services/Golang-image.jpg')}} 2x" alt=""></figure>
           </div>
           <div class="item">
             <figure class="rounded shadow"><img src="{{asset('assets/img/services/Golang.png')}}" srcset="{{asset('assets/img/services/Golang.png')}}" alt=""></figure>
@@ -75,10 +75,9 @@
               <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
               <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Skilled Remote Golang Developers</h3>
               <p>Developed at Google, Go is a statically-typed, compiled programming
-                language that addresses and enhances programming productivity. RapidBrains
-                is the best option to meet your ever-changing project requirements when it
-                comes to hiring developers with expertise in growing the popularity of the Go
-                programming language. It can be difficult to find the top Golang web developer
+                language that addresses and enhances programming productivity.RapidBrains is the best option to meet your 
+                ever-changing project requirements when it comes to hiring developers with expertise in the popular Go programming language.
+                 It can be difficult to find the top Golang web developer
                 due to the rising popularity and variety of projects being written in Go. Hire
                 experienced Golang developers from our pool who have years of practical
                 experience utilizing server-side technologies and Golang development

@@ -191,4 +191,5 @@ This Data Processing Agreement (“DPA”) is an addendum to the Customer Terms 
     </div>
     <!-- /.container -->
   </div>
+  @include('services.logo')
 @endsection

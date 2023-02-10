@@ -63,7 +63,7 @@
 " alt="RapidBrains Home" /></figure>
 </section>-->
 <section class="section-frame br-fix overflow-hidden">
-        <div class="wrapper image-wrapper bg-cover bg-image bg-overlay bg-overlay-500" data-image-src="{{asset('assets/img/photos/bg26.jpg')}}" style="background-image: url({{asset('assets/img/photos/bg26.jpg')}});">
+        <div class="wrapper image-wrapper bg-cover bg-image bg-overlay bg-overlay-300" data-image-src="{{asset('assets/img/photos/bg26.jpg')}}" style="background-image: url({{asset('assets/img/photos/bg26.jpg')}});">
           <div class="container pt-18 pt-lg-21 pb-17 pb-lg-19 text-center">
             <div class="row">
               <div class="col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto" data-cues="zoomIn" data-group="page-title" data-interval="-200" data-delay="500" data-disabled="true">
@@ -299,7 +299,7 @@
 			<div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Still not able to find the right talent?</h2>
 				<p class="lead mb-5 px-md-16 px-lg-3">Make a request. Our hiring team got you covered.</p>
-				<a id="getintouchup1" class="btn btn-primary rounded-pill">Get in Touch</a>
+				<a id="getintouch" class="btn btn-primary rounded-pill">Get in Touch</a>
 			</div>
 			<!-- /column -->
 		</div>
@@ -726,7 +726,7 @@
 
            <!--Save your time starts  -->
            <!-- /section -->
-    
+   @include('services.logo') 
              
     <section class="wrapper bg-gray">
       <div class="container py-15 py-md-17 pb-md-19">
@@ -758,7 +758,7 @@
     </section>
     <!-- /section -->
     <!--Save your time ends-->
-    
+     
     <section class="wrapper bg-light">
     
   <div class="container py-20 py-md-20" style= "adding-top: 10rem !important;
@@ -790,4 +790,5 @@
     
   </div>
   </section>
+ 
 @endsection

@@ -9,7 +9,7 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Nodejs-image.jpg')}}" srcset=".{{asset('assets/img/services/Nodejs-image.jpg')}} 2x" alt=""></figure>
           </div>
           <div class="item">
             <figure class="rounded shadow"><img src="{{asset('assets/img/services/Nodejs.png')}}" srcset="{{asset('assets/img/services/Nodejs.png')}}" alt=""></figure>
@@ -85,7 +85,7 @@
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
 				<a href="https://talents.rapidbrains.com/filter?skill=node" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
                 
@@ -306,12 +306,135 @@
   <!--section ends-->
 
 
-
+  <section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
+  <div class="container py-14 py-md-5">
+    <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring NodeJS Developers</h2>
+    <!--<p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>-->
+    <div class="row">
+      <div class="col-lg-6 mb-0">
+        <div id="accordion-1" class="accordion-wrapper">
+          <div class="card accordion-item">
+            <div class="card-header" id="accordion-heading-1-1">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Improved Efficiency
+            </button>
+            </div>
+            <!-- /.card-header -->
+            <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
+              <div class="card-body">
+                <p>NodeJS developers can help companies simplify the software development cycle,
+                    resulting in the faster release of new features and products.</p>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.collapse -->
+          </div>
+          <!-- /.card -->
+          <div class="card accordion-item">
+            <div class="card-header" id="accordion-heading-1-2">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Reliability</button>
+            </div>
+            <!-- /.card-header -->
+            <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
+              <div class="card-body">
+                <p>To ensure that software is reliable and stable, PHP developers use testing and
+                    debugging tools, which can reduce downtime and risk of expensive outages.
+                    
+                    </p>                   
+            </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.collapse -->
+          </div>
+          <!-- /.card -->
+          <div class="card accordion-item">
+            <div class="card-header" id="accordion-heading-1-3">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Cost Effective</button>
+            </div>
+            <!-- /.card-header -->
+            <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
+              <div class="card-body">
+                <p>Hiring PHP developers can help businesses cut costs on equipment, office
+                    space, and other overhead expenses.
+                    </p> 
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.collapse -->
+          </div>
+          <!-- /.card -->        
+        </div>
+        <!-- /.accordion-wrapper -->
+      </div>
+      <!--/column -->
+      <div class="col-lg-6">
+          <div id="accordion-2" class="accordion-wrapper">
+              <div class="card accordion-item">
+                <div class="card-header" id="accordion-heading-2-2">
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Productive Team</button>
+                </div>
+                <!-- /.card-header -->
+                <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
+                  <div class="card-body">
+                    <p>Studies have shown that remote workers frequently outperform their officebased counterparts in terms of productivity.
+                        </p>
+                    </div>
+                  <!-- /.card-body -->
+                </div>
+                <!-- /.collapse -->
+              </div>
+              <!-- /.card -->
+        <div id="accordion-2" class="accordion-wrapper">
+          <div class="card accordion-item">
+            <div class="card-header" id="accordion-heading-2-2">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Flexibility
+            </button>
+            </div>
+            <!-- /.card-header -->
+            <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
+              <div class="card-body">
+                <p>Since PHP developers can work remotely, scheduling and working hours can
+                    be more flexible.
+                    
+                    </p>
+                </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.collapse -->
+          </div>
+          <!-- /.card -->
+          <div class="card accordion-item">
+            <div class="card-header" id="accordion-heading-2-3">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Talented Developers</button>
+            </div>
+            <!-- /.card-header -->
+            <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
+              <div class="card-body">
+                <p>Hire PHP experts who have worked with a variety of frameworks and have
+                    experience developing solutions for specific industries.
+                    
+                    
+                    </p>
+                </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.collapse -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!-- /.accordion-wrapper -->
+      </div>
+      <!--/column -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+  </div>
+</section>
 
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-blue">
+<section class="wrapper bg-soft-yellow">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">

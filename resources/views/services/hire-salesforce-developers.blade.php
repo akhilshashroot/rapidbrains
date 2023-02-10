@@ -11,24 +11,25 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/DevOps-image.jpg')}}" srcset="{{asset('assets/img/services/DevOps-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/DevOps.png')}}" srcset="{{asset('assets/img/services/DevOps.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Salesforce.png')}}" srcset="{{asset('assets/img/services/Salesforce.png')}}" alt=""></figure>
           </div>
         </div>
       </div>
       <!--/column -->
       <div class="col-lg-6">
         <!--<img src="./assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />-->
-        <h1 class="display-2 mb-1">Hire DevOps Engineers and Speed up your Development Process </h1><br>
-        <p class="mb-6">Hire remote DevOps engineers from RapidBrains to implement DevOps in its
-            entirety by enhancing code quality and implementing continuous integration.
-            Our DevOps professionals have years of experience using and are well
-            knowledgeable about powerful DevOps tools like Docker, Kubernetes, Jenkins
-            etc. Our DevOps engineering team is very skilled at managing complicated
-            solutions to expand your company. Rethink your software delivery and
-            deployment approach by hiring a DevOps engineer.
+        <h1 class="display-2 mb-1">Hire Salesforce Developers and Expand Your Team</h1><br>
+        <p class="mb-6">Salesforce is a cloud-based software platform that provides customer
+            relationship management (CRM) solutions for businesses. Salesforce
+            developers are professionals who specialize in creating custom solutions on the
+            Salesforce platform. They have expertise in developing applications,
+            customizing the platform to meet specific business requirements, and
+            integrating it with other systems. Hire Salesforce developers from RapidBrains
+            get the most out of their Salesforce platform.
+             
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -74,25 +75,27 @@
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">
               <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
-              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Top Remote DevOps Engineers</h3>
-              <p>DevOps engineers make sure of the infrastructure, on which the DevOps team
-                is working, is operating as expected, is consistent, and is updated on time. They
-                also take care of the DevOps-supporting applications and all other components
-                of the Cloud Environment. A DevOps engineer oversees cross-platform
-                connections, infrastructure planning, security, automation, and release
-                management. In addition to managing code releases, DevOps engineers may
-                also handle production deployments. To rapidly grow your business, use our
-                DevOps professionals and benefit from DevOps services like as development,
-                automation, plugin integration, and API development. You have total control
-                over the team because our DevOps engineers function as an extension of your
-                team.  
+              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Dedicated Salesforce Developers for your Business
+            </h3>
+              <p>Salesforce developers must have a good understanding of the Salesforce
+                platform and its features, including the Sales Cloud, Service Cloud, Marketing
+                Cloud and Community Cloud. They must be familiar with the platform's
+                programming languages, such as Apex and Visualforce, and be able to use
+                these tools to build custom solutions. It is important for Salesforce developers
+                to have strong communication and collaboration skills as they often work
+                closely with business stakeholders, project managers and other technical
+                teams. Hiring Salesforce developers is critical for businesses that want to
+                effectively leverage the Salesforce platform to achieve their business goals and
+                improve their customer relationships. With their expertise and technical skills,
+                they can help organizations streamline processes, automate workflows, and
+                gain valuable insights into their customers.
                 </p>
                
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-				<a  href="https://talents.rapidbrains.com/filter?skill=DevOps" class="btn btn-primary rounded-pill">Show Talents</a>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
+				<a  href="https://talents.rapidbrains.com/filter?skill=Salesforce" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
             </div>
             <!--/column -->
@@ -111,20 +114,21 @@
 
 <section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
   <div class="container py-14 py-md-5">
-    <h2 class="display-4 mb-3 text-center">Why Hire DevOps Engineers from RapidBrains</h2>
-    <p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>
+    <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring Salesforce Developers</h2><br><br><br>
+    <!--<p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>-->
     <div class="row">
       <div class="col-lg-6 mb-0">
         <div id="accordion-1" class="accordion-wrapper">
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-1-1">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Improved Efficiency</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Expertise in Salesforce</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
               <div class="card-body">
-                <p>DevOps engineers accelerate the software development cycle using automated
-                    tools and procedures resulting in quicker release of new features and products</p>
+                <p>Salesforce Developers are experts in Salesforce platform, offering custom
+                    solutions and integration with other systems.
+                     </p>
               </div>
               <!-- /.card-body -->
             </div>
@@ -133,13 +137,14 @@
           <!-- /.card -->
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-1-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Increased Reliability</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Streamlined Processes</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
-                <p>Tools for testing and monitoring are used by DevOps engineers to make sure
-                    their software is reliable and stable</p>                   </div>
+                <p>Salesforce Developers can streamline business processes and automate manual
+                    tasks, increasing efficiency and productivity.</p>                   
+            </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
@@ -147,13 +152,15 @@
           <!-- /.card -->
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-1-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Better Collaboration</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Improved Data Management
+            </button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
-                <p>By bridging the gap between the development and operations teams, DevOps
-                    engineers advance improved communication and teamwork.</p> 
+                <p>Salesforce Developers can help manage and analyze data, providing valuable
+                    insights and driving better decision making.
+                    </p> 
               </div>
               <!-- /.card-body -->
             </div>
@@ -168,13 +175,13 @@
           <div id="accordion-2" class="accordion-wrapper">
               <div class="card accordion-item">
                 <div class="card-header" id="accordion-heading-2-2">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Cost Savings</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Customized Solutions</button>
                 </div>
                 <!-- /.card-header -->
                 <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
                   <div class="card-body">
-                    <p>DevOps engineers can assist organisations in saving money on development
-                        and operational costs by automating processes and decreasing downtime.</p>
+                    <p>Salesforce Developers can develop custom solutions tailored to specific
+                        business needs, providing a competitive edge.</p>
                     </div>
                   <!-- /.card-body -->
                 </div>
@@ -184,13 +191,14 @@
         <div id="accordion-2" class="accordion-wrapper">
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-2-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Increased Security</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Scalability</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
               <div class="card-body">
-                <p>At every level of the software development process, DevOps engineers can
-                    implement more security measures.</p>
+                <p>Salesforce Developers ensure that solutions are scalable, able to handle growth
+                    and change as the business evolves.
+                    </p>
                 </div>
               <!-- /.card-body -->
             </div>
@@ -199,13 +207,12 @@
           <!-- /.card -->
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-2-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Flexibility</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Cost-effective</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
               <div class="card-body">
-                <p>As remote DevOps engineers can work from any location, scheduling and
-                    working hours are more flexible.</p>
+                <p>Hiring a Salesforce Developer can save time and resources compared to inhouse development, offering a cost-effective solution. </p>
                 </div>
               <!-- /.card-body -->
             </div>
@@ -241,8 +248,9 @@
   <div class="container py-14 py-md-16 text-center">
     <div class="row">
       <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-        <h2 class="fs-15 text-uppercase text-muted mb-3">Hassle-free Steps to Hire DevOps Engineers</h2>
-        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire the best DevOps Engineers for your organization.</h3>
+        <h2 class="fs-15 text-uppercase text-muted mb-3">Steps to Hire Salesforce Developers</h2>
+        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire the best Salesforce Developers for your
+            organization.</h3>
       </div>
       <!-- /column -->
     </div>
@@ -322,28 +330,26 @@
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-orange">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">
               <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
-              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Remote DevOps Engineers for your Competitive Business</h3>
-              <p>DevOps engineers are essential for the development of modern applications.
-                With an emphasis on continuous integration, delivery, and deployment, they
-                seek to automate and simplify the software development process. DevOps
-                engineers may shorten the software development cycle and accelerate the
-                release of new features and products by utilizing automated technologies and
-                procedures. Organizations may be able to remain competitive and respond
-                rapidly to market changes because to this greater efficiency.<br><br>
-                DevOps engineers strive to improve reliability in addition to increasing
-                efficiency. To make sure that software is stable and efficient, they utilize
-                testing and monitoring technologies. This can reduce the risk of expensive
-                outages and decrease downtime. DevOps Engineers can help narrow the
-                communication and coordination gaps between the development and
-                operations teams by collaborating closely with both teams.
-                  
+              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Remote Salesforce Developers with<br>RapidBrains</h3>
+              <p>Salesforce is a cloud-based customer relationship management (CRM)
+                platform that is used by many businesses to manage their sales, customer
+                service and marketing activities. Salesforce developers are professionals who
+                have expertise in customizing, integrating and maintaining the Salesforce
+                platform to meet the specific needs of a business. With the increasing demand
+                for Salesforce solutions, RapidBrains offer talented and experienced
+                Salesforce developers who can help companies maximize the value of their
+                investment in the platform. They have a deep understanding of the Salesforce
+                platform and its capabilities and are skilled in using Apex and Visualforce to
+                build custom applications. Our skilled remote Salesforce developers can
+                provide expert services to help companies get the most out of their Salesforce
+                platform. Hire dedicated Salesforce developers from RapidBrains who can
+                deliver innovative solutions and drive business success.
                 </p>
-                
             </div>
             <!--/column -->
           </div>
@@ -360,8 +366,6 @@
 
 
 <!--section starts-->
-
-<!--section starts-->
 @include('services.logo')
 <!-- /section -->
 
@@ -372,3 +376,4 @@
 
 <!--section starts-->
 @endsection
+<!--section ends-->

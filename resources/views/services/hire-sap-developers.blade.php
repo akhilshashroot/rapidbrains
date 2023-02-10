@@ -2,6 +2,7 @@
 @section('section')
 
 
+
     <!-- section starts-->
 
     <section class="wrapper bg-gray">
@@ -11,24 +12,23 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/DevOps-image.jpg')}}" srcset="{{asset('assets/img/services/DevOps-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/DevOps.png')}}" srcset="{{asset('assets/img/services/DevOps.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/SAP.png')}}" srcset="{{asset('assets/img/services/SAP.png')}}" alt=""></figure>
           </div>
         </div>
       </div>
       <!--/column -->
       <div class="col-lg-6">
         <!--<img src="./assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />-->
-        <h1 class="display-2 mb-1">Hire DevOps Engineers and Speed up your Development Process </h1><br>
-        <p class="mb-6">Hire remote DevOps engineers from RapidBrains to implement DevOps in its
-            entirety by enhancing code quality and implementing continuous integration.
-            Our DevOps professionals have years of experience using and are well
-            knowledgeable about powerful DevOps tools like Docker, Kubernetes, Jenkins
-            etc. Our DevOps engineering team is very skilled at managing complicated
-            solutions to expand your company. Rethink your software delivery and
-            deployment approach by hiring a DevOps engineer.
+        <h1 class="display-2 mb-1">Hire the Best SAP Developers for your Business Growth</h1><br>
+        <p class="mb-6">SAP developers are responsible for designing, developing, and implementing
+            SAP software solutions for businesses. They are highly skilled in using SAP
+            technology and have expertise in areas such as SAP modules, database
+            management and system integration. Hire experienced and dedicated SAP
+            developers from RapidBrains who have a deep understanding of the latest SAP
+            software and technology. 
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -74,25 +74,23 @@
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">
               <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
-              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Top Remote DevOps Engineers</h3>
-              <p>DevOps engineers make sure of the infrastructure, on which the DevOps team
-                is working, is operating as expected, is consistent, and is updated on time. They
-                also take care of the DevOps-supporting applications and all other components
-                of the Cloud Environment. A DevOps engineer oversees cross-platform
-                connections, infrastructure planning, security, automation, and release
-                management. In addition to managing code releases, DevOps engineers may
-                also handle production deployments. To rapidly grow your business, use our
-                DevOps professionals and benefit from DevOps services like as development,
-                automation, plugin integration, and API development. You have total control
-                over the team because our DevOps engineers function as an extension of your
-                team.  
-                </p>
+              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Dedicated SAP Developers to Your Team
+            </h3>
+              <p>SAP developers are highly skilled professionals who specialize in developing
+                and maintaining software solutions based on the SAP platform. With expertise
+                in areas like SAP HANA, ABAP and SAP FICO, they play a crucial role in
+                streamlining business processes and optimizing data management for
+                organizations. SAP developers have deep knowledge of SAP technologies,
+                modules, and processes, allowing them to design and implement custom
+                solutions to meet specific business requirements. They also have experience
+                working with SAP development tools and methodologies, ensuring the
+                solutions they build are efficient, scalable, and maintainable.</p>
                
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-				<a  href="https://talents.rapidbrains.com/filter?skill=DevOps" class="btn btn-primary rounded-pill">Show Talents</a>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
+				<a  href="https://talents.rapidbrains.com/filter?skill=SAP" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
             </div>
             <!--/column -->
@@ -111,20 +109,20 @@
 
 <section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
   <div class="container py-14 py-md-5">
-    <h2 class="display-4 mb-3 text-center">Why Hire DevOps Engineers from RapidBrains</h2>
-    <p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>
+    <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring SAP Developers</h2><br><br><br>
+    <!--<p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>-->
     <div class="row">
       <div class="col-lg-6 mb-0">
         <div id="accordion-1" class="accordion-wrapper">
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-1-1">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Improved Efficiency</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Cost-Effective Solutions</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
               <div class="card-body">
-                <p>DevOps engineers accelerate the software development cycle using automated
-                    tools and procedures resulting in quicker release of new features and products</p>
+                <p>With SAP developers, companies can lower their operational costs and get
+                    cost-effective solutions. </p>
               </div>
               <!-- /.card-body -->
             </div>
@@ -133,13 +131,15 @@
           <!-- /.card -->
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-1-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Increased Reliability</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Increased Productivity
+            </button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
-                <p>Tools for testing and monitoring are used by DevOps engineers to make sure
-                    their software is reliable and stable</p>                   </div>
+                <p>SAP developers bring their expertise and experience to help increase overall
+                    productivity and efficiency in the workplace.</p>                   
+            </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
@@ -147,13 +147,15 @@
           <!-- /.card -->
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-1-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Better Collaboration</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Competitive Advantage
+            </button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
-                <p>By bridging the gap between the development and operations teams, DevOps
-                    engineers advance improved communication and teamwork.</p> 
+                <p>By hiring SAP developers, companies can gain a competitive advantage by
+                    staying ahead of the technology curve
+                    </p> 
               </div>
               <!-- /.card-body -->
             </div>
@@ -168,13 +170,14 @@
           <div id="accordion-2" class="accordion-wrapper">
               <div class="card accordion-item">
                 <div class="card-header" id="accordion-heading-2-2">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Cost Savings</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Access to Cutting-Edge Technology</button>
                 </div>
                 <!-- /.card-header -->
                 <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
                   <div class="card-body">
-                    <p>DevOps engineers can assist organisations in saving money on development
-                        and operational costs by automating processes and decreasing downtime.</p>
+                    <p>Hiring SAP developers provides access to the latest and greatest in SAP
+                        technology.
+                        </p>
                     </div>
                   <!-- /.card-body -->
                 </div>
@@ -184,13 +187,14 @@
         <div id="accordion-2" class="accordion-wrapper">
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-2-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Increased Security</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Improved Business Processes</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
               <div class="card-body">
-                <p>At every level of the software development process, DevOps engineers can
-                    implement more security measures.</p>
+                <p>SAP developers can help streamline business processes, reducing
+                    inefficiencies and increasing the bottom line
+                    </p>
                 </div>
               <!-- /.card-body -->
             </div>
@@ -199,13 +203,13 @@
           <!-- /.card -->
           <div class="card accordion-item">
             <div class="card-header" id="accordion-heading-2-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Flexibility</button>
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Better Customer Satisfaction</button>
             </div>
             <!-- /.card-header -->
             <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
               <div class="card-body">
-                <p>As remote DevOps engineers can work from any location, scheduling and
-                    working hours are more flexible.</p>
+                <p>With the help of SAP developers, companies can provide better customer
+                    experiences leading to increased customer satisfaction. </p>
                 </div>
               <!-- /.card-body -->
             </div>
@@ -241,8 +245,9 @@
   <div class="container py-14 py-md-16 text-center">
     <div class="row">
       <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-        <h2 class="fs-15 text-uppercase text-muted mb-3">Hassle-free Steps to Hire DevOps Engineers</h2>
-        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire the best DevOps Engineers for your organization.</h3>
+        <h2 class="fs-15 text-uppercase text-muted mb-3">Steps to Hire SAP Developers</h2>
+        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire the best SAP Developers for your
+            organization.</h3>
       </div>
       <!-- /column -->
     </div>
@@ -322,28 +327,27 @@
  
   <!--section starts-->
 
-<section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-orange">
     <div class="container py-14 py-md-16">
         <div class="row">
             <div class="col-lg-11 col-xxl-10 mx-auto text-center">
               <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
-              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Remote DevOps Engineers for your Competitive Business</h3>
-              <p>DevOps engineers are essential for the development of modern applications.
-                With an emphasis on continuous integration, delivery, and deployment, they
-                seek to automate and simplify the software development process. DevOps
-                engineers may shorten the software development cycle and accelerate the
-                release of new features and products by utilizing automated technologies and
-                procedures. Organizations may be able to remain competitive and respond
-                rapidly to market changes because to this greater efficiency.<br><br>
-                DevOps engineers strive to improve reliability in addition to increasing
-                efficiency. To make sure that software is stable and efficient, they utilize
-                testing and monitoring technologies. This can reduce the risk of expensive
-                outages and decrease downtime. DevOps Engineers can help narrow the
-                communication and coordination gaps between the development and
-                operations teams by collaborating closely with both teams.
-                  
+              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Remote SAP Developers with<br>RapidBrains</h3>
+              <p>SAP developers work closely with other members of the development team as
+                well as stakeholders from various departments, to understand their needs and
+                design solutions that meet their objectives. This requires strong
+                communication and collaboration skills as well as the ability to think creatively
+                and solve complex problems. They are equipped to handle complex projects
+                and deliver innovative solutions that meet the unique needs of each client. Our
+                SAP developers have extensive experience in SAP implementation,
+                customization and support, and they are committed to delivering results that
+                exceed expectations. With a strong focus on quality and customer satisfaction,
+                our SAP developers are the best choice for your next SAP project. At
+                RapidBrains, we partner with clients to help them find the right SAP
+                developers for their needs and ensure they have access to the support and
+                resources they need to be successful. Hire dedicated top-notch SAP developers
+                from RapidBrains for your business’ SAP development needs.
                 </p>
-                
             </div>
             <!--/column -->
           </div>
@@ -358,10 +362,6 @@
 
 
 
-
-<!--section starts-->
-
-<!--section starts-->
 @include('services.logo')
 <!-- /section -->
 
@@ -372,3 +372,4 @@
 
 <!--section starts-->
 @endsection
+<!--section ends-->

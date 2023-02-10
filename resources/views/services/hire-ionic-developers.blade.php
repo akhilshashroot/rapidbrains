@@ -13,7 +13,7 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="https://sandbox.elemisthemes.com/assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Ionic-image.jpg')}}" srcset="{{asset('assets/img/services/Ionic-image.jpg')}} 2x" alt=""></figure>
           </div>
           <div class="item">
             <figure class="rounded shadow"><img src="{{asset('assets/img/services/Ionic.png')}}" srcset="{{asset('assets/img/services/Ionic.png')}}" alt=""></figure>
@@ -96,7 +96,7 @@
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
+				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
 				<a  href="https://talents.rapidbrains.com/filter?skill=Ionic" class="btn btn-primary rounded-pill">Show Talents</a>
 			</div>
             </div>
