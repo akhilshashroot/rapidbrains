@@ -46,7 +46,17 @@
     border-color: #343f52  !important;
   
 }
+.ccs{
+  margin-top: -4rem;
+}
 } 
+
+@media (min-width: 992px){
+.px-lg-33 {
+    padding-right: 0.1rem !important;
+    padding-left: 0.1rem !important;
+}
+}
 </style>
 <!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
@@ -67,7 +77,7 @@
           <div class="container pt-18 pt-lg-21 pb-17 pb-lg-19 text-center">
             <div class="row">
               <div class="col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto" data-cues="zoomIn" data-group="page-title" data-interval="-200" data-delay="500" data-disabled="true">
-                <h2 class="h6 text-uppercase ls-xl text-white mb-5" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 500ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h2>
+                <!-- <h2 class="h6 text-uppercase ls-xl text-white mb-5" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 500ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h2> -->
                 <h3 class="display-1 fs-54 text-white mb-7" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1000ms; animation-direction: normal; animation-fill-mode: both;">Talent marketplace to hire the best remote developers 
 </h3>
 <span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1200ms; animation-direction: normal; animation-fill-mode: both;"><a class="btn btn-primary rounded me-2 hed"  style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1500ms; animation-direction: normal; animation-fill-mode: both;" href="https://talents.rapidbrains.com/">Hire Talents</a>     </span>             </div>
@@ -85,17 +95,17 @@
 <!-- /section -->
 
 
-<section class="wrapper bg-light">
-<div class="row mt-11">
+<section class="wrapper bg-light ccs">
+
+  <div class="container py-14 py-md-16 psb">
+  <div class="row mt-11">
 			<div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">We served 1200+ companies from 80+ countries in 14 years</p>
+				<p class="lead mb-5 px-md-16 px-lg-33">We served 1200+ companies from 80+ countries in 14 years</p>
 		
 			</div>
 			<!-- /column -->
 		</div>
-  <div class="container py-14 py-md-16 psb">
- 
     <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
       <div class="swiper">
         <div class="swiper-wrapper">
@@ -118,7 +128,7 @@
   <!-- /.container -->
 </section>
 
-<section class="wrapper bg-light" style="margin-top: -4rem;">
+<section class="wrapper bg-light" style="margin-top:-4rem;" >
   <div class="container py-14 py-md-16">
     <div class="row">
       <div class="col-lg-8 col-xl-7 col-xxl-6">
