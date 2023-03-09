@@ -83,11 +83,46 @@
       </section>
     
 <!-- /section -->
+
+
 <section class="wrapper bg-light">
+<div class="row mt-11">
+			<div class="col-lg-6 col-xl-5 mx-auto text-center">
+				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
+				<p class="lead mb-5 px-md-16 px-lg-3">We served 1200+ companies from 80+ countries in 14 years</p>
+		
+			</div>
+			<!-- /column -->
+		</div>
+  <div class="container py-14 py-md-16 psb">
+ 
+    <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.png')}}" alt="" /></div>
+       
+        </div>
+        <!--/.swiper-wrapper -->
+      </div>
+      <!-- /.swiper -->
+    </div>
+    <!-- /.swiper-container -->
+  </div>
+  <!-- /.container -->
+</section>
+
+<section class="wrapper bg-light" style="margin-top: -4rem;">
   <div class="container py-14 py-md-16">
     <div class="row">
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <h3 class="display-4 mb-9">Yes, the future of work is remote!</h3>
+        <h3 class="display-4 mb-9">The future of work is remote</h3>
       </div>
       <!-- /column -->
     </div>
@@ -310,30 +345,6 @@
 <!-- /section -->
 <!--pricing ends-->
 
-<section class="wrapper bg-light">
-  <div class="container py-14 py-md-16 psb">
-    <h2 class="fs-15 text-uppercase text-muted text-center mb-8">Trusted by over 1200 clients</h2>
-    <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
-      <div class="swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.png')}}" alt="" /></div>
-       
-        </div>
-        <!--/.swiper-wrapper -->
-      </div>
-      <!-- /.swiper -->
-    </div>
-    <!-- /.swiper-container -->
-  </div>
-  <!-- /.container -->
-</section>
 
 <!--Join Us Starts-->
                         
