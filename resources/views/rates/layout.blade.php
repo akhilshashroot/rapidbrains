@@ -25,6 +25,7 @@
   font-weight:500 !important;
 
 }
+
 .dropdown-toggle::after {
     font-family: "Unicons" !important;
     display: inline-block !important;
@@ -54,31 +55,7 @@
     padding-top: 17rem !important;
 }
 }
-    .cs {
-
-    min-height: 125px !important;
-}
-    .mt-3{
-        color:#fff !important;
-
-    }
-    .swal2-popup .swal2-styled.swal2-confirm {
-
-    background-color:  #F68A77  !important;
-   }
-   .swal2-content,.swal2-animate-success-icon{
-    display:none !important;
-   }
-   .swal2-title{
-    font-size: 15px !important;
-   }
-   .swal2-popup .swal2-title{
-    letter-spacing: .025rem !important;
-    font-weight: 400 !important;
-   }
-   .bg-dark {
-    background:  #F68A77  !important;
-  }
+ 
   .text-light{
     color:#fff;
   }
@@ -119,13 +96,7 @@
 }
 
 
-@media only screen and (max-width: 768px){
-    html,
-    body{
-    width:100%;
-    overflow-x:hidden;
-    }
-}
+
 
 
 @media only screen and (max-width: 600px){
@@ -204,12 +175,7 @@ div.dataTables_wrapper div.dataTables_filter input {
     .btn.btn-sm {
     min-width: 5rem !important;
 }
-   .btn:hover
-  {
-  background-color:#000000  !important;
-  border-color: #000000  !important;
 
-  } 
    .btn.new,.checker,.remover,.new
   {
  
@@ -270,7 +236,7 @@ input[type=search]:focus {
       <!--Header Starts  -->
       <!--Header Starts  -->
 
-      @include('rates.header')
+      @include('header')
 
     
    
@@ -354,7 +320,7 @@ input[type=search]:focus {
             </div>
             <!-- /.row -->
             <div class="d-flex justify-content-center">
-              <span><a class="btn btn-white rounded" id="callbackreq">Request a call back</a></span>
+              <span><a class="btn btn-white rounded csk" id="callbackreq">Request a call back</a></span>
             </div>
           </div>
           <!--/.card-body -->
@@ -369,7 +335,7 @@ input[type=search]:focus {
     </section>
 
 
-  @include('rates.footer')
+  @include('footer')
  
 
 
@@ -508,35 +474,10 @@ input[type=search]:focus {
   <!--</div>-->
 
 
-  <script src="https://talents.rapidbrains.com/stakefield/vendors/jquery/jquery-2.1.4.min.js"></script>
-
-<!-- <script src="https://code.jquery.com/jquery-3.5.1.min.js"
-    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script> -->
-<!-- Vendor Scripts -->
-<script src="https://www.google.com/recaptcha/api.js?render=6LdCYXQgAAAAAGJDbZqCi-9I1LeUghbJwSEw2mKj"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/tether/dist/js/tether.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/bootstrap/js/bootstrap.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/stellar/jquery.stellar.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/isotope/javascripts/isotope.pkgd.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/isotope/javascripts/packery-mode.pkgd.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/owl-carousel/dist/owl.carousel.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/waypoint/waypoints.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/counter-up/jquery.counterup.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/fancyBox/source/jquery.fancybox.pack.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/fancyBox/source/helpers/jquery.fancybox-thumbs.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/image-stretcher-master/image-stretcher.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/wow/wow.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/rateyo/jquery.rateyo.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/bootstrap-slider-master/src/js/bootstrap-slider.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/js/mega-menu.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/vendors/retina/retina.min.js"></script>
-<script src="https://talents.rapidbrains.com/stakefield/js/jquery.validate.js"></script>
-
-<!-- Custom Script -->
-<script src="https://talents.rapidbrains.com/stakefield/js/jquery.main.js"></script>
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
 
  <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
   <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>  --> 
@@ -621,7 +562,6 @@ $(function () {
 });
 </script>
 
- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
  <script>
     $("#enquirenowForm").validate({
  rules: {
@@ -938,29 +878,7 @@ function enableBtn(){
  })
  </script>
  <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
- <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "RapidBrains",
-  "url": "https://www.rapidbrains.com",
-  "logo": "https://www.rapidbrains.com/assets/img/RapidBrains-logo.svg",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "9778426319",
-    "contactType": "sales",
-    "areaServed": "IN",
-    "availableLanguage": "en"
-  },
-  "sameAs": [
-    "https://www.facebook.com/rapidbrains",
-    "https://twitter.com/rapidbrains",
-    "https://www.instagram.com/_rapidbrains/",
-    "https://www.youtube.com/channel/UCA0r0At5LeSDxqQ52POEpgQ",
-    "https://www.linkedin.com/company/rapidbrains"
-  ]
-}
-</script>
+ 
 </body>
 
 </html>

@@ -96,7 +96,7 @@
                  
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link" href="https://jobs.rapidbrains.com/">Active Contracts</a>
+                    <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
                   </li>
                  <!-- mega starts -->
 

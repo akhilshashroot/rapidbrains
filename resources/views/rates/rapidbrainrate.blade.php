@@ -130,27 +130,21 @@ thead {
     content: "#";
   }
   td:nth-of-type(2):before {
-    content: "Talent ID";
+    content: "Tech Stack";
   }
   td:nth-of-type(3):before {
-    content: "Skillset";
+    content: "1 to 3 Years";
   }
   td:nth-of-type(4):before {
-    content: "Exp";
+    content: "3 to 5 Years";
   }
   td:nth-of-type(5):before {
-    content: "TAT";
+    content: "5 to 8 Years";
   }
   td:nth-of-type(6):before {
-    content: "Availability";
+    content: "8+ Years";
   }
-  td:nth-of-type(7):before {
-    content: "Rate (USD)";
-  }
-  td:nth-of-type(8):before {
-    content: "Action";
-  }
-  
+
   .dataTables_length {
     display: none;
   }
