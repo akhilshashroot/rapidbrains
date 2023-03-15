@@ -136,17 +136,15 @@ thead {
     content: "Tech Stack";
   }
   td:nth-of-type(4):before {
-    content: "1 to 3 Years";
+    content: "Junior";
   }
   td:nth-of-type(5):before {
-    content: "3 to 5 Years";
+    content: "Senior";
   }
   td:nth-of-type(6):before {
-    content: "5 to 8 Years";
+    content: "Expert";
   }
-  td:nth-of-type(7):before {
-    content: "8+ Years";
-  }
+
 
   .dataTables_length {
     display: none;
@@ -206,10 +204,10 @@ thead {
           <th scope="col" >Title</th>
 
           <th scope="col" >Tech Stack</th>
-          <th scope="col" >1 to 3 Years </th>
-          <th scope="col" >3 to 5 Years </th>
-          <th scope="col" >5 to 8 Years</th>
-          <th scope="col" >8+ Years </th>
+          <th scope="col" >Junior</th>
+          <th scope="col" >Senior </th>
+          <th scope="col" >Expert</th>
+          
          
            
         </tr>

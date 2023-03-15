@@ -33,9 +33,6 @@ class CustomSearchController extends Controller
             }elseif($request->order[0]['column']==5){
                 $col='fiveto8';
                 $dec=$request->order[0]['dir'];
-            }elseif($request->order[0]['column']==6){
-                $col='eightplus';
-                $dec=$request->order[0]['dir'];
             }
            
           
@@ -110,8 +107,8 @@ class CustomSearchController extends Controller
                             }
                               $w->orWhere('oneto3', 'LIKE', "%$search%")
                                 ->orWhere('threeto5', 'LIKE', "%$search%")
-                                ->orWhere('fiveto8', 'LIKE', "%$search%")
-                                ->orWhere('eightplus', 'LIKE', "%$search%");
+                                ->orWhere('fiveto8', 'LIKE', "%$search%");
+                           
                             });
                       //  }
                         }

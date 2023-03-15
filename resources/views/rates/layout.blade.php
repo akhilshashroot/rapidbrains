@@ -537,10 +537,10 @@ $(function () {
             {data: 'title',  width: '220px',name: 'title'},
 
             {data: 'tech_stack',  width: '420px',name: 'tech_stack'},
-            {data: 'oneto3', width: '220px', name: 'oneto3'},
-            {data: 'threeto5', width:'220px',name: 'threeto5'},
-            {data: 'fiveto8', name: 'fiveto8', width:'220px'},
-            {data: 'eightplus', name: 'eightplus', width:'220px'},
+            {data: 'oneto3', width: '150px', name: 'oneto3'},
+            {data: 'threeto5', width:'150px',name: 'threeto5'},
+            {data: 'fiveto8', name: 'fiveto8', width:'150px'},
+         
         
 
             
