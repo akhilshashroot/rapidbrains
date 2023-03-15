@@ -18,24 +18,28 @@ class CustomSearchController extends Controller
               $col='updated_at';
               $dec='desc';
             }elseif($request->order[0]['column']==1){
+                $col='title';
+                $dec=$request->order[0]['dir'];
+            }
+            elseif($request->order[0]['column']==2){
               $col='tech_stack';
               $dec=$request->order[0]['dir'];
-            }elseif($request->order[0]['column']==2){
+            }elseif($request->order[0]['column']==3){
                 $col='oneto3';
                 $dec=$request->order[0]['dir'];
-            }elseif($request->order[0]['column']==3){
+            }elseif($request->order[0]['column']==4){
                 $col='threeto5';
                 $dec=$request->order[0]['dir'];
-            }elseif($request->order[0]['column']==4){
+            }elseif($request->order[0]['column']==5){
                 $col='fiveto8';
                 $dec=$request->order[0]['dir'];
-            }elseif($request->order[0]['column']==5){
+            }elseif($request->order[0]['column']==6){
                 $col='eightplus';
                 $dec=$request->order[0]['dir'];
             }
            
           
-            $data = Rate::select( 'rates.tech_stack','rates.oneto3','rates.threeto5',
+            $data = Rate::select('rates.title', 'rates.tech_stack','rates.oneto3','rates.threeto5',
             'rates.fiveto8','rates.eightplus')
             ->orderby($col,$dec);
             return Datatables::of($data)
@@ -66,7 +70,7 @@ class CustomSearchController extends Controller
                             // foreach($searches as $searcher){
                              $instance->where(function($w) use($request,$searches){
                                 $search = $request->get('search');
-                                $w->orWhere('tech_stack', 'LIKE', "%$search%");
+                                $w->orWhere('title', 'LIKE', "%$search%");
                               //$w->Where('skill_data', 'LIKE', "%$searches[0]%");
                                 for($i=0;$i<count($searches);$i++){
                                     Log::debug($i);

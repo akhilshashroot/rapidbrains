@@ -3,7 +3,7 @@
 		<div class="row text-center">
 			<div class="col-xl-10 mx-auto">
 				<h2 class="fs-15 text-uppercase text-primary mb-3">Hire RapidBrains Developers</h2>
-				<h3 class="display-4 mb-10 px-xxl-15">We’re always searching for amazing people to join our team. Take a look at our talent pool.</h3>
+				<h3 class="display-4 mb-10 px-xxl-15">Hire the best talent in every technology. Take a look at our talent pool.</h3>
 			</div>
 			<!-- /column -->
 		</div>

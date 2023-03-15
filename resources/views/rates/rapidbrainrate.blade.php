@@ -130,18 +130,21 @@ thead {
     content: "#";
   }
   td:nth-of-type(2):before {
-    content: "Tech Stack";
+    content: "Title";
   }
   td:nth-of-type(3):before {
-    content: "1 to 3 Years";
+    content: "Tech Stack";
   }
   td:nth-of-type(4):before {
-    content: "3 to 5 Years";
+    content: "1 to 3 Years";
   }
   td:nth-of-type(5):before {
-    content: "5 to 8 Years";
+    content: "3 to 5 Years";
   }
   td:nth-of-type(6):before {
+    content: "5 to 8 Years";
+  }
+  td:nth-of-type(7):before {
     content: "8+ Years";
   }
 
@@ -200,6 +203,8 @@ thead {
       <thead class="tdhcc">
         <tr>
           <th scope="col">#</th>
+          <th scope="col" >Title</th>
+
           <th scope="col" >Tech Stack</th>
           <th scope="col" >1 to 3 Years </th>
           <th scope="col" >3 to 5 Years </th>

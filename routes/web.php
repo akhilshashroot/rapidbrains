@@ -86,4 +86,4 @@ Route::get('/hire-salesforce-developers', [AdditionalPagesController::class, 'hi
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
 
 
-Route::get('/rates', [App\Http\Controllers\CustomSearchController::class, 'index'])->name('customsearch.index');
+Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'index'])->name('customsearch.index');

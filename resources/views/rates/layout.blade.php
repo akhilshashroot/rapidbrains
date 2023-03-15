@@ -517,7 +517,7 @@ $(function () {
         scrollX: true,
         "pageLength": 25,
         language: {
-        searchPlaceholder: "Search for Tech stack here",
+        searchPlaceholder: "Search for title or tech stack here",
         search: "",
         emptyTable: "No profiles available",
 
@@ -534,6 +534,8 @@ $(function () {
         },
         columns: [
             { data: 'DT_RowIndex', DT_RowIndex: 'DT_RowIndex',  orderable: false, searchable: false },
+            {data: 'title',  width: '220px',name: 'title'},
+
             {data: 'tech_stack',  width: '420px',name: 'tech_stack'},
             {data: 'oneto3', width: '220px', name: 'oneto3'},
             {data: 'threeto5', width:'220px',name: 'threeto5'},
