@@ -18,7 +18,7 @@ table.dataTable td:nth-child(2){
     display:none;
   }
   .w3-container{
-    padding: 2rem;
+    padding: 0rem;
     position: relative;
     }
   .btn-enquiry{

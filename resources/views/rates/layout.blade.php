@@ -17,30 +17,14 @@
     @yield('css_after')
 </head>
 <style>
-    .grecaptcha-badge{
-    display:none;
-}
-.dropdown-item{
-  color:#596273 !important;
-  font-weight:500 !important;
-
-}
-
-.dropdown-toggle::after {
-    font-family: "Unicons" !important;
-    display: inline-block !important;
-    margin-left: 0.05rem !important;
-    vertical-align: -3px !important;
-    font-weight: 700 !important;
-    content: "" !important;
-    border: 0 !important;
-    content: "\e92d" !important;
-}
 .error{
   color:#ff0000 !important;
   padding: 1.6rem 1rem !important;
 }
 
+.nav-link:hover {
+  color: #3f78e0 !important;
+}
 
 @media only screen and (min-width: 768px){
  
@@ -55,7 +39,31 @@
     padding-top: 17rem !important;
 }
 }
- 
+    .cs {
+
+    min-height: 125px !important;
+}
+    .mt-3{
+        color:#fff !important;
+
+    }
+    .swal2-popup .swal2-styled.swal2-confirm {
+
+    background-color:  #F68A77  !important;
+   }
+   .swal2-content,.swal2-animate-success-icon{
+    display:none !important;
+   }
+   .swal2-title{
+    font-size: 15px !important;
+   }
+   .swal2-popup .swal2-title{
+    letter-spacing: .025rem !important;
+    font-weight: 400 !important;
+   }
+   .bg-dark {
+    background:  #F68A77  !important;
+  }
   .text-light{
     color:#fff;
   }
@@ -96,7 +104,13 @@
 }
 
 
-
+@media only screen and (max-width: 768px){
+    html,
+    body{
+    width:100%;
+ 
+    }
+}
 
 
 @media only screen and (max-width: 600px){
@@ -142,7 +156,7 @@ div.dataTables_wrapper div.dataTables_filter input {
             width: 100%;
             /* Height of the footer*/ 
             height: 60px;
-            background: #ff5f7a;
+            background: #F68A77;
         }
 
 
@@ -175,17 +189,22 @@ div.dataTables_wrapper div.dataTables_filter input {
     .btn.btn-sm {
     min-width: 5rem !important;
 }
+   /* .btn:hover
+  {
+  background-color:#000000  !important;
+  border-color: #000000  !important;
 
+  }  */
    .btn.new,.checker,.remover,.new
   {
  
-  border-color: #343f52  !important;
+  border-color: #3f78e0  !important;
 
   }
   .checker,.remover
   {
   
-    border-color: #343f52  !important;
+    border-color: #3f78e0  !important;
 
   }
   table.dataTable td {
@@ -214,20 +233,6 @@ table.dataTable th {
 input[type=search]:focus {
   border: 1px solid rgba(63,120,224,.7);
 }
-@media (min-width: 768px){
-.pt-md-23 {
-    padding-top: 3.5rem !important;
-}
-}
-
-@media (max-width: 720px){
-.pb-14 {
-    padding-bottom: 1.5rem !important;
-}
-.pt-1444 {
-    padding-top: -1.5rem !important;
-}
-}
 </style>
 
 
@@ -236,7 +241,7 @@ input[type=search]:focus {
       <!--Header Starts  -->
       <!--Header Starts  -->
 
-      @include('header')
+      @include('header2')
 
     
    
@@ -245,33 +250,46 @@ input[type=search]:focus {
 
 
 
-  <section class="wrapper bg-gray">
-     <div class="container pt-10 pt-md-14 pb-14 pb-md-0">
-        <div class="row gx-md-8 gx-lg-12 gy-3 gy-lg-0 mb-13">
-          <div class="col-lg-6">
-            <h1 class="display-1 fs-60 lh-xxs mb-0">If you have projects, we got the talents!</h1>
-          </div>
-          <!-- /column -->
-          <div class="col-lg-6">
-            <p class="lead fs-22 my-3">Creating opportunity for everyone by connecting the right talents to the right organisations around the world.</p>
-           
+  <section class="wrapper image-wrapper bg-image  text-black" data-image-src="./assets/img/photos/RapidBrains-BG.jpg" style="background-image: url('./assets/img/photos/RapidBrains-BG.jpg');">
+      <div class="container pt-17 pb-20 pt-md-19 pb-md-21 text-center">
+        <div class="row">
+          <div class="col-md-10 col-xl-8 mx-auto">
+            <div class="post-header">
+            <h3 class="display-1 mb-3" id="pos">Rate Card </h3>
+              <!-- /.post-meta -->
+            </div>
+            <!-- /.post-header -->
           </div>
           <!-- /column -->
         </div>
         <!-- /.row -->
-        <div class="position-relative">
-          <div class="shape bg-dot primary rellax w-17 h-21" data-rellax-speed="1" style="top: -2.5rem; right: -2.7rem;"></div>
-          <figure class="rounded mb-md-n20"><img src="{{asset('assets/img/photos/about18@2x.jpg')}}" srcset="./assets/img/photos/about18@2x.jpg 2x" alt="" /></figure>
-        </div>
       </div>
-
-</section>
+      <!-- /.container -->
+    </section>
 <!-- /section -->
 <section class="wrapper bg-light">
-      <div class="container pt-1444 pt-md-23 pb-14 pb-md-17">
-</div>
+      <div class="container pb-14 pb-md-16">
+        <div class="row">
+          <div class="col-lg-12 mx-auto">
+            <div class="blog single mt-n17">
+              <div class="card shadow-lg">
+                <div class="card-body">
+             
+                @include('rates.rapidbrainrate') 
 
-</section>
+                </div>
+                <!-- /.card-body -->
+              </div>
+              <!-- /.card -->
+            </div>
+            <!-- /.blog -->
+          </div>
+          <!-- /column -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
     <!--Hero Image Ends-->
     <!-- <section class="wrapper bg-light">
       <div class="container pb-15 pb-md-17">
@@ -289,7 +307,6 @@ input[type=search]:focus {
 
            
 
-                @include('rates.rapidbrainrate') 
 
 
 
