@@ -18,7 +18,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Angular Developers | Remote Angular Developers";
 		$data['keywords']= "Hire Angular Developer, Hire AngularJS developer, Angular web development team, Angular programmer for hire, hire remote Angular developer, Angular development, Hire full-stack Angular developer,Professional AngularJS developer";
 		$data['description']= "Hire remote angular developers from RapidBrains to build your remote team that will enhance your business productivity. Hire Angular developers in easy steps!";
-        $data['canonical']= "https://www.rapidbrains.comhire-remote-angular-developers/";
+        $data['canonical']= "https://www.rapidbrains.com/hire-angular-developers";
         return view('services.hire-angular-developers',compact('data'));
     }
 
@@ -42,7 +42,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Blockchain Developers | Remote Blockchain Developers";
 		$data['keywords']= "Blockchain developer hiring, hire blockchain developer, Hire remote Blockchain developer, Hire Blockchain development team, Blockchain programmer for hire, Hire blockchain solutions architect, Find blockchain developer, Professional blockchain developer";
 		$data['description']= "Rapidbrains helps you hire remote blockchain developers from the pool of skilled blockchain developers. Hire blockchain developers to team up your talents.";
-        $data['canonical']= "https://www.rapidbrains.com/hire-remote-blockchain-developers";
+        $data['canonical']= "https://www.rapidbrains.com/hire-blockchain-developers";
         return view('services.hire-blockchain-developers',compact('data'));
     }
 
@@ -202,7 +202,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire ReactJS Developers - Remote ReactJS Developers";
 		$data['keywords']= "hire react developer, hire remote react developer, hire React web development team, React software development, React application development, hire React web developer, hire React programmers, React web application programming, React app development, remote hiring solution";
 		$data['description']= "Hire Dedicated ReactJS Developers from Our Pool of Professional Remote Talents! Hire Remote Engineers and Expand Your Team with RapidBrains.";
-        $data['canonical']= "https://www.rapidbrains.com/hire-react-js-developer";
+        $data['canonical']= "https://www.rapidbrains.com/hire-react-js-developers";
         return view('services.hire-react-js-developers',compact('data'));
     }
 
@@ -224,7 +224,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Python Developers - Remote Python Developers";
 		$data['keywords']= "hire python developer, hire remote python developer, hire Python software development team, Python app development, Python web development, hire Python software developer, Python application development, hire Python programmers, Python web application programming, hire developers";
 		$data['description']= "Get top-notch Python development services by hiring qualified Python developers from RapidBrains. Our team of talented developers has experience building scalable, effective, and high-performance applications.";
-        $data['canonical']= "https://www.rapidbrains.com/ hire-python-developers";
+        $data['canonical']= "https://www.rapidbrains.com/hire-python-developers";
         return view('services.hire-python-developers',compact('data'));
     }
 
