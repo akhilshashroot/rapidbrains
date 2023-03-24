@@ -1,13 +1,5 @@
 <header class="wrapper">
-        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J34VMBKSQY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-J34VMBKSQY');
-</script>
         <nav class="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark px-md-10 px-xxl-0">
           <div class="container flex-lg-row flex-nowrap align-items-center">
             <div class="navbar-brand w-100">

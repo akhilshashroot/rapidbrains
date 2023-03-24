@@ -1,14 +1,6 @@
 <header class="wrapper bg-gray">
     
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J34VMBKSQY"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-J34VMBKSQY');
-</script>
 
       <nav class="navbar navbar-expand-lg fancy navbar-light navbar-bg-light caret-none">
         <div class="container">

@@ -16,6 +16,14 @@
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-37SPRD22NF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-37SPRD22NF');
+</script>
 <style>
     .grecaptcha-badge{
     display:none;
