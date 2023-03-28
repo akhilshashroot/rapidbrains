@@ -11,9 +11,9 @@
   <link rel="canonical"  href="@if(isset($data['canonical'])){{$data['canonical']}}@else https://www.rapidbrains.com @endif" />
   <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
   <link rel="shortcut icon" href="{{asset('assets/img/favicon.png')}}">
-  <link rel="stylesheet" href="{{asset('assets/css/plugins.css')}}">
-  <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/colors/navy.css')}}">
+  <link rel="stylesheet"   href="{{asset('assets/css/plugins-home.css')}}">
+  <link rel="stylesheet"   rel="preload"   href="{{asset('assets/css/style-home.css')}}"  as="style">
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');"  href="{{asset('assets/css/colors/navy.css')}}">
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
@@ -29,6 +29,9 @@
 <style>
 .grecaptcha-badge{
     display:none;
+}
+.ms-auto {
+     margin-left: auto !important; 
 }
 .dropdown-item{
   color:#596273 !important;
@@ -208,7 +211,7 @@
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
 
-  <script src="{{asset('assets/js/plugins.js')}}"></script>
+  <script src="{{asset('assets/js/plugins-home.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
@@ -219,12 +222,12 @@
 
   </div>
   </div>
- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
  <script>
 $(window).scroll(function(){
-  console.log($(this).scrollTop());
+  
     if ($(this).scrollTop() > 400) {
-      console.log("yesssss");
+    
        $('#enquirenowID').addClass('ssk');
        $('#enquirenowID').removeClass('hed');
        $('#light').hide();
@@ -264,9 +267,7 @@ $(window).scroll(function(){
  maxlength: "The email name should less than or equal to 50 characters",
  },
  },
- success: function (label, element) {
-        grecaptcha.execute();
-        },
+
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
@@ -284,11 +285,7 @@ $(window).scroll(function(){
     if(response.status == 'notok') {
         $('#submit').html('Submit');
         $("#submit"). attr("disabled", false);
-        if(response.data['g-recaptcha-response']) {
-            var msg = response.data['g-recaptcha-response'][0];
-        } else {
-            var msg = 'something went wrong';
-        }
+       
  swal({
  title: 'Sorry',
  text: msg,
