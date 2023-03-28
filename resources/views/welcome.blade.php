@@ -786,7 +786,7 @@
     padding-bottom: 1rem !important;">
       
     
-     <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
+     <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" id="lazy" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
         <div class="card-body">
           <div class="row text-center">
             <div class="col-xl-11 col-xxl-9 mx-auto">

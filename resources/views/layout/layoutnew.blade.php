@@ -210,9 +210,8 @@
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
-
   <script src="{{asset('assets/js/plugins-home.js')}}"></script>
-  <script src="{{asset('assets/js/theme.js')}}"></script>
+  <script src="{{asset('assets/js/theme-home.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
 
@@ -498,7 +497,9 @@ function enableBtn(){
         grecaptcha.execute();
         }
  })
-
+ $(function() {
+        $('#lazy').lazy();
+    });
  function fileValidation() {
         $(".invalid-feedback-file").css('display','none');
         var fileInput =
@@ -575,6 +576,8 @@ function enableBtn(){
   ]
 }
 </script>
+
+
 </body>
 
 </html>
