@@ -121,7 +121,7 @@
                 
               <li class="nav-item"><a class="btn btn-primary btn-sm rounded-pill hed" id="enquirenowID">Enquire</a></li>
                 <li class="nav-item d-lg-none">
-                  <button class="hamburger offcanvas-nav-btn" fdprocessedid="kp0m6b"><span></span></button>
+                  <button class="hamburger offcanvas-nav-btn" aria-label="enquire button"><span></span></button>
                 </li>
               </ul>
               <!-- /.navbar-nav -->

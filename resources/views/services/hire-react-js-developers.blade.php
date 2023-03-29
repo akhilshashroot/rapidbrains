@@ -165,11 +165,11 @@
         <div class="col-lg-6">
             <div id="accordion-2" class="accordion-wrapper">
                 <div class="card accordion-item">
-                  <div class="card-header" id="accordion-heading-2-2">
-                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Scalability </button>
+                  <div class="card-header" id="accordion-heading-2-1">
+                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-1" aria-expanded="true" aria-controls="accordion-collapse-2-1">Scalability </button>
                   </div>
                   <!-- /.card-header -->
-                  <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
+                  <div id="accordion-collapse-2-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
                     <div class="card-body">
                       <p>We work with you to deliver sophisticated web software or single-page
                         applications with speed, scalability, and efficiency.</p>

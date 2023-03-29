@@ -7,11 +7,11 @@
             <img class="mb-4" src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo" width="200" style="margin-right:3rem;" />
             <p class="mb-4">© {{ date('Y') }} RapidBrains. <br class="d-none d-lg-block" />A HashRoot Company</p>
             <nav class="nav social ">
-               <a href="https://www.linkedin.com/company/rapidbrains"><i class="uil uil-linkedin"></i></a>
-              <a href="https://www.facebook.com/rapidbrains"><i class="uil uil-facebook-f"></i></a>
-              <a href="https://www.instagram.com/_rapidbrains/"><i class="uil uil-instagram"></i></a>
-             <a href="https://twitter.com/rapidbrains"><i class="uil uil-twitter"></i></a>
-            </nav>
+            <a href="https://www.linkedin.com/company/rapidbrains" aria-label="RapidBrains linkedin account"><i class="uil uil-linkedin"></i></a>
+              <a href="https://www.facebook.com/rapidbrains" aria-label="RapidBrains facebook Account"><i class="uil uil-facebook-f"></i></a>
+              <a href="https://www.instagram.com/_rapidbrains/"  aria-label="RapidBrains instagram Account"><i class="uil uil-instagram"></i></a>
+             <a href="https://twitter.com/rapidbrains" aria-label="RapidBrains twitter Account"><i class="uil uil-twitter"></i></a>
+              </nav>
             <!-- /.social -->
           </div>
           <!-- /.widget -->

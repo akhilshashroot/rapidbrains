@@ -222,6 +222,11 @@
 .collapse-link:hover {
   color: #3f78e0;
 }
+@media (max-width: 575.98px){
+.shape {
+    display: none;
+}
+}
 </style>
 
 <body>

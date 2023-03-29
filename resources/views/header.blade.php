@@ -131,7 +131,7 @@
                   <!-- /.social -->
                 
                 <li class="nav-item d-lg-none">
-                  <button class="hamburger offcanvas-nav-btn"><span></span></button>
+                  <button aria-label="enquire button" class="hamburger offcanvas-nav-btn"><span></span></button>
                 </li>
               </ul>
               <!-- /.navbar-nav -->
