@@ -5,7 +5,7 @@
     <div class="container">
         
         
-        <div class="card image-wrapper bg-full bg-image bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}" style="background-image: url({{asset('assets/img/photos/RapidBrains-footerbg.jpg')}});">        <div class="card-body p-10 p-xl-12">
+        <div class="card image-wrapper bg-full bg-image bg-image mb-14" id="lazy" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}" style="background-image: url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});">        <div class="card-body p-10 p-xl-12">
           <div class="row text-center">
           <div class="col-xl-11 col-xxl-9 mx-auto">
               <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>

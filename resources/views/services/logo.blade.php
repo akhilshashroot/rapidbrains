@@ -13,7 +13,7 @@
 				<a href="{{route('hire-angular-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Angular.png')}}" style="width:33px; height:33px"   alt=" " /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Angular.png')}}" style="width:33px; height:33px"   alt="angular"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							<p class="mb-1" style="font-size: small; align-content:center; padding-top: 9px;">Angular  </p>
@@ -26,7 +26,7 @@
 				<a href="{{route('hire-android-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Android.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Android.png')}}" style="width:33px; height:33px" alt="android"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -41,7 +41,7 @@
 				<a href="{{route('hire-asp-dot-net-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/ASP.NET.png')}}" style="width:33px; height:33px" alt="" />
+							<img src="{{asset('assets/img/rb-hire-tech-logos/ASP.NET.png')}}" style="width:33px; height:33px" alt="asp"  loading="lazy"/>
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -56,7 +56,7 @@
 				<a href="{{route('hire-aws-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-              <img src="{{asset('assets/img/rb-hire-tech-logos/AWS.png')}}" style="width: 34px;height: 38px;" alt="" />
+              <img src="{{asset('assets/img/rb-hire-tech-logos/AWS.png')}}" style="width: 34px;height: 38px;" alt="aws"  loading="lazy"/>
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -71,7 +71,7 @@
 				<a href="{{route('hire-back-end-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/back-end.png')}}" style="width: 32px;height: 35px;" alt="" />
+							<img src="{{asset('assets/img/rb-hire-tech-logos/back-end.png')}}" style="width: 32px;height: 35px;" alt="backend"  loading="lazy"/>
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -86,7 +86,7 @@
 				<a href="{{route('hire-c-sharp-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/C-Sharp.png')}}" style="width:33px; height:33px" alt="" />
+							<img src="{{asset('assets/img/rb-hire-tech-logos/C-Sharp.png')}}" style="width:33px; height:33px" alt="csharp"  loading="lazy"/>
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -101,7 +101,7 @@
 				<a href="{{route('hire-devops-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/DevOps.png')}}" style="width:33px;height: 37px;" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/DevOps.png')}}" style="width:33px;height: 37px;" alt="devops"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -116,7 +116,7 @@
 				<a href="{{route('hire-django-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Django.png')}}" style="width:33px;height: 37px;" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Django.png')}}" style="width:33px;height: 37px;" alt="django"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -131,7 +131,7 @@
 				<a href="{{route('hire-drupal-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Drupal.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Drupal.png')}}" style="width:33px; height:33px" alt="drupal"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -146,7 +146,7 @@
 				<a href="{{route('hire-remote-flutter-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Flutter.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Flutter.png')}}" style="width:33px; height:33px" alt="flutter"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -161,7 +161,7 @@
 				<a href="{{route('hire-front-end-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/front-end.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/front-end.png')}}" style="width:33px; height:33px" alt="frontend"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -176,7 +176,7 @@
 				<a href="{{route('hire-golang-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Golang.png')}}" style="width:33px;height: 36px;" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Golang.png')}}" style="width:33px;height: 36px;" alt="golang"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -191,7 +191,7 @@
 				<a href="{{route('hire-ionic-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Ionic.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Ionic.png')}}" style="width:33px; height:33px" alt="ionic"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -206,7 +206,7 @@
 				<a href="{{route('hire-java-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Java.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Java.png')}}" style="width:33px; height:33px" alt="java"  loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -221,7 +221,7 @@
 				<a href="{{route('hire-javascript-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/JavaScript.png')}}" style="width:32px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/JavaScript.png')}}" style="width:32px; height:33px" alt="javascript"   loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -236,7 +236,7 @@
 				<a href="{{route('hire-kotlin-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Kotlin.png')}}" style="width: 31px;height: 35px;" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Kotlin.png')}}" style="width: 31px;height: 35px;" alt="kotlin"   loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -251,7 +251,7 @@
 				<a href="{{route('hire-laravel-developers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Laravel.png')}}" style="width:33px; height:32px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Laravel.png')}}" style="width:33px; height:32px" alt="laravel"  loading="lazy" /> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
@@ -266,7 +266,7 @@
 				<a href="{{route('hire-machine-learning-engineers')}}" class="card shadow-lg lift h-51">
 					<div class="card-body p-3 d-flex flex-row">
 						<div>
-							<img src="{{asset('assets/img/rb-hire-tech-logos/Machine-Learning.png')}}" style="width:33px; height:33px" alt="" /> 
+							<img src="{{asset('assets/img/rb-hire-tech-logos/Machine-Learning.png')}}" style="width:33px; height:33px" alt="ml"   loading="lazy"/> 
 						</div> &nbsp;&nbsp;&nbsp;&nbsp;
 						<div>
 							
