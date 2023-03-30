@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -9,10 +9,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/MERN-image.jpg')}}" srcset="{{asset('assets/img/services/MERN-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mern-image.webp')}}" srcset="{{asset('assets/img/services/mern-image.webp')}} 2x" alt="mern-image"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/MERN.png')}}" srcset="{{asset('assets/img/services/MERN.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mern.webp')}}" srcset="{{asset('assets/img/services/mern.webp')}}" alt="mern"></figure>
           </div>
         </div>
       </div>
@@ -162,11 +162,11 @@
         <div class="col-lg-6">
             <div id="accordion-2" class="accordion-wrapper">
                 <div class="card accordion-item">
-                  <div class="card-header" id="accordion-heading-2-2">
-                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Customized Services</button>
+                  <div class="card-header" id="accordion-heading-2-1">
+                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-1" aria-expanded="true" aria-controls="accordion-collapse-2-1">Customized Services</button>
                   </div>
                   <!-- /.card-header -->
-                  <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
+                  <div id="accordion-collapse-2-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
                     <div class="card-body">
                       <p>Hire our skilled MERN Stack developers to develop feature-rich, effective web
                         apps for your company’s custom requirements.</p>
@@ -245,7 +245,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/requirements.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/requirements.webp')}}" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
                 <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
                 <p class="mb-2">Gathering the job responsibilities,
                     skills, and experience required for the position.</p>
@@ -258,7 +258,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/sourcing.webp')}}" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
                 <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
                 <p class="mb-2">Search through the pool of top talents to identify
                     suitable candidates matching the job specifications.</p>
@@ -271,7 +271,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/screening.webp')}}" style="width:50px; height:50px" alt="screening" loading="lazy"/>
                 <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
                 <p class="mb-2">Schedule interviews with the selected
                     candidates to evaluate their technical and soft skills and experience</p>
@@ -284,7 +284,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/onboarding.webp')}}" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
                 <!--svg-inject-->
                 <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
                 <p class="mb-2">Based on the evaluation, choose the best

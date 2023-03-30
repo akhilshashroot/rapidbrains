@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -9,10 +9,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Nodejs-image.jpg')}}" srcset="{{asset('assets/img/services/Nodejs-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/nodejs-image.webp')}}" srcset="{{asset('assets/img/services/nodejs-image.webp')}} 2x" alt="nodejs-image"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Nodejs.png')}}" srcset="{{asset('assets/img/services/Nodejs.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/nodejs.webp')}}" srcset="{{asset('assets/img/services/nodejs.webp')}}" alt="nodejs"></figure>
           </div>
         </div>
       </div>
@@ -163,11 +163,11 @@
         <div class="col-lg-6">
             <div id="accordion-2" class="accordion-wrapper">
                 <div class="card accordion-item">
-                  <div class="card-header" id="accordion-heading-2-2">
-                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Custom NodeJS Services</button>
+                  <div class="card-header" id="accordion-heading-2-1">
+                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-1" aria-expanded="true" aria-controls="accordion-collapse-2-1">Custom NodeJS Services</button>
                   </div>
                   <!-- /.card-header -->
-                  <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
+                  <div id="accordion-collapse-2-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
                     <div class="card-body">
                       <p>Our skilled team of NodeJS developers can provide you with specialized
                         services that are tailored to your specific company requirements.</p>
@@ -243,7 +243,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/requirements.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/requirements.webp')}}" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
                 <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
                 <p class="mb-2">Gathering the job responsibilities,
                     skills, and experience required for the position.</p>
@@ -256,7 +256,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/sourcing.webp')}}" style="width:50px; height:50px" alt="sourcing"  loading="lazy"/>
                 <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
                 <p class="mb-2">Search through the pool of top talents to identify
                     suitable candidates matching the job specifications.</p>
@@ -269,7 +269,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/screening.webp')}}" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
                 <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
                 <p class="mb-2">Schedule interviews with the selected
                     candidates to evaluate their technical and soft skills and experience</p>
@@ -282,7 +282,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/onboarding.webp')}}" style="width:50px; height:50px" alt="onboarding"  loading="lazy"/>
                 <!--svg-inject-->
                 <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
                 <p class="mb-2">Based on the evaluation, choose the best
@@ -306,130 +306,7 @@
   <!--section ends-->
 
 
-  <section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
-  <div class="container py-14 py-md-5">
-    <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring NodeJS Developers</h2>
-    <!--<p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>-->
-    <div class="row">
-      <div class="col-lg-6 mb-0">
-        <div id="accordion-1" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-1">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Improved Efficiency
-            </button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>NodeJS developers can help companies simplify the software development cycle,
-                    resulting in the faster release of new features and products.</p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Reliability</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>To ensure that software is reliable and stable, PHP developers use testing and
-                    debugging tools, which can reduce downtime and risk of expensive outages.
-                    
-                    </p>                   
-            </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Cost Effective</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>Hiring PHP developers can help businesses cut costs on equipment, office
-                    space, and other overhead expenses.
-                    </p> 
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->        
-        </div>
-        <!-- /.accordion-wrapper -->
-      </div>
-      <!--/column -->
-      <div class="col-lg-6">
-          <div id="accordion-2" class="accordion-wrapper">
-              <div class="card accordion-item">
-                <div class="card-header" id="accordion-heading-2-2">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Productive Team</button>
-                </div>
-                <!-- /.card-header -->
-                <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                  <div class="card-body">
-                    <p>Studies have shown that remote workers frequently outperform their officebased counterparts in terms of productivity.
-                        </p>
-                    </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.collapse -->
-              </div>
-              <!-- /.card -->
-        <div id="accordion-2" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-2-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Flexibility
-            </button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-              <div class="card-body">
-                <p>Since PHP developers can work remotely, scheduling and working hours can
-                    be more flexible.
-                    
-                    </p>
-                </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-2-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Talented Developers</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
-              <div class="card-body">
-                <p>Hire PHP experts who have worked with a variety of frameworks and have
-                    experience developing solutions for specific industries.
-                    
-                    
-                    </p>
-                </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-        </div>
-        <!-- /.accordion-wrapper -->
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-  </div>
-</section>
+ 
 
  
   <!--section starts-->

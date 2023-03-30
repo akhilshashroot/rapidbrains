@@ -109,14 +109,14 @@
     <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
       <div class="swiper">
         <div class="swiper-wrapper">
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.webp')}}" alt="1" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="2" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="3" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.webp')}}" alt="4" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.webp')}}" alt="5" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.webp')}}" alt="6" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="7" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.webp')}}" alt="8" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.webp')}}" alt="1"  loading="lazy"/></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="2" loading="lazy" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="3" loading="lazy" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.webp')}}" alt="4" loading="lazy" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.webp')}}" alt="5" loading="lazy" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.webp')}}" alt="6" loading="lazy" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="7" loading="lazy" /></div>
+          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.webp')}}" alt="8" loading="lazy" /></div>
        
         </div>
         <!--/.swiper-wrapper -->
@@ -183,7 +183,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-md-8 gy-10 align-items-center">
       <div class="col-lg-6 offset-lg-1 order-lg-2 position-relative">
-        <figure class="rounded"><img class="img-fluid"   width="640" height="360" src="{{asset('assets/img/photos/about27@2x.webp')}}" srcset="{{asset('assets/img/photos/about27@2x.webp')}} 2x" alt="about27" /></figure>
+        <figure class="rounded"><img class="img-fluid"   width="640" height="360" src="{{asset('assets/img/photos/about27@2x.webp')}}" srcset="{{asset('assets/img/photos/about27@2x.webp')}} 2x" alt="about27" loading="lazy"/></figure>
         <div class="card shadow-lg position-absolute d-none d-md-block" style="top: 15%; left: -7%">
           <div class="card-body py-4 px-5">
             <div class="d-flex flex-row align-items-center">
@@ -474,7 +474,7 @@
           <div class="col-md-5 offset-md-1 align-self-end">
             <div class="card bg-pale-yellow">
               <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/telephone-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" />
+                <img src="{{asset('assets/img/icons/lineal/telephone-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
                 <h4>Attitude Check</h4>
                 <p class="mb-0">Communication and attitude are key when screening candidates. We make sure that they will be a good fit for your company.</p>
               </div>
@@ -486,7 +486,7 @@
           <div class="col-md-6 align-self-end">
             <div class="card bg-pale-red">
               <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/shield.svg')}}" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" />
+                <img src="{{asset('assets/img/icons/lineal/shield.svg')}}" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
                 <h4>Skill-set Review</h4>
                 <p class="mb-0">Checking the talent's skill set is atmost important. RapidBrains setup screening tests for each technology to ensure candidate's experience.</p>
               </div>
@@ -498,7 +498,7 @@
           <div class="col-md-5">
             <div class="card bg-pale-leaf">
               <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/cloud-computing-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" />
+                <img src="{{asset('assets/img/icons/lineal/cloud-computing-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
                 <h4>Experience Screening</h4>
                 <p class="mb-0">RapidBrains do a thorough check on the experience of the employees with rigorous interviews and tests.</p>
               </div>
@@ -510,7 +510,7 @@
           <div class="col-md-6 align-self-start">
             <div class="card bg-pale-primary">
               <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/analytics.svg')}}" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" />
+                <img src="{{asset('assets/img/icons/lineal/analytics.svg')}}" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
                 <h4>Background Verification</h4>
                 <p class="mb-0">A thorough verification of the background of the employees is done to ensure that they are who they say they are.</p>
               </div>

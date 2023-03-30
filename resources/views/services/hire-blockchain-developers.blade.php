@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -11,10 +11,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/blockchain-image.jpg')}}" srcset="{{asset('assets/img/services/blockchain-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/blockchain-image.webp')}}" srcset="{{asset('assets/img/services/blockchain-image.webp')}} 2x" alt="blockchain-image"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/blockchain.png')}}" srcset="{{asset('assets/img/services/blockchain.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/blockchain.webp')}}" srcset="{{asset('assets/img/services/blockchain.webp')}}" alt="blockchain"></figure>
           </div>
         </div>
       </div>
@@ -162,11 +162,11 @@
         <div class="col-lg-6">
             <div id="accordion-2" class="accordion-wrapper">
                 <div class="card accordion-item">
-                  <div class="card-header" id="accordion-heading-2-2">
-                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Cost-Effective Service</button>
+                  <div class="card-header" id="accordion-heading-2-1">
+                    <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-1" aria-expanded="true" aria-controls="accordion-collapse-2-1">Cost-Effective Service</button>
                   </div>
                   <!-- /.card-header -->
-                  <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
+                  <div id="accordion-collapse-2-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
                     <div class="card-body">
                       <p>Our Blockchain application development services are competitively priced and
                         affordable for our clients.</p>
@@ -241,7 +241,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/requirements.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/requirements.webp')}}" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -254,7 +254,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/sourcing.webp')}}" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -267,7 +267,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/screening.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/screening.webp')}}" style="width:50px; height:50px" alt="screening" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -280,7 +280,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/onboarding.webp')}}" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
