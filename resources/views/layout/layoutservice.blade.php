@@ -26,6 +26,9 @@
   gtag('config', 'G-37SPRD22NF');
 </script>
 <style>
+  .ft-pad{
+    padding-bottom: 6px;
+  }
     .grecaptcha-badge{
     display:none;
 }
