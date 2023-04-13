@@ -1,4 +1,11 @@
+<style>
+    
+    .dropdown-item{
+  color:#596273 !important;
+  font-weight:500 !important;
 
+}
+ </style>
 <header class="wrapper bg-soft-primary">
     
    

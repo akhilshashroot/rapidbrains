@@ -258,7 +258,7 @@
       <div class="container pb-8 pb-lg-10">
         <div class="row gx-lg-8 gx-xl-12 gy-10 mb-15 mb-md-18 align-items-center">
           <div class="col-lg-7">
-            <figure><img class="w-auto" src="./assets/img/illustrations/i9.png" srcset="./assets/img/illustrations/i9@2x.png 2x" alt="" /></figure>
+            <figure><img class="w-auto" src="{{asset('assets/img/common/i9.webp')}}" srcset="{{asset('assets/img/common/i9.webp')}} 2x" alt="i9" /></figure>
           </div>
           <!--/column -->
           <div class="col-lg-5">

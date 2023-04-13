@@ -136,14 +136,14 @@ thead {
     content: "Tech Stack";
   }
   td:nth-of-type(4):before {
-    content: "Junior";
+    content: "Salary starting from";
   }
-  td:nth-of-type(5):before {
+  /* td:nth-of-type(5):before {
     content: "Senior";
   }
   td:nth-of-type(6):before {
     content: "Expert";
-  }
+  } */
 
 
   .dataTables_length {
@@ -204,9 +204,9 @@ thead {
           <th scope="col" >Title</th>
 
           <th scope="col" >Tech Stack</th>
-          <th scope="col" >Junior</th>
-          <th scope="col" >Senior </th>
-          <th scope="col" >Expert</th>
+          <th scope="col" >Salary starting from</th>
+          <!-- <th scope="col" >Senior </th>
+          <th scope="col" >Expert</th> -->
           
          
            
