@@ -42,37 +42,37 @@ class HomeController extends Controller
         return view('contact',compact('data'));
     }
     public function policies() {
-        $data['title']= "RapidBrains - Build your remote team, rapidly";
+        $data['title']= "Privacy Policy | Rapid Brains: Your Data Protection Guaranteed";
 		$data['keywords']= "remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees";
-		$data['description']= "A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time.";
+		$data['description']= "Protecting your privacy is our top priority. Learn about our policies for data protection, information usage, and user rights at RapidBrains.";
         $data['canonical']= "https://www.rapidbrains.com/policies";
         return view('policies',compact('data'));
     }
     public function nonDisclosureAgreement() {
-        $data['title']= "RapidBrains - Build your remote team, rapidly";
+        $data['title']= "Rapid Brains NDA: Safeguard Secrets & Innovations";
 		$data['keywords']= "remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees";
-		$data['description']= "A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time.";
+		$data['description']= "Protect sensitive information with our Non Disclosure Agreement. Learn about our policies for confidential data handling at RapidBrains.";
         $data['canonical']= "https://www.rapidbrains.com/non-disclosure-agreement";
         return view('non-disclosure-agreement',compact('data'));
     }
     public function acceptableUserPolicy() {
-        $data['title']= "RapidBrains - Build your remote team, rapidly";
+        $data['title']= "Acceptable User Policy | Rapid Brains: Responsible Usage Guidelines";
 		$data['keywords']= "remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees";
-		$data['description']= "A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time.";
+		$data['description']= "Learn about our responsible usage guidelines in the Acceptable User Policy. Prohibited actions, user obligations, and consequences for violations.";
         $data['canonical']= "https://www.rapidbrains.com/acceptable-user-policy";
         return view('acceptable-user-policy',compact('data'));
     }
     public function informationAuditDocument() {
-        $data['title']= "RapidBrains - Build your remote team, rapidly";
+        $data['title']= "Info Audit Document: Assess & Manage Your Data | Rapid Brains";
 		$data['keywords']= "remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees";
-		$data['description']= "A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time.";
+		$data['description']= "Info Audit Document: Assess & Manage Your Data | Rapid Brains";
         $data['canonical']= "https://www.rapidbrains.com/information-audit-document";
         return view('information-audit-document',compact('data'));
     }
     public function dataProcessingAgreement() {
-        $data['title']= "RapidBrains - Build your remote team, rapidly";
+        $data['title']= "Data Processing Agreement | Rapid Brains: Secure Data Handling";
 		$data['keywords']= "remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees";
-		$data['description']= "A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time.";
+		$data['description']= "Our Data Processing Agreement ensures secure handling of your data. Learn about our policies for data protection and confidentiality at RapidBrains.";
         $data['canonical']= "https://www.rapidbrains.com/data-processing-agreement";
         return view('data-processing-agreement',compact('data'));
     }

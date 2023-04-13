@@ -554,7 +554,7 @@ $(function () {
             {data: 'title',  width: '220px',name: 'title'},
 
             {data: 'tech_stack',  width: '620px',name: 'tech_stack'},
-            {data: 'oneto3', width: '220px', name: 'oneto3'},
+            {data: 'oneto3', width: '240px', name: 'oneto3'},
         
          
         

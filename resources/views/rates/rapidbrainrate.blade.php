@@ -60,7 +60,13 @@ table.dataTable td:nth-child(2){
     max-width: 100% !important;
   }
 }
-
+@media screen and (max-width: 767px){
+div.dataTables_wrapper div.dataTables_paginate {
+    margin: 0;
+    white-space: normal !important;
+    text-align: right;
+}
+}
 thead {
   background: #ddd;
 }
@@ -136,7 +142,8 @@ thead {
     content: "Tech Stack";
   }
   td:nth-of-type(4):before {
-    content: "Salary starting from";
+    content: "Salary starting \A from \A";
+  white-space: pre-wrap;
   }
   /* td:nth-of-type(5):before {
     content: "Senior";
