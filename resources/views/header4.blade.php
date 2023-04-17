@@ -1,23 +1,26 @@
-<header class="wrapper bg-gray">
-    
+<header class="position-absolute w-100">
+      <div class="gradient-5 text-white fw-bold fs-15 mb-2 position-relative" style="z-index: 1;">
+        <div class="container py-2 text-center">
+          <p class="mb-0">Hire the best talent in every technology. Take a look at our 
 
-
-      <nav class="navbar navbar-expand-lg fancy navbar-light navbar-bg-light caret-none">
-        <div class="container">
-          <div class="navbar-collapse-wrapper bg-white d-flex flex-row flex-nowrap w-100 justify-content-between align-items-center">
-            <div class="navbar-brand w-100">
-              <a href="{{route('welcome')}}">
-                <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo"  class="img-logo"/>
-              </a>
+<a href="{{route('customsearch.index')}}" class="link-white hover d-inline-flex align-items-center" style="color: #fff;">rates <i class="uil uil-arrow-right fs-16"></i></a></p>
+        </div>
+        <!-- /.container -->
+      </div>
+      <nav class="navbar navbar-expand-lg center-nav transparent navbar-light">
+        <div class="container flex-lg-row flex-nowrap align-items-center">
+          <div class="navbar-brand w-100">
+          <a href="/">
+            <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo@2x.svg')}}" alt="RapidBrains Logo"  class="img-logo"  width="200" height="39"/>
+            </a>
+          </div>
+          <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
+            <div class="offcanvas-header d-lg-none">
+            <h3 class="text-white fs-30 mb-0">RapidBrains</h3>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
-            <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
-              <div class="offcanvas-header d-lg-none">
-                <h3 class="text-white fs-30 mb-0">RapidBrains</h3>
-                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-              </div>
-              <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
-                <ul class="navbar-nav">
-            
+            <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
+            <ul class="navbar-nav">
                 <li class="nav-item dropdown dropdown-mega">
                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a>
                   <ul class="dropdown-menu mega-menu">
@@ -74,11 +77,10 @@
                   </ul>
                   <!--/.dropdown-menu -->
                 </li>
-                  
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a>
                     <ul class="dropdown-menu">
-                      <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
+                    <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
                       <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
                       <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
                      
@@ -88,12 +90,9 @@
                     <a class="nav-link" href="{{route('customsearch.index')}}">Rate Card</a>
                   </li>
                  
-                 
                   <li class="nav-item ">
                     <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
                   </li>
-                 
-                 
                 </ul>
                 <!-- /.navbar-nav -->
                 <div class="offcanvas-footer d-lg-none">
@@ -132,7 +131,7 @@
                   <!-- /.social -->
                 
                 <li class="nav-item d-lg-none">
-                  <button aria-label="enquire button" class="hamburger offcanvas-nav-btn"><span></span></button>
+                  <button class="hamburger offcanvas-nav-btn"><span></span></button>
                 </li>
               </ul>
               <!-- /.navbar-nav -->
@@ -144,4 +143,8 @@
         <!-- /.container -->
       </nav>
       <!-- /.navbar -->
-    </header>
+
+
+
+
+      </header>

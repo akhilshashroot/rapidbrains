@@ -142,7 +142,7 @@ thead {
     content: "Tech Stack";
   }
   td:nth-of-type(4):before {
-    content: "Salary starting \A from \A";
+    content: "Salary starts \A from \A";
   white-space: pre-wrap;
   }
   /* td:nth-of-type(5):before {
@@ -211,7 +211,7 @@ thead {
           <th scope="col" >Title</th>
 
           <th scope="col" >Tech Stack</th>
-          <th scope="col" >Salary starting from</th>
+          <th scope="col" >Salary starts from</th>
           <!-- <th scope="col" >Senior </th>
           <th scope="col" >Expert</th> -->
           

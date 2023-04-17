@@ -7,353 +7,98 @@
   <meta name="description" content="@if(isset($data['description'])){{$data['description']}}@else A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time @endif">
   <meta name="keywords" content="@if(isset($data['keywords'])){{$data['keywords']}}@else remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees @endif">
   <meta name="author" content="rapidbrains">
+  <meta name="google-site-verification" content="Zv6WZ0yzns6Zo2AU1lvWhmo9lPRo23wGWFR2GIld6Vk"/>
   <link rel="canonical"  href="@if(isset($data['canonical'])){{$data['canonical']}}@else https://www.rapidbrains.com @endif" />
   <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
   <link rel="shortcut icon" href="{{asset('assets/img/favicon.png')}}">
-  <link rel="stylesheet" href="{{asset('assets/css/plugins.css')}}">
-  <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/colors/navy.css')}}">
+  <link rel="stylesheet"   href="{{asset('assets/css/plugins.css')}}">
+  <link rel="stylesheet"    href="{{asset('assets/css/style.css')}}" >
+    <link rel="stylesheet"  href="{{asset('assets/css/colors/grape.css')}}">
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-37SPRD22NF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-37SPRD22NF');
+</script>
+
 <style>
-.error{
-  color:#ff0000 !important;
-  padding: 1.6rem 1rem !important;
+    .w-6 {
+    width: 1.5rem !important;
 }
-
-.nav-link:hover {
-  color: #3f78e0 !important;
+.shape.fuchsia .svg-fill {
+    fill: #e668b3;
 }
-
-@media only screen and (min-width: 768px){
- 
-   .img-logo{
-  width:200px !important;
-  margin-right:3rem !important;
-  }
+.shape.yellow .svg-fill {
+    fill: #fab758;
 }
-
-@media (min-width: 768px){
-.py-md-20 {
-    padding-top: 17rem !important;
+.shape.grape .svg-fill {
+    fill: #605dba;
 }
+    .w-5 {
+    width: 1.25rem !important;
 }
-    .cs {
-
-    min-height: 125px !important;
+.w-10 {
+    width: 2.5rem !important;
 }
-    .mt-3{
-        color:#fff !important;
-
-    }
-    .swal2-popup .swal2-styled.swal2-confirm {
-
-    background-color:  #F68A77  !important;
-   }
-   .swal2-content,.swal2-animate-success-icon{
-    display:none !important;
-   }
-   .swal2-title{
-    font-size: 15px !important;
-   }
-   .swal2-popup .swal2-title{
-    letter-spacing: .025rem !important;
-    font-weight: 400 !important;
-   }
-   .bg-dark {
-    background:  #F68A77  !important;
-  }
-  .text-light{
-    color:#fff;
-  }
-   div.dataTables_wrapper div.dataTables_processing {
-
-    top: 80% !important;
-   }
-    .new-h a:hover {
-    background: blue;
-     }  
-    .parallax:before {
-        background: none;
-    }
-    .p-class{
-        color:#fff;
-        text-align:center;
-    }
-    div.dataTables_wrapper div.dataTables_filter input{
-        width: 482px !important;
-        
-        resize: none;
-        outline: none;
-    }
-
-
-    @media only screen and (max-width: 600px) {
-      div.dataTables_wrapper div.dataTables_filter input{
-        width: 291px !important;
-       
-        resize: none;
-        outline: none;
-    }
-    
-}
-.form-control{
-  height: calc(2.5rem + 2px);
-    line-height: 1.25;
-}
-
-
-@media only screen and (max-width: 768px){
-    html,
-    body{
-    width:100%;
- 
-    }
-}
-
-
-@media only screen and (max-width: 600px){
-div.dataTables_wrapper div.dataTables_filter input {
-    width: 255px !important;
-    resize: none;
-    outline: none;
-}
-}
-    .paging_simple_numbers{
-        text-align: right;
-    }
-    tfoot {
-    display: table-header-group;
-    }
-   
-    .tdhcc {
-    background-color: #fff !important;
-    color: #343f52 !important;
-    }
-    div.dataTables_wrapper div.dataTables_filter input::-webkit-input-placeholder {
-   text-align: center;
-    }
-    
-    div.dataTables_wrapper div.dataTables_filter input::-moz-placeholder { /* Firefox 18- */
-       text-align: center;  
-    }
-    
-    div.dataTables_wrapper div.dataTables_filter input::-moz-placeholder {  /* Firefox 19+ */
-       text-align: center;  
-    }
-    
-    div.dataTables_wrapper div.dataTables_filter input:-ms-input-placeholder {  
-       text-align: center; 
-    }
-  .dataTables_filter{
-    padding-bottom: 10px;
-  }
-    #footer {
-            position: fixed;
-            padding: 10px 10px 0px 10px;
-            bottom: 0;
-            width: 100%;
-            /* Height of the footer*/ 
-            height: 60px;
-            background: #F68A77;
-        }
-
-
-
-    /* .search-class {
-      display: none;
-    }
-    @media (max-width: 768px) {
-     .search-class{
-        padding: 1px 1px 4px 100px;
-      }
-    } */
-    .button-touch {
-        background: #55565b;
-        border-color: #55565b;
-        color: #fff;
-    }
-
-    .button-touch:hover {
-        background: #000000;
-        border-color: #000000;
-        color: #fff;
-    }
-    .dataTables_filter{
-        /* float: right; */
-    }
-    div.dataTables_wrapper div.dataTables_filter {
-    text-align: center !important;
-    }
-    .btn.btn-sm {
-    min-width: 5rem !important;
-}
-   /* .btn:hover
-  {
-  background-color:#000000  !important;
-  border-color: #000000  !important;
-
-  }  */
-   .btn.new,.checker,.remover,.new
-  {
- 
-  border-color: #3f78e0  !important;
-
-  }
-  .checker,.remover
-  {
+    a:link {
+  color: #60697b;
   
-    border-color: #3f78e0  !important;
-
-  }
-  table.dataTable td {
-   
-    font-weight: 500 !important;
-  }
-
-  @media only screen and (min-width: 767px){
-    .fullscreen-bg {
-    min-height: 70vh;
-    max-height: 100vh;
 }
-  }
+.btn-primary{
+    background-color: #343F52 !important;
+    border-color: #343F52 !important;
+}
+  /* .ft-pad{
+    padding-bottom: 6px;
+  } */
+.grecaptcha-badge{
+    display:none;
+}
+.ms-auto {
+     margin-left: auto !important; 
+}
+.dropdown-item{
+  color:#596273 !important;
+  font-weight:500 !important;
 
-.fullscreen-bg {
-    height: 70vh;
 }
-table tbody tr td {
-  font-size: 14px !important;
+.hed {
+    color: #000 !important;
+    background-color: #fff  !important;
+    border-color: #fff  !important;
 }
-table.dataTable th {
-  font-size: 16px !important;
-  font-weight: 600 !important
+.sks{
+  color: #fff !important;
+    background-color: #343f52  !important;
+    border-color: #343f52  !important;
 }
-
-input[type=search]:focus {
-  border: 1px solid rgba(63,120,224,.7);
+@media (min-width: 768px){
+.py-md-6 {
+    padding-top: 2rem !important;
+    padding-bottom: 1.5rem !important;
+}
 }
 </style>
-
-
-<body>
+<body class="bg-soft-primary">
+<div class="">
   <div class="content-wrapper">
       <!--Header Starts  -->
       <!--Header Starts  -->
-
-      @include('header2')
-
+     
+      @include('header4')
+ 
+   @yield('section')
     
    
   <!-- /.content-wrapper -->
 
-
-
-
-  <section class="wrapper image-wrapper bg-image  text-black" data-image-src="./assets/img/photos/RapidBrains-BG.jpg" style="background-image: url('./assets/img/photos/RapidBrains-BG.jpg');">
-      <div class="container pt-17 pb-20 pt-md-19 pb-md-21 text-center">
-        <div class="row">
-          <div class="col-md-10 col-xl-8 mx-auto">
-            <div class="post-header">
-            <h3 class="display-1 mb-3" id="pos">Rate Card </h3>
-              <!-- /.post-meta -->
-            </div>
-            <!-- /.post-header -->
-          </div>
-          <!-- /column -->
-        </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </section>
-<!-- /section -->
-<section class="wrapper bg-light">
-      <div class="container pb-14 pb-md-16">
-        <div class="row">
-          <div class="col-lg-12 mx-auto">
-            <div class="blog single mt-n17">
-              <div class="card shadow-lg">
-                <div class="card-body">
-             
-                @include('rates.rapidbrainrate') 
-
-                </div>
-                <!-- /.card-body -->
-              </div>
-              <!-- /.card -->
-            </div>
-            <!-- /.blog -->
-          </div>
-          <!-- /column -->
-        </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </section>
-    <!--Hero Image Ends-->
-    <!-- <section class="wrapper bg-light">
-      <div class="container pb-15 pb-md-17">
-                   
-        
-        
-        
-      </div>
-     
-    </section> -->
-
-
-
-
-
-           
-
-
-
-
-
-
-
-
-
-
-
-
-
-                <section class="wrapper bg-light">
-    
-    <div class="container py-20 py-md-20" style= "adding-top: 10rem !important;
-      padding-bottom: 1rem !important;">
-        
-      
-       <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}">
-          <div class="card-body">
-            <div class="row text-center">
-              <div class="col-xl-11 col-xxl-9 mx-auto">
-                <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
-                <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
-  
-              </div>
-              <!--/column -->
-            </div>
-            <!-- /.row -->
-            <div class="d-flex justify-content-center">
-              <span><a class="btn btn-white rounded csk" id="callbackreq">Request a call back</a></span>
-            </div>
-          </div>
-          <!--/.card-body -->
-        </div>
-        <!--/.card -->
-               
-                          
-              
-               
-      
-    </div>
-    </section>
-
-
   @include('footer')
- 
+
 
 
 
@@ -483,25 +228,16 @@ input[type=search]:focus {
 
 
 
-
-  <!--<div class="progress-wrap">-->
-  <!--  <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">-->
-  <!--    <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />-->
-  <!--  </svg>-->
-  <!--</div>-->
-
+  <div class="progress-wrap" style="display: none;">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    </svg>
+  </div>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
-
- <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
-  <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>  --> 
-  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>  
-  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.min.css'></link>  
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-
   <script src="{{asset('assets/js/plugins.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
@@ -512,75 +248,28 @@ input[type=search]:focus {
 
 
   </div>
-
-
-  <script>
-const queryString = window.location.search;
-const urlParams = new URLSearchParams(queryString);
-const talent_id = urlParams.get('talent_id')
-const position = urlParams.get('skill')
-// if(position || talent_id){
-//   const element = document.getElementById("w3-container");
-//   console.log(element)
-//   element.scrollIntoView();
-// }
-
-
-$(function () {
-
-    var table = $('.table').DataTable({
-        processing: true,
-        serverSide: true,
-        scrollX: true,
-        "pageLength": 25,
-        language: {
-        searchPlaceholder: "Search for title or tech stack here",
-        search: "",
-        emptyTable: "No profiles available",
-
-    },
-        ajax: {
-          url: "{{ route('customsearch.index') }}",
-       
-            data: function (d) {
-                d.approved = $('#approved').val(),
-                d.search = $('input[type="search"]').val(),
-                d.talent_id=talent_id,
-                d.position=position
-            }
-        },
-        columns: [
-            { data: 'DT_RowIndex', DT_RowIndex: 'DT_RowIndex',  orderable: false, searchable: false },
-            {data: 'title',  width: '220px',name: 'title'},
-
-            {data: 'tech_stack',  width: '530px',name: 'tech_stack'},
-            {data: 'oneto3', width: '170px', name: 'oneto3'},
-        
-         
-        
-
-            
-        ]
-    });
-  // hello();
-    $('#approved').change(function(){
-        table.draw();
-    });
-      
-  });
-    $(document).ready(function(){
-    // Append all paragraphs
-  
-   // $('#filterTable_filter').before('<div id="theAppendedDiv">The Appended Div<div>')
-   $( "input[type='search']" ).addClass('form-control');
-
-   $(".dataTables_filter").prepend('');
-    // Append an element with ID container
-  
-});
-</script>
+  </div>
 
  <script>
+$(window).scroll(function(){
+  
+    if ($(this).scrollTop() > 400) {
+    
+       $('#enquirenowID').addClass('ssk');
+       $('#enquirenowID').removeClass('hed');
+       $('#light').hide();
+       $('#dark').show();
+        
+    } else {
+       $('#enquirenowID').removeClass('ssk');
+       $('#enquirenowID').addClass('hed');
+       $('#light').show();
+       $('#dark').hide();
+
+    }
+});
+
+
     $("#enquirenowForm").validate({
  rules: {
  name: {
@@ -605,9 +294,7 @@ $(function () {
  maxlength: "The email name should less than or equal to 50 characters",
  },
  },
- success: function (label, element) {
-        grecaptcha.execute();
-        },
+
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
@@ -625,11 +312,7 @@ $(function () {
     if(response.status == 'notok') {
         $('#submit').html('Submit');
         $("#submit"). attr("disabled", false);
-        if(response.data['g-recaptcha-response']) {
-            var msg = response.data['g-recaptcha-response'][0];
-        } else {
-            var msg = 'something went wrong';
-        }
+       
  swal({
  title: 'Sorry',
  text: msg,
@@ -842,7 +525,9 @@ function enableBtn(){
         grecaptcha.execute();
         }
  })
-
+ $(function() {
+       
+    });
  function fileValidation() {
         $(".invalid-feedback-file").css('display','none');
         var fileInput =
@@ -896,7 +581,31 @@ function enableBtn(){
  })
  </script>
  <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
- 
+ <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "RapidBrains",
+  "url": "https://www.rapidbrains.com",
+  "logo": "https://www.rapidbrains.com/assets/img/RapidBrains-logo.svg",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "9778426319",
+    "contactType": "sales",
+    "areaServed": "IN",
+    "availableLanguage": "en"
+  },
+  "sameAs": [
+    "https://www.facebook.com/rapidbrains",
+    "https://twitter.com/rapidbrains",
+    "https://www.instagram.com/_rapidbrains/",
+    "https://www.youtube.com/channel/UCA0r0At5LeSDxqQ52POEpgQ",
+    "https://www.linkedin.com/company/rapidbrains"
+  ]
+}
+</script>
+
+
 </body>
 
 </html>

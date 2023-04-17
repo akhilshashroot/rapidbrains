@@ -85,9 +85,9 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a>
                     <ul class="dropdown-menu">
-                      <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
-                      <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Benefits</a></li>
-                      <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">Process</a></li>
+                    <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
+                      <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
+                      <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
                      
                     </ul>
                   </li>

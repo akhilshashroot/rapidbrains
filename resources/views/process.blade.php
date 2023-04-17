@@ -1,12 +1,24 @@
 @extends('layout.layout')
 @section('section')
-<section class="wrapper bg-gray">
+<style>
+figure img {
+    width: 90%  !important;
+    /* max-width: 100%; */
+    height: auto !important;
+}
+@media (min-width: 992px){
+.mb-lg-16 {
+    margin-bottom: 5rem !important;
+}
+}
+</style>
+  <section class="wrapper bg-gray">
   <div class="container pt-8 pt-md-14">
     <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-10 mb-lg-16 align-items-center">
       <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-1 position-relative order-lg-2" data-cue="zoomIn">
         <div class="shape bg-dot primary rellax w-17 h-19" data-rellax-speed="1" style="top: -1.7rem; left: -1.5rem;"></div>
         <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0" style="bottom: -1.8rem; right: -0.8rem; width: 85%; height: 90%;"></div>
-        <figure class="rounded"><img src="{{asset('assets/img/common/the_process.webp')}}" srcset="{{asset('assets/img/common/the_process.webp')}} 2x" alt="" /></figure>
+        <figure class="rounded"><img src="https://www.rapidbrains.com/assets/img/photos/RB/RB2/the_process.jpg" srcset="https://www.rapidbrains.com/assets/img/photos/RB/RB2/the_process.jpg 2x" alt="" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-5 mt-lg-n10 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
@@ -21,8 +33,25 @@
     </div>
 </section>
 <!-- /section -->
+
+<section class="wrapper bg-light"  style="margin-top: -80px;">
+            <div class="container pt-14 pt-md-17 pb-14 pb-md-10">
+                <div class="row text-center">
+                  <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                    <h2 class="fs-15 text-uppercase text-muted mb-3">Our</h2>
+                    <h3 class="display-4 mb-9 px-xl-11">Process Flow</h3>
+                  </div>
+                  <!-- /column -->
+                </div><br>
+                <div class="position-relative" style="text-align:center;">
+                    <!--<div class="shape bg-dot primary rellax w-17 h-21" data-rellax-speed="1" style="top: -2.5rem; right: -2.7rem;"></div>-->
+                    <figure ><img src="https://www.rapidbrains.com/assets/img/photos/process-flow.webp" srcset="https://www.rapidbrains.com/assets/img/photos/process-flow.webp" alt="" /></figure>
+                </div>
+            </div>
+        </section><br><br>
+        
     <!--Hero Ends-->
-    <section class="wrapper bg-light">
+    <section class="wrapper bg-light"  style="margin-top: -78px;">
       <div class="container pt-14 pt-md-17 pb-14 pb-md-10">
         <div class="row text-center">
           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
@@ -36,7 +65,7 @@
           <div class="col-md-6 col-lg-6">
             <div class="d-flex flex-row">
               <div>
-                <img src="./assets/img/icons/solid/script.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
+                <img src="https://www.rapidbrains.com/assets/img/icons/solid/script.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
               </div>
               <div>
                 <h3 class="fs-22 mb-1"> Communication & Attitude Check</h3>
@@ -48,7 +77,7 @@
           <div class="col-md-6 col-lg-6">
             <div class="d-flex flex-row">
               <div>
-                <img src="./assets/img/icons/solid/verify.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
+                <img src="https://www.rapidbrains.com/assets/img/icons/solid/verify.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
               </div>
               <div>
                 <h3 class="fs-22 mb-1">Skill-set review</h3>
@@ -60,7 +89,7 @@
           <div class="col-md-6 col-lg-6">
             <div class="d-flex flex-row">
               <div>
-                <img src="./assets/img/icons/solid/cloud-network.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
+                <img src="https://www.rapidbrains.com/assets/img/icons/solid/cloud-network.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
               </div>
               <div>
                 <h3 class="fs-22 mb-1">Experience screening</h3>
@@ -72,7 +101,7 @@
           <div class="col-md-6 col-lg-6">
             <div class="d-flex flex-row">
               <div>
-                <img src="./assets/img/icons/solid/director.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
+                <img src="https://www.rapidbrains.com/assets/img/icons/solid/director.svg" class="svg-inject icon-svg icon-svg-sm solid-duo text-grape-fuchsia me-4" alt="" />
               </div>
               <div>
                 <h3 class="fs-22 mb-1">Background Verification</h3>
@@ -85,10 +114,13 @@
        
         </div>
         <!--/.row -->
-        
+
+        <!--section-->
+
+       
         <!--FAQ STARTS-->
         
-        <section class="wrapper bg-light">
+        <section class="wrapper bg-light" style="margin-top: -70px;">
   <div class="container py-14 py-md-16">
       <div class="row">
           <div class="col-lg-11 col-xxl-10 mx-auto text-center">
