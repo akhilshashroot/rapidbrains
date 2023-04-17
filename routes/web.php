@@ -90,3 +90,4 @@ Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'i
 //14-04-2022
 
 Route::get('/test-page', [HomeController::class, 'testPage'])->name('test-page');
+Route::get('/test-page2', [HomeController::class, 'test2'])->name('test-page2');

@@ -84,7 +84,7 @@
 }
 }
 </style>
-<body class="bg-soft-primary">
+<body >
 <div class="">
   <div class="content-wrapper">
       <!--Header Starts  -->

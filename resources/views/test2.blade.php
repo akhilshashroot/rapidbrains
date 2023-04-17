@@ -72,7 +72,7 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper overflow-hidden image-wrapper bg-image bg-cover bg-overlay bg-overlay-light-500" data-image-src="{{asset('assets/img/common/pastel-combo-1.webp')}}" style="background-image: url({{asset('assets/img/common/pastel-combo-1.webp')}});padding-bottom: 90px" >
+<section class="wrapper overflow-hidden image-wrapper bg-image bg-cover bg-overlay bg-overlay-light-500" data-image-src="{{asset('assets/img/common/pastel-combo-2.webp')}}" style="background-image: url({{asset('assets/img/common/pastel-combo-2.webp')}});padding-bottom: 90px" >
       <div class="container pt-19 pt-md-21 text-center position-relative">
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
         <div class="row position-relative">
