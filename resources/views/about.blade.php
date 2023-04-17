@@ -1,11 +1,11 @@
-@extends('layout.layout')
+@extends('layout.layoutcommon')
 @section('section')
 <section class="wrapper bg-gray">
   <div class="container py-14 pt-md-16 pb-md-9">
-    <figure class="rounded"><img src="./assets/img/photos/about5.jpg" srcset="./assets/img/photos/about5@2x.jpg 2x" alt="" /></figure>
+    <figure class="rounded"><img src="{{asset('assets/img/common/about5.webp')}}" srcset="{{asset('assets/img/common/about5.webp')}} 2x" alt="about5" /></figure>
     <div class="row">
       <div class="col-xl-10 mx-auto">
-        <div class="card image-wrapper bg-full bg-image   text-black mt-n5 mt-lg-0 mt-lg-n50p mb-lg-n50p border-radius-lg-top" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}">
+        <div class="card image-wrapper bg-full bg-image   text-black mt-n5 mt-lg-0 mt-lg-n50p mb-lg-n50p border-radius-lg-top" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
           <div class="card-body p-9 p-xl-10">
             <div class="row align-items-center counter-wrapper gy-4 text-center">
               <div class="col-6 col-lg-3">
@@ -50,7 +50,7 @@
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-md-8 col-lg-6 col-xl-5 order-lg-2 position-relative">
         <div class="shape bg-soft-primary rounded-circle rellax w-20 h-20" data-rellax-speed="1" style="top: -2rem; right: -1.9rem;"></div>
-        <figure class="rounded"><img src="./assets/img/photos/about7.jpg" srcset="./assets/img/photos/about7@2x.jpg 2x" alt=""></figure>
+        <figure class="rounded"><img src="{{asset('assets/img/common/about7.webp')}}" srcset="{{asset('assets/img/common/about7.webp')}} 2x" alt="about7"></figure>
       </div>
       <!--/column -->
       <div class="col-lg-6">
@@ -410,7 +410,7 @@
               </div>
               <!-- /column -->
               <div class="col-lg-7 pb-12 offset-lg-1 align-self-end">
-                <figure><img class="img-fluid" src="./assets/img/photos/about18.jpg" srcset="./assets/img/photos/about18@2x.jpg 2x" alt="" /></figure>
+                <figure><img class="img-fluid" src="{{asset('assets/img/common/about18.webp')}}" srcset="{{asset('assets/img/common/about18.webp')}} 2x" alt="about18"  loading="lazy"/></figure>
               </div>
               <!-- /column -->
             </div>
@@ -428,7 +428,7 @@
               </div>
               <!-- /column -->
               <div class="col-lg-7">
-                <figure><img class="img-fluid" src="./assets/img/photos/about19@2x.jpg" srcset="./assets/img/photos/about19@2x.jpg 2x" alt="" /></figure>
+                <figure><img class="img-fluid" src="{{asset('assets/img/common/about19@2x.webp')}}" srcset="{{asset('assets/img/common/about19@2x.webp')}} 2x" alt="about19"  loading="lazy"/></figure>
               </div>
               <!-- /column -->
             </div>
@@ -445,7 +445,7 @@
                 <p style="height:163px">We give emphasis primarily on corporate governance, this leads to an effective decision-making process wherein we make most of our employees participate in decision-making processes, nerveless forget that what we are today is the thrive of our employees.</p>
               </div>
               <!--/.card-body -->
-              <img class="card-img-bottom" src="./assets/img/photos/about11.jpg" srcset="./assets/img/photos/about11@2x.jpg 2x" alt="" />
+              <img class="card-img-bottom" src="{{asset('assets/img/common/about11.webp')}}" srcset="{{asset('assets/img/common/about11.webp')}} 2x" alt="about11"  loading="lazy"/>
             </div>
             <!--/.card -->
           </div>
@@ -457,7 +457,7 @@
                 <p style="height:163px">A successful Manager has a frantic challenge of getting the best out of his workforce irrespective of any critical situation. He can do so only by keeping them motivated. A motivated workforce is an assurance of quality performance delivered.</p>
               </div>
               <!--/.card-body -->
-              <img class="card-img-bottom" src="./assets/img/photos/about10.jpg" srcset="./assets/img/photos/about10@2x.jpg 2x" alt="" />
+              <img class="card-img-bottom" src="{{asset('assets/img/common/about10.webp')}}" srcset="{{asset('assets/img/common/about10.webp')}} 2x" alt="about10"  loading="lazy"/>
             </div>
             <!--/.card -->
           </div>

@@ -60,7 +60,13 @@ table.dataTable td:nth-child(2){
     max-width: 100% !important;
   }
 }
-
+@media screen and (max-width: 767px){
+div.dataTables_wrapper div.dataTables_paginate {
+    margin: 0;
+    white-space: normal !important;
+    text-align: right;
+}
+}
 thead {
   background: #ddd;
 }
@@ -136,14 +142,15 @@ thead {
     content: "Tech Stack";
   }
   td:nth-of-type(4):before {
-    content: "Junior";
+    content: "Salary starting \A from \A";
+  white-space: pre-wrap;
   }
-  td:nth-of-type(5):before {
+  /* td:nth-of-type(5):before {
     content: "Senior";
   }
   td:nth-of-type(6):before {
     content: "Expert";
-  }
+  } */
 
 
   .dataTables_length {
@@ -204,9 +211,9 @@ thead {
           <th scope="col" >Title</th>
 
           <th scope="col" >Tech Stack</th>
-          <th scope="col" >Junior</th>
-          <th scope="col" >Senior </th>
-          <th scope="col" >Expert</th>
+          <th scope="col" >Salary starting from</th>
+          <!-- <th scope="col" >Senior </th>
+          <th scope="col" >Expert</th> -->
           
          
            
