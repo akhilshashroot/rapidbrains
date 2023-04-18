@@ -1,4 +1,4 @@
-@extends('layout.layoutnew')
+@extends('layout.layoutnewheader')
 @section('section')
 <style>
 
@@ -72,26 +72,33 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="section-frame br-fix overflow-hidden">
-        <div class="wrapper image-wrapper bg-cover bg-image bg-overlay bg-overlay-300" data-image-src="{{asset('assets/img/photos/bg26.webp')}}" style="background-image: url({{asset('assets/img/photos/bg26.webp')}});">
-          <div class="container pt-18 pt-lg-21 pb-17 pb-lg-19 text-center">
-            <div class="row">
-              <div class="col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto" data-cues="zoomIn" data-group="page-title" data-interval="-200" data-delay="500" data-disabled="true">
-                <!-- <h2 class="h6 text-uppercase ls-xl text-white mb-5" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 500ms; animation-direction: normal; animation-fill-mode: both;">Build your remote team, rapidly!</h2> -->
-                <h3 class="display-1 fs-54 text-white mb-7" data-cue="zoomIn" data-interval="-200" data-group="page-title" data-delay="500" data-show="true" style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1000ms; animation-direction: normal; animation-fill-mode: both;">Talent marketplace to hire the best remote developers 
-</h3>
-<span data-cue="slideInDown" data-group="page-title-buttons" data-delay="900" data-show="true" style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1200ms; animation-direction: normal; animation-fill-mode: both;"><a class="btn btn-primary rounded me-2 hed"  style="animation-name: zoomIn; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 1500ms; animation-direction: normal; animation-fill-mode: both;" href="https://talents.rapidbrains.com/">Hire Talents</a>     </span>             </div>
-              <!-- /column -->
+<section class="wrapper overflow-hidden image-wrapper" data-image-src="{{asset('assets/img/photos/rapidbrains-cover.webp')}}" style="background-image: url({{asset('assets/img/photos/rapidbrains-cover.webp')}});padding-bottom: 90px" >
+      <div class="container pt-19 pt-md-21 text-center position-relative">
+        <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
+        <div class="row position-relative">
+          <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
+            <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/pie.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+            <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/scribble.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+            <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+            <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+            <div data-cues="slideInDown" data-group="page-title">
+              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
+              <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
             </div>
-            <!-- /.row -->
+            <div class="d-flex justify-content-center" data-cues="slideInDown" data-delay="300">
+              <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>
+              <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
+            </div>
+            <!-- /div -->
           </div>
-          <!-- /.container -->
-    
-          <!-- /.overflow-hidden -->
+          <!-- /column -->
         </div>
-        <!-- /.wrapper -->
-      </section>
+      <!-- /.container -->
+      </div>
+      <!-- /.container -->
     
+      <!-- /.container -->
+    </section>
 <!-- /section -->
 
 
@@ -132,7 +139,7 @@
   <div class="container py-14 py-md-16">
     <div class="row">
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <h3 class="display-4 mb-9">The future of work is remote</h3>
+        <h3 class="display-4 mb-9">Why the future of work is remote?</h3>
       </div>
       <!-- /column -->
     </div>
@@ -344,7 +351,7 @@
 			<div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Still not able to find the right talent?</h2>
 				<p class="lead mb-5 px-md-16 px-lg-3">Make a request. Our hiring team got you covered.</p>
-				<a id="getintouch" class="btn btn-primary rounded-pill">Get in Touch</a>
+				<span id="getintouch" class="btn btn-primary rounded-pill"  style="color:#fff;">Get in Touch</span>
 			</div>
 			<!-- /column -->
 		</div>
@@ -466,7 +473,7 @@
         <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
         <h3 class="display-4 mb-5">RapidBrains Screening Process</h3>
         <p>With RapidBrains you can hire employee without having to set up a local entity. We do hiring, onboarding, HR activities and comply with the local labour law for minimum wage, tax, health insurance, termination and so on.</p>
-            <a href="https://www.rapidbrains.com/process" class="btn btn-navy rounded-pill mt-3">More Details</a>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">More Details</a>
       </div>
       <!--/column -->
       <div class="col-lg-7 order-lg-2">
@@ -798,7 +805,7 @@
           </div>
           <!-- /.row -->
           <div class="d-flex justify-content-center">
-            <span><a class="btn btn-white rounded" id="callbackreq">Request a call back</a></span>
+            <span><span class="btn btn-white rounded" id="callbackreq">Request a call back</span></span>
           </div>
         </div>
         <!--/.card-body -->

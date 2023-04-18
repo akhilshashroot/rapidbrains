@@ -51,6 +51,9 @@
     background-color: #343f52  !important;
     border-color: #343f52  !important;
 }
+body {
+    font-weight: 400;
+}
 </style>
 <body>
 <div class="py-md-6">

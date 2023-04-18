@@ -15428,6 +15428,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
 .uil-wallet:before {
     content: "\ed8e";
 }
+.uil-arrow-right:before {
+  content: "\e94c";
+}
 .uil-building:before {
     content: "\e9b3";
 }
@@ -19460,7 +19463,10 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(125deg, #9040db, #ff72c2 50%, #ffd84f);
   }
   .gradient-5 {
-    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+ 
+    background-image: linear-gradient(43deg, #4158d0e6 0%, #c850c0d6 46%, #FFCC70DE 100%) 
+  
+  
   }
   .gradient-5.btn-outline-gradient,
   .gradient-5.btn-outline-gradient span {

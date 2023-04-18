@@ -72,7 +72,7 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper overflow-hidden image-wrapper bg-image bg-cover bg-overlay bg-overlay-light-500" data-image-src="{{asset('assets/img/common/pastel-combo-1.webp')}}" style="background-image: url({{asset('assets/img/common/pastel-combo-1.webp')}});padding-bottom: 90px" >
+<section class="wrapper overflow-hidden image-wrapper" data-image-src="{{asset('assets/img/photos/rapidbrains-cover.webp')}}" style="background-image: url({{asset('assets/img/photos/rapidbrains-cover.webp')}});padding-bottom: 90px" >
       <div class="container pt-19 pt-md-21 text-center position-relative">
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
         <div class="row position-relative">
@@ -82,10 +82,10 @@
             <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div data-cues="slideInDown" data-group="page-title">
-              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote on<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Designers.</span></h1>
-              <p class="lead fs-24 mb-8">Hire the best talent in every technology. Take a look at our rates.</p>
+              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
+              <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
             </div>
-            <div class="d-flex justify-content-center" data-cues="slideInDown" data-delay="600">
+            <div class="d-flex justify-content-center" data-cues="slideInDown" data-delay="300">
               <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>
               <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
             </div>
@@ -139,7 +139,7 @@
   <div class="container py-14 py-md-16">
     <div class="row">
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <h3 class="display-4 mb-9">The future of work is remote</h3>
+        <h3 class="display-4 mb-9">Why the future of work is remote?</h3>
       </div>
       <!-- /column -->
     </div>
@@ -351,7 +351,7 @@
 			<div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Still not able to find the right talent?</h2>
 				<p class="lead mb-5 px-md-16 px-lg-3">Make a request. Our hiring team got you covered.</p>
-				<a id="getintouch" class="btn btn-primary rounded-pill">Get in Touch</a>
+				<span id="getintouch" class="btn btn-primary rounded-pill"  style="color:#fff;">Get in Touch</span>
 			</div>
 			<!-- /column -->
 		</div>
@@ -805,7 +805,7 @@
           </div>
           <!-- /.row -->
           <div class="d-flex justify-content-center">
-            <span><a class="btn btn-white rounded" id="callbackreq">Request a call back</a></span>
+            <span><span class="btn btn-white rounded" id="callbackreq">Request a call back</span></span>
           </div>
         </div>
         <!--/.card-body -->

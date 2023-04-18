@@ -11,8 +11,8 @@
   <link rel="canonical"  href="@if(isset($data['canonical'])){{$data['canonical']}}@else https://www.rapidbrains.com @endif" />
   <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
   <link rel="shortcut icon" href="{{asset('assets/img/favicon.png')}}">
-  <link rel="stylesheet"   href="{{asset('assets/css/plugins.css')}}">
-  <link rel="stylesheet"    href="{{asset('assets/css/style.css')}}" >
+  <link rel="stylesheet"   href="{{asset('assets/css/plugin-newhome.css')}}">
+  <link rel="stylesheet"    href="{{asset('assets/css/style-newhome.css')}}" >
     <link rel="stylesheet"  href="{{asset('assets/css/colors/grape.css')}}">
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
@@ -27,6 +27,21 @@
 </script>
 
 <style>
+  [data-cue=fadeIn], [data-cues=fadeIn]>* {
+    opacity: 0;
+}
+    body{
+        font-weight: 400;
+    }
+    .w-100 {
+    width: 100% !important;
+}
+.d-inline-flex {
+    display: inline-flex !important;
+}
+    .mb-0 {
+    margin-bottom: 0 !important;
+}
     .w-6 {
     width: 1.5rem !important;
 }
@@ -53,9 +68,9 @@
     background-color: #343F52 !important;
     border-color: #343F52 !important;
 }
-  /* .ft-pad{
+  .ft-pad{
     padding-bottom: 6px;
-  } */
+  }
 .grecaptcha-badge{
     display:none;
 }
@@ -238,7 +253,7 @@
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
-  <script src="{{asset('assets/js/plugins.js')}}"></script>
+  <script src="{{asset('assets/js/plugins-home.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
@@ -526,7 +541,7 @@ function enableBtn(){
         }
  })
  $(function() {
-       
+        $('#lazy').lazy();
     });
  function fileValidation() {
         $(".invalid-feedback-file").css('display','none');
