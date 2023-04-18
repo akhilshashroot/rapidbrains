@@ -60,6 +60,8 @@
   <!-- /.content-wrapper -->
   @if(Route::currentRouteName() == 'welcome')
   @include('footer')
+  @elseif(Route::currentRouteName() == 'AlphaLp')
+  @include('footer_alpha')
   @else
       @include('footer2')
       @endif
