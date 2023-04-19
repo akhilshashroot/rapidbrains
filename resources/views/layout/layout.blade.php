@@ -540,6 +540,61 @@ function enableBtn(){
         }
  })
  </script>
+
+<script>
+
+if ($("#hire_now").length > 0) {
+   
+    $("#hire_now").validate({
+    submitHandler: function(form) {
+      var inputText=$("#hire_email").val();
+      console.log(inputText);
+         var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+     if(!inputText.match(mailformat))
+     
+     {
+       $("#error-display1").css('display','block');
+     
+     return false;
+     }
+     
+    $.ajaxSetup({
+    headers: {
+    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+    }
+    });
+    $('#submit').html('Please Wait...');
+    $("#submit"). attr("disabled", true);
+    $.ajax({
+    url: "{{route('hireFunction')}}",
+    type: "POST",
+    data: $('#hire_now').serialize(),
+    success: function( response ) {
+     if(response.statuscode==403){
+               swal({
+    title: response.message,
+   
+    type: 'warning',
+    showConfirmButton:true,
+    confirmButtonText: 'Okay'
+    });   
+             }else if(response.statuscode==402){
+               swal({
+   title: response.message,
+    type: 'success',
+    showConfirmButton:true,
+    confirmButtonText: 'Okay'
+    });   
+     
+    }
+    document.getElementById("hire_now").reset(); 
+    $("#error-display1").css('display','none');
+    }
+    });
+    }
+    })
+    }
+    </script>
  <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
  <script type="application/ld+json">
 {

@@ -32,6 +32,7 @@ Route::post('/enquire/mail', [EnquiryController::class, 'MailFunction'])->name('
 Route::get('/join', [HomeController::class, 'join'])->name('join');
 Route::post('join-rapidbrains', [ResumeCollection::class, 'store'])->name('rapidbrains.store');
 Route::post('contact-form', [ContactController::class, 'MailFunction'])->name('contact-form');
+Route::post('hire-form', [ContactController::class, 'hireFunction'])->name('hireFunction');
 
 
 //new updates

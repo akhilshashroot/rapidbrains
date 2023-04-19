@@ -1,5 +1,14 @@
 @extends('layout.layout')
 @section('section')
+<style>
+
+
+@media (max-width: 767px) {
+  .form-floating.input-group label {
+    margin-left: -3.95rem !important;
+}
+}
+  </style>
 <section class="wrapper bg-light">
         <div class="container pt-8 pt-md-14">
           <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-10 mb-lg-16 align-items-center">
@@ -17,12 +26,17 @@
               </ul>
               <br>
               <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
-                <form action="#">
+                <form method="post" id="hire_now" novalidate="novalidate" action="#" enctype="multipart/form-data">
                   <div class="form-floating input-group">
-                    <input type="email" class="form-control border-0" placeholder="Enter Email Address" id="hire">
+                    <input type="email" class="form-control border-0" placeholder="Enter Email Address" name="hire_email" id="hire_email">
+                     
                     <label for="hire">Enter Email Addresss</label>
-                    <button class="btn btn-primary" type="button">Hire Now</button>
+                 
+                    <input type="submit" value="Hire Now" id="hire" name="hire" class="btn btn-primary ">
+                   
+                
                   </div>
+                  <p id="error-display1" style="color:#dc3545;display:none">Please enter a valid email address</p>
                 </form>
               </div>
             </div>

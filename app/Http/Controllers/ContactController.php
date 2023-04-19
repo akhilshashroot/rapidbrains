@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Log;
 use Validator;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\ContactMail;
+use App\Mail\hiremail;
 
 class ContactController extends Controller
 {
@@ -40,4 +41,31 @@ class ContactController extends Controller
             return redirect()->back()->with('error', 'Something went wrong');
         }
     }
+    public function hireFunction(Request $request){
+        $validator = Validator::make($request->all(), [
+         
+            'hire_email' => 'required',
+           
+        ]);
+        if ($validator->fails()) {
+            return redirect()->back()->with('error', 'validation failed');
+        }
+        
+        $maildata=array();
+      
+        $maildata['email'] 		=  $request->hire_email;
+    
+        $send = Mail::send(new hiremail($maildata));
+
+        return response()->json([ 
+            'status'	=> 'ok',
+            'statuscode'    => '402',
+            'message' => 'We have received your inquiry. Stay tuned, we’ll get back to you very soon.',
+        ]);
+         
+          //  $send = Mail::send(new ContactMail($maildata));
+                return redirect()->back()->with('success', 'We have received your inquiry. Stay tuned, we’ll get back to you very soon.'); 
+      
+    }
+    
 }
