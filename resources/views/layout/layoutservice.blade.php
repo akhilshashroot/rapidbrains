@@ -29,6 +29,9 @@
   .ft-pad{
     padding-bottom: 6px;
   }
+  body{
+        font-weight: 400;
+    }
     .grecaptcha-badge{
     display:none;
 }

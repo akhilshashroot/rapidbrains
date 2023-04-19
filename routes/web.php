@@ -92,3 +92,4 @@ Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'i
 Route::get('/test-page', [HomeController::class, 'testPage'])->name('test-page');
 Route::get('/test-page2', [HomeController::class, 'test2'])->name('test-page2');
 Route::get('/alpha-lp', [HomeController::class, 'AlphaLp'])->name('AlphaLp');
+Route::get('/beta-lp', [HomeController::class, 'BetaLp'])->name('BetaLp');
