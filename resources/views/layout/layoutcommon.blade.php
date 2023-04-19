@@ -30,6 +30,9 @@
     .grecaptcha-badge{
     display:none;
 }
+body{
+        font-weight: 400;
+    }
 .dropdown-item{
   color:#596273 !important;
   font-weight:500 !important;

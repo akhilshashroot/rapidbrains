@@ -102,5 +102,11 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/alpha-lp";
         return view('alpha-lp',compact('data'));
     }
-    
+    public function BetaLp() {
+        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+        $data['canonical']= "https://www.rapidbrains.com/beta-lp";
+        return view('beta-lp',compact('data'));
+    }
 }

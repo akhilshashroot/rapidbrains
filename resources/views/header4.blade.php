@@ -129,7 +129,7 @@
                   <!-- /.social -->
                 
                 <li class="nav-item d-lg-none">
-                  <button class="hamburger offcanvas-nav-btn"><span></span></button>
+                  <button class="hamburger offcanvas-nav-btn" aria-label="hamburger"><span></span></button>
                 </li>
               </ul>
               <!-- /.navbar-nav -->
