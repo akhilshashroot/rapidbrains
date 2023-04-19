@@ -162,16 +162,16 @@
 
     <!--Section-->
 
-    <section class="wrapper bg-soft-yellow">
-      <div class="container py-14 py-md-16" style="text-align: center;">
-        <!--<div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">-->
-          <div class="text-center;">
-            <h2 class="display-4 mb-3 pe-xxl-5">Are you ready to <br>Hire Developers Remotely?</h2>
-            <p class="lead fs-lg mb-0 pe-xxl-5">Join the league of Successful Companies by Outsourcing Developers</p>
-          </div><br><br>
+    <section class="wrapper bg-soft-yellow" style="margin-top: -90px;">
+      <div class="container py-14 py-md-16">
+        <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
+          <div class="col-lg-4 mt-lg-2">
+            <h3 class="display-4 mb-3 pe-xxl-5">Are you ready to <br>Hire Developers Remotely?</h3>
+            <p class="lead fs-18 mb-0 pe-xxl-5">Join the league of Successful Companies by Outsourcing Developers</p>
+          </div>
           <!-- /column -->
-          <div class="col-lg-8" style="margin-right: 200px; margin-left: 200px;">
-            <div class="aling-center row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
+          <div class="col-lg-8" style="padding-top: 50px;">
+            <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
               <div class="col">
                 <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/1.webp" alt="" /></figure>
               </div>
@@ -242,7 +242,7 @@
                   <!--/column -->
                   <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">04</span></span>
                     <h4 class="mb-1">Onboard</h4>
-                    <p class="mb-0">Once you’ve picked your choice - voila! You can start with a meeting to kick it off or start assigning tasks.</p>
+                    <p class="mb-0">Once the developer gets on-board, start assigning tasks and projects.</p>
                   </div>
                   <!--/column -->
                 </div>
@@ -258,7 +258,7 @@
 
 <!--section-->
 
-<section class="wrapper bg-light">
+<section class="wrapper bg-light" style="margin-top: -50px;">
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       
