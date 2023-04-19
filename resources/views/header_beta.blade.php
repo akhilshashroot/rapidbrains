@@ -96,23 +96,24 @@
                 <!--/.dropdown-menu -->
               </li>
                 
-                <li class="nav-item ">
-                  <a class="nav-link " href="https://www.rapidbrains.com/about" >About</a>
-                  
-                </li>
-                <li class="nav-item ">
-                  <a class="nav-link" href="https://www.rapidbrains.com/benefits" >Benefits</a>
-                  
-                </li>
-                <li class="nav-item ">
-                  <a class="nav-link" href="https://www.rapidbrains.com/process">Process</a>
-                </li>
-               
-                </li>
-                <li class="nav-item ">
-                  <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
-                </li>
-               
+              <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a>
+                    <ul class="dropdown-menu">
+                      <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
+                      <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
+                      <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
+                     
+                    </ul>
+                  </li>
+                  <li class="nav-item ">
+                    <a class="nav-link" href="{{route('customsearch.index')}}">Rate Card</a>
+                  </li>
+                 
+                 
+                  <li class="nav-item ">
+                    <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
+                  </li>
+                 
                
               </ul>
               <!-- /.navbar-nav -->
