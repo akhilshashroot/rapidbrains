@@ -386,5 +386,5 @@
 </section>
 <!-- /section -->
 
-  @include('services.logo')
+
 @endsection
