@@ -149,7 +149,7 @@
               <li><i class="uil uil-check"></i>1.2K Happy Customers.</li>
               <li><i class="uil uil-check"></i>95% of retention rate.</li>
             </ul><br>
-            <span><a class="btn btn-primary rounded-pill me-2">Hire Developers Now</a></span>
+            <span><a class="btn btn-primary rounded-pill me-2" href="https://talents.rapidbrains.com/">Hire Developers Now</a></span>
           </div>
           <!--/column -->
         </div>
