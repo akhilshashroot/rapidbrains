@@ -54,6 +54,8 @@ body{
       <!--Header Starts  -->
       @if(Route::currentRouteName() == 'join')
       @include('header2')
+      @elseif(Route::currentRouteName() == 'BetaLp')
+      @include('header_beta')
       @else
       @include('header')
       @endif
@@ -65,6 +67,8 @@ body{
   @include('footer')
   @elseif(Route::currentRouteName() == 'AlphaLp')
   @include('footer_alpha')
+  @elseif(Route::currentRouteName() == 'BetaLp')
+  @include('footer_beta')
   @else
       @include('footer2')
       @endif
