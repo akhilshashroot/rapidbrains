@@ -4,7 +4,7 @@
 
 
 @media (max-width: 767px) {
-  .form-floating.input-group label {
+  #hlabel{
     margin-left: -3.95rem !important;
 }
 }
@@ -25,12 +25,12 @@
                 <li><i class="uil uil-check" ></i>30 DAYS MONEY BACK GUARANTEE</li>
               </ul>
               <br>
-              <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
+              <div class="d-flex justify-content-center justify-content-lg-start" data-cues="slideInDown" data-group="page-title-buttons" data-delay="500">
                 <form method="post" id="hire_now" novalidate="novalidate" action="#" enctype="multipart/form-data">
                   <div class="form-floating input-group">
                     <input type="email" class="form-control border-0" placeholder="Enter Email Address" name="hire_email" id="hire_email">
                      
-                    <label for="hire">Enter Email Addresss</label>
+                    <label for="hire" id="hlabel">Enter Email Addresss</label>
                  
                     <input type="submit" value="Hire Now" id="hire" name="hire" class="btn btn-primary ">
                    
