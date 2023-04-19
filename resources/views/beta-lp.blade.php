@@ -10,7 +10,7 @@
                 <li><i class="uil uil-check" ></i>Hire Dedicated Remote Developers and save 100% on Hiring Cost</li>
                 <li><i class="uil uil-check" ></i>Maximize your return on investment with RapidBrains</li>
               </ul><br>
-              <span><a class="btn btn-primary rounded-pill me-2">Hire Developers</a></span>
+              <span><a class="btn btn-primary rounded-pill me-2" href="https://talents.rapidbrains.com/">Hire Developers</a></span>
             </div>
             <!-- /column -->
             <div class="col-lg-7">
