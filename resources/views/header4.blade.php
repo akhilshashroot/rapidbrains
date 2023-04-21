@@ -20,11 +20,11 @@
             <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
             <ul class="navbar-nav">
                 <li class="nav-item dropdown dropdown-mega">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a>
+                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" style='color: #343f52;'>Hire Talents</a>
                   <ul class="dropdown-menu mega-menu">
                     <li class="mega-menu-content">
                       <ul class="row row-cols-1 row-cols-lg-6 gx-0 gx-lg-6 gy-lg-1 list-unstyled">
-                      <li><a class="dropdown-item" href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
+                      <li><a class="dropdown-item"  href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
                             <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-angular-developers')}}">Angular Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-node-js-developers')}}">Node.js Developers</a></li>
@@ -76,20 +76,20 @@
                   <!--/.dropdown-menu -->
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a>
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" style='color: #343f52;'>Company</a>
                     <ul class="dropdown-menu">
-                    <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
+                    <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}"  >About RapidBrains</a></li>
                       <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
                       <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
                      
                     </ul>
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link" href="{{route('customsearch.index')}}">Rate Card</a>
+                    <a class="nav-link" href="{{route('customsearch.index')}}" style='color: #343f52;'>Rate Card</a>
                   </li>
                  
                   <li class="nav-item ">
-                    <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
+                    <a class="nav-link" href="https://talents.rapidbrains.com/" style='color: #343f52;'>Talent Cloud</a>
                   </li>
                 </ul>
                 <!-- /.navbar-nav -->

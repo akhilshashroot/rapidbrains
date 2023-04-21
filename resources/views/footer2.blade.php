@@ -62,7 +62,7 @@
               <li class="ft-pad"><a href="{{route('benefits')}}">Our Benefits</a></li>
               <li class="ft-pad"><a href="{{route('process')}}">The Process</a></li>
                 <li class="ft-pad"><a href="https://articles.rapidbrains.com">Articles</a></li>
-                <li class="ft-pad"><a href="https://www.rapidbrains.com/blog/">Blog</a></li>
+                <!-- <li class="ft-pad"><a href="https://www.rapidbrains.com/blog/">Blog</a></li> -->
               <li><a href="{{route('contact')}}">Contact Us</a></li>
             </ul>
           </div>

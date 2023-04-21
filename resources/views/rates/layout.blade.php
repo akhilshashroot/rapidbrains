@@ -250,7 +250,7 @@ input[type=search]:focus {
 
 
 
-  <section class="wrapper image-wrapper bg-image  text-black" data-image-src="./assets/img/photos/RapidBrains-BG.jpg" style="background-image: url('./assets/img/photos/RapidBrains-BG.jpg');">
+  <section class="wrapper image-wrapper bg-image  text-black" data-image-src="./assets/img/photos/rapidbrains-cover.webp" style="background-image: url('./assets/img/photos/rapidbrains-cover.webp');">
       <div class="container pt-17 pb-20 pt-md-19 pb-md-21 text-center">
         <div class="row">
           <div class="col-md-10 col-xl-8 mx-auto">
@@ -325,7 +325,7 @@ input[type=search]:focus {
       padding-bottom: 1rem !important;">
         
       
-       <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.jpg')}}">
+       <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
           <div class="card-body">
             <div class="row text-center">
               <div class="col-xl-11 col-xxl-9 mx-auto">
@@ -553,8 +553,8 @@ $(function () {
             { data: 'DT_RowIndex', DT_RowIndex: 'DT_RowIndex',  orderable: false, searchable: false },
             {data: 'title',  width: '220px',name: 'title'},
 
-            {data: 'tech_stack',  width: '530px',name: 'tech_stack'},
-            {data: 'oneto3', width: '170px', name: 'oneto3'},
+            {data: 'tech_stack',  width: '535px',name: 'tech_stack'},
+            {data: 'oneto3', width: '210px', name: 'oneto3'},
         
          
         

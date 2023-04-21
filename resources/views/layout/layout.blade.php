@@ -56,6 +56,8 @@ body{
       @include('header2')
       @elseif(Route::currentRouteName() == 'BetaLp')
       @include('header_beta')
+      @elseif(Route::currentRouteName() == 'AlphaLp')
+      @include('header_alpha')
       @else
       @include('header')
       @endif
