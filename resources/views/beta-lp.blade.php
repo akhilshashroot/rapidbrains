@@ -132,7 +132,7 @@
             <div class="accordion accordion-wrapper" id="accordionIconExample">
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconOne">
-                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-shield-exclamation"></i></span>Limited Local Talent, Skill Gaps.</button>
+                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-comment-exclamation"></i></span>Limited Local Talent, Skill Gaps.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconOne" class="accordion-collapse collapse show" aria-labelledby="headingIconOne" data-bs-parent="#accordionIconExample">
@@ -146,7 +146,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconTwo">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-check-circle"></i></span>Higher Overhead, Infrastructure Costs.</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-comment-exclamation"></i></span>Higher Overhead, Infrastructure Costs.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo" data-bs-parent="#accordionIconExample">
@@ -160,7 +160,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconThree">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-chart-line"></i></span>Reduced Flexibility, Geographic Constraints.</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-comment-exclamation"></i></span>Reduced Flexibility, Geographic Constraints.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree" data-bs-parent="#accordionIconExample">
@@ -182,7 +182,7 @@
             <div class="accordion accordion-wrapper" id="accordionIconExample">
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconOne">
-                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-shield-exclamation"></i></span>Global Talent Pool, Diverse Expertise.</button>
+                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-comment-verify"></i></span>Global Talent Pool, Diverse Expertise.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconOne" class="accordion-collapse collapse show" aria-labelledby="headingIconOne" data-bs-parent="#accordionIconExample">
@@ -196,7 +196,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconTwo">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-check-circle"></i></span>Cost-Effective, Scalable Workforce.</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-comment-verify"></i></span>Cost-Effective, Scalable Workforce.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo" data-bs-parent="#accordionIconExample">
@@ -210,7 +210,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconThree">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-chart-line"></i></span>Enhanced Flexibility, Adaptability</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-comment-verify"></i></span>Enhanced Flexibility, Adaptability</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree" data-bs-parent="#accordionIconExample">

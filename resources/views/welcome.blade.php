@@ -49,6 +49,10 @@
 .ccs{
   margin-top: -4rem;
 }
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
 } 
 
 @media (min-width: 992px){
@@ -56,7 +60,19 @@
     padding-right: 0.1rem !important;
     padding-left: 0.1rem !important;
 }
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
+
 }
+}
+@media (min-width: 720px){
+
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
+
+}
+}
+
 </style>
 <!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
@@ -72,8 +88,11 @@
   <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
 " alt="RapidBrains Home" /></figure>
 </section>-->
-<section class="wrapper overflow-hidden image-wrapper" data-image-src="{{asset('assets/img/photos/rapidbrains-cover.webp')}}" style="background-image: url({{asset('assets/img/photos/rapidbrains-cover.webp')}});padding-bottom: 90px" >
-      <div class="container pt-19 pt-md-21 text-center position-relative">
+<section class="wrapper overflow-hidden image-wrapper" id="sect-bg" style="padding-bottom: 90px" >
+    
+
+
+<div class="container pt-19 pt-md-21 text-center position-relative">
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
         <div class="row position-relative">
           <div class="col-lg-8 col-xxl-7 mx-auto position-relative">

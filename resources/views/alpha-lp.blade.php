@@ -39,7 +39,7 @@
             <!--/column -->
             <div class="col-lg-5 mt-lg-n10 text-center text-lg-start" data-cues="slideInDown" data-group="page-title" data-delay="600">
               <h1 class="display-1 mb-5">Struggling to Hire A Dedicated Remote Developer?</h1>
-              <p class="lead fs-20 lh-sm mb-7 px-md-10 px-lg-0" style="font-size: 50%;">Hire pre-vetted remote Developers in 24 hours to complete your projects successfully. Reduce your employment cost by 60% and hiring cost by 100% with RapidBrains .</p>
+              <p class="lead fs-16 lh-sm mb-7 px-md-10 px-lg-0" style="font-size: 50%;">Hire pre-vetted remote Developers in 24 hours to complete your projects successfully. Reduce your employment cost by 60% and hiring cost by 100% with RapidBrains .</p>
               <ul class="icon-list bullet-bg bullet-soft-primary">
                 <li><i class="uil uil-check" ></i>30 DAYS MONEY BACK GUARANTEE</li>
               </ul>
