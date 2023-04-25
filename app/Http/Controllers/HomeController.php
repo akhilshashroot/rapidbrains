@@ -109,4 +109,26 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/beta-lp";
         return view('beta-lp',compact('data'));
     }
+
+    public function leaderShip() {
+        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+        $data['canonical']= "https://www.rapidbrains.com/leadership";
+        return view('leadership',compact('data'));
+    }
+    public function ceoMessage() {
+        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+        $data['canonical']= "https://www.rapidbrains.com/ceo-message";
+        return view('ceo-message',compact('data'));
+    }
+    public function globalFootprint() {
+        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+        $data['canonical']= "https://www.rapidbrains.com/global-footprint";
+        return view('global-footprint',compact('data'));
+    }
 }

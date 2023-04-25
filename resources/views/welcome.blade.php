@@ -1,7 +1,10 @@
 @extends('layout.layoutnewheader')
 @section('section')
 <style>
-
+ .col-xl-53 {
+    flex: 0 0 auto;
+    width: 70%;
+  }
   .lgc{
     background-color: #f6f7f9 !important;
   }
@@ -46,11 +49,23 @@
     border-color: #343f52  !important;
   
 }
+/* .pt-19 {
+    padding-top: 13rem!important;
+} */
 .ccs{
   margin-top: -4rem;
 }
 #sect-bg{
   background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+
+#sect-bg1{
+ display:none;
+
+}
+#sect-bg2{
+ display:block;
 
 }
 } 
@@ -64,11 +79,27 @@
   background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
 
 }
+#sect-bg1{
+ display:block;
+
+}
+#sect-bg2{
+ display:none;
+
+}
 }
 @media (min-width: 720px){
 
 #sect-bg{
   background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
+
+}
+#sect-bg1{
+ display:block;
+
+}
+#sect-bg2{
+ display:none;
 
 }
 }
@@ -103,11 +134,12 @@
             <div data-cues="slideInDown" data-group="page-title">
               <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
               <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
-            </div>
-            <div class="d-flex justify-content-center" data-cues="slideInDown" data-delay="300">
+              <div class="d-flex justify-content-center" data-cues="slideInDown"  >
               <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>
               <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
             </div>
+            </div>
+           
             <!-- /div -->
           </div>
           <!-- /column -->
@@ -125,9 +157,9 @@
 
   <div class="container py-14 py-md-16 psb">
   <div class="row mt-11">
-			<div class="col-lg-6 col-xl-5 mx-auto text-center">
+			<div class="col-lg-6 col-xl-53 mx-auto text-center">
 				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
-				<p class="lead mb-5 px-md-16 px-lg-33">We served 1200+ companies from 80+ countries in 14 years</p>
+				<p class="lead mb-5 px-md-16 px-lg-33">With 14+ years of experience, we have served 1200+ companies from 80+ countries</p>
 		
 			</div>
 			<!-- /column -->

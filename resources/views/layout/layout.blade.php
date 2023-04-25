@@ -56,6 +56,8 @@ body{
       @include('header2')
       @elseif(Route::currentRouteName() == 'BetaLp')
       @include('header_beta')
+      @elseif(Route::currentRouteName() == 'globalFootprint')
+  @include('header_beta')
       @elseif(Route::currentRouteName() == 'AlphaLp')
       @include('header_alpha')
       @else
@@ -71,6 +73,7 @@ body{
   @include('footer_alpha')
   @elseif(Route::currentRouteName() == 'BetaLp')
   @include('footer_beta')
+
   @else
       @include('footer2')
       @endif

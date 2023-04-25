@@ -94,3 +94,7 @@ Route::get('/test-page', [HomeController::class, 'testPage'])->name('test-page')
 Route::get('/test-page2', [HomeController::class, 'test2'])->name('test-page2');
 Route::get('/alpha-lp', [HomeController::class, 'AlphaLp'])->name('AlphaLp');
 Route::get('/beta-lp', [HomeController::class, 'BetaLp'])->name('BetaLp');
+Route::get('/leadership', [HomeController::class, 'leaderShip'])->name('leaderShip');
+Route::get('/ceo-message', [HomeController::class, 'ceoMessage'])->name('ceoMessage');
+Route::get('/global-footprint', [HomeController::class, 'globalFootprint'])->name('globalFootprint');
+

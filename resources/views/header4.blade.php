@@ -1,7 +1,9 @@
 <header class="position-absolute w-100">
       <div class="gradient-5 text-white fw-bold fs-15 mb-2 position-relative" style="z-index: 1;">
         <div class="container py-2 text-center">
-          <p class="mb-0">Hire the best brains in every technology. Take a look at our <a href="{{route('customsearch.index')}}" class="link-white hover d-inline-flex align-items-center" style="color: #fff;">rates <i class="uil uil-arrow-right fs-16"></i></a></p>
+          <p class="mb-0" id="sect-bg1">Hire the best brains in every technology. Take a look at our <a href="{{route('customsearch.index')}}" class="link-white hover d-inline-flex align-items-center" style="color: #fff;">rates <i class="uil uil-arrow-right fs-16"></i></a></p>
+                  <p class="mb-0" id="sect-bg2">Take a look at our <a href="{{route('customsearch.index')}}" class="link-white hover d-inline-flex align-items-center" style="color: #fff;">rates <i class="uil uil-arrow-right fs-16"></i></a></p>
+
         </div>
         <!-- /.container -->
       </div>

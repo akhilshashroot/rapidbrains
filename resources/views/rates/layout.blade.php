@@ -233,6 +233,31 @@ table.dataTable th {
 input[type=search]:focus {
   border: 1px solid rgba(63,120,224,.7);
 }
+@media (min-width: 720px){
+
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
+
+}
+
+}
+@media (min-width: 992px){
+
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
+
+}
+
+}
+ @media (max-width: 720px){
+
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+
+
+} 
 </style>
 
 
@@ -250,7 +275,7 @@ input[type=search]:focus {
 
 
 
-  <section class="wrapper image-wrapper bg-image  text-black" data-image-src="./assets/img/photos/rapidbrains-cover.webp" style="background-image: url('./assets/img/photos/rapidbrains-cover.webp');">
+  <section class="wrapper image-wrapper text-black" id="sect-bg" >
       <div class="container pt-17 pb-20 pt-md-19 pb-md-21 text-center">
         <div class="row">
           <div class="col-md-10 col-xl-8 mx-auto">
