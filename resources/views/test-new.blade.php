@@ -1,822 +1,232 @@
-@extends('layout.layoutnewheader')
+@extends('layout.layout')
 @section('section')
 <style>
-
-  .lgc{
-    background-color: #f6f7f9 !important;
-  }
-  
-  @media (min-width: 768px){
-.pb-md-20 {
-    padding-bottom: 5rem !important;
-}
-.psb{
-  padding-top: 1rem !important;
-}
-
-}
-
-
-
-@media (min-width: 1400px){
-.col-xxl-6 {
+    @media (max-width: 720px){
    
-    width: 60%  !important;
 }
+@media (min-width: 720px){
+.cs{
 
-}
-@media (min-width: 1200px){
-.col-xl-7 {
-    
-    width: 68.333333% !important;
+    width: max-content; 
+    height: max-content;
 }
 }
-
-
-@media (min-width: 900px){
-.spx {
-    margin-right: -13px !important;
-  
-}
-}
- @media (max-width: 720px){
-.hed {
-  color: #fff !important;
-    background-color: #343f52  !important;
-    border-color: #343f52  !important;
-  
-}
-.ccs{
-  margin-top: -4rem;
-}
-} 
-
-@media (min-width: 992px){
-.px-lg-33 {
-    padding-right: 0.1rem !important;
-    padding-left: 0.1rem !important;
-}
-}
-</style>
-<!--<section class="wrapper bg-gray">
-  <div class="container pt-12 pt-md-16 text-center">
-    <div class="row">
-      <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
-        <h1 class="display-1 fs-58 mb-7">Build your remote team, rapidly!</h1>
-        <div class="d-flex justify-content-center" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
-          <span><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn btn-primary me-2">Hire Now</a></span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
-" alt="RapidBrains Home" /></figure>
-</section>-->
-<section class="wrapper overflow-hidden image-wrapper" data-image-src="{{asset('assets/img/photos/rapidbrains-cover.webp')}}" style="background-image: url({{asset('assets/img/photos/rapidbrains-cover.webp')}});padding-bottom: 90px" >
-      <div class="container pt-19 pt-md-21 text-center position-relative">
-        <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
-        <div class="row position-relative">
-          <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
-            <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/pie.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/scribble.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div data-cues="slideInDown" data-group="page-title">
-              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
-              <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
-            </div>
-            <div class="d-flex justify-content-center" data-cues="slideInDown" data-delay="300">
-              <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>
-              <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
-            </div>
-            <!-- /div -->
-          </div>
-          <!-- /column -->
-        </div>
-      <!-- /.container -->
-      </div>
-      <!-- /.container -->
-    
-      <!-- /.container -->
-    </section>
-<!-- /section -->
-
-
-<section class="wrapper bg-light ccs">
-
-  <div class="container py-14 py-md-16 psb">
-  <div class="row mt-11">
-			<div class="col-lg-6 col-xl-5 mx-auto text-center">
-				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
-				<p class="lead mb-5 px-md-16 px-lg-33">We served 1200+ companies from 80+ countries in 14 years</p>
-		
-			</div>
-			<!-- /column -->
-		</div>
-    <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
-      <div class="swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.webp')}}" alt="1"  loading="lazy"/></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="2" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="3" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.webp')}}" alt="4" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.webp')}}" alt="5" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.webp')}}" alt="6" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="7" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.webp')}}" alt="8" loading="lazy" /></div>
-       
-        </div>
-        <!--/.swiper-wrapper -->
-      </div>
-      <!-- /.swiper -->
-    </div>
-    <!-- /.swiper-container -->
-  </div>
-  <!-- /.container -->
-</section>
-
-<section class="wrapper bg-light" style="margin-top:-4rem;" >
-  <div class="container py-14 py-md-16">
-    <div class="row">
-      <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <h3 class="display-4 mb-9">Why the future of work is remote?</h3>
-      </div>
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-    <div class="row gx-md-8 gy-8">
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-yellow pe-none mb-5"> <i class="uil uil-wallet"></i> </div>
-        <h4>Reduce employee cost by 60%
-</h4>
-        <p class="mb-3">Hire pre-screened remote talents with strong technical and communication skills at unbeatable rates.</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-yellow">Learn More</a>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-red pe-none mb-5"> <i class="uil uil-building"></i> </div>
-        <h4>Expand without a legal entity</h4>
-        <p class="mb-3">We make sure that everything is in compliance with local labour law and act as a layer of legal insulation.</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-red">Learn More</a>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5"> <i class="uil uil-globe"></i> </div>
-        <h4>Build worldwide team rapidly</h4>
-        <p class="mb-3">RapidBrains onboards your new team in as little as 24 hours, and saves you 100% on hiring costs</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-leaf">Learn More</a>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-blue pe-none mb-5"> <i class="uil uil-book-open"></i> </div>
-        <h4>Up-skilling and training process</h4>
-        <p class="mb-3">We upskill and train the employees from time-to-time to help them with a staged career progression</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-blue">Learn More</a>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-
-    <!--Hero Image Ends-->
-    
-    <!--What makes us different Starts-->
-
-             
-             <section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-md-8 gy-10 align-items-center">
-      <div class="col-lg-6 offset-lg-1 order-lg-2 position-relative">
-        <figure class="rounded"><img class="img-fluid"   width="640" height="360" src="{{asset('assets/img/photos/about27@2x.webp')}}" srcset="{{asset('assets/img/photos/about27@2x.webp')}} 2x" alt="about27" loading="lazy"/></figure>
-        <div class="card shadow-lg position-absolute d-none d-md-block" style="top: 15%; left: -7%">
-          <div class="card-body py-4 px-5">
-            <div class="d-flex flex-row align-items-center">
-              <div>
-                <img src="{{asset('assets/img/icons/solid/alarm.svg')}}" class="svg-inject icon-svg icon-svg-xs solid-mono text-primary me-3" alt="alarm" />
-              </div>
-              <div>
-                  
-                <h3 class="fs-25 counter mb-0 text-nowrap">24 hours</h3>
-                <p class="fs-16 lh-sm mb-0 text-nowrap">To build team</p>
-              </div>
-            </div>
-          </div>
-          <!--/.card-body -->
-        </div>
-        <!--/.card -->
-        <div class="card shadow-lg position-absolute text-center d-none d-md-block" style="bottom: 10%; left: -10%;">
-          <div class="card-body p-6">
-            <div class="progressbar semi-circle orange mb-3" data-value="80"></div>
-            <h4 class="mb-0">Time Saving</h4>
-          </div>
-          <!--/.card-body -->
-        </div>
-        <!--/.card -->
-      </div>
-      <!--/column -->
-      <div class="col-lg-5">
-        <h3 class="display-4 mb-4 me-lg-n5">A talent marketplace to build remote teams, rapidly!</h3>
-        <p class="mb-6"> Companies can hire pre-screened remote talents worldwide, scale up or scale down in a matter of days with flexible engagements from hourly to full-time employment.</p>
-        <p class="mb-6">With a massive pool of top talents to choose from, you can find the perfect candidate for your team. RapidBrains offers an easy-to-use platform to view profiles, shortlist, hire, and communicate with candidates in one place. A simplest way to find and hire the best remote talent around the world thereby making remote hiring easy and economical for both companies and talents.</p>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-
-
-
-             
-             <!--             What makes us different Ends-->
-             <!--Steps Starts-->
-             
-<!-- /section -->
-             
-             <!--Steps Ends-->
-                      <!--pricing starts-->
-             <section class="wrapper bg-light">
-	<div class="container py-14 py-md-16">
-		<div class="row text-center">
-			<div class="col-xl-10 mx-auto">
-				<!--<h2 class="fs-15 text-uppercase text-primary mb-3">Job Positions</h2>-->
-				<h3 class="display-4 mb-10 px-xxl-15">Hire the best talent in every technology. Take a look at our talent pool</h3>
-			</div>
-			<!-- /column -->
-		</div>
-		<!-- /.row -->
-		<div class="row gy-6">
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=developer" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-red text-white w-11 h-11 fs-20 me-4">SE</span>
-						</div>
-						<div>
-							<h4 class="mb-1">Software Engineers</h4>
-						    <p class="mb-0 text-body">Java, Node.js, React.js, Vue.js </p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1000/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=android" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-green text-white w-11 h-11 fs-20 me-4">MD</span>
-						</div>
-						<div>
-						<h4 class="mb-1">Mobile Developer</h4>
-						    <p class="mb-0 text-body">Kotlin, Flutter, Swift </p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>	
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=aws" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-yellow text-white w-11 h-11 fs-20 me-4">CE</span>
-						</div>
-						<div>
-						<h4 class="mb-1">Cloud Engineers</h4>
-						    <p class="mb-0 text-body">Linux, AWS, GCP, Azure </p>
-							<span class="badge bg-pale-violet text-violet rounded py-1 mb-2">Starting from $1000/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=devops" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-purple text-white w-11 h-11 fs-20 me-4">DE</span>
-						</div>
-						<div>
-							
-							<h4 class="mb-1">DevOps Engineers</h4>
-						    <p class="mb-0 text-body">Terraform, Ansible, Kubernetes</p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=html" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-orange text-white w-11 h-11 fs-20 me-4">WD</span>
-						</div>
-						<div>
-							
-							<h4 class="mb-1">Web Developers</h4>
-						    <p class="mb-0 text-body">Wordpress, Magento, HTML, Php</p>
-							<span class="badge bg-pale-aqua text-aqua rounded py-1 mb-2">Starting from $1000/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?talent_id=qa" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-pink text-white w-11 h-11 fs-20 me-4">TE</span>
-						</div>
-						<div>
-						    
-							<h4 class="mb-1">Test Engineers</h4>
-						    <p class="mb-0 text-body">Selenium, BrowserStack, Testrail</p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $900/month</span>
-							
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-		</div>
-		<!--/.row -->
-		<div class="row mt-11">
-			<div class="col-lg-6 col-xl-5 mx-auto text-center">
-				<h2 class="display-6 mb-3">Still not able to find the right talent?</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Make a request. Our hiring team got you covered.</p>
-				<span id="getintouch" class="btn btn-primary rounded-pill"  style="color:#fff;">Get in Touch</span>
-			</div>
-			<!-- /column -->
-		</div>
-		<!-- /.row -->
-	</div>
-	<!-- /.container -->
-</section>
-<!-- /section -->
-<!--pricing ends-->
-
-
-<!--Join Us Starts-->
-                        
-<section class="wrapper bg-soft-yellow">
-  <div class="container py-5 py-md-14">
-    <div class="row gx-lg-0 gy-10 align-items-center">
-        <!--/column -->
-      <div class="col-lg-5">
-        <h2 class="display-4 mb-3">Join Our Community</h2>
-        <p class="lead fs-lg">Join us and get access to the best brains in the world</p>
-            <p class="mb-0">Our mission is to make companies more profitable by reducing the employee cost through remote talents around the world and a vision to create opportunity for everyone by connecting the right talents to the right organisations</p>
-            </div>
-      <!--/column -->
-      <div class="col-lg-6 order-lg-2 offset-lg-1 grid">
-        <div class="row gx-md-5 gy-5 align-items-center counter-wrapper isotope">
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                    
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-purple pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-presentation-check"></i> </div>
-                  </div>
-                  
-                  <div>
-                    <h3 class="counter mb-1">100k+</h3>
-                    <p class="mb-0">Total Talents</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-red pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-users-alt"></i> </div>
-                  </div>
-                  <div>
-                    <h3 class="counter mb-1">85+ </h3>
-                    <p class="mb-0">Countries Served</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-yellow pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-user-check"></i> </div>
-                  </div>
-                  <div>
-                    <h3 class="counter mb-1">1.2k+</h3>
-                    <p class="mb-0">Happy Customers</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-aqua pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-trophy"></i> </div>
-                  </div>
-                  <div>
-                    <h3 class="counter mb-1">14+</h3>
-                    <p class="mb-0">Years in Industry </p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
- <!--/section -->
- 
- <!--         Join our community Ends   -->
-             
-             <!--Screening Process Starts-->
-
-             <section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-        <!--/column -->
-      <div class="col-lg-5">
-        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
-        <h3 class="display-4 mb-5">RapidBrains Screening Process</h3>
-        <p>With RapidBrains you can hire employee without having to set up a local entity. We do hiring, onboarding, HR activities and comply with the local labour law for minimum wage, tax, health insurance, termination and so on.</p>
-            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">More Details</a>
-      </div>
-      <!--/column -->
-      <div class="col-lg-7 order-lg-2">
-          <div class="row gx-md-5 gy-5">
-          <div class="col-md-5 offset-md-1 align-self-end">
-            <div class="card bg-pale-yellow">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/telephone-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
-                <h4>Attitude Check</h4>
-                <p class="mb-0">Communication and attitude are key when screening candidates. We make sure that they will be a good fit for your company.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 align-self-end">
-            <div class="card bg-pale-red">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/shield.svg')}}" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
-                <h4>Skill-set Review</h4>
-                <p class="mb-0">Checking the talent's skill set is atmost important. RapidBrains setup screening tests for each technology to ensure candidate's experience.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-5">
-            <div class="card bg-pale-leaf">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/cloud-computing-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
-                <h4>Experience Screening</h4>
-                <p class="mb-0">RapidBrains do a thorough check on the experience of the employees with rigorous interviews and tests.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 align-self-start">
-            <div class="card bg-pale-primary">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/analytics.svg')}}" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
-                <h4>Background Verification</h4>
-                <p class="mb-0">A thorough verification of the background of the employees is done to ensure that they are who they say they are.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-      
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-             
-             <!--Screening process ends-->
-             <!--Why comapnies love RB Starts-->
-             <section class="wrapper bg-soft-orange" style="background-color:#FEFEFE !important;">
-  <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">How We Do It?</h2>
-    <p class="lead fs-lg mb-8">It’s just four steps to build your amazing remote team</p>
-    <div class="row gx-lg-8 gx-xl-12 gy-6 process-wrapper line">
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">01</span></span>
-        <h4 class="mb-1">Shortlist</h4>
-        <p class="mb-0">A pool of 1000+ candidates for you to choose from. Still not able to find the right one? Our hiring team got you covered.
-</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary pe-none mb-4"><span class="number">02</span></span>
-        <h4 class="mb-1">Schedule</h4>
-        <p class="mb-0">You can set your own process. If you don’t have one, we screen them with subject matter experts and get you feedback on every candidate.</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">03</span></span>
-        <h4 class="mb-1">Hire</h4>
-        <p class="mb-0">As simple as one click. No need to worry about employment paperworks or local labour laws. RapidBrains does it all!</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">04</span></span>
-        <h4 class="mb-1">Onboard</h4>
-        <p class="mb-0">Once you’ve picked your choice - voila! You can start with a meeting to kick it off or start assigning tasks.</p>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-                         
-                        
-
-<section class="wrapper bg-soft-orange">
-  <div class="container py-10 py-md-16">
-    <div class="row gx-md-10 gx-xl-12 gy-10">
-        <h2 class="display-3 mb-10 text-center">Why do companies love RapidBrains?</h2>
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card card-border-start border-red">
-                <div class="card-body">
-                    <h4>Cost-effective</h4>
-                    <p class="mb-0">With RapidBrains you can hire pre-screened remote talents with strong technical and communication 
-                        skills at unbeatable rates when compared to our competitors</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card  card-border-end border-yellow">
-                <div class="card-body">
-                    <h4>No employer costs</h4>
-                    <p class="mb-0">RapidBrains take care of all employer costs including government requirements, 
-                        benefits, taxes, fees healthcare insurance and even expense management and monthly reimbursement</p>
-                </div>
-            </div>
-            
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card shadow-lg card-border-end border-green">
-                <div class="card-body">
-                    <h4>Flexible Engagements</h4>
-                    <p class="mb-0">Choose an engagement model that best fits your business. 
-                        Take up an employee for either an hourly or monthly basis. Totally up to you!</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card  card-border-start border-purple">
-                <div class="card-body">
-                    <h4>No lock-in period</h4>
-                    <p class="mb-0">There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card  card-border-start border-orange">
-                <div class="card-body">
-                    <h4>Custom Hiring Process</h4>
-                    <p class="mb-0">Our recruiting team can adapt to any of your processes - be it a machine test, 
-                        multiple rounds of interviews, our candidates will show their best.
-
-                    </p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card shadow-lg  card-border-end border-pink">
-                <div class="card-body">
-                    <h4>Upskilling and training</h4>
-                    <p class="mb-0">We upskill and train your employees from time-to-time to help them with a staged career progression. 
-                        Or if you want to train an employee for a specific skillset we got you covered.</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-  </div>
-  <!-- /.container -->
-  
-</section>
-<!-- /section -->
-             
-             <!--Why comapnies love RB Ends-->
-             
-    
-			 <!--Hiring Starts-->
-            <section class="wrapper">
-  <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">RapidBrains Vs Traditional Hiring</h2>
-    <p class="lead fs-lg">We do more to deliver you the suitable remote talents that satisfy and fit into the right skill set you are looking for. </p>
-    <div class="row">
-
-      <!--/column -->
-    </div>
-    <!--/.row -->
-    <div class="table-responsive">
-      <table class="table table-borderless table-striped text-center">
-        <thead>
-          <tr>
-            <th class="w-25"></th>
-            <th>
-              <div class="h4 mb-1">RapidBrains</div>
-              <!--<div class="fs-15 fw-normal text-secondary">$9 / Monthly</div>-->
-            </th>
-            <th>
-              <div class="h4 mb-1">Traditional Hiring</div>
-            </th>
-            
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="option text-start">Time to hire talent</td>
-            <td>Immediate</td>
-            <td>3 to 7 days</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Recruitment cost</td>
-            <td>Zero</td>
-            <td>Recruiter's Salary</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Pre-screened talents</td>
-            <td>Yes</td>
-            <td>No</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Quality Assurance / Replacement</td>
-            <td>Yes</td>
-            <td>No</td>
-          <tr>
-            <td class="option text-start">Background Verification</td>
-            <td>Yes</td>
-            <td>No</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Notice Period</td>
-            <td>Immediate</td>
-            <td>30 to 60 days</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Statutory Compliance in HR, Payroll and Tax</td>
-            <td>Zero</td>
-            <td>Your Team</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Termination cost</td>
-            <td>Zero</td>
-            <td>Very High</td>
-            
-          </tr>
-          
-        </tbody>
-        
-      </table>
-    </div>
-    <!-- /.table-responsive -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-            
-
-            <!--Hiring Ends-->
-            
-    
-
-           <!--Save your time starts  -->
-           <!-- /section -->
-   @include('services.logo') 
-             
-    <section class="wrapper bg-gray">
-      <div class="container py-15 py-md-17 pb-md-19">
-        <div class="row align-items-center gy-8 mb-13">
-          <div class="col-lg-7 text-center text-lg-start">
-            <h3 class="display-3 mb-0 pe-xl-10 pe-xxl-15">Why remote working is preferred by the international hires?</h3>
-          </div>
-          <!-- /column -->
-          <div class="col-lg-5">
-            <div class="row gy-6 text-center">
-              <div class="col-md-6">
-                <div class="progressbar semi-circle fuchsia" data-value="60"></div>
-                <h4 class="mb-0">Cost savings</h4>
-              </div>
-              <!-- /column -->
-              <div class="col-md-6">
-                <div class="progressbar semi-circle orange" data-value="95"></div>
-                <h4 class="mb-0">Retention Rate</h4>
-              </div>
-              <!-- /column -->
-            </div>
-            <!-- /.row -->
-          </div>
-          <!-- /column -->
-        </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- /section -->
-    <!--Save your time ends-->
-     
-    <section class="wrapper bg-light">
-    
-  <div class="container py-20 py-md-20" style= "adding-top: 10rem !important;
-    padding-bottom: 1rem !important;">
-      
-    
-     <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" id="lazy" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
-        <div class="card-body">
-          <div class="row text-center">
-            <div class="col-xl-11 col-xxl-9 mx-auto">
-              <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
-              <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
-
+    </style>
+  <section class="wrapper bg-soft-blue">
+        <div class="container py-14 py-md-16">
+          <div class="row mb-3">
+            <div class="col-md-10 col-lg-12 col-xl-10 col-xxl-9 mx-auto text-center">
+              <h2 class="fs-15 text-uppercase text-muted mb-3" style="color: #343f52 !important;">Meet The Makers</h2>
+              <h3 class="display-4 mb-7 px-lg-19 px-xl-5">An innovative collective of like-minded folks making useful and enduring technology products.</h3>
             </div>
             <!--/column -->
+          </div><br><br>
+          <!--/.row -->
+          <div class="row grid-view gx-md-8 gx-xl-10 gy-8 gy-lg-0">
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/anees-ceo.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/anees-ceo.jpg" alt="" /></figure>
+                  <div class="card-body px-6 py-5">
+                    <h4 class="mb-1">Anees T</h4>
+                    <p class="mb-0 fs-14">Founder & CEO</p>
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div><br><br><br> 
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/rsl.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/rsl.jpg" alt="" /></figure>
+                  <div class="card-body px-6 py-5">
+                    <h4 class="mb-1">Rassal M</h4>
+                    <p class="mb-0 fs-14">Director of Solutions & CBO</p>
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div><br><br><br> 
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/sandeep.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/sandeep.jpg" alt="" /></figure>
+                  <div class="card-body px-6 py-5">
+                    <h4 class="mb-1">Sandeep Anand</h4>
+                    <p class="mb-0 fs-14">Chief Administrative Officer</p>
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div><br><br><br> 
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/sachin.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/sachin.jpg" alt="" /></figure>
+                  <div class="card-body px-6 py-5">
+                    <h4 class="mb-1">Sachin Raveendran</h4>
+                    <p class="mb-0 fs-14">Chief Operating Officer</p>
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div><br><br><br> 
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Febina K V</h4>
+                      <p class="mb-0 fs-14">Chief Product Officer</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div><br><br><br> 
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/krishnaprasad.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/krishnaprasad.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Krishna Prasad K</h4>
+                      <p class="mb-0 fs-14">Head of Technical Department</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div><br><br><br> 
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Arjun Narayanan</h4>
+                      <p class="mb-0 fs-14">Vice President - Business Operations</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div><br><br><br> 
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/jabbar.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/jabbar.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Abdul Jabbar</h4>
+                      <p class="mb-0 fs-14">Head of Training & Development</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div><br><br><br> 
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/noyal.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/noyal.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Noyal T. Hari</h4>
+                      <p class="mb-0 fs-14">Vice President - Legal Affairs</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div>
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/rantel.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/rantel.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Rantel P</h4>
+                      <p class="mb-0 fs-14">Director of Software Services</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div>
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/azim.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/azim.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Azim Kadersha</h4>
+                      <p class="mb-0 fs-14">Director of Operations - Australia</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div>
+                <!-- /div -->
+              </div>
+              <!--/column -->
+              <div class="col-md-6 col-lg-3">
+                <div class="position-relative">
+                  <div class="shape rounded bg-soft-ash rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                  <div class="card">
+                    <figure class="card-img-top"><img class="img-fluid" src="https://www.rapidbrains.com/assets/img/leadership/Simal.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/Simal.jpg" alt="" /></figure>
+                    <div class="card-body px-6 py-5">
+                      <h4 class="mb-1">Simal Soin</h4>
+                      <p class="mb-0 fs-14">Sales Operations - United States</p>
+                    </div>
+                    <!--/.card-body -->
+                  </div>
+                  <!-- /.card -->
+                </div>
+                <!-- /div -->
+              </div>
+              <!--/column -->
           </div>
-          <!-- /.row -->
-          <div class="d-flex justify-content-center">
-            <span><span class="btn btn-white rounded" id="callbackreq">Request a call back</span></span>
-          </div>
+          <!--/.row -->
         </div>
-        <!--/.card-body -->
-      </div>
-      <!--/.card -->
-             
-                        
-            
-             
-    
-  </div>
-  </section>
- 
+        <!-- /.container -->
+      </section>
+      <!-- /section -->
+
+
+
+
+
+
+
+@include('services.logo')
 @endsection

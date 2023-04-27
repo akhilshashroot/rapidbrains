@@ -54,10 +54,11 @@ body{
       <!--Header Starts  -->
       @if(Route::currentRouteName() == 'join')
       @include('header2')
-      @elseif(Route::currentRouteName() == 'BetaLp')
-      @include('header_beta')
+     
       @elseif(Route::currentRouteName() == 'globalFootprint')
   @include('header_beta')
+  @elseif(Route::currentRouteName() == 'test-page')
+  @include('header_leadership')
       @elseif(Route::currentRouteName() == 'AlphaLp')
       @include('header_alpha')
       @else

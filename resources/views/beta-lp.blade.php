@@ -1,6 +1,6 @@
 @extends('layout.layout')
 @section('section')
-<section class="wrapper bg-gradient-yellow">
+<section class="wrapper bg-gradient-ash">
         <div class="container pt-10 pt-md-14 pb-8 text-center">
           <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
             <div class="col-md-10 offset-md-1 offset-lg-0 col-lg-5 text-center text-lg-start">
@@ -14,7 +14,7 @@
             </div>
             <!-- /column -->
             <div class="col-lg-7">
-              <figure><img class="w-auto" src="https://www.rapidbrains.com/assets/img/common/beta-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/beta-hero.webp" alt="" /></figure>
+              <figure><img class="w-auto" src="https://www.rapidbrains.com/assets/img/common/beta-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/beta-hero.webp" alt="hire pre vetted remote developers" /></figure>
             </div>
             <!-- /column -->
             
@@ -24,13 +24,14 @@
         <!-- /.container -->
       </section>
       <!-- /section -->
+
     <!--Hero Ends-->
 
     <!-- section -->
 
-    <section class="wrapper bg-light wrapper-border">
+    <section class="wrapper bg-soft-ash wrapper-border">
       <div class="container py-14 py-md-16">
-        <p class="text-center mb-8">Trusted by over 2K+ clients across the world</p>
+        <p class="text-center mb-8">Trusted by over 1200+ clients across the world</p>
         <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-loop="true" data-autoplay="true" data-autoplaytime="1" data-drag="false" data-speed="5000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
           <div class="swiper">
             <div class="swiper-wrapper ticker">
@@ -72,19 +73,19 @@
           <div class="col-xxl-11 mx-auto">
             <div class="row gy-10 gy-lg-0 text-center d-flex align-items-center">
               <div class="col-md-6 col-lg-4 mx-auto mb-n10 mb-lg-0">
-                <figure class="mx-auto"><img src="https://www.rapidbrains.com/assets/img/common/beta-section-2.webp" srcset="https://www.rapidbrains.com/assets/img/common/beta-section-2.webp" alt=""></figure>
+                <figure class="mx-auto"><img src="https://www.rapidbrains.com/assets/img/common/beta-section-2.webp" srcset="https://www.rapidbrains.com/assets/img/common/beta-section-2.webp" alt="benefits of hiring remote developer"></figure>
               </div>
               <!-- /column -->
               <div class="w-100 d-lg-none"></div>
               <div class="col-md-6 col-lg-4 order-lg-first">
                 <div class="mb-8">
-                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-4">99%</span>
+                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-5">99%</span>
                   <h4 class="fs-20">Client Satisfaction</h4>
                   <p class="mb-0 px-xl-7">Demonstrating consistent and high-quality results over 14+ years of Industry Experience.</p>
                 </div><br><br>
                 <!-- /div -->
                 <div>
-                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-4">1.2K</span>
+                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-5">1.2K</span>
                   <h4 class="fs-20">Happy Customers</h4>
                   <p class="mb-0 px-xl-7">Showcasing extensive experience and expertise with extensive projects from different industries.</p>
                 </div>
@@ -93,13 +94,13 @@
               <!-- /column -->
               <div class="col-md-6 col-lg-4">
                 <div class="mb-8">
-                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-4">100k+</span>
+                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-5">100k+</span>
                   <h4 class="fs-20">Expert Developers</h4>
                   <p class="mb-0 px-xl-7">Providing a diverse and skilled talent pool with relevant industry experience & expertise.</p>
                 </div><br><br>
                 <!-- /div -->
                 <div>
-                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-4">60%</span>
+                  <span class="fs-60 lh-1 mb-3 fw-normal text-gradient gradient-5">60%</span>
                   <h4 class="fs-20">Cost Reduction</h4>
                   <p class="mb-0 px-xl-7">Delivering exceptional value and savings without compromising the quality & experience.</p>
                 </div>
@@ -109,7 +110,7 @@
             </div><br><br>
             <!-- /.row -->
             <div class="d-flex justify-content-center">
-              <span><a class="btn btn-primary rounded" id="hire">Hire Developers</a></span>
+              <span><a class="btn btn-primary rounded" href="https://talents.rapidbrains.com/" >Hire Developers</a></span>
             </div>
           </div>
           <!-- /column -->
@@ -122,7 +123,7 @@
 
     <!--Section-->
 
-    <section class="wrapper bg-gradient-reverse-yellow" style="margin-top: -50px;">
+    <section class="wrapper bg-gradient-reverse-ash" style="margin-top: -50px;">
       <div class="container py-14 py-md-16">
         <h2 class="display-4 mb-3 text-center">Comprehensive <br>Talent Platform with White-Label Services</h2>
         <p class="lead text-center mb-10 px-md-16 px-lg-0">A Seamless Experience Uniting Exceptional Skills and Incredible Talent</p>
@@ -132,7 +133,7 @@
             <div class="accordion accordion-wrapper" id="accordionIconExample">
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconOne">
-                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-comment-exclamation"></i></span>Limited Local Talent, Skill Gaps.</button>
+                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-shield-exclamation"></i></span>Limited Local Talent, Skill Gaps.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconOne" class="accordion-collapse collapse show" aria-labelledby="headingIconOne" data-bs-parent="#accordionIconExample">
@@ -146,7 +147,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconTwo">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-comment-exclamation"></i></span>Higher Overhead, Infrastructure Costs.</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-check-circle"></i></span>Higher Overhead, Infrastructure Costs.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo" data-bs-parent="#accordionIconExample">
@@ -160,7 +161,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconThree">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-comment-exclamation"></i></span>Reduced Flexibility, Geographic Constraints.</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-chart-line"></i></span>Reduced Flexibility, Geographic Constraints.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree" data-bs-parent="#accordionIconExample">
@@ -182,7 +183,7 @@
             <div class="accordion accordion-wrapper" id="accordionIconExample">
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconOne">
-                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-comment-verify"></i></span>Global Talent Pool, Diverse Expertise.</button>
+                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-shield-exclamation"></i></span>Global Talent Pool, Diverse Expertise.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconOne" class="accordion-collapse collapse show" aria-labelledby="headingIconOne" data-bs-parent="#accordionIconExample">
@@ -196,7 +197,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconTwo">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-comment-verify"></i></span>Cost-Effective, Scalable Workforce.</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-check-circle"></i></span>Cost-Effective, Scalable Workforce.</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo" data-bs-parent="#accordionIconExample">
@@ -210,7 +211,7 @@
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
                 <div class="card-header" id="headingIconThree">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-comment-verify"></i></span>Enhanced Flexibility, Adaptability</button>
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-chart-line"></i></span>Enhanced Flexibility, Adaptability</button>
                 </div>
                 <!--/.card-header -->
                 <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree" data-bs-parent="#accordionIconExample">
@@ -232,51 +233,51 @@
       </div>
       <!-- /.container -->
     </section>
-
-    <!-- /section -->
+    
+    <!--/Section-->
 
     <!--Section-->
 
-    <section class="wrapper bg-soft-yellow" style="margin-top: -90px;">
+    <section class="wrapper bg-soft-ash" style="margin-top: -90px;">
       <div class="container py-14 py-md-16">
         <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
           <div class="col-lg-4 mt-lg-2">
-            <h3 class="display-4 mb-3 pe-xxl-5">Join the Ranks of Successful Partners</h3>
-            <p class="lead fs-18 mb-0 pe-xxl-5">RapidBrains Helps With Fastest Scaling at Lowest Cost: No Long-term Commitments</p>
+            <h3 class="display-4 mb-3 pe-xxl-5">Industry-Leading Developers from Best Companies</h3>
+            <p class="lead fs-18 mb-0 pe-xxl-5">Experience excellence: collaborate with industry-leading developers from top companies</p>
           </div>
           <!-- /column -->
           <div class="col-lg-8" style="padding-top: 50px;">
             <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/1.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/2.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Google-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/3.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/4.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Facebook-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/5.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/6.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Oracle-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/7.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/company-logo/EY-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/clients/8.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Deloitte-logo.png" alt="" /></figure>
               </div>
               <!--/column -->
             </div>
@@ -288,13 +289,18 @@
       </div>
       <!-- /.container -->
     </section>
-    <section class="wrapper bg-soft-yellow angled lower-end"></section>
 
     <!-- /section -->
 
+    <!-- Lower End Divider--> 
+
+    <section class="wrapper bg-soft-ash angled lower-end"></section>
+
+    <!-- /Lower End Divider-->
+
     <!--section-->
 
-     <!--Screening process ends-->
+    <!--Screening process ends-->
              <!--Why comapnies love RB Starts-->
              <section class="wrapper bg-soft-orange" style="background-color:#FEFEFE !important;">
               <div class="container py-14 py-md-16">
@@ -326,15 +332,17 @@
               </div>
               <!-- /.container -->
             </section>
+
     <!-- /section -->
           
        
         </div>
         <!--/.row -->
 
-<!--section-->
 
-<section class="wrapper bg-light">
+    <!--Section-->
+
+    <section class="wrapper bg-soft-ash" >
       <div class="container py-14 py-md-16">
         <h2 class="display-4 mb-3 text-center">FAQ</h2>
         <p class="lead text-center mb-10 px-md-16 px-lg-0">If you don't see an answer to your question, you can send us an email.</p>
@@ -480,7 +488,11 @@
       </div>
       <!-- /.container -->
     </section>
-    <section class="wrapper bg-light">
+    <!-- /section -->
+
+<!--section-->
+
+<section class="wrapper bg-light">
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       
@@ -599,7 +611,7 @@
         <h3 class="display-5 mb-5">Celebrating Our Industry Accolades and Achievements</h3>
         <p>Discover RapidBrains impressive collection of accolades, showcasing our dedication to excellence
           and commitment to delivering outstanding remote development solutions.</p>
-        <a href="#" class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
+        <a href="https://talents.rapidbrains.com/" class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
       </div>
       <!--/column -->
     </div>
@@ -607,5 +619,8 @@
   </div>
   <!-- /.container -->
 </section>
+<!-- /section -->
+
+        
 <!-- /section -->
 @endsection
