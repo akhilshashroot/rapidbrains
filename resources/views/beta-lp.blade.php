@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutlandpage')
 @section('section')
 <section class="wrapper bg-gradient-ash">
         <div class="container pt-10 pt-md-14 pb-8 text-center">
@@ -14,7 +14,7 @@
             </div>
             <!-- /column -->
             <div class="col-lg-7">
-              <figure><img class="w-auto" src="https://www.rapidbrains.com/assets/img/common/beta-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/beta-hero.webp" alt="hire pre vetted remote developers" /></figure>
+              <figure><img class="w-auto" src="https://www.rapidbrains.com/assets/img/common/rapidbrains-beta-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/rapidbrains-beta-hero.webp" alt="hire pre vetted remote developers" /></figure>
             </div>
             <!-- /column -->
             
@@ -132,11 +132,11 @@
             <h4 class="fs-18" style="text-align: center;">In- House Developers</h4><br>
             <div class="accordion accordion-wrapper" id="accordionIconExample">
               <div class="card accordion-item icon">
-                <div class="card-header" id="headingIconOne">
-                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-shield-exclamation"></i></span>Limited Local Talent, Skill Gaps.</button>
+                <div class="card-header" id="accordionIconExample">
+                  <button class="accordion-button"><span><i class="uil uil-shield-exclamation"></i></span>Limited Local Talent, Skill Gaps.</button>
                 </div>
                 <!--/.card-header -->
-                <div id="collapseIconOne" class="accordion-collapse collapse show" aria-labelledby="headingIconOne" data-bs-parent="#accordionIconExample">
+                <div class="accordion-collapse collapse show">
                   <!--<div class="card-body">
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.</p>
                   </div>-->
@@ -146,11 +146,11 @@
               </div>
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
-                <div class="card-header" id="headingIconTwo">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-check-circle"></i></span>Higher Overhead, Infrastructure Costs.</button>
+                <div class="card-header" id="headingIconTwo2">
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo2" aria-expanded="false" aria-controls="collapseIconTwo2"><span><i class="uil uil-check-circle"></i></span>Higher Overhead, Infrastructure Costs.</button>
                 </div>
                 <!--/.card-header -->
-                <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo" data-bs-parent="#accordionIconExample">
+                <div  class="accordion-collapse collapse" >
                   <!--<div class="card-body">
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.</p>
                   </div>-->
@@ -160,11 +160,11 @@
               </div>
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
-                <div class="card-header" id="headingIconThree">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-chart-line"></i></span>Reduced Flexibility, Geographic Constraints.</button>
+                <div class="card-header" id="headingIconThree3">
+                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree3" aria-expanded="false" aria-controls="collapseIconThree3"><span><i class="uil uil-chart-line"></i></span>Reduced Flexibility, Geographic Constraints.</button>
                 </div>
                 <!--/.card-header -->
-                <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree" data-bs-parent="#accordionIconExample">
+                <div id="collapseIconThree3" class="accordion-collapse collapse" aria-labelledby="headingIconThree3" data-bs-parent="#accordionIconExample25">
                   <!--<div class="card-body">
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.</p>
                   </div>-->
@@ -180,13 +180,13 @@
           <!--/column -->
           <div class="col-lg-6">
             <h4 class="fs-18" style="text-align: center;">RapidBrains Developers</h4><br>
-            <div class="accordion accordion-wrapper" id="accordionIconExample">
+            <div class="accordion accordion-wrapper" >
               <div class="card accordion-item icon">
-                <div class="card-header" id="headingIconOne">
-                  <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseIconOne" aria-expanded="true" aria-controls="collapseIconOne"><span><i class="uil uil-shield-exclamation"></i></span>Global Talent Pool, Diverse Expertise.</button>
+                <div class="card-header" id="headingIconOne4">
+                  <button class="accordion-button" ><span><i class="uil uil-shield-exclamation"></i></span>Global Talent Pool, Diverse Expertise.</button>
                 </div>
                 <!--/.card-header -->
-                <div id="collapseIconOne" class="accordion-collapse collapse show" aria-labelledby="headingIconOne" data-bs-parent="#accordionIconExample">
+                <div id="collapseIconOne" class="accordion-collapse collapse show" >
                   <!--<div class="card-body">
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.</p>
                   </div>-->
@@ -196,11 +196,11 @@
               </div>
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
-                <div class="card-header" id="headingIconTwo">
+                <div class="card-header" id="headingIconTwo5">
                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconTwo" aria-expanded="false" aria-controls="collapseIconTwo"><span><i class="uil uil-check-circle"></i></span>Cost-Effective, Scalable Workforce.</button>
                 </div>
                 <!--/.card-header -->
-                <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo" data-bs-parent="#accordionIconExample">
+                <div id="collapseIconTwo" class="accordion-collapse collapse" aria-labelledby="headingIconTwo5" data-bs-parent="#accordionIconExample">
                   <!--<div class="card-body">
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.</p>
                   </div>-->
@@ -210,11 +210,11 @@
               </div>
               <!--/.accordion-item -->
               <div class="card accordion-item icon">
-                <div class="card-header" id="headingIconThree">
+                <div class="card-header" id="headingIconThree6">
                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseIconThree" aria-expanded="false" aria-controls="collapseIconThree"><span><i class="uil uil-chart-line"></i></span>Enhanced Flexibility, Adaptability</button>
                 </div>
                 <!--/.card-header -->
-                <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree" data-bs-parent="#accordionIconExample">
+                <div id="collapseIconThree" class="accordion-collapse collapse" aria-labelledby="headingIconThree6" data-bs-parent="#accordionIconExample">
                   <!--<div class="card-body">
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.</p>
                   </div>-->

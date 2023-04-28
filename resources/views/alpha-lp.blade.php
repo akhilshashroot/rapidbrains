@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutlandpage')
 @section('section')
 <style>
 
@@ -8,7 +8,9 @@
     margin-left: -3.95rem !important;
 }
 }
-
+.lineal-fill3 {
+    fill: #8caeec !important;
+}
 .lineal-stroke3 {
     fill: #45c4a0 !important;
 }
@@ -37,7 +39,7 @@
             <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-1 position-relative order-lg-2" data-cue="zoomIn">
               <div class="shape bg-dot primary rellax w-17 h-19" data-rellax-speed="1" style="top: -1.7rem; left: -1.5rem;"></div>
               <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0" ></div>
-              <figure class="rounded"><img src="https://www.rapidbrains.com/assets/img/common/alpha-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/alpha-hero.webp" alt="hire remote developer" /></figure>
+              <figure class="rounded"><img src="https://www.rapidbrains.com/assets/img/common/rapidbrains-alpha-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/rapidbrains-alpha-hero.webp" alt="hire remote developer" /></figure>
               <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -2.5rem; right: -2.2rem; z-index: 0; transform: translate3d(0px, 0px, 0px);"></div>
 
             </div>
@@ -131,7 +133,7 @@
             </div>
             <div class="d-flex flex-row">
               <div>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 499.09" data-inject-url="https://sandbox.elemisthemes.com/assets/img/icons/lineal/balance.svg" class="svg-inject icon-svg icon-svg-sm text-green  me-4"><path class="lineal-fill" d="M114.32 343.22H89.6A74.6 74.6 0 0115 268.61v-19.28h174v19.28a74.61 74.61 0 01-74.68 74.61zm308.08 0h-24.72a74.61 74.61 0 01-74.62-74.61v-19.28H497v19.28a74.6 74.6 0 01-74.6 74.61z"></path><path class="lineal-stroke lineal-stroke3" d="M511.51 248.23v-.51c0-.17-.08-.58-.13-.87s-.06-.39-.1-.57-.12-.48-.18-.71-.13-.48-.2-.71-.13-.36-.2-.55-.2-.55-.32-.82l-.22-.45c-.14-.29-.28-.57-.43-.85a.61.61 0 01-.07-.14l-43.49-75.32a14.55 14.55 0 10-25.2 14.55l30.88 53.5H348.27l70.17-121.55h79a14.55 14.55 0 100-29.1H310.85a57 57 0 00-40.3-40.3V14.55a14.55 14.55 0 10-29.1 0v41.94A14.55 14.55 0 00256 71a27.65 27.65 0 010 55.29 27.69 27.69 0 01-27.63-27.65 14.55 14.55 0 00-14.57-14.51H14.55a14.55 14.55 0 000 29.1h62.21L2.38 242.05l-.06.14c-.16.28-.3.56-.44.85l-.22.45c-.12.27-.22.55-.32.82s-.14.37-.2.55-.13.47-.2.71-.13.47-.18.71-.07.38-.1.57-.1.58-.13.87 0 .34 0 .51v20.37a89.27 89.27 0 0089.07 89.17h24.72a89.27 89.27 0 0089.17-89.17v-20.88c0-.17-.09-.58-.14-.87s-.06-.39-.1-.57-.12-.48-.18-.71-.12-.48-.19-.71-.14-.36-.21-.55-.2-.55-.32-.82-.14-.3-.21-.45-.28-.57-.44-.85l-.07-.14-45.29-78.44a14.55 14.55 0 00-25.2 14.55l32.69 56.62H40.19l70.17-121.55h90.79a57 57 0 0040.3 40.3v245.16H114.13a14.55 14.55 0 00-14.55 14.55v71.3a14.56 14.56 0 0014.55 14.55h283.74a14.55 14.55 0 0014.55-14.55v-71.3a14.54 14.54 0 00-14.55-14.55h-71.54a14.55 14.55 0 100 29.1h57V470H128.68v-42.2H256a14.55 14.55 0 0014.55-14.55V153.53a57 57 0 0040.3-40.3h74l-74.39 128.82a.61.61 0 01-.07.14c-.15.28-.29.56-.43.85l-.22.45c-.12.27-.22.55-.32.82s-.14.37-.2.55-.14.47-.2.71-.13.47-.18.71-.07.38-.1.57-.1.58-.13.87 0 .34 0 .51-.05.63-.05.94v19.43a89.28 89.28 0 0089.17 89.17h24.67a89.27 89.27 0 0089.17-89.17v-19.43l-.06-.94zm-337.12 20.38a60.13 60.13 0 01-60.07 60.06H89.6a60.12 60.12 0 01-60.06-60.06v-4.73h144.85v4.73zm308.07 0a60.12 60.12 0 01-60.06 60.06h-24.72a60.13 60.13 0 01-60.07-60.06v-4.73h144.85z"></path></svg>              </div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 499.09" data-inject-url="https://sandbox.elemisthemes.com/assets/img/icons/lineal/balance.svg" class="svg-inject icon-svg icon-svg-sm text-green  me-4"><path class="lineal-fill3" d="M114.32 343.22H89.6A74.6 74.6 0 0115 268.61v-19.28h174v19.28a74.61 74.61 0 01-74.68 74.61zm308.08 0h-24.72a74.61 74.61 0 01-74.62-74.61v-19.28H497v19.28a74.6 74.6 0 01-74.6 74.61z"></path><path class="lineal-stroke lineal-stroke3" d="M511.51 248.23v-.51c0-.17-.08-.58-.13-.87s-.06-.39-.1-.57-.12-.48-.18-.71-.13-.48-.2-.71-.13-.36-.2-.55-.2-.55-.32-.82l-.22-.45c-.14-.29-.28-.57-.43-.85a.61.61 0 01-.07-.14l-43.49-75.32a14.55 14.55 0 10-25.2 14.55l30.88 53.5H348.27l70.17-121.55h79a14.55 14.55 0 100-29.1H310.85a57 57 0 00-40.3-40.3V14.55a14.55 14.55 0 10-29.1 0v41.94A14.55 14.55 0 00256 71a27.65 27.65 0 010 55.29 27.69 27.69 0 01-27.63-27.65 14.55 14.55 0 00-14.57-14.51H14.55a14.55 14.55 0 000 29.1h62.21L2.38 242.05l-.06.14c-.16.28-.3.56-.44.85l-.22.45c-.12.27-.22.55-.32.82s-.14.37-.2.55-.13.47-.2.71-.13.47-.18.71-.07.38-.1.57-.1.58-.13.87 0 .34 0 .51v20.37a89.27 89.27 0 0089.07 89.17h24.72a89.27 89.27 0 0089.17-89.17v-20.88c0-.17-.09-.58-.14-.87s-.06-.39-.1-.57-.12-.48-.18-.71-.12-.48-.19-.71-.14-.36-.21-.55-.2-.55-.32-.82-.14-.3-.21-.45-.28-.57-.44-.85l-.07-.14-45.29-78.44a14.55 14.55 0 00-25.2 14.55l32.69 56.62H40.19l70.17-121.55h90.79a57 57 0 0040.3 40.3v245.16H114.13a14.55 14.55 0 00-14.55 14.55v71.3a14.56 14.56 0 0014.55 14.55h283.74a14.55 14.55 0 0014.55-14.55v-71.3a14.54 14.54 0 00-14.55-14.55h-71.54a14.55 14.55 0 100 29.1h57V470H128.68v-42.2H256a14.55 14.55 0 0014.55-14.55V153.53a57 57 0 0040.3-40.3h74l-74.39 128.82a.61.61 0 01-.07.14c-.15.28-.29.56-.43.85l-.22.45c-.12.27-.22.55-.32.82s-.14.37-.2.55-.14.47-.2.71-.13.47-.18.71-.07.38-.1.57-.1.58-.13.87 0 .34 0 .51-.05.63-.05.94v19.43a89.28 89.28 0 0089.17 89.17h24.67a89.27 89.27 0 0089.17-89.17v-19.43l-.06-.94zm-337.12 20.38a60.13 60.13 0 01-60.07 60.06H89.6a60.12 60.12 0 01-60.06-60.06v-4.73h144.85v4.73zm308.07 0a60.12 60.12 0 01-60.06 60.06h-24.72a60.13 60.13 0 01-60.07-60.06v-4.73h144.85z"></path></svg>              </div>
               <div>
                 <h4 class="mb-1">Zero Statutory Compliance.</h4>
                 <p class="mb-0">Sidestep burdensome statutory compliance requirements of local labour law with a seamless and efficient working experience.</p>
@@ -157,8 +159,7 @@
               <div class="card-body py-4 px-5">
                 <div class="d-flex flex-row align-items-center">
                   <div>
-                    <img src="https://www.rapidbrains.com/assets/img/icons/solid/alarm.svg" class="svg-inject icon-svg icon-svg-xs solid-mono text-primary me-3" alt="alarm" />
-                  </div>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255.98 256" data-inject-url="https://www.rapidbrains.com/assets/img/icons/solid/alarm.svg" class="svg-inject icon-svg icon-svg-xs solid-mono text-primary me-3"><path class="fill-secondary" d="M26.64 256a10.66 10.66 0 01-8.26-17.4l23.33-28.67a10.67 10.67 0 1116.55 13.47l-23.33 28.67a10.65 10.65 0 01-8.29 3.93zm202.69 0a10.65 10.65 0 01-8.29-3.93l-23.33-28.67a10.67 10.67 0 0116.55-13.47l23.32 28.67a10.66 10.66 0 01-8.25 17.4zM10.66 72a10.66 10.66 0 01-7.54-18.2L53.79 3.13a10.67 10.67 0 0115.09 15.08L18.21 68.88A10.68 10.68 0 0110.66 72zm234.65 0a10.55 10.55 0 01-7.53-3.12L187.1 18.21a10.67 10.67 0 1115.09-15.08l50.67 50.67a10.66 10.66 0 01-7.55 18.2z"></path><path class="fill-primary" d="M128 32a112 112 0 10112 112A112.12 112.12 0 00128 32zm66.68 122.68H128A10.68 10.68 0 01117.31 144V80a10.68 10.68 0 0121.35 0v53.33h56a10.68 10.68 0 010 21.35z"></path></svg>                  </div>
                   <div>
                     <h3 class="fs-25 counter mb-0 text-nowrap">24 hours</h3>
                     <p class="fs-16 lh-sm mb-0 text-nowrap">To build team</p>
