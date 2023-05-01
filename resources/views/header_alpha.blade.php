@@ -40,11 +40,11 @@
               <ul class="navbar-nav">
           
               <li class="nav-item dropdown dropdown-mega">
-                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a>
+                <!-- <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a> -->
                 <ul class="dropdown-menu mega-menu">
                   <li class="mega-menu-content">
                     <ul class="row row-cols-1 row-cols-lg-6 gx-0 gx-lg-6 gy-lg-1 list-unstyled">
-                    <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-react-js-developers">React.js Developers </a></li>
+                    <!-- <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-react-js-developers">React.js Developers </a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-python-developers">Python Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-angular-developers">Angular Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-node-js-developers">Node.js Developers</a></li>
@@ -86,7 +86,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-drupal-developers">Drupal Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-sap-developers">SAP Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-salesforce-developers">Salesforce Developers</a></li>
-
+ -->
 
                     </ul>
                     <!--/.row -->
@@ -97,21 +97,21 @@
               </li>
                 
               <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a>
+                    <!-- <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a> -->
                     <ul class="dropdown-menu">
-                      <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
+                      <!-- <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
                       <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
                       <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
-                     
+                      -->
                     </ul>
                   </li>
-                  <li class="nav-item ">
-                    <a class="nav-link" href="{{route('customsearch.index')}}">Rate Card</a>
+                  <li class="ssp">
+                    <!-- <a class="nav-link" href="{{route('customsearch.index')}}">Rate Card</a> -->
                   </li>
                  
                  
                   <li class="nav-item ">
-                    <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
+                    <!-- <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a> -->
                   </li>
                  
                
@@ -144,7 +144,8 @@
               
                  
                 <nav class="nav-item justify-content-end text-end">
-                   <a class="btn btn-primary btn-sm rounded-pill" id="enquirenowID" >Enquire</a> 
+                <a class="btn btn-primary btn-sm rounded-pill" id="enquirenowID" >Hire Developers</a> 
+
                   <!--<a href="#"><i class="uil uil-twitter"></i></a>-->
                   <!--<a href="#"><i class="uil uil-facebook-f"></i></a>-->
                   <!--<a href="#"><i class="uil uil-dribbble"></i></a>-->

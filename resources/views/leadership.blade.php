@@ -11,17 +11,99 @@
     height: max-content;
 }
 }
+@media (max-width: 720px){
+.hed {
+  color: #fff !important;
+    background-color: #343f52  !important;
+    border-color: #343f52  !important;
+  
+}
+/* .pt-19 {
+    padding-top: 13rem!important;
+} */
+.ccs{
+  margin-top: -4rem;
+}
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+
+#sect-bg1{
+ display:none;
+
+}
+#sect-bg2{
+ display:block;
+
+}
+} 
+
+@media (min-width: 992px){
+.px-lg-33 {
+    padding-right: 0.1rem !important;
+    padding-left: 0.1rem !important;
+}
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+#sect-bg1{
+ display:block;
+
+}
+#sect-bg2{
+ display:none;
+
+}
+}
+@media (min-width: 720px){
+
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+#sect-bg1{
+ display:block;
+
+}
+#sect-bg2{
+ display:none;
+
+}
+}
+@media (min-width: 768px){
+.py-md-16x {
+    padding-top: 10rem !important;
+    padding-bottom: 7rem !important;
+}
+}
+
+.py-13c {
+    padding-top: 8rem !important;
+    padding-bottom: 2rem !important;
+}
     </style>
    
-   <section class="wrapper bg-gradient-ash">
-        <div class="container py-14 py-md-16">
+   <section class="wrapper image-wrapper bg-image" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}" style="padding-bottom: 100px;">
+        <div class="container py-13c py-md-16x">
           <div class="row mb-3">
             <div class="col-md-10 col-lg-12 col-xl-10 col-xxl-9 mx-auto text-center">
               <h2 class="display-4 mb-3">Meet The Makers</h2>
               <p class="lead fs-lg mb-6 px-xl-10 px-xxl-4">An innovative collective of like-minded folks making useful and enduring technology products.</p>
             <!--/column -->
             </div>
-          </div><br><br>
+          </div>
+          </div>
+      <!-- /.container -->
+      </div>
+      <!-- /.container -->
+    
+      <!-- /.container -->
+    </section>
+     
+          <div class="container py-14 py-md-16" style="margin-top: -204px;">
+        
           <!--/.row -->
           <div class="row grid-view gx-md-8 gx-xl-10 gy-8 gy-lg-0 text-center">
             <div class="col-md-6 col-lg-3">
@@ -232,6 +314,6 @@
           <!--/.row -->
         </div>
         <!-- /.container -->
-      </section>
+    
 @include('services.logo')
 @endsection

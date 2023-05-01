@@ -1,6 +1,8 @@
 
   $(document).on('click','#enquirenowID',function(e) {
-    
+    var $alertas = $('#enquirenowForm');
+    $alertas.validate().resetForm();
+    $alertas.find('.error').removeClass('error');
         $('#enquirenow').modal('show');
         $('#type').val('enquirenow');
         $('#submit').html('Enquire Now');

@@ -10,7 +10,7 @@
                 <li><i class="uil uil-check" ></i>Hire Dedicated Remote Developers and save 100% on Hiring Cost</li>
                 <li><i class="uil uil-check" ></i>Maximize your return on investment with RapidBrains</li>
               </ul><br>
-              <span><a class="btn btn-primary rounded-pill me-2" href="https://talents.rapidbrains.com/">Hire Developers</a></span>
+              <span><a class="btn btn-primary rounded-pill me-2" id="enquirenowID" >Hire Developers</a></span>
             </div>
             <!-- /column -->
             <div class="col-lg-7">
@@ -110,7 +110,7 @@
             </div><br><br>
             <!-- /.row -->
             <div class="d-flex justify-content-center">
-              <span><a class="btn btn-primary rounded" href="https://talents.rapidbrains.com/" >Hire Developers</a></span>
+              <span><a class="btn btn-primary rounded" id="enquirenowID"  >Hire Developers</a></span>
             </div>
           </div>
           <!-- /column -->
@@ -249,35 +249,35 @@
           <div class="col-lg-8" style="padding-top: 50px;">
             <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Google-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Google-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Facebook-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Facebook-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Oracle-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Oracle-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/company-logo/EY-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/company-logo/EY-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Deloitte-logo.png" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Deloitte-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
             </div>
@@ -611,7 +611,7 @@
         <h3 class="display-5 mb-5">Celebrating Our Industry Accolades and Achievements</h3>
         <p>Discover RapidBrains impressive collection of accolades, showcasing our dedication to excellence
           and commitment to delivering outstanding remote development solutions.</p>
-        <a href="https://talents.rapidbrains.com/" class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
+        <a id="enquirenowID"  class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
       </div>
       <!--/column -->
     </div>

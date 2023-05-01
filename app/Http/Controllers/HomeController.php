@@ -131,4 +131,13 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/global-footprint";
         return view('global-footprint',compact('data'));
     }
+
+    public function thankYou() {
+        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+        $data['canonical']= "https://www.rapidbrains.com/thank-you";
+        return view('thank-you',compact('data'));
+    }
+    
 }

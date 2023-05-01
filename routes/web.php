@@ -98,3 +98,4 @@ Route::get('/leadership', [HomeController::class, 'leaderShip'])->name('leaderSh
 Route::get('/ceo-message', [HomeController::class, 'ceoMessage'])->name('ceoMessage');
 Route::get('/global-footprint', [HomeController::class, 'globalFootprint'])->name('globalFootprint');
 
+Route::get('/thank-you', [HomeController::class, 'thankYou'])->name('thankYou');

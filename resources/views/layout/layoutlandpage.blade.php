@@ -90,6 +90,52 @@ body{
     border: 0 !important;
     content: "\e92d" !important;
 }
+
+
+@media (max-width: 720px){
+
+
+.b-desk{
+ display:none;
+
+}
+.b-mob{
+ display:block;
+
+}
+} 
+
+
+@media (min-width: 992px){
+
+  .b-desk{
+ display:block;
+
+}
+.b-mob{
+ display:none;
+
+}
+}
+@media (min-width: 720px){
+
+
+  .b-desk{
+ display:block;
+
+}
+.b-mob{
+ display:none;
+
+}
+}
+
+@media (min-width: 992px){
+.ssp {
+  padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+}
+}
 </style>
 
 <body>
@@ -103,6 +149,8 @@ body{
   @include('header_beta')
   @elseif(Route::currentRouteName() == 'test-page')
   @include('header_leadership')
+  @elseif(Route::currentRouteName() == 'BetaLp')
+      @include('header_alpha')
       @elseif(Route::currentRouteName() == 'AlphaLp')
       @include('header_alpha')
       @else
@@ -331,13 +379,7 @@ body{
  $("#submit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
  document.getElementById("enquirenowForm").reset(); 
- swal({
- title: 'We will get back to you at the earliest.',
- text: "You won't be able to revert this!",
- type: 'success',
- showConfirmButton:true,
- confirmButtonText: 'Okay'
- });        
+ window.location = "/thank-you";        
  $('#enquirenow').modal('hide');
   $('body').removeClass('modal-open');
     }
@@ -609,12 +651,7 @@ if ($("#hire_now").length > 0) {
     confirmButtonText: 'Okay'
     });   
              }else if(response.statuscode==402){
-               swal({
-   title: response.message,
-    type: 'success',
-    showConfirmButton:true,
-    confirmButtonText: 'Okay'
-    });   
+              window.location = "/thank-you"; 
      
     }
     document.getElementById("hire_now").reset(); 

@@ -16,7 +16,7 @@
           </div>
           <!-- /.row -->
           <div class="d-flex justify-content-center">
-            <span><a class="btn btn-white rounded" id="callbackreq">Hire Developers</a></span>
+            <span><a class="btn btn-white rounded"  id="enquirenowID">Hire Developers</a></span>
           </div>
         </div>
         <!--/.card-body -->
