@@ -1,4 +1,4 @@
-@extends('layout.layoutnewheader')
+@extends('layout.layout-ty')
 @section('section')
 <style>
  .col-xl-53 {
@@ -135,7 +135,7 @@
               <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /></h1>
               <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
               <div class="d-flex justify-content-center" data-cues="slideInDown"  >
-              <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="javascript: history.go(-1)" style="color:#fff;">Go back</a></span>
+              <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="javascript: history.go(-1)" style="color:#fff;"><i class="uil uil-left-arrow-from-left"></i> &nbsp;&nbsp;Go back</a></span>
               <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
             </div>
             </div>
