@@ -132,8 +132,9 @@
             <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div data-cues="slideInDown" data-group="page-title">
-              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /></h1>
-              <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
+              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">Thank You for Opting for RapidBrains<br /></h1>
+              <p class="lead fs-24 mb-8">Discover Skilled Remote Developers Within a Day
+</p>
               <div class="d-flex justify-content-center" data-cues="slideInDown"  >
               <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="javascript: history.go(-1)" style="color:#fff;"><i class="uil uil-left-arrow-from-left"></i> &nbsp;&nbsp;Go back</a></span>
               <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->

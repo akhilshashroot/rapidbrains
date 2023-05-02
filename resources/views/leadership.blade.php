@@ -85,7 +85,7 @@
 }
     </style>
    
-   <section class="wrapper image-wrapper bg-image" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}" style="padding-bottom: 100px;">
+   <section class="wrapper image-wrapper bg-image" data-image-src="https://www.rapidbrains.com/assets/img/photos/RapidBrains-footerbg.webp" style="padding-bottom: 100px;">
         <div class="container py-13c py-md-16x">
           <div class="row mb-3">
             <div class="col-md-10 col-lg-12 col-xl-10 col-xxl-9 mx-auto text-center">
@@ -128,9 +128,9 @@
                 <div class="shape rounded bg-soft-red rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/rsl.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/rsl.jpg" alt="" />
-                    <h4 class="mb-1">Rassal M</h4>
-                    <div class="meta mb-2 fs-12">Director of Solutions & CBO</div>
+                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" alt="" />
+                    <h4 class="mb-1">Febina K V</h4>
+                    <div class="meta mb-2 fs-12">Chief Product <br> Officer</div>
                     <!-- /.social -->
                   </div>
                   <!--/.card-body -->
@@ -174,14 +174,15 @@
               <!-- /div -->
             </div>
             <!--/column -->
+            
             <div class="col-md-6 col-lg-3">
               <div class="position-relative">
-                <div class="shape rounded bg-soft-red rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="shape rounded bg-soft-blue rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" alt="" />
-                    <h4 class="mb-1">Febina K V</h4>
-                    <div class="meta mb-2 fs-12">Chief Product <br> Officer</div>
+                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" alt="" />
+                    <h4 class="mb-1">Arjun Narayanan</h4>
+                    <div class="meta mb-2 fs-12">Vice President - Business Operations</div>
                     <!-- /.social -->
                   </div>
                   <!--/.card-body -->
@@ -199,23 +200,6 @@
                     <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/krishnaprasad.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/krishnaprasad.jpg" alt="" />
                     <h4 class="mb-1">Krishna Prasad K</h4>
                     <div class="meta mb-2 fs-12">Head of Technical Department</div>
-                    <!-- /.social -->
-                  </div>
-                  <!--/.card-body -->
-                </div>
-                <!-- /.card -->
-              </div><br><br>
-              <!-- /div -->
-            </div>
-            <!--/column -->
-            <div class="col-md-6 col-lg-3">
-              <div class="position-relative">
-                <div class="shape rounded bg-soft-blue rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
-                <div class="card">
-                  <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" alt="" />
-                    <h4 class="mb-1">Arjun Narayanan</h4>
-                    <div class="meta mb-2 fs-12">Vice President - Business Operations</div>
                     <!-- /.social -->
                   </div>
                   <!--/.card-body -->
@@ -293,27 +277,9 @@
               <!-- /div -->
             </div>
             <!--/column -->
-            <div class="col-md-6 col-lg-3">
-              <div class="position-relative">
-                <div class="shape rounded bg-soft-red rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
-                <div class="card">
-                  <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/Simal.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/Simal.jpg" alt="" />
-                    <h4 class="mb-1">Simal Soin</h4>
-                    <div class="meta mb-2 fs-12">Sales Operations - United States</div>
-                    <!-- /.social -->
-                  </div>
-                  <!--/.card-body -->
-                </div>
-                <!-- /.card -->
-              </div>
-              <!-- /div -->
-            </div>
-            <!--/column -->
           </div>
           <!--/.row -->
         </div>
-        <!-- /.container -->
-    
+        <!-- /.container -->     
 @include('services.logo')
 @endsection

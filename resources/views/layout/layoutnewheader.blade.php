@@ -27,6 +27,13 @@
 </script>
 
 <style>
+
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: var(--bs-navbar-nav-link-padding-x) !important;
+    padding-left: var(--bs-navbar-nav-link-padding-x)!important;
+}
+}
   [data-cue=fadeIn], [data-cues=fadeIn]>* {
     opacity: 0;
 }
