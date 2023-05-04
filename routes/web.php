@@ -85,10 +85,8 @@ Route::get('/hire-salesforce-developers', [AdditionalPagesController::class, 'hi
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
-
-
 Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'index'])->name('customsearch.index');
-//14-04-2022
+
 
 Route::get('/test-page', [HomeController::class, 'testPage'])->name('test-page');
 Route::get('/test-page2', [HomeController::class, 'test2'])->name('test-page2');
@@ -97,5 +95,5 @@ Route::get('/beta-lp', [HomeController::class, 'BetaLp'])->name('BetaLp');
 Route::get('/leadership', [HomeController::class, 'leaderShip'])->name('leaderShip');
 Route::get('/ceo-message', [HomeController::class, 'ceoMessage'])->name('ceoMessage');
 Route::get('/global-footprint', [HomeController::class, 'globalFootprint'])->name('globalFootprint');
-
 Route::get('/thank-you', [HomeController::class, 'thankYou'])->name('thankYou');
+Route::get('/capabilities', [HomeController::class, 'capAbilities'])->name('capAbilities');

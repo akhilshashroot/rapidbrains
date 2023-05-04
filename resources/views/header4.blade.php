@@ -11,7 +11,7 @@
         <div class="container flex-lg-row flex-nowrap align-items-center">
           <div class="navbar-brand w-100">
           <a href="/">
-            <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo@2x.svg')}}" alt="RapidBrains Logo"  class="img-logo"  width="200" height="39"/>
+          <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo"  class="img-logo"/>
             </a>
           </div>
           <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
@@ -92,7 +92,7 @@
                     <a class="nav-link" href="{{route('customsearch.index')}}" style='color: #343f52;'>Rate Card</a>
                   </li> -->
                     <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="true">About Company</a>
+                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="true"  style='color: #343f52;'>About Company</a>
                   <div class="dropdown-menu dropdown-lg" data-bs-popper="static">
                     <div class="dropdown-lg-content">
                       <div>
@@ -112,6 +112,8 @@
                         <ul class="list-unstyled">
                           <li><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
                           <li><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
+                          <li><a class="dropdown-item"  href="{{route('capAbilities')}}">Capabilities</a></li>
+                          
                           <li><a class="dropdown-item" href="https://jobs.rapidbrains.com/">Jobs at RapidBrains</a></li>
                           <!-- <li><a class="dropdown-item" href="../../single-project4.html">Single Project IV</a></li> -->
                         </ul>

@@ -55,6 +55,8 @@ body{
       @if(Route::currentRouteName() == 'join')
       @include('header2')
       
+      @elseif(Route::currentRouteName() == 'capAbilities')
+  @include('header2')
       @elseif(Route::currentRouteName() == 'leaderShip')
   @include('header2')
       @elseif(Route::currentRouteName() == 'globalFootprint')

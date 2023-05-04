@@ -79,7 +79,6 @@ class HomeController extends Controller
     public function join() {
         return view('join');
     }
-
     public function testPage() {
         $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
@@ -87,30 +86,28 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/test-page";
         return view('test-new',compact('data'));
     }
-
-    public function test2() {
+        public function test2() {
         $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/test-page";
         return view('test2',compact('data'));
     }
-    public function AlphaLp() {
+     public function AlphaLp() {
         $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/alpha-lp";
         return view('alpha-lp',compact('data'));
     }
-    public function BetaLp() {
+        public function BetaLp() {
         $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/beta-lp";
         return view('beta-lp',compact('data'));
     }
-
-    public function leaderShip() {
+       public function leaderShip() {
         $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
@@ -131,13 +128,18 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/global-footprint";
         return view('global-footprint',compact('data'));
     }
-
-    public function thankYou() {
+        public function thankYou() {
         $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/thank-you";
         return view('thank-you',compact('data'));
     }
-    
+        public function capAbilities() {
+        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+        $data['canonical']= "https://www.rapidbrains.com/capabilities";
+        return view('our-capabilities',compact('data'));
+    }
 }

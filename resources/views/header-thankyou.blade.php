@@ -4,7 +4,7 @@
         <div class="container flex-lg-row flex-nowrap align-items-center">
           <div class="navbar-brand w-100">
           <a href="/">
-            <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo@2x.svg')}}" alt="RapidBrains Logo"  class="img-logo"  width="200" height="39"/>
+          <img src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo"  class="img-logo"/>
             </a>
           </div>
           <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
@@ -70,7 +70,7 @@
                   </ul>
                   <!--/.dropdown-menu -->
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" style='color: #343f52;'>Company</a>
                     <ul class="dropdown-menu">
                     <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}"  >About RapidBrains</a></li>
@@ -82,7 +82,39 @@
                   <li class="nav-item ">
                     <a class="nav-link" href="{{route('customsearch.index')}}" style='color: #343f52;'>Rate Card</a>
                   </li>
-                 
+                  -->
+                  <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="true" style='color: #343f52;'>About Company</a>
+                  <div class="dropdown-menu dropdown-lg" data-bs-popper="static">
+                    <div class="dropdown-lg-content">
+                      <div>
+                        <h6 class="dropdown-header"  style="padding-left: 25px;font-size: 0.65rem;color: #605dba;"> Who we are</h6>
+                        <ul class="list-unstyled">
+                          <li><a class="dropdown-item" href="{{route('about')}}">About Us</a></li>
+                          <li><a class="dropdown-item" href="{{route('ceoMessage')}}">CEO Message</a></li>
+                          <li><a class="dropdown-item" href="{{route('leaderShip')}}">Leadership</a></li>
+                          <li><a class="dropdown-item" href="{{route('globalFootprint')}}">Locations</a></li>
+                          <li><a class="dropdown-item" href="{{route('contact')}}">Contact</a></li>
+                          <li><a class="dropdown-item" href="https://articles.rapidbrains.com/">Articles </a></li>
+                        </ul>
+                      </div>
+                      <!-- /.column -->
+                      <div>
+                        <h6 class="dropdown-header"  style="padding-left: 25px;font-size: 0.65rem;color: #605dba;">How we work</h6>
+                        <ul class="list-unstyled">
+                          <li><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
+                          <li><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
+                          <li><a class="dropdown-item"  href="{{route('capAbilities')}}">Capabilities</a></li>
+
+                          <li><a class="dropdown-item" href="https://jobs.rapidbrains.com/">Jobs at RapidBrains</a></li>
+                          <!-- <li><a class="dropdown-item" href="../../single-project4.html">Single Project IV</a></li> -->
+                        </ul>
+                      </div>
+                      <!-- /.column -->
+                    </div>
+                    <!-- /auto-column -->
+                  </div>
+                </li>
                   <li class="nav-item ">
                     <a class="nav-link" href="https://talents.rapidbrains.com/" style='color: #343f52;'>Talent Cloud</a>
                   </li>

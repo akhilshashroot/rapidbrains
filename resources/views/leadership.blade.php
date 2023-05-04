@@ -130,7 +130,7 @@
                   <div class="card-body">
                     <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/febina.jpg" alt="" />
                     <h4 class="mb-1">Febina K V</h4>
-                    <div class="meta mb-2 fs-12">Chief Product <br> Officer</div>
+                    <div class="meta mb-2 fs-12">Chief Product Officer</div>
                     <!-- /.social -->
                   </div>
                   <!--/.card-body -->
