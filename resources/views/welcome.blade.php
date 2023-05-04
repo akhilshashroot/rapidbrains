@@ -219,15 +219,15 @@
       <!--/column -->
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5"> <i class="uil uil-globe"></i> </div>
-        <h4>Build worldwide team rapidly</h4>
-        <p class="mb-3">RapidBrains onboards your new team in as little as 24 hours, and saves you 100% on hiring costs</p>
+        <h4>Hire Talent Across The World</h4>
+        <p class="mb-3">No geographical restrictions with RapidBrains in hiring the best developers.</p>
         <a href="https://www.rapidbrains.com/benefits" class="more hover link-leaf">Learn More</a>
       </div>
       <!--/column -->
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-blue pe-none mb-5"> <i class="uil uil-book-open"></i> </div>
-        <h4>Up-skilling and training process</h4>
-        <p class="mb-3">We upskill and train the employees from time-to-time to help them with a staged career progression</p>
+        <h4>Trained & Highly Skilled Workforce</h4>
+        <p class="mb-3">Continues training at RapidBrains ensures highly skilled developers with relevant experience.</p>
         <a href="https://www.rapidbrains.com/benefits" class="more hover link-blue">Learn More</a>
       </div>
       <!--/column -->
@@ -275,9 +275,9 @@
       </div>
       <!--/column -->
       <div class="col-lg-5">
-        <h3 class="display-4 mb-4 me-lg-n5">A talent marketplace to build remote teams, rapidly!</h3>
-        <p class="mb-6"> Companies can hire pre-screened remote talents worldwide, scale up or scale down in a matter of days with flexible engagements from hourly to full-time employment.</p>
-        <p class="mb-6">With a massive pool of top talents to choose from, you can find the perfect candidate for your team. RapidBrains offers an easy-to-use platform to view profiles, shortlist, hire, and communicate with candidates in one place. A simplest way to find and hire the best remote talent around the world thereby making remote hiring easy and economical for both companies and talents.</p>
+        <h3 class="display-4 mb-4 me-lg-n5">Build you team with top remote developers, rapidly!</h3>
+        <p class="mb-6"> Companies can hire pre-screened remote developers worldwide, scale up or scale down in a matter of days with flexible engagements from hourly to full-time employment.</p>
+        <p class="mb-6">With over 100K trained and skilled software developers to choose from, hiring remote developers for your projects is super easy. Hire the top developers globally who are willing to work in your timezone without setting up any local entity. RapidBrains is the smartest way to find and hire the best remote talents around the world thereby making hiring and employing easy and economical for both companies and talents.</p>
       </div>
       <!--/column -->
     </div>
