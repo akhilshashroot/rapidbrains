@@ -1,2 +1,7 @@
 User-agent: *
-Disallow:
+Disallow:/ceo-message
+Disallow:/leadership
+Disallow:/global-footprint
+Disallow:/capabilities
+
+Sitemap: https://www.rapidbrains.com/sitemap.xml

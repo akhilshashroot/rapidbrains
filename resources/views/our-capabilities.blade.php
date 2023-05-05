@@ -165,8 +165,8 @@
               <div class="card-body">
                 <img src="./assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-green mb-3" alt="" />
                 <h4>What we did?</h4>
-                <p class="mb-2 fs-14">Based on employee suggestions, we developed HashRoot People, which is much more than just a digital people directory. 
-                    HashRoot People are capable of collaborative business networking, where employee profiles begin with corporate strategies. 
+                <p class="mb-2 fs-14">Based on employee suggestions, we developed RapidBrains People, which is much more than just a digital people directory. 
+                    RapidBrains People are capable of collaborative business networking, where employee profiles begin with corporate strategies. 
                     Each profile is populated with standard company information and our employees are encouraged to expand their profiles. 
                     Employees internal skills and resume information are automatically pulled into profiles.</p>
               </div>
@@ -287,7 +287,7 @@
                         Through this, the professionals constantly need to learn new skills and technologies to keep up with the latest trends. 
                         As changes in technology have accelerated, it’s become even more essential for people to master technology to be productive, 
                         invaluable employees who optimize, program and invent solutions—and even grow companies of their own. 
-                        HashRoot provide industry-leading technical training that delivers the most relevant and intuitive technology training.</p>
+                        RapidBrains provide industry-leading technical training that delivers the most relevant and intuitive technology training.</p>
                   </div>
               </div>
           </div>
@@ -311,7 +311,7 @@
               <div class="card card-border-start border-orange">
                   <div class="card-body">
                       <h4 style="padding-bottom: 10px;">Manage Project End to end</h4>
-                      <p class="mb-0">HashRoot Operations and Process Transformation drives the design and delivery of value-oriented operations transformations by taking an end-to-end 
+                      <p class="mb-0">RapidBrains Operations and Process Transformation drives the design and delivery of value-oriented operations transformations by taking an end-to-end 
                         approach to achieving excellence in execution. Our Versatility, uninterrupted availability, extensive knowledge of the current market, experienced hands 
                         and state of the heart products enables us to play well in the big picture. Through the Expert innovative combinations of the right technology strategy, 
                         the right business, the right operating model and the right execution path, we deliver the success to the business and emerge from them more quickly, developing 
@@ -339,10 +339,10 @@
               <div class="card card-border-start border-pink">
                   <div class="card-body">
                       <h4 style="padding-bottom: 10px;">Recommend the best</h4>
-                      <p class="mb-0">HashRoot focus on understanding and visualizing the right solutions, along with the probable hindrances, 
+                      <p class="mb-0">RapidBrains focus on understanding and visualizing the right solutions, along with the probable hindrances, 
                         thereafter work out proactive strategy that makes an impact on the business. We don’t mind to walk a mile more so as to do enough research 
                         through which we confidently help our clients to make an effective decision by opting the preferred path for the Business. 
-                        We make sure that we mitigate the risk for your company before approaching you with our solution. HashRoot has the culture that provides 
+                        We make sure that we mitigate the risk for your company before approaching you with our solution.RapidBrains has the culture that provides 
                         the best solution to every business. We provide the intersection of business and technology, where we deliver our clients gain measurable 
                         benefits that transcend cost-cutting to deliver a true execution advantage, simpler and flexible responses, and rigorous process execution across 
                         for the organization to lead it to certainty outcomes.</p>
@@ -369,7 +369,7 @@
               <div class="card card-border-start border-red">
                   <div class="card-body">
                       <h4 style="padding-bottom: 10px;">From a big picture to digital picture</h4>
-                      <p class="mb-0">HashRoot Innovations at the intersection of business and technology are leading to the creation of new services, products and applications. 
+                      <p class="mb-0">RapidBrains Innovations at the intersection of business and technology are leading to the creation of new services, products and applications. 
                         These have the potential to change business environment beyond current interpretation. It is at the point of intersection of idea, expertise management, 
                         miniaturize, machine data, cloud technologies, smart networks and analytics that break through innovations happen. An institution must renew their core 
                         technology into new frontiers and bringing more efficiency, or addressing new ideas and new innovations. Take your picture from the present series and lead 
@@ -397,7 +397,7 @@
               <div class="card card-border-start border-yellow">
                   <div class="card-body">
                       <h4 style="padding-bottom: 10px;">Specific about the statement of work</h4>
-                      <p class="mb-0">When we try to say what really defines our brand, we didn’t find the answer in the HashRoot branding. We got the answer through our clients. 
+                      <p class="mb-0">When we try to say what really defines our brand, we didn’t find the answer in the RapidBrains branding. We got the answer through our clients. 
                         Today, we have come across 1000+ clients that are changing the world through a broad mind relationship. We are doing it by taking our customers beyond the contract.
                          We build relation which benefit both parties are sustained by emotions, behaviour and actions that go beyond that explicit or implied contract. 
                          In business, a contract can safeguard all that is in within the “enclosed of control”. In the present uncertain world where businesses are facing new challenges 

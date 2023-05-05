@@ -112,6 +112,7 @@ class HomeController extends Controller
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/leadership";
+        $data['roboto']=true;
         return view('leadership',compact('data'));
     }
     public function ceoMessage() {
@@ -119,6 +120,7 @@ class HomeController extends Controller
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/ceo-message";
+        $data['roboto']=true;
         return view('ceo-message',compact('data'));
     }
     public function globalFootprint() {
@@ -126,6 +128,7 @@ class HomeController extends Controller
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/global-footprint";
+        $data['roboto']=true;
         return view('global-footprint',compact('data'));
     }
         public function thankYou() {
@@ -140,6 +143,7 @@ class HomeController extends Controller
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/capabilities";
+        $data['roboto']=true;
         return view('our-capabilities',compact('data'));
     }
 }

@@ -103,7 +103,7 @@
                           <li><a class="dropdown-item" href="{{route('leaderShip')}}">Leadership</a></li>
                           <li><a class="dropdown-item" href="{{route('globalFootprint')}}">Locations</a></li>
                           <li><a class="dropdown-item" href="{{route('contact')}}">Contact</a></li>
-                          <li><a class="dropdown-item" href="https://articles.rapidbrains.com/">Articles </a></li>
+                          <!-- <li><a class="dropdown-item" href="https://articles.rapidbrains.com/">Articles </a></li> -->
                         </ul>
                       </div>
                       <!-- /.column -->

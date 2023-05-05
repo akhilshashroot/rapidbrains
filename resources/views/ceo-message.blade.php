@@ -22,13 +22,13 @@
                             Quality service and the team of exuberant employees are the area where in we give more empresses to.
                         </p>
                         <p class="text-justify">
-                            All members of HashRoot family are responsible and accountable towards their client with no differentiation and are obliged to maintain a high standard of integrity. 
-                            HashRoot has its ethical and legal responsibilities with regards to all activities of employees that further include the dealings towards the client and their satisfaction. 
+                            All members of RapidBrains family are responsible and accountable towards their client with no differentiation and are obliged to maintain a high standard of integrity. 
+                            RapidBrains has its ethical and legal responsibilities with regards to all activities of employees that further include the dealings towards the client and their satisfaction. 
                             By providing proper quality services, we just not aim at customer satisfaction alone but further make sure of our customers save their time and money and make their work much easier and effortless. 
                             As we wish for the success of our customers, we always make sure no mistakes or omissions arise from our end.
                         </p>
                         <p class="text-justify">
-                            HashRoot makes sure that the client achieves tangible, high impact results. Our approach to every work is simple and have
+                          RapidBrains makes sure that the client achieves tangible, high impact results. Our approach to every work is simple and have
 given the clients with answers they need to make critical business decisions with greater certainty. <br>We have put up with the
 values of complete transparency, ethics and quality services, complimented by dynamic leadership & strong management.
 We offer you technique/strategy for your business <br>with innovation that could lead to growth while driving bottom-line
