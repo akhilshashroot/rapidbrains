@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -9,10 +9,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Flutter-image.jpg')}}" srcset="{{asset('assets/img/services/Flutter-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-flutter-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-flutter-image.jpg')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Flutter.png')}}" srcset="{{asset('assets/img/services/Flutter.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-flutter.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-flutter.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -78,7 +78,7 @@
                 applications developed by our Flutter developers are highly unique, dynamic,
                 efficient, and provide native-driven performance. We have specialized Flutter
                 developers for native mobile app development with appealing UI and amazing
-                animations.                
+                animations.
                 </p>
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
@@ -148,13 +148,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Remote Flutter experts are well versed in Flutter technology that offers
-                    customized and creative unique mobile applications.</p> 
+                    customized and creative unique mobile applications.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -186,7 +186,7 @@
                 <div class="card-body">
                   <p>By hiring remote Flutter developers, quick support and maintenance in
                     emergencies, queries or concerns are available round the clock
-  
+
   </p>
                   </div>
                 <!-- /.card-body -->
@@ -289,7 +289,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -307,7 +307,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -326,7 +326,7 @@
                 standards. Hire our flutter developers to take care of all your business
                 application requirements, including design, development, customization,
                 support, and more, with dedication and commitment.</p>
-                
+
             </div>
             <!--/column -->
           </div>

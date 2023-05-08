@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -86,7 +86,7 @@
                 engine optimization, which boosts website speed and visual appeal. Hire SEO
                 experts from RapidBrains to improve the ranking of your website on search
                 engines.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -139,7 +139,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>They can make sure that your website is simple to use and navigate, which can
-                    improve the user experience.</p>                   
+                    improve the user experience.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -155,13 +155,13 @@
               <div class="card-body">
                 <p>Your conversion rates may rise with increased website traffic and user
                     satisfaction, generating more leads and sales.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -303,7 +303,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -324,7 +324,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

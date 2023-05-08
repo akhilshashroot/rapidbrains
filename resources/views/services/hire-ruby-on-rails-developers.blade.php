@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -28,7 +28,7 @@
             handled with care and attention to detail, our team of experts will bring a sense
             of order and clarity to it. We have a large pool of talented developers who are
             aware of the distinctive capabilities of Ruby on Rails, whether you need a fullstack developer or a specialized RoR coder. For specialized solutions that
-            produce results, hire a dedicated RoR developer.            
+            produce results, hire a dedicated RoR developer.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -89,7 +89,7 @@
                 precisely crafted RoR solutions that address your needs and uplift the values
                 of your organization with our focus on agile methodologies and process-driven
                 frameworks.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -143,10 +143,10 @@
               <div class="card-body">
                 <p>Developers who have a thorough understanding of the RoR framework can
                     offer specialized solutions that satisfy your unique business needs.
-                    
-                    
-                    
-                    </p>                   
+
+
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -162,13 +162,13 @@
               <div class="card-body">
                 <p>RoR developers adhere to agile methodologies to ensure that projects are
                     completed on schedule and within budget.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -202,8 +202,8 @@
               <div class="card-body">
                 <p>The RoR framework is known for its maintainability, which makes it easy to
                     update and manage your application over time.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -314,7 +314,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -335,7 +335,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

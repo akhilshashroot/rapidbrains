@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -28,7 +28,7 @@
             your range of requirements. Our Python developers have in-depth knowledge
             and a wealth of experience in providing services that meet your high standards
             and deadlines. You will be able to grow your business to its greatest potential
-            with us.            
+            with us.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -88,7 +88,7 @@
                 development, IoT development, ERP development, machine learning, and
                 more. Depending on your company's needs, hire dedicated Python developers
                 and get started.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -142,9 +142,9 @@
               <div class="card-body">
                 <p>Python developers can save a massive amount of time when changing program
                     modules with the flexibility of code reuse.
-                    
-                    
-                    </p>                   
+
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -160,13 +160,13 @@
               <div class="card-body">
                 <p>Hire skilled software developers who are up to date on contemporary trends
                     and tools from a large talent pool.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -200,8 +200,8 @@
               <div class="card-body">
                 <p>Solutions that are incredibly flexible and scalable can be obtained by hiring a
                     remote Python developer.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -219,8 +219,8 @@
               <div class="card-body">
                 <p>The cost of hiring a remote Python developer is very reasonable. They offer all
                     varieties of Python services without affecting your budget proposal.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -316,7 +316,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -337,7 +337,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

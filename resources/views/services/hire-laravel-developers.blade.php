@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <section class="wrapper bg-gray">
   <div class="container py-14 py-md-16">
@@ -144,13 +144,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Team of Experienced Laravel professionals who focus primarily on the Laravel
-                    framework, offer customizable solutions.</p> 
+                    framework, offer customizable solutions.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -284,7 +284,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -304,7 +304,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -325,7 +325,7 @@
                 appropriate manner. Our skilled development team makes use of the latest
                 technologies. We only give you seasoned, reliable, and competent
                 professionals through our thorough screening process.</p>
-                
+
             </div>
             <!--/column -->
           </div>

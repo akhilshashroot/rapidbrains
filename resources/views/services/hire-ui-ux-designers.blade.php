@@ -1,5 +1,5 @@
-@extends('layout.layout')
-@section('section')    
+@extends('layout.layoutservice')
+@section('section')
 
 
 
@@ -89,7 +89,7 @@
                 experience is the main objective of every product's design. RapidBrains has
                 developers who have the knowledge and skills necessary to create UI/UXbased applications. Our teams of incredibly productive and skilled developers
                 have created a variety of UI/UX designs.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -143,7 +143,7 @@
               <div class="card-body">
                 <p>Higher levels of customer satisfaction and loyalty are a result of a welldesigned user interface.
 
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -159,14 +159,14 @@
               <div class="card-body">
                 <p>Higher conversion rates and improved business performance can result from
                     an improved user experience.
-                    
-                    </p> 
+
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -308,7 +308,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -329,7 +329,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

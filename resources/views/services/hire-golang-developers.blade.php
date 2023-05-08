@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Golang-image.jpg')}}" srcset="{{asset('assets/img/services/Golang-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-golang-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-golang-image.webp')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Golang.png')}}" srcset="{{asset('assets/img/services/Golang.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-golang.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-golang.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -27,7 +27,7 @@
             you in hiring Golang developers of your choice. Go is ideal for building
             scalable websites. Go is the preferred language for cloud infrastructure
             applications. To support you in achieving different software development
-            objectives, RapidBrains offers the most talented Golang developers.            
+            objectives, RapidBrains offers the most talented Golang developers.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -75,7 +75,7 @@
               <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
               <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Skilled Remote Golang Developers</h3>
               <p>Developed at Google, Go is a statically-typed, compiled programming
-                language that addresses and enhances programming productivity.RapidBrains is the best option to meet your 
+                language that addresses and enhances programming productivity.RapidBrains is the best option to meet your
                 ever-changing project requirements when it comes to hiring developers with expertise in the popular Go programming language.
                  It can be difficult to find the top Golang web developer
                 due to the rising popularity and variety of projects being written in Go. Hire
@@ -83,7 +83,7 @@
                 experience utilizing server-side technologies and Golang development
                 frameworks. By creating high-performing back-end apps, our dedicated team
                 of Golang developers has assisted businesses in achieving their objectives.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -149,13 +149,13 @@
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Golang is built for concurrency, allowing your application to effectively handle
-                    numerous requests at once.</p> 
+                    numerous requests at once.</p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -296,7 +296,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -317,7 +317,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">
@@ -340,9 +340,9 @@
                 our Golang developers. At RapidBrains, we think hiring remote Golang
                 developers is a wise investment for companies trying to stay on top of the
                 rapidly evolving technology landscape of today.
-                  
+
                 </p>
-                
+
             </div>
             <!--/column -->
           </div>

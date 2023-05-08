@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -27,7 +27,7 @@
             quick, secure, and scalable. At RapidBrains, you can find the top Django
             developers who can streamline your project with a clear and reliable design.
             Trust in our professional team of passionate Django developers to create
-            innovative, scalable, and safe solutions.            
+            innovative, scalable, and safe solutions.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -85,7 +85,7 @@
                 regardless of whether you are an entrepreneur, a small business, or an
                 established organization. To support and speed up your web development
                 projects, hire the best Django developers at the most competitive rates.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -137,7 +137,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Django uses the DRY (Don't Repeat Yourself) principle to speed up
-                    development.</p>                   
+                    development.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -153,13 +153,13 @@
               <div class="card-body">
                 <p>Django's framework is equipped with strong security features that lessen the
                     possibility of attacks and data breaches.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -301,7 +301,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -322,7 +322,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

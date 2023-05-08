@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -77,7 +77,7 @@
                 your business engagement enterprises irrespective of business size. Our
                 dedicated remote drupal developers use the most up-to-date strategies to create
                 highly unique, dynamic, and complex websites that are robust and flexible to
-                evolving business trends and volumes.                
+                evolving business trends and volumes.
                 </p>
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
@@ -144,13 +144,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Hire remote drupal developers from RapidBrains for your Drupal development
-                    services that are affordable to enterprises of all levels.</p> 
+                    services that are affordable to enterprises of all levels.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -181,8 +181,8 @@
               <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
                 <div class="card-body">
                   <p>At RapidBrains, we monitor the complete development process of the project
-                    to ensure the product working fine and is delivered on time. 
-  
+                    to ensure the product working fine and is delivered on time.
+
   </p>
                   </div>
                 <!-- /.card-body -->
@@ -284,7 +284,7 @@
                 <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
                 <p class="mb-2">Based on the evaluation, choose the best
                     candidate who best fits the needs and culture of the company.</p>
-                
+
               </div>
               <!--/.card-body -->
             </div>
@@ -305,7 +305,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

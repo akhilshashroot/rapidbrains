@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -28,7 +28,7 @@
             C# developers. Microsoft created the flexible, high-level programming
             language C#, which is frequently used to create Windows desktop, web, and
             mobile applications. Hire C# developers who are proficient at building
-            sophisticated, high-performing software applications.            
+            sophisticated, high-performing software applications.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -87,7 +87,7 @@
                 When it comes to providing clients with top-notch software solutions,
                 RapidBrains knows that hiring talented C# developers is essential to staying
                 ahead of the curve.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -141,8 +141,8 @@
               <div class="card-body">
                 <p>C# developers are skilled at using the language to quickly identify solutions to
                     complex issues.
-                    
-                    </p>                   
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -158,13 +158,13 @@
               <div class="card-body">
                 <p>With the scalability and flexibility of C#, developers can easily manage
                     complicated projects.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -197,7 +197,7 @@
               <div class="card-body">
                 <p>Since C# is compatible with legacy systems, it is simpler for developers to
                     work with older systems while still utilizing latest technology.
-                    
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -214,7 +214,7 @@
               <div class="card-body">
                 <p>The high productivity of C# developers can help you make the most of your
                     available resources.
-                    
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -309,7 +309,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -330,7 +330,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

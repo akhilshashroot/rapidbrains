@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -28,7 +28,7 @@
             MySQL and SQLite. With the help of PostgreSQL developers from
             RapidBrains, you can design, develop, and implement PostgreSQL solutions,
             as well as regularly monitor and control their performance. For your next
-            PostgreSQL project, hire expert PostgreSQL developers from RapidBrains.            
+            PostgreSQL project, hire expert PostgreSQL developers from RapidBrains.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -87,7 +87,7 @@
                 deliver a smart and versatile PostgreSQL app. To create your next feature-rich,
                 safe software system that will help in the development and growth of your
                 company, hire PostgreSQL developers from RapidBrains. </p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -140,9 +140,9 @@
               <div class="card-body">
                 <p>The right PostgreSQL developers can help with the efficient and smooth
                     scaling of the databases at your company.
-                    
-                    
-                    </p>                   
+
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -158,13 +158,13 @@
               <div class="card-body">
                 <p>A skilled developer can assist you in using the quick and effective PostgreSQL
                     database system's features for your company.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -198,8 +198,8 @@
               <div class="card-body">
                 <p>A talented developer can assist you in using PostgreSQL's versatility to meet
                     the needs of your business, as it is open-source and can be customized.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -217,8 +217,8 @@
               <div class="card-body">
                 <p>Compared to other database systems, PostgreSQL is cost-effective and can
                     save your company money in the long run.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -314,7 +314,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -335,7 +335,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

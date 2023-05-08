@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -149,13 +149,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Hire dedicated React Native developers with many years of experience
-                    producing cost-effective mobile app solutions.</p> 
+                    producing cost-effective mobile app solutions.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -288,7 +288,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -308,7 +308,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -329,7 +329,7 @@
                 React Native. Hire React Native developers from RapidBrains to create userfriendly software that can be released on both the Android and iOS operating
                 systems. Hire pre-screened React Native engineers with the finest possible
                 industry experience to deliver services that exceed your requirements. </p>
-                
+
             </div>
             <!--/column -->
           </div>

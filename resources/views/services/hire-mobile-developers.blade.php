@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -31,7 +31,7 @@
             team of skilled mobile developers who are knowledgeable about these
             difficulties and committed to providing our clients with high-quality mobile
             applications. Hire the best remote mobile developers with RapidBrains.
-                       
+
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -91,7 +91,7 @@
                 industry, as they are passionate about mobile development. With RapidBrains,
                 you can be sure that your mobile development project is in good hands.
                 </p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -145,7 +145,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Hiring a mobile developer can streamline your app development process and
-                    bring new efficiency to your team.</p>                   
+                    bring new efficiency to your team.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -161,13 +161,13 @@
               <div class="card-body">
                 <p>Mobile developers can provide fresh perspectives, new ideas, and solutions for
                     app development.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -183,7 +183,7 @@
                   <div class="card-body">
                     <p>Mobile developers are skilled at implementing complex solutions and have a
                         thorough understanding of mobile technologies.
-                        
+
                         </p>
                     </div>
                   <!-- /.card-body -->
@@ -313,7 +313,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -334,7 +334,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

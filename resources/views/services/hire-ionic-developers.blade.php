@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -30,7 +30,7 @@
             can help you create robust and scalable custom mobile solutions. Hire Ionic
             developers with experience creating customized application solutions. Hire
             from a large pool of the best talent available globally to create mobile
-            applications that are incredibly effective, fascinating, and simple to use.            
+            applications that are incredibly effective, fascinating, and simple to use.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -92,7 +92,7 @@
                 Since every company is distinct, RapidBrains strives to offer solutions that are
                 specially designed to fit your needs.
                 </p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -160,13 +160,13 @@
               <div class="card-body">
                 <p>Ionic apps have a native appearance and feel, giving users a unified experience
                     across all devices.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -307,7 +307,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -328,7 +328,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">
@@ -354,7 +354,7 @@
                 mobile app project, get in touch with us today. We are committed to offering
                 superior, economical solutions that support our clients in achieving their
                 objectives.</p>
-                
+
             </div>
             <!--/column -->
           </div>

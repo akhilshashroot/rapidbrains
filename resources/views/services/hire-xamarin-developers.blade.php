@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -85,7 +85,7 @@
                 tailored to meet your business needs, goals, and budget. When you hire devoted
                 Xamarin developers from RapidBrains, our developers focus solely on your
                 mobile app development project and provide you with timely reports.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -141,7 +141,7 @@
                 <p>The use of C# and the.NET Framework by Xamarin results in fast, efficient
                     apps with native-like performance.
 
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -158,14 +158,14 @@
               <div class="card-body">
                 <p>Finding resources and support is made much easier by the large and active
                     developer community that exists within Xamarin.
-                    
-                    </p> 
+
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -308,7 +308,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -329,7 +329,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

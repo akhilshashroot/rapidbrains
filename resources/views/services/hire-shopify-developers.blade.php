@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -85,7 +85,7 @@
                 technologies required to manage an effective online store or eCommerce
                 website. Hire pre-screened Shopify experts to use their extensive business
                 knowledge to develop unique Shopify solutions for your business.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -139,7 +139,7 @@
               <div class="card-body">
                 <p>By hiring a Shopify developer, you can give your store a unique and
                     customized design that will help it stand out in the e-commerce space.
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -155,13 +155,13 @@
               <div class="card-body">
                 <p>Our skilled remote developers can work quickly to complete your project on
                     schedule and within your set budget.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -302,7 +302,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -323,7 +323,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

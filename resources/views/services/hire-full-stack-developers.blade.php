@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -144,13 +144,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>The skill of a Full Stack Developer to analyze information to make logical
-                    decisions helps to maximize the efficiency of your business. </p> 
+                    decisions helps to maximize the efficiency of your business. </p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -182,7 +182,7 @@
                 <div class="card-body">
                   <p>The Strategic planning of the developer helps to analyze the project
                     requirement, and craft unique solutions
-  
+
   </p>
                   </div>
                 <!-- /.card-body -->
@@ -280,7 +280,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -313,7 +313,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -335,7 +335,7 @@
                 fully benefit from Full Stack technology, including front-end and back-end
                 development, new web technology combinations, performance, security,
                 flexibility, and more.</p>
-                
+
             </div>
             <!--/column -->
           </div>

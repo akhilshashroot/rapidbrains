@@ -1,6 +1,6 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
-   
+
 
 
 
@@ -15,10 +15,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/JavaScript-image.jpg')}}"  srcset="{{asset('assets/img/services/JavaScript-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-javascript-image.webp')}}"  srcset="{{asset('assets/img/services/rapidbrains-javascript-image.webp')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/JavaScript.png')}}" srcset="{{asset('assets/img/services/JavaScript.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-javascript.webp')}}" srcset="{{asset('assets/img/services//rapidbrains-javascript.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -91,7 +91,7 @@
                 businesses and startups around the world. Our JavaScript developers are skilled
                 at using a variety of frameworks, technologies, and the most recent tools for
                 JavaScript development.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -144,7 +144,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>JavaScript enables developers to create, test, and launch web applications more
-                    rapidly, saving businesses valuable time.</p>                   
+                    rapidly, saving businesses valuable time.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -160,13 +160,13 @@
               <div class="card-body">
                 <p>Since JavaScript works on a variety of platforms, including desktop and
                     mobile, it is easier for developers to work on projects for various platforms.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -308,7 +308,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -329,7 +329,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

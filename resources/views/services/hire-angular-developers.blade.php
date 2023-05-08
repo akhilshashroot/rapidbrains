@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -26,7 +26,7 @@
             solutions using a variety of frameworks and technologies. We only have the
             top Angular developers who are proficient in all AngularJS versions. Our
             Angular developers at RapidBrains work as an extension of your business to
-            develop interactive, real-time applications.</p> 
+            develop interactive, real-time applications.</p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
             <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
@@ -145,13 +145,13 @@
               <!-- /.card-header -->
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
-                  <p>Flexibility in working according to time zone and on-time delivery is ensured.</p> 
+                  <p>Flexibility in working according to time zone and on-time delivery is ensured.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -182,7 +182,7 @@
               <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
                 <div class="card-body">
                   <p>Round-the-clock support at every stage of the project development process.
-  
+
   </p>
                   </div>
                 <!-- /.card-body -->
@@ -284,7 +284,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -301,7 +301,7 @@
 <!-- /section -->
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -325,7 +325,7 @@
                 Hire an Angular developer to create web apps that are fast, flexible, and
                 reliable and that will grow your company. To scale up your web development,
                 hire qualified Angular developers.</p>
-                
+
             </div>
             <!--/column -->
           </div>

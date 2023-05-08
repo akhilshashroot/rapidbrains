@@ -1,6 +1,6 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
-   
+
 
 
 
@@ -14,10 +14,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Java-image.jpg')}}" srcset="{{asset('assets/img/services/Java-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-java-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-java-image.webp')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Java.png')}}" srcset="{{asset('assets/img/services/Java.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-java.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-java.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -32,7 +32,7 @@
             dedicated Java developers from RapidBrains for your company. Our Java
             developers are working on the most cutting-edge technologies, practical
             methodologies, and industry best practices to provide you with exceptional
-            application development services.            
+            application development services.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -90,7 +90,7 @@
                 create outstanding business solutions with a focus on design and architecture.
                 Hire top-tier Java developers to turn your requirements into solutions while
                 enhancing security and efficiency.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -156,13 +156,13 @@
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Java is made to be highly scalable, making it suitable for complex projects and
-                    user-intensive applications</p> 
+                    user-intensive applications</p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -303,7 +303,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -324,7 +324,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -350,7 +350,7 @@
                 look no further than RapidBrains if you need a reliable and skilled remote Java
                 developer.
                 </p>
-                
+
             </div>
             <!--/column -->
           </div>

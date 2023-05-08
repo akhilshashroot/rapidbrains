@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -26,7 +26,7 @@
             developers that have a solid technical base and experience working in a variety
             of business industries. Hire our skilled PHP developers who are flexible and
             use streamlined current development approaches to provide best-in-class
-            development solutions.            
+            development solutions.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -86,7 +86,7 @@
                 we offer the best and most skilled PHP programmers. Hire PHP developers to
                 transform web applications, increase performance, and maximise the
                 advantages of outsourcing.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -140,8 +140,8 @@
               <div class="card-body">
                 <p>To ensure that software is reliable and stable, PHP developers use testing and
                     debugging tools, which can reduce downtime and risk of expensive outages.
-                    
-                    </p>                   
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -157,13 +157,13 @@
               <div class="card-body">
                 <p>Hiring PHP developers can help businesses cut costs on equipment, office
                     space, and other overhead expenses.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -196,7 +196,7 @@
               <div class="card-body">
                 <p>Since PHP developers can work remotely, scheduling and working hours can
                     be more flexible.
-                    
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -213,8 +213,8 @@
               <div class="card-body">
                 <p>Hire PHP experts who have worked with a variety of frameworks and have
                     experience developing solutions for specific industries.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -310,7 +310,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -331,7 +331,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

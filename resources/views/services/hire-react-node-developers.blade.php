@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -11,10 +11,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/react-node-image.jpg')}}" srcset="{{asset('assets/img/services//react-node-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-node-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-node-image.webp')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/react-node.png')}}" srcset="{{asset('assets/img/services/react-node.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-node.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-node.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -87,7 +87,7 @@
                 skills and knowledge necessary to support you whether you are looking to
                 create a new application or update an existing one. To hire the top React Node
                 developers and advance your company, get in touch with us right away</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -142,9 +142,9 @@
               <div class="card-body">
                 <p>Developers who use React Node have a firm understanding of both front-end
                     and back-end development.
-                    
 
-                    </p>                   
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -161,14 +161,14 @@
               <div class="card-body">
                 <p>React Node developers combine their knowledge of ReactJS and NodeJS,
                     reducing development time and effort.
-                    
-                    </p> 
+
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -311,7 +311,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -332,7 +332,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

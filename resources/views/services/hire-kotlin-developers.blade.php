@@ -1,6 +1,6 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
-   
+
 
 
 
@@ -30,7 +30,7 @@
             for qualified Kotlin developers. To successfully expand your business, you can
             hire Kotlin developers at RapidBrains who match your industry-specific
             requirements. Our Android Kotlin developers provide expert app maintenance
-            and support after launch in addition to app development.            
+            and support after launch in addition to app development.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -91,7 +91,7 @@
                 offers top Kotlin app developers who can create customized Android apps,
                 offer migration services, provide continuous maintenance and administration,
                 and help you build a dedicated or remote Kotlin app development team.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -144,7 +144,7 @@
               <div class="card-body">
                 <p>Kotlin developers can create user-friendly apps that provide a seamless user
                     experience, increasing engagement and satisfaction.
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -160,13 +160,13 @@
               <div class="card-body">
                 <p>Since Kotlin is fully compatible with Android, developers can create reliable
                     mobile apps that meet your specific needs.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -309,7 +309,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -330,7 +330,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

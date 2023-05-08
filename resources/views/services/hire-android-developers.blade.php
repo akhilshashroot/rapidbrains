@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -85,7 +85,7 @@
                 Android developers provide Custom Android application development
                 services that are robust and flexible to evolving business trends and volumes.
                 </p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -151,13 +151,13 @@
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Our Android developers develop and deliver Android applications by offering
-                  enterprise-level performance and scalability</p> 
+                  enterprise-level performance and scalability</p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -188,7 +188,7 @@
             <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
               <div class="card-body">
                 <p>Android application development services offered by our Android Developers
-                  are competitively priced and highly affordable. 
+                  are competitively priced and highly affordable.
 
 </p>
                 </div>
@@ -298,7 +298,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -319,7 +319,7 @@
 
 
 
- 
+
   <!--section starts-->
 
   <section class="wrapper bg-soft-orange">
@@ -341,9 +341,9 @@
                 work on a variety of apps, including business, gaming, e-commerce, and
                 others. With billions of users, the Android operating system is the most widely
                 used mobile platform. You can expand your customer base and reach a wider
-                audience by hiring a remote Android developer. 
+                audience by hiring a remote Android developer.
                 </p>
-                
+
             </div>
             <!--/column -->
           </div>

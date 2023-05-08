@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -80,7 +80,7 @@
                 developers provide the most latest web-based eCommerce web store for
                 businesses and are constantly informed of all Magento updates. We have
                 skilled Magento developers who can develop new systems from scratch or
-                work inside existing ones depending on the needs of the project.                
+                work inside existing ones depending on the needs of the project.
                 </p>
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
@@ -149,13 +149,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Our Magento developers ensure that they develop and also provide highly
-                    effective, scalable eCommerce web platforms.</p> 
+                    effective, scalable eCommerce web platforms.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -289,7 +289,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -305,7 +305,7 @@
 </section>
 <!-- /section -->
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -325,7 +325,7 @@
                 standards and provide customized Magento solutions on schedule. For all
                 business needs, including design, development, customization, migration,
                 support, and more, hire Magento developers.</p>
-                
+
             </div>
             <!--/column -->
           </div>

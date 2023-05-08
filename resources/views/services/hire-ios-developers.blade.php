@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -10,10 +10,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/ios-image.jpg')}}" srcset="{{asset('assets/img/services/ios-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ios-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ios-image.webp')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/ios.png')}}" srcset="{{asset('assets/img/services/ios.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ios.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ios.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -81,7 +81,7 @@
                 original, dynamic, and complicated applications using the most modern
                 technique. Recruit iOS developers who can develop new systems from scratch
                 or work as per project needs.
-                
+
                 </p>
                 <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
@@ -148,13 +148,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Our iOS developers have years of experience and are very skilled at making
-                    iOS applications that are secure, responsive, and compatible.</p> 
+                    iOS applications that are secure, responsive, and compatible.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -186,8 +186,8 @@
                 <div class="card-body">
                   <p>We provide for the specific requirements of companies in a variety of
                     industries, from small to large scale enterprises.
-                    
-  
+
+
   </p>
                   </div>
                 <!-- /.card-body -->
@@ -289,7 +289,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -311,7 +311,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -332,9 +332,9 @@
                 freeing you up to concentrate on generating money for your company. With
                 devotion and dedication, our skilled iOS developers handle all business
                 application requirements, including design, development, modification,
-                support, and more. 
+                support, and more.
                 </p>
-                
+
             </div>
             <!--/column -->
           </div>

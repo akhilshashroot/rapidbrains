@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -86,7 +86,7 @@
                 that is exceptional, well-structured, individualised, user-friendly, SEOoptimized, and capable of delivering outstanding results. To help you manage
                 your website in an organised way, our team of committed WordPress experts
                 can provide a full range of WordPress CMS development and WP services.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -142,7 +142,7 @@
                 <p>Projects can be finished more quickly and effectively with the help of an
                     experienced WordPress developer
 
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -158,14 +158,14 @@
               <div class="card-body">
                 <p>A skilled WordPress developer is equipped to meet your needs and exceed your
                     expectations with high-quality results
-                    
-                    </p> 
+
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -308,7 +308,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -329,7 +329,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">
