@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-aws-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-aws-image.webp')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-aws-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-aws-image.webp')}} 2x" alt="aws-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-aws.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-aws.webp')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-aws.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-aws.webp')}}" alt="aws" loading="lazy"></figure>
           </div>
         </div>
       </div>

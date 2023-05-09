@@ -10,10 +10,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mean-stack-image.webp')}}" srcset="{{asset('assets/img/services/mean-stack-image.webp')}} 2x" alt="mean-stack-image"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mean-stack-image.webp')}}" srcset="{{asset('assets/img/services/mean-stack-image.webp')}} 2x" alt="mean-stack-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mean-stack.webp')}}" srcset="{{asset('assets/img/services/mean-stack.webp')}}" alt="mean-stack"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mean-stack.webp')}}" srcset="{{asset('assets/img/services/mean-stack.webp')}}" alt="mean-stack" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -27,7 +27,7 @@
             advancements. because they incorporate some of the industry's best practises
             to produce effective Mean Stack applications. Hire Mean Stack developers
             from RapidBrains, as our team of professionals works quickly to provide the
-            best performance-driven web applications.                       
+            best performance-driven web applications.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -88,7 +88,7 @@
                 the help of our committed developers who specialise in MEAN stack for web
                 development, you can create scalable, high-performing, secure, and
                 specifically tailored web solutions.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -141,7 +141,7 @@
               <div class="card-body">
                 <p>Since the MEAN stack is based on open-source technologies, scaling your
                     application as your company expands is simple
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -157,13 +157,13 @@
               <div class="card-body">
                 <p>Developers using the MEAN stack can create web applications quickly and
                     effectively, accelerating your time to market.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -212,7 +212,7 @@
               <div class="card-body">
                 <p>MEAN Stack developers can quickly switch between various technologies,
                     which enables them to adjust to changing project requirements.
-                    
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -307,7 +307,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -328,7 +328,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

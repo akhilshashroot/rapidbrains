@@ -11,10 +11,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-node-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-node-image.webp')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-node-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-node-image.webp')}} 2x" alt="react-node-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-node.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-node.webp')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-node.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-node.webp')}}" alt="react-node" loading="lazy"></figure>
           </div>
         </div>
       </div>

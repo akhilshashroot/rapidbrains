@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-golang-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-golang-image.webp')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-golang-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-golang-image.webp')}} 2x" alt="golang-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-golang.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-golang.webp')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-golang.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-golang.webp')}}" alt="golang" loading="lazy"></figure>
           </div>
         </div>
       </div>

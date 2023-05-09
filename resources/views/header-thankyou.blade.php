@@ -1,5 +1,5 @@
 <header class="position-absolute w-100">
-      
+
       <nav class="navbar navbar-expand-lg center-nav transparent navbar-light">
         <div class="container flex-lg-row flex-nowrap align-items-center">
           <div class="navbar-brand w-100">
@@ -28,7 +28,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-php-developers')}}">PHP Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-android-developers')}}">Android Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-ionic-developers')}}">Ionic Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-react-native-developers')}}"> React Native Developers</a></li>                        
+                            <li><a class="dropdown-item" href="{{route('hire-react-native-developers')}}"> React Native Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-shopify-developers')}}"> Shopify Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-flutter-developers')}}"> Flutter Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-wordpress-developers')}}"> WordPress Developers</a></li>
@@ -55,7 +55,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-full-stack-developers')}}">Full stack Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-javascript-developers')}}">Javascript Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-app-developers')}}">App Developers</a></li>
-                          
+
                             <li><a class="dropdown-item" href="{{route('hire-blockchain-developers')}}">Blockchain Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-ruby-on-rails-developers')}}">Ruby on rails Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-drupal-developers')}}">Drupal Developers</a></li>
@@ -76,7 +76,7 @@
                     <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}"  >About RapidBrains</a></li>
                       <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
                       <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
-                     
+
                     </ul>
                   </li>
                   <li class="nav-item ">
@@ -104,6 +104,7 @@
                         <ul class="list-unstyled">
                           <li><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
                           <li><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
+                          <li><a class="dropdown-item"  href="{{route('globalApproach')}}">Global Approach</a></li>
                           <li><a class="dropdown-item"  href="{{route('capAbilities')}}">Capabilities</a></li>
 
                           <li><a class="dropdown-item" href="https://jobs.rapidbrains.com/">Jobs at RapidBrains</a></li>
@@ -122,11 +123,11 @@
                 <!-- /.navbar-nav -->
                 <div class="offcanvas-footer d-lg-none">
                   <div>
-                      
+
                     <a href="mailto:contact@rapidbrains.com" class="link-inverse">contact@rapidbrains.com</a>
                     <br /> +91 97784 26317 <br />
-                    
-                    
+
+
                     <nav class="nav social social-white mt-4">
                     <a href="https://www.linkedin.com/company/rapidbrains"><i class="uil uil-linkedin"></i></a>
                     <a href="https://www.facebook.com/rapidbrains"><i class="uil uil-facebook-f"></i></a>
@@ -144,17 +145,17 @@
             <!-- /.navbar-collapse -->
             <div class="navbar-other w-100 d-flex ms-auto">
               <ul class="navbar-nav flex-row align-items-center ms-auto">
-                
-                   
+
+
                   <nav class="nav-item justify-content-end text-end">
-                     <span class="btn btn-primary btn-sm rounded-pill" id="enquirenowID"  style="color:#fff;">Enquire</span> 
+                     <span class="btn btn-primary btn-sm rounded-pill" id="enquirenowID"  style="color:#fff;">Enquire</span>
                     <!--<a href="#"><i class="uil uil-twitter"></i></a>-->
                     <!--<a href="#"><i class="uil uil-facebook-f"></i></a>-->
                     <!--<a href="#"><i class="uil uil-dribbble"></i></a>-->
                     <!--<a href="#"><i class="uil uil-instagram"></i></a>-->
                   </nav>
                   <!-- /.social -->
-                
+
                 <li class="nav-item d-lg-none">
                   <button class="hamburger offcanvas-nav-btn" aria-label="hamburger"><span></span></button>
                 </li>

@@ -13,10 +13,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mobile-image.jpg')}}" srcset="{{asset('assets/img/services/mobile-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-mobile-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-mobile-image.webp')}} 2x" alt="mobile-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/mobile-developer.png')}}" srcset="{{asset('assets/img/services/mobile-developer.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-mobile-developer.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-mobile-developer.webp')}}" alt="mobile-developer" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -269,7 +269,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -282,7 +282,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -295,7 +295,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -308,7 +308,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
