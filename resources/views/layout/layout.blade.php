@@ -55,7 +55,7 @@ body{
       <!--Header Starts  -->
       @if(Route::currentRouteName() == 'join')
       @include('header2')
-      
+
       @elseif(Route::currentRouteName() == 'capAbilities')
   @include('header2')
       @elseif(Route::currentRouteName() == 'leaderShip')
@@ -70,8 +70,8 @@ body{
       @include('header')
       @endif
    @yield('section')
-    
-   
+
+
   <!-- /.content-wrapper -->
   @if(Route::currentRouteName() == 'welcome')
   @include('footer')
@@ -101,11 +101,11 @@ body{
                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                          <h2 class="mb-3 text-start"></h2>
                          <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
+
                          <form method="post" id="enquirenowForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
                             @csrf
                <input type="hidden" id="type" name="enquirenow" value="enquirenow">
-            
+
                <div class="row">
                  <div class="col-xl-12">
                    <div class="row gy-3 gx-3">
@@ -115,7 +115,7 @@ body{
                          <label for="name" class="form-label">Your Name *</label>
                        </div>
                      </div>
-                    
+
                      <div class="col-md-12" id="emaildiv">
                        <div class="form-floating">
                        <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
@@ -143,13 +143,13 @@ body{
           data-sitekey="{{env('INVISIBLE_RECAPTCHA_SITEKEY')}}"
           data-callback="onSubmit"
           data-size="invisible"></div>
- 
+
               <div class="btn-container mx-auto pt-5">
                 <button class="btn btn-primary d-block w-100" id="submit" type="submit">Enquire Now</button>
- 
+
                   </div>
- 
-                                     
+
+
                                  </div></form>
                          <!--/.social -->
                        </div>
@@ -157,11 +157,11 @@ body{
                      </div>
                      <!--/.modal-body -->
                    </div>
-  
-  
-  
+
+
+
             </div>
-  
+
 
 
 
@@ -171,7 +171,7 @@ body{
 
 
 
-  
+
 
 
 
@@ -183,7 +183,7 @@ body{
 
 
 
-  
+
 
 
 
@@ -221,15 +221,15 @@ body{
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
-  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
 
   <script src="{{asset('assets/js/plugins.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
 
-  
+
 
 
 
@@ -247,8 +247,8 @@ body{
  required: true,
  maxlength: 50,
  email: true,
- },  
-   
+ },
+
  },
  messages: {
  name: {
@@ -297,21 +297,21 @@ body{
         $('#submit').html('Submit');
  $("#submit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("enquirenowForm").reset(); 
+ document.getElementById("enquirenowForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#enquirenow').modal('hide');
   $('body').removeClass('modal-open');
     }
- 
 
- 
-  
+
+
+
  }
  });
  }
@@ -326,8 +326,8 @@ body{
  required: true,
  maxlength: 50,
  email: true,
- },  
-   
+ },
+
  },
  messages: {
  name: {
@@ -338,7 +338,7 @@ body{
  required: "Please enter valid email",
  email: "Please enter valid email",
  maxlength: "The email name should less than or equal to 50 characters",
- },   
+ },
 
  },
  success: function (label, element) {
@@ -378,18 +378,18 @@ body{
  $('#touchsubmit').html('Submit');
  $("#touchsubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("gettouchForm").reset(); 
+ document.getElementById("gettouchForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#gettouch').modal('hide');
   $('body').removeClass('modal-open');
     }
-  
+
  }
  });
  }
@@ -402,9 +402,9 @@ body{
  },
  phone: {
  required: true,
- 
- },  
-   
+
+ },
+
  },
  messages: {
  name: {
@@ -414,7 +414,7 @@ body{
  phone: {
  required: "Please enter phone number",
 
- },   
+ },
 
  },
  success: function (label, element) {
@@ -453,18 +453,18 @@ body{
         $('#callbacksubmit').html('Submit');
  $("#callbacksubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("callbackForm").reset(); 
+ document.getElementById("callbackForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#callback').modal('hide');
   $('body').removeClass('modal-open');
     }
-  
+
  }
  });
  }
@@ -477,7 +477,7 @@ function enableBtn(){
  }
         $("#success-msg").css('display','none');
     $("#danger-msg").css('display','none');
-  
+
         $("#joinForm").validate({
             rules: {
         name: "required",
@@ -503,13 +503,13 @@ function enableBtn(){
         $(".invalid-feedback-file").css('display','none');
         var fileInput =
             document.getElementById('resume');
-         
+
         var filePath = fileInput.value;
-     
+
         // Allowing file type
         var allowedExtensions =
 /(\.pdf|\.docx)$/i;
-         
+
         if (!allowedExtensions.exec(filePath)) {
             $(".invalid-feedback-file").css('display','block');
             fileInput.value = '';
@@ -521,7 +521,7 @@ function enableBtn(){
                 var geekss = e.target.files[0].name;
                 $("#img-hide").css('display','block');
                 $("#img-hide").text(geekss);
- 
+
             });
         });
         $("#contactForm").validate({
@@ -555,20 +555,20 @@ function enableBtn(){
 <script>
 
 if ($("#hire_now").length > 0) {
-   
+
     $("#hire_now").validate({
     submitHandler: function(form) {
       var inputText=$("#hire_email").val();
       console.log(inputText);
          var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
      if(!inputText.match(mailformat))
-     
+
      {
        $("#error-display1").css('display','block');
-     
+
      return false;
      }
-     
+
     $.ajaxSetup({
     headers: {
     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
@@ -584,21 +584,21 @@ if ($("#hire_now").length > 0) {
      if(response.statuscode==403){
                swal({
     title: response.message,
-   
+
     type: 'warning',
     showConfirmButton:true,
     confirmButtonText: 'Okay'
-    });   
+    });
              }else if(response.statuscode==402){
                swal({
    title: response.message,
     type: 'success',
     showConfirmButton:true,
     confirmButtonText: 'Okay'
-    });   
-     
+    });
+
     }
-    document.getElementById("hire_now").reset(); 
+    document.getElementById("hire_now").reset();
     $("#error-display1").css('display','none');
     }
     });

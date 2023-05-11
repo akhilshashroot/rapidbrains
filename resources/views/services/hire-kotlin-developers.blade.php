@@ -1,6 +1,6 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
-   
+
 
 
 
@@ -13,10 +13,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Kotlin-image.jpg')}}" srcset="{{asset('assets/img/services/Kotlin-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-kotlin-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-kotlin-image.webp')}} 2x" alt="kotlin-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Kotlin.png')}}" srcset="{{asset('assets/img/services/Kotlin.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-kotlin.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-kotlin.webp')}}" alt="kotlin" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
             for qualified Kotlin developers. To successfully expand your business, you can
             hire Kotlin developers at RapidBrains who match your industry-specific
             requirements. Our Android Kotlin developers provide expert app maintenance
-            and support after launch in addition to app development.            
+            and support after launch in addition to app development.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -91,7 +91,7 @@
                 offers top Kotlin app developers who can create customized Android apps,
                 offer migration services, provide continuous maintenance and administration,
                 and help you build a dedicated or remote Kotlin app development team.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -144,7 +144,7 @@
               <div class="card-body">
                 <p>Kotlin developers can create user-friendly apps that provide a seamless user
                     experience, increasing engagement and satisfaction.
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -160,13 +160,13 @@
               <div class="card-body">
                 <p>Since Kotlin is fully compatible with Android, developers can create reliable
                     mobile apps that meet your specific needs.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -265,7 +265,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -278,7 +278,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -291,7 +291,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -304,12 +304,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -330,7 +330,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

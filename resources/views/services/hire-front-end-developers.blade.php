@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -11,10 +11,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/front-end-image.jpg')}}" srcset="{{asset('assets/img/services/wordpress-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-front-end-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-wordpress-image.webp')}} 2x" alt="wordpress-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/front-end.png')}}" srcset="{{asset('assets/img/services/front-end.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-front-end.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-front-end.webp')}}" alt="front-end" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@
             CSS, JavaScript, React, Angular, and Vue.js. Hire remote front-end developers
             to build visually appealing and user-friendly websites and web applications
             that provide a seamless user experience.
-                       
+
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -87,7 +87,7 @@
                 technological advancements. Our developers make sure that your website or
                 application is simple to use and accessible to all users with their in-depth
                 understanding of user experience design and accessibility.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -141,7 +141,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Make your website more user-friendly and functional by adding new features
-                    with the help of a skilled front-end developer.</p>                   
+                    with the help of a skilled front-end developer.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -157,13 +157,13 @@
               <div class="card-body">
                 <p>Experienced front-end developers can optimise for faster load times to boost
                     your website's performance.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -262,7 +262,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -275,7 +275,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -288,7 +288,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -301,12 +301,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -327,7 +327,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

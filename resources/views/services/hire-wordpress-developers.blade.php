@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/wordpress-image.jpg')}}" srcset="{{asset('assets/img/services/wordpress-image.jpg')}}  2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-wordpress-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-wordpress-image.webp')}}  2x" alt="wordpress-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/wordpress.png')}}" srcset="{{asset('assets/img/services/wordpress.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-wordpress.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-wordpress.webp')}}" alt="wordpress" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
                 that is exceptional, well-structured, individualised, user-friendly, SEOoptimized, and capable of delivering outstanding results. To help you manage
                 your website in an organised way, our team of committed WordPress experts
                 can provide a full range of WordPress CMS development and WP services.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -142,7 +142,7 @@
                 <p>Projects can be finished more quickly and effectively with the help of an
                     experienced WordPress developer
 
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -158,14 +158,14 @@
               <div class="card-body">
                 <p>A skilled WordPress developer is equipped to meet your needs and exceed your
                     expectations with high-quality results
-                    
-                    </p> 
+
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -264,7 +264,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -277,7 +277,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -290,7 +290,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -303,12 +303,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -329,7 +329,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

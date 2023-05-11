@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/ASP.NET-image.jpg')}}" srcset="{{asset('assets/img/services/ASP.NET-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ASP.NET-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ASP.NET-image.webp')}} 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/ASP.NET.png')}}" srcset="{{asset('assets/img/services/ASP.NET.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ASP.NET.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ASP.NET.webp')}}" alt=""></figure>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
             framework to create highly functional web applications that are tailored to the
             specific requirements of businesses and organizations. The ASP.NET
             framework and its components are well understood by the skilled ASP.NET
-            developers at RapidBrains.            
+            developers at RapidBrains.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -85,7 +85,7 @@
                 ASP.NET development services. With our team of knowledgeable ASP.NET
                 developers, your web development projects will be handled with the utmost
                 professionalism and expertise.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -138,8 +138,8 @@
               <div class="card-body">
                 <p>Due to the wealth of experience that ASP.NET developers bring to the table,
                     projects are completed more quickly.
-                    
-                    </p>                   
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -155,13 +155,13 @@
               <div class="card-body">
                 <p>Hire ASP.NET developers to create scalable applications so that your platform
                     can support your company's growing needs.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -177,7 +177,7 @@
                   <div class="card-body">
                     <p>To ensure the safety of your important data and information, work with
                         ASP.NET developers who place a high priority on security.
-                        
+
                         </p>
                     </div>
                   <!-- /.card-body -->
@@ -195,7 +195,7 @@
               <div class="card-body">
                 <p>The cost of hiring in-house developers can be high, but you can access a talent
                     pool at a much lower cost by hiring remote ASP.NET developers.
-                    
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -262,7 +262,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -275,7 +275,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -288,7 +288,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -301,12 +301,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -327,7 +327,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
     <!-- section starts-->
 
@@ -9,10 +9,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/react-native-image.jpg')}}" srcset="{{asset('assets/img/services/react-native-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-native-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-native-image.webp')}} 2x" alt="react-native-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/react-native.png')}}" srcset="{{asset('assets/img/services/react-native.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-react-native.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-react-native.webp')}}" alt="react-native" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -149,13 +149,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Hire dedicated React Native developers with many years of experience
-                    producing cost-effective mobile app solutions.</p> 
+                    producing cost-effective mobile app solutions.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -244,7 +244,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/requirements.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/requirements.webp')}}" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -257,7 +257,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/sourcing.webp')}}" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -270,7 +270,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/screening.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/screening.webp')}}" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -283,12 +283,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/android/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/onboarding.webp')}}" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -308,7 +308,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -329,7 +329,7 @@
                 React Native. Hire React Native developers from RapidBrains to create userfriendly software that can be released on both the Android and iOS operating
                 systems. Hire pre-screened React Native engineers with the finest possible
                 industry experience to deliver services that exceed your requirements. </p>
-                
+
             </div>
             <!--/column -->
           </div>

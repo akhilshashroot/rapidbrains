@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -13,10 +13,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/back-end-image.jpg')}}" srcset="{{asset('assets/img/services/back-end-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-back-end-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-back-end-image.webp')}} 2x" alt="back-end-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/back-end.png')}}" srcset="{{asset('assets/img/services/back-end.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-back-end.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-back-end.webp')}}" alt="back-end" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@
             front-end components of a website or application communicate effectively
             with the back-end servers and databases. Hire back-end developers from
             RapidBrains who play a crucial role in the development process by building
-            scalable and effective systems to support the application.            
+            scalable and effective systems to support the application.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -89,7 +89,7 @@
                 PostgreSQL, and MongoDB. With our expertise and knowledge, you can be
                 confident that your back-end development needs will be handled with the
                 utmost care and professionalism.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -142,7 +142,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Back-end developers are experts in data management and security, making
-                    sure that private data is protected. </p>                   
+                    sure that private data is protected. </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -158,13 +158,13 @@
               <div class="card-body">
                 <p>Back-end developers are skilled at integrating different systems and databases,
                     leading to a seamless user experience.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -198,8 +198,8 @@
               <div class="card-body">
                 <p>To keep your application innovative and competitive, back-end developers
                     stay up-to-date on the newest technologies.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -309,7 +309,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -330,7 +330,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

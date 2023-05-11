@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/ruby-on-rails-image.jpg')}}" srcset="{{asset('assets/img/services/ruby-on-rails-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ruby-on-rails-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ruby-on-rails-image.webp')}} 2x" alt="ruby-on-rails-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Ruby-on-Rails.png')}}" srcset="{{asset('assets/img/services/Ruby-on-Rails.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ruby-on-rails.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ruby-on-rails.webp')}}" alt="ruby-on-rails" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
             handled with care and attention to detail, our team of experts will bring a sense
             of order and clarity to it. We have a large pool of talented developers who are
             aware of the distinctive capabilities of Ruby on Rails, whether you need a fullstack developer or a specialized RoR coder. For specialized solutions that
-            produce results, hire a dedicated RoR developer.            
+            produce results, hire a dedicated RoR developer.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -89,7 +89,7 @@
                 precisely crafted RoR solutions that address your needs and uplift the values
                 of your organization with our focus on agile methodologies and process-driven
                 frameworks.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -143,10 +143,10 @@
               <div class="card-body">
                 <p>Developers who have a thorough understanding of the RoR framework can
                     offer specialized solutions that satisfy your unique business needs.
-                    
-                    
-                    
-                    </p>                   
+
+
+
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -162,13 +162,13 @@
               <div class="card-body">
                 <p>RoR developers adhere to agile methodologies to ensure that projects are
                     completed on schedule and within budget.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -202,8 +202,8 @@
               <div class="card-body">
                 <p>The RoR framework is known for its maintainability, which makes it easy to
                     update and manage your application over time.
-                    
-                    
+
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -270,7 +270,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -283,7 +283,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -296,7 +296,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening" loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -309,12 +309,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.png" style="width:50px; height:50px" alt="" />
+              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -335,7 +335,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

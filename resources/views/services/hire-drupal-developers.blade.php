@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -10,10 +10,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Drupal-image.jpg')}}" srcset="{{asset('assets/img/services/Drupal-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-drupal-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-drupal-image.webp')}} 2x" alt="drupal-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/Drupal.png')}}" srcset="{{asset('assets/img/services/Drupal.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-drupal.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-drupal.webp')}}" alt="drupal" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -77,7 +77,7 @@
                 your business engagement enterprises irrespective of business size. Our
                 dedicated remote drupal developers use the most up-to-date strategies to create
                 highly unique, dynamic, and complex websites that are robust and flexible to
-                evolving business trends and volumes.                
+                evolving business trends and volumes.
                 </p>
                 <br><br>
             <div class="col-lg-6 col-xl-5 mx-auto text-center">
@@ -144,13 +144,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Hire remote drupal developers from RapidBrains for your Drupal development
-                    services that are affordable to enterprises of all levels.</p> 
+                    services that are affordable to enterprises of all levels.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -181,8 +181,8 @@
               <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
                 <div class="card-body">
                   <p>At RapidBrains, we monitor the complete development process of the project
-                    to ensure the product working fine and is delivered on time. 
-  
+                    to ensure the product working fine and is delivered on time.
+
   </p>
                   </div>
                 <!-- /.card-body -->
@@ -240,7 +240,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/requirements.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/requirements.webp')}}" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
                 <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
                 <p class="mb-2">Gathering the job responsibilities,
                     skills, and experience required for the position.</p>
@@ -253,7 +253,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/sourcing.webp')}}" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
                 <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
                 <p class="mb-2">Search through the pool of top talents to identify
                     suitable candidates matching the job specifications.</p>
@@ -266,7 +266,7 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/screening.webp')}}" style="width:50px; height:50px" alt="screening" loading="lazy"/>
                 <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
                 <p class="mb-2">Schedule interviews with the selected
                     candidates to evaluate their technical and soft skills and experience</p>
@@ -279,12 +279,12 @@
           <div class="col-md-6 col-xl-3">
             <div class="card shadow-lg">
               <div class="card-body">
-                <img src="{{asset('assets/img/services/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+                <img src="{{asset('assets/img/android/onboarding.webp')}}" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
                 <!--svg-inject-->
                 <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
                 <p class="mb-2">Based on the evaluation, choose the best
                     candidate who best fits the needs and culture of the company.</p>
-                
+
               </div>
               <!--/.card-body -->
             </div>
@@ -305,7 +305,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

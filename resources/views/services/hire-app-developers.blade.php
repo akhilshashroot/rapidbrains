@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -11,10 +11,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/app-developer-image.jpg')}}" srcset="{{asset('assets/img/services/app-developer-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-app-developer-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-app-developer-image.webp')}} 2x" alt="app-developer-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/app-developer.png')}}" srcset="{{asset('assets/img/services/app-developer.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-app-developer.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-app-developer.webp')}}" alt="app-developer" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -152,13 +152,13 @@
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Apps can streamline tasks and automate processes, increasing your company's
-                    productivity.</p> 
+                    productivity.</p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -252,7 +252,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/services/requirements.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/requirements.webp')}}" style="width:50px; height:50px" alt="" />
               <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
               <p class="mb-2">Gathering the job responsibilities,
                   skills, and experience required for the position.</p>
@@ -265,7 +265,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/services/sourcing.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/sourcing.webp')}}" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
               <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
               <p class="mb-2">Search through the pool of top talents to identify
                   suitable candidates matching the job specifications.</p>
@@ -278,7 +278,7 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/services/screening.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/screening.webp')}}" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
               <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
               <p class="mb-2">Schedule interviews with the selected
                   candidates to evaluate their technical and soft skills and experience</p>
@@ -291,12 +291,12 @@
         <div class="col-md-6 col-xl-3">
           <div class="card shadow-lg">
             <div class="card-body">
-              <img src="{{asset('assets/img/services/onboarding.png')}}" style="width:50px; height:50px" alt="" />
+              <img src="{{asset('assets/img/android/onboarding.webp')}}" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
               <!--svg-inject-->
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -317,7 +317,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">
@@ -340,7 +340,7 @@
                 your app development, think about working with a remote app developer from
                 RapidBrains right away.
                 </p>
-                
+
             </div>
             <!--/column -->
           </div>

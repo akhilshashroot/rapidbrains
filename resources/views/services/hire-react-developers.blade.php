@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
     <!-- section starts-->
@@ -84,7 +84,7 @@
                 services for hiring ReactJS engineers. By applying the most advanced tools
                 and methods for on-time project delivery, we guarantee to provide the greatest
                 performance and unique solution to value your investment.</p>
-                
+
             </div>
             <!--/column -->
           </div>
@@ -146,13 +146,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Our React developers have years of experience and are skilled at building
-                    online responsive and cross-platform compatible applications.</p> 
+                    online responsive and cross-platform compatible applications.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -290,7 +290,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-blue">
@@ -312,7 +312,7 @@
                 development experience, hire React JS developers from RapidBrains. Hire our
                 top ReactJS developers with years of expertise in the industry at incredibly low
                 prices.</p>
-                
+
             </div>
             <!--/column -->
           </div>

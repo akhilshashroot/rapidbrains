@@ -8,7 +8,7 @@
   .lgc{
     background-color: #f6f7f9 !important;
   }
-  
+
   @media (min-width: 768px){
 .pb-md-20 {
     padding-bottom: 5rem !important;
@@ -23,14 +23,14 @@
 
 @media (min-width: 1400px){
 .col-xxl-6 {
-   
+
     width: 60%  !important;
 }
 
 }
 @media (min-width: 1200px){
 .col-xl-7 {
-    
+
     width: 68.333333% !important;
 }
 }
@@ -39,7 +39,7 @@
 @media (min-width: 900px){
 .spx {
     margin-right: -13px !important;
-  
+
 }
 }
  @media (max-width: 720px){
@@ -49,7 +49,7 @@
   color: #fff !important;
     background-color: #343f52  !important;
     border-color: #343f52  !important;
-  
+
 }
 /* .pt-19 {
     padding-top: 13rem!important;
@@ -70,7 +70,7 @@
  display:block;
 
 }
-} 
+}
 
 @media (min-width: 992px){
 .px-lg-33 {
@@ -126,7 +126,7 @@
 " alt="RapidBrains Home" /></figure>
 </section>-->
 <section class="wrapper overflow-hidden image-wrapper" id="sect-bg" style="padding-bottom: 90px" >
-    
+
 
 
 <div class="container pt-19 pt-md-21 text-center position-relative">
@@ -145,7 +145,7 @@
               <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
             </div>
             </div>
-           
+
             <!-- /div -->
           </div>
           <!-- /column -->
@@ -153,7 +153,7 @@
       <!-- /.container -->
       </div>
       <!-- /.container -->
-    
+
       <!-- /.container -->
     </section>
 <!-- /section -->
@@ -166,7 +166,7 @@
 			<div class="col-lg-6 col-xl-53 mx-auto text-center">
 				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
 				<p class="lead mb-5 px-md-16 px-lg-33">With 14+ years of experience, we have served 1200+ companies from 80+ countries</p>
-		
+
 			</div>
 			<!-- /column -->
 		</div>
@@ -181,7 +181,7 @@
           <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.webp')}}" alt="6" loading="lazy" /></div>
           <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="7" loading="lazy" /></div>
           <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.webp')}}" alt="8" loading="lazy" /></div>
-       
+
         </div>
         <!--/.swiper-wrapper -->
       </div>
@@ -239,10 +239,10 @@
 <!-- /section -->
 
     <!--Hero Image Ends-->
-    
+
     <!--What makes us different Starts-->
 
-             
+
              <section class="wrapper bg-light">
   <div class="container py-14 py-md-16">
     <div class="row gx-md-8 gy-10 align-items-center">
@@ -255,7 +255,7 @@
                 <img src="{{asset('assets/img/icons/solid/alarm.svg')}}" class="svg-inject icon-svg icon-svg-xs solid-mono text-primary me-3" alt="alarm" />
               </div>
               <div>
-                  
+
                 <h3 class="fs-25 counter mb-0 text-nowrap">24 hours</h3>
                 <p class="fs-16 lh-sm mb-0 text-nowrap">To build team</p>
               </div>
@@ -289,12 +289,12 @@
 
 
 
-             
+
              <!--             What makes us different Ends-->
              <!--Steps Starts-->
-             
+
 <!-- /section -->
-             
+
              <!--Steps Ends-->
                       <!--pricing starts-->
              <section class="wrapper bg-light">
@@ -332,7 +332,7 @@
 						<div>
 						<h4 class="mb-1">Mobile Developer</h4>
 						    <p class="mb-0 text-body">Kotlin, Flutter, Swift </p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>	
+							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>
 						</div>
 					</div>
 				</a>
@@ -360,7 +360,7 @@
 							<span class="avatar bg-purple text-white w-11 h-11 fs-20 me-4">DE</span>
 						</div>
 						<div>
-							
+
 							<h4 class="mb-1">DevOps Engineers</h4>
 						    <p class="mb-0 text-body">Terraform, Ansible, Kubernetes</p>
 							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>
@@ -376,7 +376,7 @@
 							<span class="avatar bg-orange text-white w-11 h-11 fs-20 me-4">WD</span>
 						</div>
 						<div>
-							
+
 							<h4 class="mb-1">Web Developers</h4>
 						    <p class="mb-0 text-body">Wordpress, Magento, HTML, Php</p>
 							<span class="badge bg-pale-aqua text-aqua rounded py-1 mb-2">Starting from $1000/month</span>
@@ -392,11 +392,11 @@
 							<span class="avatar bg-pink text-white w-11 h-11 fs-20 me-4">TE</span>
 						</div>
 						<div>
-						    
+
 							<h4 class="mb-1">Test Engineers</h4>
 						    <p class="mb-0 text-body">Selenium, BrowserStack, Testrail</p>
 							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $900/month</span>
-							
+
 						</div>
 					</div>
 				</a>
@@ -420,10 +420,66 @@
 <!--pricing ends-->
 
 
+<!--Section-->
+
+<section class="wrapper bg-soft-ash" style="margin-top: -90px;">
+    <div class="container py-14 py-md-16">
+      <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
+        <div class="col-lg-4 mt-lg-2">
+            <h6 class="display-4 mb-3 pe-xxl-1">Hire the best developers from the Top-Notch Companies</h6>
+            <p class="lead fs-18 mb-0 pe-xxl-5" style="padding-top: 15px;">Unlock the power of top-tier talent with experienced developers from the world's leading companies</p>
+        </div>
+        <!-- /column -->
+        <div class="col-lg-8" style="padding-top: 50px;">
+          <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12" style="height: 288px;">
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Google-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Facebook-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Oracle-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/company-logo/EY-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+            <div class="col">
+              <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Deloitte-logo.webp" alt="" /></figure>
+            </div>
+            <!--/column -->
+          </div>
+          <!--/.row -->
+        </div>
+        <!-- /column -->
+      </div>
+      <!-- /.row -->
+    </div>
+    <!-- /.container -->
+  </section>
+
+  <!-- /section -->
+
 <!--Join Us Starts-->
-                        
+
 <section class="wrapper bg-soft-yellow">
-  <div class="container py-5 py-md-14">
+  <div class="container py-5 py-md-14" >
     <div class="row gx-lg-0 gy-10 align-items-center">
         <!--/column -->
       <div class="col-lg-5">
@@ -438,11 +494,11 @@
             <div class="card shadow-lg">
               <div class="card-body">
                 <div class="d-flex d-lg-block d-xl-flex flex-row">
-                    
+
                   <div>
                     <div class="icon btn btn-circle btn-lg btn-soft-purple pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-presentation-check"></i> </div>
                   </div>
-                  
+
                   <div>
                     <h3 class="counter mb-1">100k+</h3>
                     <p class="mb-0">Total Talents</p>
@@ -517,9 +573,9 @@
   <!-- /.container -->
 </section>
  <!--/section -->
- 
+
  <!--         Join our community Ends   -->
-             
+
              <!--Screening Process Starts-->
 
              <section class="wrapper bg-light">
@@ -586,14 +642,14 @@
         </div>
         <!--/.row -->
       </div>
-      
+
     </div>
     <!--/.row -->
   </div>
   <!-- /.container -->
 </section>
 <!-- /section -->
-             
+
              <!--Screening process ends-->
              <!--Why comapnies love RB Starts-->
              <section class="wrapper bg-soft-orange" style="background-color:#FEFEFE !important;">
@@ -627,8 +683,8 @@
   </div>
   <!-- /.container -->
 </section>
-                         
-                        
+
+
 
 <section class="wrapper bg-soft-orange">
   <div class="container py-10 py-md-16">
@@ -639,7 +695,7 @@
             <div class="card card-border-start border-red">
                 <div class="card-body">
                     <h4>Cost-effective</h4>
-                    <p class="mb-0">With RapidBrains you can hire pre-screened remote talents with strong technical and communication 
+                    <p class="mb-0">With RapidBrains you can hire pre-screened remote talents with strong technical and communication
                         skills at unbeatable rates when compared to our competitors</p>
                 </div>
             </div>
@@ -651,11 +707,11 @@
             <div class="card  card-border-end border-yellow">
                 <div class="card-body">
                     <h4>No employer costs</h4>
-                    <p class="mb-0">RapidBrains take care of all employer costs including government requirements, 
+                    <p class="mb-0">RapidBrains take care of all employer costs including government requirements,
                         benefits, taxes, fees healthcare insurance and even expense management and monthly reimbursement</p>
                 </div>
             </div>
-            
+
         </div>
       </div>
       <!-- /column -->
@@ -664,7 +720,7 @@
             <div class="card shadow-lg card-border-end border-green">
                 <div class="card-body">
                     <h4>Flexible Engagements</h4>
-                    <p class="mb-0">Choose an engagement model that best fits your business. 
+                    <p class="mb-0">Choose an engagement model that best fits your business.
                         Take up an employee for either an hourly or monthly basis. Totally up to you!</p>
                 </div>
             </div>
@@ -688,7 +744,7 @@
             <div class="card  card-border-start border-orange">
                 <div class="card-body">
                     <h4>Custom Hiring Process</h4>
-                    <p class="mb-0">Our recruiting team can adapt to any of your processes - be it a machine test, 
+                    <p class="mb-0">Our recruiting team can adapt to any of your processes - be it a machine test,
                         multiple rounds of interviews, our candidates will show their best.
 
                     </p>
@@ -703,7 +759,7 @@
             <div class="card shadow-lg  card-border-end border-pink">
                 <div class="card-body">
                     <h4>Upskilling and training</h4>
-                    <p class="mb-0">We upskill and train your employees from time-to-time to help them with a staged career progression. 
+                    <p class="mb-0">We upskill and train your employees from time-to-time to help them with a staged career progression.
                         Or if you want to train an employee for a specific skillset we got you covered.</p>
                 </div>
             </div>
@@ -714,13 +770,13 @@
     <!-- /.row -->
   </div>
   <!-- /.container -->
-  
+
 </section>
 <!-- /section -->
-             
+
              <!--Why comapnies love RB Ends-->
-             
-    
+
+
 			 <!--Hiring Starts-->
             <section class="wrapper">
   <div class="container py-14 py-md-16">
@@ -743,7 +799,7 @@
             <th>
               <div class="h4 mb-1">Traditional Hiring</div>
             </th>
-            
+
           </tr>
         </thead>
         <tbody>
@@ -751,19 +807,19 @@
             <td class="option text-start">Time to hire talent</td>
             <td>Immediate</td>
             <td>3 to 7 days</td>
-            
+
           </tr>
           <tr>
             <td class="option text-start">Recruitment cost</td>
             <td>Zero</td>
             <td>Recruiter's Salary</td>
-            
+
           </tr>
           <tr>
             <td class="option text-start">Pre-screened talents</td>
             <td>Yes</td>
             <td>No</td>
-            
+
           </tr>
           <tr>
             <td class="option text-start">Quality Assurance / Replacement</td>
@@ -773,29 +829,29 @@
             <td class="option text-start">Background Verification</td>
             <td>Yes</td>
             <td>No</td>
-            
+
           </tr>
           <tr>
             <td class="option text-start">Notice Period</td>
             <td>Immediate</td>
             <td>30 to 60 days</td>
-            
+
           </tr>
           <tr>
             <td class="option text-start">Statutory Compliance in HR, Payroll and Tax</td>
             <td>Zero</td>
             <td>Your Team</td>
-            
+
           </tr>
           <tr>
             <td class="option text-start">Termination cost</td>
             <td>Zero</td>
             <td>Very High</td>
-            
+
           </tr>
-          
+
         </tbody>
-        
+
       </table>
     </div>
     <!-- /.table-responsive -->
@@ -803,16 +859,16 @@
   <!-- /.container -->
 </section>
 <!-- /section -->
-            
+
 
             <!--Hiring Ends-->
-            
-    
+
+
 
            <!--Save your time starts  -->
            <!-- /section -->
-   @include('services.logo') 
-             
+   @include('services.logo')
+
     <section class="wrapper bg-gray">
       <div class="container py-15 py-md-17 pb-md-19">
         <div class="row align-items-center gy-8 mb-13">
@@ -843,13 +899,13 @@
     </section>
     <!-- /section -->
     <!--Save your time ends-->
-     
+
     <section class="wrapper bg-light">
-    
+
   <div class="container py-20 py-md-20" style= "adding-top: 10rem !important;
     padding-bottom: 1rem !important;">
-      
-    
+
+
      <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" id="lazy" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
         <div class="card-body">
           <div class="row text-center">
@@ -868,12 +924,12 @@
         <!--/.card-body -->
       </div>
       <!--/.card -->
-             
-                        
-            
-             
-    
+
+
+
+
+
   </div>
   </section>
- 
+
 @endsection

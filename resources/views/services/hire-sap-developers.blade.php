@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/sap-image.webp')}}" srcset="{{asset('assets/img/services/sap-image.webp')}} 2x" alt="sap-image"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/sap-image.webp')}}" srcset="{{asset('assets/img/services/sap-image.webp')}} 2x" alt="sap-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/sap.webp')}}" srcset="{{asset('assets/img/services/sap.webp')}}" alt="sap"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/sap.webp')}}" srcset="{{asset('assets/img/services/sap.webp')}}" alt="sap" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
             technology and have expertise in areas such as SAP modules, database
             management and system integration. Hire experienced and dedicated SAP
             developers from RapidBrains who have a deep understanding of the latest SAP
-            software and technology. 
+            software and technology.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -85,7 +85,7 @@
                 solutions to meet specific business requirements. They also have experience
                 working with SAP development tools and methodologies, ensuring the
                 solutions they build are efficient, scalable, and maintainable.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -138,7 +138,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>SAP developers bring their expertise and experience to help increase overall
-                    productivity and efficiency in the workplace.</p>                   
+                    productivity and efficiency in the workplace.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -155,13 +155,13 @@
               <div class="card-body">
                 <p>By hiring SAP developers, companies can gain a competitive advantage by
                     staying ahead of the technology curve
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -303,7 +303,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -324,7 +324,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

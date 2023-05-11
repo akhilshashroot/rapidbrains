@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutservice')
 @section('section')
 
 
@@ -12,10 +12,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/AWS-image.jpg')}}" srcset="{{asset('assets/img/services/AWS-image.jpg')}} 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-aws-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-aws-image.webp')}} 2x" alt="aws-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/aws.png')}}" srcset="{{asset('assets/img/services/aws.png')}}" alt=""></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-aws.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-aws.webp')}}" alt="aws" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -86,9 +86,9 @@
                 IT needs because Amazon has a robust training and certification program for
                 developers. With the assistance of an AWS developer with extensive
                 knowledge and expertise, businesses can improve processes and better utilize
-                AWS services. 
+                AWS services.
                 </p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -155,13 +155,13 @@
             <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>AWS Developers can assist you in establishing cloud infrastructure that can be
-                    easily scaled up or down as needed, giving your business greater flexibility.</p> 
+                    easily scaled up or down as needed, giving your business greater flexibility.</p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -302,7 +302,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -323,7 +323,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -344,9 +344,9 @@
                 technologies, tools, and best practices. RapidBrains has the developers you
                 need to complete the project, whether you are looking to create a brand-new
                 cloud-based system from the ground up, move an existing system to the cloud,
-                or optimize your current cloud infrastructure.  
+                or optimize your current cloud infrastructure.
                 </p>
-                
+
             </div>
             <!--/column -->
           </div>

@@ -11,10 +11,10 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/salesforce-image.webp')}}" srcset="{{asset('assets/img/services/salesforce-image.webp')}} 2x" alt="salesforce-image"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/salesforce-image.webp')}}" srcset="{{asset('assets/img/services/salesforce-image.webp')}} 2x" alt="salesforce-image" loading="lazy"></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/salesforce.webp')}}" srcset="{{asset('assets/img/services/salesforce.webp')}}" alt="salesforce"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/salesforce.webp')}}" srcset="{{asset('assets/img/services/salesforce.webp')}}" alt="salesforce" loading="lazy"></figure>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@
             customizing the platform to meet specific business requirements, and
             integrating it with other systems. Hire Salesforce developers from RapidBrains
             get the most out of their Salesforce platform.
-             
+
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -90,7 +90,7 @@
                 they can help organizations streamline processes, automate workflows, and
                 gain valuable insights into their customers.
                 </p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -143,7 +143,7 @@
             <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
               <div class="card-body">
                 <p>Salesforce Developers can streamline business processes and automate manual
-                    tasks, increasing efficiency and productivity.</p>                   
+                    tasks, increasing efficiency and productivity.</p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -160,13 +160,13 @@
               <div class="card-body">
                 <p>Salesforce Developers can help manage and analyze data, providing valuable
                     insights and driving better decision making.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -306,7 +306,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -327,7 +327,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">
