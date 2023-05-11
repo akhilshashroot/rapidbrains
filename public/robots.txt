@@ -3,5 +3,6 @@ Disallow:/ceo-message
 Disallow:/leadership
 Disallow:/global-footprint
 Disallow:/capabilities
+Disallow:/global-approach
 
 Sitemap: https://www.rapidbrains.com/sitemap.xml

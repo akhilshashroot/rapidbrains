@@ -7,6 +7,7 @@
   <meta name="description" content="@if(isset($data['description'])){{$data['description']}}@else A talent marketplace to build remote teams, rapidly. From RapidBrains, companies can hire pre-screened contract remote engineers and developers with flexible engagements from hourly to full-time @endif">
   <meta name="keywords" content="@if(isset($data['keywords'])){{$data['keywords']}}@else remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees @endif">
   <meta name="author" content="rapidbrains">
+  @if(isset($data['roboto']))<meta name="robots" content="noindex">@endif
   <meta name="google-site-verification" content="Zv6WZ0yzns6Zo2AU1lvWhmo9lPRo23wGWFR2GIld6Vk"/>
   <link rel="canonical"  href="@if(isset($data['canonical'])){{$data['canonical']}}@else https://www.rapidbrains.com @endif" />
   <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
