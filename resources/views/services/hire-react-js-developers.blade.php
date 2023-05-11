@@ -168,14 +168,14 @@
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Expand Team By Hiring Dedicated ReactJS Developers</h3>
                  <p class="lead fs-lg mb-0">Looking to create interactive online apps? Hire ReactJS developers in 24 hours with RapidBrains!</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Hire ReactJs Developers</a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire ReactJs Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">
                  <div class="accordion accordion-wrapper" id="accordionExample">
                    <div class="card plain accordion-item">
                      <div class="card-header" id="headingOne">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Scale up your app with skilled ReactJS front-end developers.</button>
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Scale up your app with skilled ReactJS front-end developers.</button>
                      </div>
                      <!--/.card-header -->
                      <!--/.accordion-collapse -->
@@ -183,7 +183,7 @@
                    <!--/.accordion-item -->
                    <div class="card plain accordion-item">
                      <div class="card-header" id="headingTwo">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Manage UI components with experienced ReactJS developers.</button>
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Manage UI components with experienced ReactJS developers.</button>
                      </div>
                      <!--/.card-header -->
                      <!--/.accordion-collapse -->
@@ -191,7 +191,7 @@
                    <!--/.accordion-item -->
                    <div class="card plain accordion-item">
                      <div class="card-header" id="headingThree">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Hire top ReactJS developers with expertise in JavaScript, CSS, HTML, and UI/UX.</button>
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Hire top ReactJS developers with expertise in JavaScript, CSS, HTML, and UI/UX.</button>
                      </div>
                      <!--/.card-header -->
                      <!--/.accordion-collapse -->
@@ -199,16 +199,7 @@
                    <!--/.accordion-item -->
                    <div class="card plain accordion-item">
                      <div class="card-header" id="headingFour">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Need a speedy deployment? Hire ReactJS developers at an unbeatable price.</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Get devoted and dedicated ReactJS engineers with advanced tools and methods.</button>
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Need a speedy deployment? Hire ReactJS developers at an unbeatable price.</button>
                      </div>
                      <!--/.card-header -->
 
@@ -217,7 +208,16 @@
                    <!--/.accordion-item -->
                    <div class="card plain accordion-item">
                      <div class="card-header" id="headingFour">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Value your investment with on-time project delivery from our experts.</button>
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Get devoted and dedicated ReactJS engineers with advanced tools and methods.</button>
+                     </div>
+                     <!--/.card-header -->
+
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingFour">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Value your investment with on-time project delivery from our experts.</button>
                      </div>
                      <!--/.card-header -->
 
@@ -570,12 +570,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I hire ReactJS developers remotely from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I hire ReactJS developers remotely from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p>Share your project requirements with us, and our team will present you with a curated list
+                     <p class="fs-14">Share your project requirements with us, and our team will present you with a curated list
                        of candidates who match your needs. Choose the right developer to join your team.</p>
                    </div>
                    <!-- /.card-body -->
@@ -585,12 +585,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What skills do your remote ReactJS developers possess?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What skills do your remote ReactJS developers possess?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p>Our developers are skilled in ReactJS, Redux, JavaScript, HTML, CSS, and other relevant technologies. They have experience in building scalable and high-performance web applications.</p>
+                     <p class="fs-14">Our developers are skilled in ReactJS, Redux, JavaScript, HTML, CSS, and other relevant technologies. They have experience in building scalable and high-performance web applications.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -599,12 +599,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Can I review developers' profiles before hiring?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Can I review developers' profiles before hiring?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p>Yes, we provide detailed profiles of our developers, showcasing their experience, skills, and project history. You can review these profiles to make an informed decision.</p>
+                     <p class="fs-14">Yes, we provide detailed profiles of our developers, showcasing their experience, skills, and project history. You can review these profiles to make an informed decision.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -613,12 +613,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do you ensure quality in remote ReactJS development?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do you ensure quality in remote ReactJS development?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p>Our developers follow industry best practices, maintain regular communication, and provide progress updates to ensure the highest quality output in every project.</p>
+                     <p class="fs-14">Our developers follow industry best practices, maintain regular communication, and provide progress updates to ensure the highest quality output in every project.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
