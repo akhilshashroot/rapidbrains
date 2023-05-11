@@ -426,12 +426,12 @@
     <div class="container py-14 py-md-16">
       <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
         <div class="col-lg-4 mt-lg-2">
-          <h3 class="display-4 mb-3 pe-xxl-5">Industry-Leading Developers from Best Companies</h3>
-          <p class="lead fs-18 mb-0 pe-xxl-5">Experience excellence: collaborate with industry-leading developers from top companies</p>
+            <h6 class="display-4 mb-3 pe-xxl-1">Hire the best developers from the Top-Notch Companies</h6>
+            <p class="lead fs-18 mb-0 pe-xxl-5" style="padding-top: 15px;">Unlock the power of top-tier talent with experienced developers from the world's leading companies</p>
         </div>
         <!-- /column -->
         <div class="col-lg-8" style="padding-top: 50px;">
-          <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
+          <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12" style="height: 288px;">
             <div class="col">
               <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="" /></figure>
             </div>
@@ -479,7 +479,7 @@
 <!--Join Us Starts-->
 
 <section class="wrapper bg-soft-yellow">
-  <div class="container py-5 py-md-14">
+  <div class="container py-5 py-md-14" >
     <div class="row gx-lg-0 gy-10 align-items-center">
         <!--/column -->
       <div class="col-lg-5">
