@@ -91,6 +91,9 @@
 }
 }
 @media (min-width: 720px){
+  .cssk{
+    width: 90% !important;
+  }
 
 #sect-bg{
   background-image:  url({{asset('assets/img/photos/rapidbrains-cover.webp')}});
@@ -195,8 +198,8 @@
 <section class="wrapper bg-light" style="margin-top:-4rem;" >
   <div class="container py-14 py-md-16">
     <div class="row">
-      <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <h3 class="display-4 mb-9">Why the future of work is remote?</h3>
+      <div class="col-lg-8 col-xl-7 col-xxl-6 cssk">
+        <h3 class="display-4 mb-9">The smartest way to hire the best remote developers</h3>
       </div>
       <!-- /column -->
     </div>
@@ -220,14 +223,14 @@
       <div class="col-md-6 col-lg-3">
         <div class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5"> <i class="uil uil-globe"></i> </div>
         <h4>Hire Talent Across The World</h4>
-        <p class="mb-3">No geographical restrictions with RapidBrains in hiring the best developers.</p>
+        <p class="mb-3">Get access to a wider talent pool and hire the top developers from anywhere in the world.</p>
         <a href="https://www.rapidbrains.com/benefits" class="more hover link-leaf">Learn More</a>
       </div>
       <!--/column -->
       <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-blue pe-none mb-5"> <i class="uil uil-book-open"></i> </div>
-        <h4>Trained & Highly Skilled Workforce</h4>
-        <p class="mb-3">Continues training at RapidBrains ensures highly skilled developers with relevant experience.</p>
+        <div class="icon btn btn-block btn-lg btn-soft-blue pe-none mb-5"> <i class="uil uil-dollar-sign"></i> </div>
+        <h4>Zero Hiring Cost</h4>
+        <p class="mb-3">Talents can be interviewed at free of cost and you need to pay only when they join your company.</p>
         <a href="https://www.rapidbrains.com/benefits" class="more hover link-blue">Learn More</a>
       </div>
       <!--/column -->
