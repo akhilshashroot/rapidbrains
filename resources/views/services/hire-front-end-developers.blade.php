@@ -11,7 +11,7 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-front-end-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-wordpress-image.webp')}} 2x" alt="wordpress-image" loading="lazy"></figure>
+            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-front-end-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-front-end-image.webp')}} 2x" alt="front-end-image" loading="lazy"></figure>
           </div>
           <div class="item">
             <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-front-end.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-front-end.webp')}}" alt="front-end" loading="lazy"></figure>
