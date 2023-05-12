@@ -12,7 +12,7 @@
   <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
   <link rel="shortcut icon" href="{{asset('assets/img/favicon.png')}}">
   <link rel="stylesheet"   href="{{asset('assets/css/plugin-newhome.css')}}">
-  <link rel="stylesheet"    href="{{asset('assets/css/style.css')}}" >
+  <link rel="stylesheet"    href="{{asset('assets/css/style-newhome.css')}}" >
     <link rel="stylesheet"  href="{{asset('assets/css/colors/grape.css')}}">
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
@@ -28,7 +28,16 @@
 
 <style>
 
-
+.uil-dollar-sign-alt:before {
+  content: "\ea9e";
+}
+.uil-dollar-sign:before {
+  content: "\ea9f";
+}
+.px-3 {
+    padding-right: 0.75rem !important;
+    padding-left: 0.75rem !important;
+}
   .g-12, .gy-12 {
     --bs-gutter-y: 5.5rem !important;
 }

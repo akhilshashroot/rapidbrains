@@ -44,7 +44,10 @@
 }
  @media (max-width: 720px){
 
-
+  .row-cols-2>* {
+  flex: 0 0 auto;
+  width: 50%;
+}
 .hed {
   color: #fff !important;
     background-color: #343f52  !important;
