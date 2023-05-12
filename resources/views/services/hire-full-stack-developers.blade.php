@@ -1,6 +1,12 @@
 @extends('layout.layoutservice')
 @section('section')
-
+<style>
+    @media (max-width: 767px) {
+        .bg-dot {
+          display: none;
+        }
+      }
+</style>
 
     <section class="wrapper bg-gray">
   <div class="container py-14 py-md-16">

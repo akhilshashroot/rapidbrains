@@ -1,6 +1,12 @@
 @extends('layout.layoutservice')
-@section('section') 
-
+@section('section')
+<style>
+    @media (max-width: 767px) {
+        .bg-dot {
+          display: none;
+        }
+      }
+</style>
 
 
 
@@ -31,7 +37,7 @@
             engineers will develop a solution specifically suited to your company's
             requirements using a customized methodology. You can pick from our
             machine learning engineers based on your needs when you're considering
-            integrating AI and ML into your company.                      
+            integrating AI and ML into your company.
             </p>
         <!--<div class="row gy-3 gx-xl-8">
           <div class="col-xl-6">
@@ -87,7 +93,7 @@
                 to use machine learning to gain a competitive advantage. Our talented network
                 of remote machine learning engineers is available to you through RapidBrains,
                 and they can assist you in realizing your ML-based projects.</p>
-               
+
           <br> <br>
           <div class="col-lg-6 col-xl-5 mx-auto text-center">
 				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
@@ -141,7 +147,7 @@
               <div class="card-body">
                 <p>Machine learning developers can increase your overall efficiency by
                     automating manual processes.
-                    </p>                   
+                    </p>
             </div>
               <!-- /.card-body -->
             </div>
@@ -157,13 +163,13 @@
               <div class="card-body">
                 <p>You can use ML algorithms to make predictions and decisions that are more
                     accurate.
-                    </p> 
+                    </p>
               </div>
               <!-- /.card-body -->
             </div>
             <!-- /.collapse -->
           </div>
-          <!-- /.card -->        
+          <!-- /.card -->
         </div>
         <!-- /.accordion-wrapper -->
       </div>
@@ -212,7 +218,7 @@
               <div class="card-body">
                 <p>Real-time fraud detection and prevention can be aided by machine learning
                     models.
-                    
+
                     </p>
                 </div>
               <!-- /.card-body -->
@@ -307,7 +313,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -328,7 +334,7 @@
 
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-orange">

@@ -1,5 +1,12 @@
 @extends('layout.layoutservice')
 @section('section')
+<style>
+    @media (max-width: 767px) {
+        .bg-dot {
+          display: none;
+        }
+      }
+</style>
     <!-- section starts-->
 
     <section class="wrapper bg-gray">

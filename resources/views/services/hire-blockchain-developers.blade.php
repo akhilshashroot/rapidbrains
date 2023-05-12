@@ -1,6 +1,12 @@
 @extends('layout.layoutservice')
 @section('section')
-
+<style>
+    @media (max-width: 767px) {
+        .bg-dot {
+          display: none;
+        }
+      }
+</style>
 
     <!-- section starts-->
 
@@ -148,13 +154,13 @@
               <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                 <div class="card-body">
                   <p>Add and remove Blockchain developers as needed to meet your business
-                    objectives, allowing you to scale flexibly.</p> 
+                    objectives, allowing you to scale flexibly.</p>
                 </div>
                 <!-- /.card-body -->
               </div>
               <!-- /.collapse -->
             </div>
-            <!-- /.card -->        
+            <!-- /.card -->
           </div>
           <!-- /.accordion-wrapper -->
         </div>
@@ -285,7 +291,7 @@
               <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
               <p class="mb-2">Based on the evaluation, choose the best
                   candidate who best fits the needs and culture of the company.</p>
-              
+
             </div>
             <!--/.card-body -->
           </div>
@@ -302,7 +308,7 @@
 <!-- /section -->
 
 
- 
+
   <!--section starts-->
 
 <section class="wrapper bg-soft-yellow">
@@ -326,7 +332,7 @@
                 development to blockchain architecture and smart contract development. With
                 the help of our platform, businesses can access a wide range of blockchain
                 talent and find the best match for their particular project requirements.</p>
-                
+
             </div>
             <!--/column -->
           </div>
