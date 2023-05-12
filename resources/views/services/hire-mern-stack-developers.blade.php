@@ -110,6 +110,12 @@
 
 
    }
+   @media (min-width: 992px) {
+  .col-lg-5 {
+    top: 8rem;
+    position: sticky;
+    }
+    }
    </style>
    <!--<section class="wrapper bg-gray">
      <div class="container pt-12 pt-md-16 text-center">
@@ -434,7 +440,7 @@
       <section class="wrapper">
        <div class="container py-14 py-md-16">
          <div class="row d-flex align-items-start gy-10">
-           <div class="col-lg-5 position-lg-sticky" style="top: 8rem; position:sticky;">
+           <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
              <h3 class="display-2 mb-5">Unleash the Power of MERN Stack with RapidBrains</h3>
              <p class="mb-7">Tailored Solutions for Your Web and Mobile Development Needs. Our team of experts has the knowledge and experience to create customized solutions that meet your unique requirements. From concept to launch, we'll work with you every step of the way to deliver top-quality solutions that exceed your expectations.</p>
              <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now<i class="uil uil-arrow-up-right"></i></a>
