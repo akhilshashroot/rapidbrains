@@ -34,7 +34,7 @@ class hiremail extends Mailable
         $message_content = "Email :</b> ".$data['email']."<br/><br/><b>";
             $subject  = "RapidBrains Enquiry Mail from Landing page";
             $to_address="contact@rapidbrains.com";
-            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Hire Mail')
+            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Enquiry Mail')
             ->subject($subject)
             ->html($message_content);
     }
