@@ -17,15 +17,17 @@
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-37SPRD22NF"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11132095007"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-37SPRD22NF');
+  gtag('config', 'AW-11132095007');
 </script>
-
+<script>
+    gtag('event', 'conversion', {'send_to': 'AW-11132095007/CTiOCNK7n58YEJ-Umbwp'});
+</script>
 <style>
 
 .uil-left-arrow-from-left:before {
@@ -66,7 +68,7 @@
 }
     a:link {
   color: #60697b;
-  
+
 }
 .btn-primary{
     background-color: #343F52 !important;
@@ -79,7 +81,7 @@
     display:none;
 }
 .ms-auto {
-     margin-left: auto !important; 
+     margin-left: auto !important;
 }
 .dropdown-item{
   color:#596273 !important;
@@ -108,13 +110,13 @@
   <div class="content-wrapper">
       <!--Header Starts  -->
       <!--Header Starts  -->
-     
+
 
       @include('header-thankyou')
- 
+
    @yield('section')
-    
-   
+
+
   <!-- /.content-wrapper -->
 
   @include('footer')
@@ -137,11 +139,11 @@
                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                          <h2 class="mb-3 text-start"></h2>
                          <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
+
                          <form method="post" id="enquirenowForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
                             @csrf
                <input type="hidden" id="type" name="enquirenow" value="enquirenow">
-            
+
                <div class="row">
                  <div class="col-xl-12">
                    <div class="row gy-3 gx-3">
@@ -151,7 +153,7 @@
                          <label for="name" class="form-label">Your Name *</label>
                        </div>
                      </div>
-                    
+
                      <div class="col-md-12" id="emaildiv">
                        <div class="form-floating">
                        <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
@@ -179,13 +181,13 @@
           data-sitekey="{{env('INVISIBLE_RECAPTCHA_SITEKEY')}}"
           data-callback="onSubmit"
           data-size="invisible"></div>
- 
+
               <div class="btn-container mx-auto pt-5">
                 <button class="btn btn-primary d-block w-100" id="submit" type="submit">Enquire Now</button>
- 
+
                   </div>
- 
-                                     
+
+
                                  </div></form>
                          <!--/.social -->
                        </div>
@@ -193,11 +195,11 @@
                      </div>
                      <!--/.modal-body -->
                    </div>
-  
-  
-  
+
+
+
             </div>
-  
+
 
 
 
@@ -207,7 +209,7 @@
 
 
 
-  
+
 
 
 
@@ -219,7 +221,7 @@
 
 
 
-  
+
 
 
 
@@ -256,14 +258,14 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
-  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
   <script src="{{asset('assets/js/plugins-home.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
 
-  
+
 
 
 
@@ -272,14 +274,14 @@
 
  <script>
 $(window).scroll(function(){
-  
+
     if ($(this).scrollTop() > 400) {
-    
+
        $('#enquirenowID').addClass('ssk');
        $('#enquirenowID').removeClass('hed');
        $('#light').hide();
        $('#dark').show();
-        
+
     } else {
        $('#enquirenowID').removeClass('ssk');
        $('#enquirenowID').addClass('hed');
@@ -300,8 +302,8 @@ $(window).scroll(function(){
  required: true,
  maxlength: 50,
  email: true,
- },  
-   
+ },
+
  },
  messages: {
  name: {
@@ -332,7 +334,7 @@ $(window).scroll(function(){
     if(response.status == 'notok') {
         $('#submit').html('Submit');
         $("#submit"). attr("disabled", false);
-       
+
  swal({
  title: 'Sorry',
  text: msg,
@@ -344,21 +346,21 @@ $(window).scroll(function(){
         $('#submit').html('Submit');
  $("#submit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("enquirenowForm").reset(); 
+ document.getElementById("enquirenowForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#enquirenow').modal('hide');
   $('body').removeClass('modal-open');
     }
- 
 
- 
-  
+
+
+
  }
  });
  }
@@ -373,8 +375,8 @@ $(window).scroll(function(){
  required: true,
  maxlength: 50,
  email: true,
- },  
-   
+ },
+
  },
  messages: {
  name: {
@@ -385,7 +387,7 @@ $(window).scroll(function(){
  required: "Please enter valid email",
  email: "Please enter valid email",
  maxlength: "The email name should less than or equal to 50 characters",
- },   
+ },
 
  },
  success: function (label, element) {
@@ -425,18 +427,18 @@ $(window).scroll(function(){
  $('#touchsubmit').html('Submit');
  $("#touchsubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("gettouchForm").reset(); 
+ document.getElementById("gettouchForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#gettouch').modal('hide');
   $('body').removeClass('modal-open');
     }
-  
+
  }
  });
  }
@@ -449,9 +451,9 @@ $(window).scroll(function(){
  },
  phone: {
  required: true,
- 
- },  
-   
+
+ },
+
  },
  messages: {
  name: {
@@ -461,7 +463,7 @@ $(window).scroll(function(){
  phone: {
  required: "Please enter phone number",
 
- },   
+ },
 
  },
  success: function (label, element) {
@@ -500,18 +502,18 @@ $(window).scroll(function(){
         $('#callbacksubmit').html('Submit');
  $("#callbacksubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("callbackForm").reset(); 
+ document.getElementById("callbackForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#callback').modal('hide');
   $('body').removeClass('modal-open');
     }
-  
+
  }
  });
  }
@@ -524,7 +526,7 @@ function enableBtn(){
  }
         $("#success-msg").css('display','none');
     $("#danger-msg").css('display','none');
-  
+
         $("#joinForm").validate({
             rules: {
         name: "required",
@@ -552,13 +554,13 @@ function enableBtn(){
         $(".invalid-feedback-file").css('display','none');
         var fileInput =
             document.getElementById('resume');
-         
+
         var filePath = fileInput.value;
-     
+
         // Allowing file type
         var allowedExtensions =
 /(\.pdf|\.docx)$/i;
-         
+
         if (!allowedExtensions.exec(filePath)) {
             $(".invalid-feedback-file").css('display','block');
             fileInput.value = '';
@@ -570,7 +572,7 @@ function enableBtn(){
                 var geekss = e.target.files[0].name;
                 $("#img-hide").css('display','block');
                 $("#img-hide").text(geekss);
- 
+
             });
         });
         $("#contactForm").validate({
