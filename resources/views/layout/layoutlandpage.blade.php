@@ -629,35 +629,86 @@ if ($("#hire_now").length > 0) {
 
      return false;
      }
+     var $alertas = $('#enquirenowForm');
+    $alertas.validate().resetForm();
+    $alertas.find('.error').removeClass('error');
+    $('#email').val(inputText);
+        $('#enquirenow').modal('show');
+        $('#type').val('enquirenow');
+        $('#submit').html('Enquire Now');
+        $('#emaildiv').show();
+        $('#skilldiv').show();
+        $("#enquirenowForm").validate({
+ rules: {
+ name: {
+ required: true,
+ maxlength: 50
+ },
+ email: {
+ required: true,
+ maxlength: 50,
+ email: true,
+ },
 
-    $.ajaxSetup({
-    headers: {
-    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
-    }
-    });
-    $('#submit').html('Please Wait...');
-    $("#submit"). attr("disabled", true);
-    $.ajax({
-    url: "{{route('hireFunction')}}",
-    type: "POST",
-    data: $('#hire_now').serialize(),
-    success: function( response ) {
-     if(response.statuscode==403){
-               swal({
-    title: response.message,
+ },
+ messages: {
+ name: {
+ required: "Please enter name",
+ maxlength: "Your name maxlength should be 50 characters long."
+ },
+ email: {
+ required: "Please enter valid email",
+ email: "Please enter valid email",
+ maxlength: "The email name should less than or equal to 50 characters",
+ },
+ },
 
-    type: 'warning',
-    showConfirmButton:true,
-    confirmButtonText: 'Okay'
-    });
-             }else if(response.statuscode==402){
-              window.location = "/thank-you";
+ submitHandler: function(form) {
+ $.ajaxSetup({
+ headers: {
+ 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+ }
+ });
+ $('#submit').html('Please Wait...');
 
+ $("#submit"). attr("disabled", true);
+ $.ajax({
+ url: "{{route('enquire')}}",
+ type: "POST",
+ data: $('#enquirenowForm').serialize(),
+ success: function( response ) {
+    if(response.status == 'notok') {
+        $('#submit').html('Submit');
+        $("#submit"). attr("disabled", false);
+
+ swal({
+ title: 'Sorry',
+ text: msg,
+ type: 'error',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });
+    } else {
+        $('#submit').html('Submit');
+ $("#submit"). attr("disabled", false);
+ //alert('Ajax form has been submitted successfully');
+ document.getElementById("enquirenowForm").reset();
+ document.getElementById("hire_now").reset();
+
+ window.location = "/thank-you";
+ $('#enquirenow').modal('hide');
+  $('body').removeClass('modal-open');
     }
-    document.getElementById("hire_now").reset();
-    $("#error-display1").css('display','none');
-    }
-    });
+
+
+
+
+ }
+ });
+ }
+ })
+       
+   
     }
     })
     }
