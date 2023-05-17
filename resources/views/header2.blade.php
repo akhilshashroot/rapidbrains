@@ -29,7 +29,7 @@
                 <li class="nav-item dropdown dropdown-mega">
                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a>
                   <ul class="dropdown-menu mega-menu">
-                    <li class="mega-menu-content">
+                    <li class="mega-menu-content" style="margin-right: 30px;">
                       <ul class="row row-cols-1 row-cols-lg-6 gx-0 gx-lg-6 gy-lg-1 list-unstyled">
                       <li><a class="dropdown-item" href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
                             <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>
