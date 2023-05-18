@@ -116,7 +116,7 @@ class HomeController extends Controller
         return view('leadership',compact('data'));
     }
     public function ceoMessage() {
-        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+        $data['title']= "RapidBrains | Our CEO Message";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/ceo-message";
@@ -124,7 +124,7 @@ class HomeController extends Controller
         return view('ceo-message',compact('data'));
     }
     public function globalFootprint() {
-        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+        $data['title']= "RapidBrains | Global Footprint";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/global-footprint";
@@ -139,7 +139,7 @@ class HomeController extends Controller
         return view('thank-you',compact('data'));
     }
         public function capAbilities() {
-        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+        $data['title']= "RapidBrains | Our Capabilities";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/capabilities";
@@ -147,7 +147,7 @@ class HomeController extends Controller
         return view('our-capabilities',compact('data'));
     }
     public function globalApproach() {
-        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+        $data['title']= "RapidBrains | Global Approach";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
 		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
         $data['canonical']= "https://www.rapidbrains.com/global-approach";
