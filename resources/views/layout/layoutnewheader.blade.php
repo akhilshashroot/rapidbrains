@@ -12,8 +12,9 @@
   <title>@if(isset($data['title'])) {{$data['title']}}@else RapidBrains - Build your remote team, rapidly @endif</title>
   <link rel="shortcut icon" href="{{asset('assets/img/favicon.png')}}">
   <link rel="stylesheet"   href="{{asset('assets/css/plugin-newhome.css')}}">
-  <link rel="stylesheet"    href="{{asset('assets/css/style-newhome.css')}}" >
-    <link rel="stylesheet"  href="{{asset('assets/css/colors/grape.css')}}">
+  <link rel="stylesheet"  rel="preload"   href="{{asset('assets/css/style-newhome.css')}}"    as="style">
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');"  href="{{asset('assets/css/colors/grape.css')}}">
+
     <!--<link rel="stylesheet" href="{{asset('assets/css/colors/pink.css')}}">-->
     @yield('css_after')
 </head>
