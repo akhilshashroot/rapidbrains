@@ -55,12 +55,12 @@
                 <form method="post" id="hire_now" novalidate="novalidate" action="#" enctype="multipart/form-data">
                   <div class="form-floating input-group">
                     <input type="email" class="form-control border-0" placeholder="Enter Email Address" name="hire_email" id="hire_email">
-                     
+
                     <label for="hire" id="hlabel">Enter Email Addresss</label>
-                 
+
                     <input type="submit" value="Hire Now" id="hire" name="hire" class="btn btn-primary ">
-                   
-                
+
+
                   </div>
                   <p id="error-display1" style="color:#dc3545;display:none">Please enter a valid email address</p>
                 </form>
@@ -98,7 +98,7 @@
       </div>
       <!-- /.container -->
     </section>
-   
+
     <!-- /section -->
 
     <!--Section-->
@@ -206,11 +206,15 @@
           <div class="col-lg-4 mt-lg-2">
             <h2 class="fs-15 text-uppercase text-muted mb-3"></h2>
             <h6 class="display-4 mb-3 pe-xxl-1">Hire the best developers from the Top-Notch Companies</h6>
-            <p class="lead fs-18 mb-0 pe-xxl-5" style="padding-top: 15px;">Unlock the power of top-tier talent with experienced developers from the world's leading companies</p> 
+            <p class="lead fs-18 mb-0 pe-xxl-5" style="padding-top: 15px;">Unlock the power of top-tier talent with experienced developers from the world's leading companies</p>
           </div>
           <!-- /column -->
           <div class="col-lg-8" style="padding-top: 72px;">
             <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
+              <div class="col">
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Apple-logo.webp" alt="" /></figure>
+              </div>
+              <!--/column -->
               <div class="col">
                 <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="" /></figure>
               </div>
@@ -220,15 +224,11 @@
               </div>
               <!--/column -->
               <div class="col">
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Meta-logo.webp" alt="" /></figure>
+              </div>
+              <!--/column -->
+              <div class="col">
                 <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.webp" alt="" /></figure>
-              </div>
-              <!--/column -->
-              <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Facebook-logo.webp" alt="" /></figure>
-              </div>
-              <!--/column -->
-              <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
@@ -236,7 +236,7 @@
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/EY-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
@@ -290,8 +290,8 @@
               <!-- /.container -->
             </section>
     <!-- /section -->
-          
-       
+
+
         </div>
         <!--/.row -->
 
@@ -300,25 +300,14 @@
 <section class="wrapper bg-light" style="margin-top: -50px;">
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-      
+
       <div class="col-lg-8">
         <div class="swiper-container text-center mb-6" data-margin="30" data-dots="true" data-items-xl="3" data-items-md="2" data-items-xs="1">
           <div class="swiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="" />
-                <h4 class="mb-1">The Bizz Awards <br>2019</h4>
-                <!--<nav class="nav social justify-content-center text-center mb-0">
-                  <a href="#"><i class="uil uil-twitter"></i></a>
-                  <a href="#"><i class="uil uil-slack"></i></a>
-                  <a href="#"><i class="uil uil-linkedin"></i></a>
-                </nav>-->
-                <!-- /.social -->
-              </div>
-              <!--/.swiper-slide -->
-              <div class="swiper-slide">
                 <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="" />
-                <h4 class="mb-1">Clutch's top 100 IT firms in India</h4>
+                <h4 class="mb-1">Clutch's top 100 IT firms of 2021</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>
                   <a href="#"><i class="uil uil-facebook-f"></i></a>
@@ -334,6 +323,17 @@
                   <a href="#"><i class="uil uil-linkedin"></i></a>
                   <a href="#"><i class="uil uil-tumblr-square"></i></a>
                   <a href="#"><i class="uil uil-facebook-f"></i></a>
+                </nav>-->
+                <!-- /.social -->
+              </div>
+              <!--/.swiper-slide -->
+              <div class="swiper-slide">
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="" />
+                <h4 class="mb-1">The BIZZ Award by WorldCob, USA</h4>
+                <!--<nav class="nav social justify-content-center text-center mb-0">
+                  <a href="#"><i class="uil uil-youtube"></i></a>
+                  <a href="#"><i class="uil uil-facebook-f"></i></a>
+                  <a href="#"><i class="uil uil-dribbble"></i></a>
                 </nav>-->
                 <!-- /.social -->
               </div>

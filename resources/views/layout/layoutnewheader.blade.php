@@ -93,7 +93,7 @@
 }
     a:link {
   color: #60697b;
-  
+
 }
 .btn-primary{
     background-color: #343F52 !important;
@@ -106,7 +106,7 @@
     display:none;
 }
 .ms-auto {
-     margin-left: auto !important; 
+     margin-left: auto !important;
 }
 .dropdown-item{
   color:#596273 !important;
@@ -129,18 +129,107 @@
     padding-bottom: 1.5rem !important;
 }
 }
+.swiper-controls {
+  position: absolute !important;
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.swiper-controls .swiper-navigation {
+  pointer-events: all;
+}
+.swiper-controls .swiper-navigation .swiper-button {
+  background: rgba(255, 255, 255, 0.7);
+  color: #343f52;
+  border: 0;
+  box-shadow: 0rem 0.25rem 0.75rem rgba(30, 34, 40, 0.02);
+  width: 2.2rem;
+  height: 2.2rem;
+  line-height: inherit;
+  border-radius: 100%;
+  text-shadow: none;
+  transition: all 0.2s ease-in-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .swiper-controls .swiper-navigation .swiper-button {
+    transition: none;
+  }
+}
+.swiper-controls .swiper-navigation .swiper-button:hover {
+  background: rgba(255, 255, 255, 0.9);
+}
+.swiper-controls .swiper-navigation .swiper-button:focus {
+  outline: 0;
+}
+.swiper-controls .swiper-navigation .swiper-button:after {
+  font-family: "Unicons";
+  font-size: 1.2rem;
+}
+.swiper-controls .swiper-navigation .swiper-button.swiper-button-prev {
+  left: 1rem;
+}
+.swiper-controls .swiper-navigation .swiper-button.swiper-button-prev:after {
+  content: "\e949";
+}
+.swiper-controls .swiper-navigation .swiper-button.swiper-button-next {
+  right: 1rem;
+}
+.swiper-controls .swiper-navigation .swiper-button.swiper-button-next:after {
+  content: "\e94c";
+}
+.swiper-controls .swiper-navigation .swiper-button.swiper-button-disabled {
+  background: rgba(255, 255, 255, 0.7);
+}
+.swiper-controls .swiper-pagination {
+  bottom: -2.8rem;
+  position: absolute !important;
+  pointer-events: all;
+}
+.swiper-controls .swiper-pagination .swiper-pagination-bullet {
+  -webkit-backface-visibility: visible;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  margin: 0 0.3rem;
+  padding: 0;
+  background: #aab0bc;
+  opacity: 0.5;
+  border-radius: 100%;
+  border: 3px solid transparent;
+  transform: scale(0.6);
+}
+@media (prefers-reduced-motion: reduce) {
+  .swiper-controls .swiper-pagination .swiper-pagination-bullet {
+    transition: none;
+  }
+}
+.swiper-controls .swiper-pagination .swiper-pagination-bullet:hover {
+  transform: scale(1);
+}
+.swiper-controls .swiper-pagination .swiper-pagination-bullet:focus {
+  outline: 0;
+}
+.swiper-controls .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+  transform: scale(1);
+  background: none;
+  border-color: #aab0bc;
+}
 </style>
 <body >
 <div class="">
   <div class="content-wrapper">
       <!--Header Starts  -->
       <!--Header Starts  -->
-     
+
       @include('header4')
- 
+
    @yield('section')
-    
-   
+
+
   <!-- /.content-wrapper -->
 
   @include('footer')
@@ -163,11 +252,11 @@
                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                          <h2 class="mb-3 text-start"></h2>
                          <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
+
                          <form method="post" id="enquirenowForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
                             @csrf
                <input type="hidden" id="type" name="enquirenow" value="enquirenow">
-            
+
                <div class="row">
                  <div class="col-xl-12">
                    <div class="row gy-3 gx-3">
@@ -177,7 +266,7 @@
                          <label for="name" class="form-label">Your Name *</label>
                        </div>
                      </div>
-                    
+
                      <div class="col-md-12" id="emaildiv">
                        <div class="form-floating">
                        <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
@@ -205,13 +294,13 @@
           data-sitekey="{{env('INVISIBLE_RECAPTCHA_SITEKEY')}}"
           data-callback="onSubmit"
           data-size="invisible"></div>
- 
+
               <div class="btn-container mx-auto pt-5">
                 <button class="btn btn-primary d-block w-100" id="submit" type="submit">Enquire Now</button>
- 
+
                   </div>
- 
-                                     
+
+
                                  </div></form>
                          <!--/.social -->
                        </div>
@@ -219,11 +308,11 @@
                      </div>
                      <!--/.modal-body -->
                    </div>
-  
-  
-  
+
+
+
             </div>
-  
+
 
 
 
@@ -233,7 +322,7 @@
 
 
 
-  
+
 
 
 
@@ -245,7 +334,7 @@
 
 
 
-  
+
 
 
 
@@ -282,14 +371,14 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script> 
-  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
   <script src="{{asset('assets/js/plugins-home.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
 
-  
+
 
 
 
@@ -298,14 +387,14 @@
 
  <script>
 $(window).scroll(function(){
-  
+
     if ($(this).scrollTop() > 400) {
-    
+
        $('#enquirenowID').addClass('ssk');
        $('#enquirenowID').removeClass('hed');
        $('#light').hide();
        $('#dark').show();
-        
+
     } else {
        $('#enquirenowID').removeClass('ssk');
        $('#enquirenowID').addClass('hed');
@@ -326,8 +415,8 @@ $(window).scroll(function(){
  required: true,
  maxlength: 50,
  email: true,
- },  
-   
+ },
+
  },
  messages: {
  name: {
@@ -358,7 +447,7 @@ $(window).scroll(function(){
     if(response.status == 'notok') {
         $('#submit').html('Submit');
         $("#submit"). attr("disabled", false);
-       
+
  swal({
  title: 'Sorry',
  text: msg,
@@ -370,21 +459,21 @@ $(window).scroll(function(){
         $('#submit').html('Submit');
  $("#submit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("enquirenowForm").reset(); 
+ document.getElementById("enquirenowForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#enquirenow').modal('hide');
   $('body').removeClass('modal-open');
     }
- 
 
- 
-  
+
+
+
  }
  });
  }
@@ -399,8 +488,8 @@ $(window).scroll(function(){
  required: true,
  maxlength: 50,
  email: true,
- },  
-   
+ },
+
  },
  messages: {
  name: {
@@ -411,7 +500,7 @@ $(window).scroll(function(){
  required: "Please enter valid email",
  email: "Please enter valid email",
  maxlength: "The email name should less than or equal to 50 characters",
- },   
+ },
 
  },
  success: function (label, element) {
@@ -451,18 +540,18 @@ $(window).scroll(function(){
  $('#touchsubmit').html('Submit');
  $("#touchsubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("gettouchForm").reset(); 
+ document.getElementById("gettouchForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#gettouch').modal('hide');
   $('body').removeClass('modal-open');
     }
-  
+
  }
  });
  }
@@ -475,9 +564,9 @@ $(window).scroll(function(){
  },
  phone: {
  required: true,
- 
- },  
-   
+
+ },
+
  },
  messages: {
  name: {
@@ -487,7 +576,7 @@ $(window).scroll(function(){
  phone: {
  required: "Please enter phone number",
 
- },   
+ },
 
  },
  success: function (label, element) {
@@ -526,18 +615,18 @@ $(window).scroll(function(){
         $('#callbacksubmit').html('Submit');
  $("#callbacksubmit"). attr("disabled", false);
  //alert('Ajax form has been submitted successfully');
- document.getElementById("callbackForm").reset(); 
+ document.getElementById("callbackForm").reset();
  swal({
  title: 'We will get back to you at the earliest.',
  text: "You won't be able to revert this!",
  type: 'success',
  showConfirmButton:true,
  confirmButtonText: 'Okay'
- });        
+ });
  $('#callback').modal('hide');
   $('body').removeClass('modal-open');
     }
-  
+
  }
  });
  }
@@ -550,7 +639,7 @@ function enableBtn(){
  }
         $("#success-msg").css('display','none');
     $("#danger-msg").css('display','none');
-  
+
         $("#joinForm").validate({
             rules: {
         name: "required",
@@ -578,13 +667,13 @@ function enableBtn(){
         $(".invalid-feedback-file").css('display','none');
         var fileInput =
             document.getElementById('resume');
-         
+
         var filePath = fileInput.value;
-     
+
         // Allowing file type
         var allowedExtensions =
 /(\.pdf|\.docx)$/i;
-         
+
         if (!allowedExtensions.exec(filePath)) {
             $(".invalid-feedback-file").css('display','block');
             fileInput.value = '';
@@ -596,7 +685,7 @@ function enableBtn(){
                 var geekss = e.target.files[0].name;
                 $("#img-hide").css('display','block');
                 $("#img-hide").text(geekss);
- 
+
             });
         });
         $("#contactForm").validate({

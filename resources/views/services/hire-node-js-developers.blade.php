@@ -176,7 +176,7 @@
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Dynamic Web Solutions for Business Growth</h3>
                  <p class="lead fs-16 mb-0">Empower your team with the skills and expertise of top NodeJS developers, and unlock their full potential to drive your business forward with confidence.</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Hire NodeJs Developers</a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire NodeJs Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">

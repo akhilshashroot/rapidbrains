@@ -1,10 +1,10 @@
 <footer class="bg-light">
     <div class="container">
-      
+
       <div class="row gy-6 gy-lg-0">
         <div class="col-md-4 col-lg-3">
           <div class="widget">
-            <img class="mb-4" src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo" width="200" style="margin-right:3rem;" />
+            <img class="mb-4" src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo" width="200" height="39" style="margin-right:3rem;" />
             <p class="mb-4">© {{ date('Y') }} RapidBrains. <br class="d-none d-lg-block" />A HashRoot Company</p>
             <nav class="nav social ">
             <a href="https://www.linkedin.com/company/rapidbrains" aria-label="RapidBrains linkedin account"><i class="uil uil-linkedin"></i></a>
@@ -21,7 +21,7 @@
           <div class="widget">
             <h4 class="widget-title  mb-3">Get in Touch</h4>
             <address class="pe-xl-15 pe-xxl-17"> Ground Floor, Athulya, Infopark, Kochi, Kerala, India</address>
-            
+
             <a href="mailto:contact@rapidbrains.com" class="link-body">contact@rapidbrains.com</a><br /> +91 97784 26317
           </div>
           <!-- /.widget -->
@@ -89,17 +89,17 @@
       </div>
       <!--/.row -->
       <p class="mb-2 mb-lg-0 mt-10 ">
-        <a href="{{route('policies')}}" class= "fs-sm">Privacy Policy |</a>
+        <a href="{{route('policies')}}" class= "fs-sm" style="margin:10px;">Privacy Policy |</a>
         <a href="{{route('non-disclosure-agreement')}}" class= "fs-sm"> Non Disclosure Agreement |</a>
         <a href="{{route('acceptable-user-policy')}}" class= "fs-sm"> Acceptable User Policy</a>
-        
+
     </p>
      <p >
         <a href="{{route('information-audit-document')}}" class= "fs-sm">Information Audit Document |</a>
-        <a href="{{route('data-processing-agreement')}}" class= "fs-sm"> Data Processing Agreement</a>
-        
+        <a href="{{route('data-processing-agreement')}}" class= "fs-sm" style="margin: 10px;"> Data Processing Agreement</a>
+
     </p>
-      
+
     </div>
     <!-- /.container -->
   </footer>

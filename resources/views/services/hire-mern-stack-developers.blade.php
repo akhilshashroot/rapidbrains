@@ -173,7 +173,7 @@
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Maximize Web Development Potential with Remote MERN Stack Developers</h3>
                  <p class="lead fs-lg mb-0">Build High-Performance Custom Web Apps with Expert Developers</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Hire MERN Stack Developers</a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire MERN Stack Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">

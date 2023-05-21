@@ -169,7 +169,7 @@
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Empower Your Team with Remote DevOps</h3>
                  <p class="lead fs-lg mb-0">Optimize Infrastructure and Accelerate Growth</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Hire DevOps Developers</a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire DevOps Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">

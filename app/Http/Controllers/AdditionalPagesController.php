@@ -150,9 +150,9 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireMLDevelopers() {
-        $data['title']= "Hire Machine Learning Engineers - Remote ML Engineers";
+        $data['title']= "Hire Machine Learning Engineers - Remote Machine Learning Engineers";
 		$data['keywords']= ": hire machine learning engineer, hire remote machine learning engineer, Machine learning solutions, Machine learning services, Machine learning consulting, hire Machine learning consultant, Machine learning technology, Machine learning development, Machine learning algorithms, talent cloud";
-		$data['description']= "Get ahead of the AI game with RapidBrains. Hire top remote Machine Learning Engineers for cutting-edge ML solutions. Experience innovative results today.";
+		$data['description']= "Get ahead of the AI game with RapidBrains. Hire top remote Machine Learning Engineers for cutting-edge Machine Learning solutions. Experience innovative results today.";
         $data['canonical']= "https://www.rapidbrains.com/hire-machine-learning-engineers";
         return view('services.hire-machine-learning-engineers',compact('data'));
     }
@@ -208,7 +208,7 @@ class AdditionalPagesController extends Controller
 
 
 
- 
+
 
 
 
@@ -235,7 +235,7 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-postgresql-developers";
         return view('services.hire-postgresql-developers',compact('data'));
     }
-    
+
     public function hireRubyDevelopers() {
         $data['title']= "Hire Ruby on Rails Developers - Remote Ruby on Rails Developers";
 		$data['keywords']= "hire Ruby on Rails developer, hire remote Ruby on Rails developer, hire Ruby on Rails web development team, Ruby on Rails software development, Ruby on Rails application development, hire Ruby on Rails web developer, hire Ruby on Rails programmers, Ruby on Rails web application programming, Ruby on Rails app development, build remote team";
@@ -330,7 +330,7 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-sap-developers";
         return view('services.hire-sap-developers',compact('data'));
     }
-    
+
     public function hireSalesforceDevelopers() {
         $data['title']= "Hire Salesforce Developers - Remote Salesforce Developers";
 		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";

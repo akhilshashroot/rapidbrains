@@ -17,7 +17,7 @@
               <figure><img class="w-auto" src="https://www.rapidbrains.com/assets/img/common/rapidbrains-beta-hero.webp" srcset="https://www.rapidbrains.com/assets/img/common/rapidbrains-beta-hero.webp" alt="hire pre vetted remote developers" /></figure>
             </div>
             <!-- /column -->
-            
+
           </div>
           <!-- /.row -->
         </div>
@@ -52,7 +52,7 @@
       </div>
       <!-- /.container -->
     </section>
-   
+
     <!-- /section -->
 
     <!--Section-->
@@ -233,7 +233,7 @@
       </div>
       <!-- /.container -->
     </section>
-    
+
     <!--/Section-->
 
     <!--Section-->
@@ -249,6 +249,10 @@
           <div class="col-lg-8" style="padding-top: 50px;">
             <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
               <div class="col">
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Apple-logo.webp.webp" alt="" /></figure>
+              </div>
+              <!--/column -->
+              <div class="col">
                 <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
@@ -257,15 +261,11 @@
               </div>
               <!--/column -->
               <div class="col">
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Meta-logo.webp" alt="" /></figure>
+              </div>
+              <!--/column -->
+              <div class="col">
                 <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.webp" alt="" /></figure>
-              </div>
-              <!--/column -->
-              <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Facebook-logo.webp" alt="" /></figure>
-              </div>
-              <!--/column -->
-              <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
@@ -273,7 +273,7 @@
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/company-logo/EY-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://www.rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
               </div>
               <!--/column -->
               <div class="col">
@@ -292,7 +292,7 @@
 
     <!-- /section -->
 
-    <!-- Lower End Divider--> 
+    <!-- Lower End Divider-->
 
     <section class="wrapper bg-soft-ash angled lower-end"></section>
 
@@ -334,8 +334,8 @@
             </section>
 
     <!-- /section -->
-          
-       
+
+
         </div>
         <!--/.row -->
 
@@ -495,44 +495,44 @@
 <section class="wrapper bg-light">
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-      
+
       <div class="col-lg-8">
         <div class="swiper-container text-center mb-6" data-margin="30" data-dots="true" data-items-xl="3" data-items-md="2" data-items-xs="1">
           <div class="swiper">
             <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="" />
-                <h4 class="mb-1">The Bizz Awards <br>2019</h4>
-                <!--<nav class="nav social justify-content-center text-center mb-0">
-                  <a href="#"><i class="uil uil-twitter"></i></a>
-                  <a href="#"><i class="uil uil-slack"></i></a>
-                  <a href="#"><i class="uil uil-linkedin"></i></a>
-                </nav>-->
-                <!-- /.social -->
-              </div>
-              <!--/.swiper-slide -->
-              <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="" />
-                <h4 class="mb-1">Clutch's top 100 IT firms in India</h4>
-                <!--<nav class="nav social justify-content-center text-center mb-0">
-                  <a href="#"><i class="uil uil-youtube"></i></a>
-                  <a href="#"><i class="uil uil-facebook-f"></i></a>
-                  <a href="#"><i class="uil uil-dribbble"></i></a>
-                </nav>-->
-                <!-- /.social -->
-              </div>
-              <!--/.swiper-slide -->
-              <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="" />
-                <h4 class="mb-1">Crown Commercial Service Supplier</h4>
-                <!--<nav class="nav social justify-content-center text-center mb-0">
-                  <a href="#"><i class="uil uil-linkedin"></i></a>
-                  <a href="#"><i class="uil uil-tumblr-square"></i></a>
-                  <a href="#"><i class="uil uil-facebook-f"></i></a>
-                </nav>-->
-                <!-- /.social -->
-              </div>
-              <!--/.swiper-slide -->
+                <div class="swiper-slide">
+                    <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="" />
+                    <h4 class="mb-1">Clutch's top 100 IT firms of 2021</h4>
+                    <!--<nav class="nav social justify-content-center text-center mb-0">
+                      <a href="#"><i class="uil uil-youtube"></i></a>
+                      <a href="#"><i class="uil uil-facebook-f"></i></a>
+                      <a href="#"><i class="uil uil-dribbble"></i></a>
+                    </nav>-->
+                    <!-- /.social -->
+                  </div>
+                  <!--/.swiper-slide -->
+                  <div class="swiper-slide">
+                    <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="" />
+                    <h4 class="mb-1">Crown Commercial Service Supplier</h4>
+                    <!--<nav class="nav social justify-content-center text-center mb-0">
+                      <a href="#"><i class="uil uil-linkedin"></i></a>
+                      <a href="#"><i class="uil uil-tumblr-square"></i></a>
+                      <a href="#"><i class="uil uil-facebook-f"></i></a>
+                    </nav>-->
+                    <!-- /.social -->
+                  </div>
+                  <!--/.swiper-slide -->
+                  <div class="swiper-slide">
+                    <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="" />
+                    <h4 class="mb-1">The BIZZ Award by WorldCob, USA</h4>
+                    <!--<nav class="nav social justify-content-center text-center mb-0">
+                      <a href="#"><i class="uil uil-youtube"></i></a>
+                      <a href="#"><i class="uil uil-facebook-f"></i></a>
+                      <a href="#"><i class="uil uil-dribbble"></i></a>
+                    </nav>-->
+                    <!-- /.social -->
+                  </div>
+                  <!--/.swiper-slide -->
               <div class="swiper-slide">
                 <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" alt="" />
                 <h4 class="mb-1">International Quality Crown Award</h4>
@@ -621,6 +621,6 @@
 </section>
 <!-- /section -->
 
-        
+
 <!-- /section -->
 @endsection
