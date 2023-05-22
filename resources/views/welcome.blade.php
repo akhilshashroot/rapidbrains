@@ -893,7 +893,7 @@
                         <!--/.swiper-slide -->
                         <div class="swiper-slide">
                           <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="" />
-                          <h4 class="mb-1">Crown Commercial Service Supplier ,UK</h4>
+                          <h4 class="mb-1">Crown Commercial Service Supplier, UK</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-linkedin"></i></a>
                             <a href="#"><i class="uil uil-tumblr-square"></i></a>
@@ -915,7 +915,7 @@
                         <!--/.swiper-slide -->
                         <div class="swiper-slide">
                           <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" alt="" />
-                          <h4 class="mb-1">International Quality Crown Award ,London</h4>
+                          <h4 class="mb-1">International Quality Crown Award, London</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-twitter"></i></a>
                             <a href="#"><i class="uil uil-facebook-f"></i></a>
