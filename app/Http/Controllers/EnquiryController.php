@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\RapidBrainMail;
 use Illuminate\Support\Facades\Validator;
+use App\Models\SeoEnquiry;
 
 class EnquiryController extends Controller
 {
@@ -31,9 +32,14 @@ class EnquiryController extends Controller
         $maildata['skill']		=  $request->skill;
            
         $maildata['type']		=  $request->enquirenow;
-
-       
-         
+        if($request->enquirenow=='enquirenow'){
+       $enq=new SeoEnquiry();
+       $enq->name=$request->name;
+       $enq->email= $request->email;
+       $enq->phone=$request->phone;
+       $enq->skill=$request->skill;
+       $enq->save();
+        }
             Mail::send(new RapidBrainMail($maildata));
             return response()->json([ 
                 'status'	=> 'ok',
