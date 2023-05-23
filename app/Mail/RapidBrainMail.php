@@ -37,7 +37,7 @@ class RapidBrainMail extends Mailable
             Phone :</b> ".$data['phone']."<br/><br/><b>
             skill : </b>".$data['skill']."<br/><br/><b>";
             $subject  = "RapidBrains Enquiry";
-            $to_address="contact@rapidbrains.com";
+            $to_address="enquiry@rapidbrains.com";
             return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains Enquiry')
             ->subject($subject)
             ->html($message_content);
