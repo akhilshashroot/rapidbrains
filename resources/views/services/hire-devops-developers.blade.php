@@ -169,7 +169,7 @@
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Empower Your Team with Remote DevOps</h3>
                  <p class="lead fs-lg mb-0">Optimize Infrastructure and Accelerate Growth</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire DevOps Developers</a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-primary rounded-pill" style="color: #fff;">Hire DevOps Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">
@@ -446,8 +446,8 @@
        <div class="container py-14 py-md-16">
            <div class="row text-center">
                <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">RapidBrains: Your Go-To for Expert Remote ReactJS Developers</h3>
-                   <p style="margin-top: -25px;">Empowering Innovation with Top-Notch ReactJS Talent & Unleashing Excellence in ReactJS Development Remotely</p>
+                   <h3 class="display-4 mb-10 px-xxl-15">RapidBrains: Your Go-To for Expert Remote DevOps Developers</h3>
+                   <p style="margin-top: -25px;">Empowering Innovation with Top-Notch DevOps Talent & Unleashing Excellence in DevOps Development Remotely</p>
                </div>
                <!-- /column -->
            </div><br><br><br>

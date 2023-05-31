@@ -7,9 +7,9 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     public function index() {
-        $data['title']= "Hire Remote Developers and Build Your Team Rapidly | RapidBrains";
+        $data['title']= "Hire Best Remote Software Developers | RapidBrains";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
-		$data['description']= "A talent marketplace to rapidly build remote teams. From RapidBrains, companies can hire pre-screened remote engineers and developers with flexible engagements.";
+		$data['description']= "Hire best remote software developers from RapidBrains, A talent marketplace to rapidly build remote teams. Contact us to hire remote developers.";
         $data['canonical']= "https://www.rapidbrains.com";
         return view('welcome',compact('data'));
     }

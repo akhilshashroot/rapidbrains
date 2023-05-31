@@ -1,782 +1,12 @@
-@extends('layout.layoutnewheader')
+@extends('layout.layoutenq')
 @section('section')
-<style>
-
-  .lgc{
-    background-color: #f6f7f9 !important;
-  }
-  
-  @media (min-width: 768px){
-.pb-md-20 {
-    padding-bottom: 5rem !important;
-}
-.psb{
-  padding-top: 1rem !important;
-}
-
-}
-
-
-
-@media (min-width: 1400px){
-.col-xxl-6 {
-   
-    width: 60%  !important;
-}
-
-}
-@media (min-width: 1200px){
-.col-xl-7 {
-    
-    width: 68.333333% !important;
-}
-}
-
-
-@media (min-width: 900px){
-.spx {
-    margin-right: -13px !important;
-  
-}
-}
- @media (max-width: 720px){
-.hed {
-  color: #fff !important;
-    background-color: #343f52  !important;
-    border-color: #343f52  !important;
-  
-}
-.ccs{
-  margin-top: -4rem;
-}
-} 
-
-@media (min-width: 992px){
-.px-lg-33 {
-    padding-right: 0.1rem !important;
-    padding-left: 0.1rem !important;
-}
-}
-</style>
-<!--<section class="wrapper bg-gray">
-  <div class="container pt-12 pt-md-16 text-center">
-    <div class="row">
-      <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
-        <h1 class="display-1 fs-58 mb-7">Build your remote team, rapidly!</h1>
-        <div class="d-flex justify-content-center" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
-          <span><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn btn-primary me-2">Hire Now</a></span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="{{asset('assets/img/photos/Web Banner-min.jpg')}}
-" alt="RapidBrains Home" /></figure>
-</section>-->
-<section class="wrapper overflow-hidden image-wrapper bg-image bg-cover bg-overlay bg-overlay-light-500" data-image-src="{{asset('assets/img/common/pastel-combo-2.webp')}}" style="background-image: url({{asset('assets/img/common/pastel-combo-2.webp')}});padding-bottom: 90px" >
-      <div class="container pt-19 pt-md-21 text-center position-relative">
-        <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
-        <div class="row position-relative">
-          <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
-            <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/pie.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/scribble.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div data-cues="slideInDown" data-group="page-title">
-              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">A talent marketplace to hire best remote<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Designers.</span></h1>
-              <p class="lead fs-24 mb-8">Hire the best talent in every technology. Take a look at our rates.</p>
-            </div>
-            <div class="d-flex justify-content-center" data-cues="slideInDown" data-delay="600">
-              <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>
-              <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
-            </div>
-            <!-- /div -->
-          </div>
-          <!-- /column -->
-        </div>
-      <!-- /.container -->
-      </div>
-      <!-- /.container -->
-    
-      <!-- /.container -->
-    </section>
-<!-- /section -->
-
-
-<section class="wrapper bg-light ccs">
-
-  <div class="container py-14 py-md-16 psb">
-  <div class="row mt-11">
-			<div class="col-lg-6 col-xl-5 mx-auto text-center">
-				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
-				<p class="lead mb-5 px-md-16 px-lg-33">We served 1200+ companies from 80+ countries in 14 years</p>
-		
-			</div>
-			<!-- /column -->
-		</div>
-    <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-autoplay-timeout="3000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
-      <div class="swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/1.webp')}}" alt="1"  loading="lazy"/></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/2.png')}}" alt="2" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/3.png')}}" alt="3" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/4.webp')}}" alt="4" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/5.webp')}}" alt="5" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/6.webp')}}" alt="6" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/7.png')}}" alt="7" loading="lazy" /></div>
-          <div class="swiper-slide px-5"><img src="{{asset('assets/img/clients/8.webp')}}" alt="8" loading="lazy" /></div>
-       
-        </div>
-        <!--/.swiper-wrapper -->
-      </div>
-      <!-- /.swiper -->
-    </div>
-    <!-- /.swiper-container -->
-  </div>
-  <!-- /.container -->
-</section>
-
-<section class="wrapper bg-light" style="margin-top:-4rem;" >
-  <div class="container py-14 py-md-16">
-    <div class="row">
-      <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <h3 class="display-4 mb-9">The future of work is remote</h3>
-      </div>
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-    <div class="row gx-md-8 gy-8">
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-yellow pe-none mb-5"> <i class="uil uil-wallet"></i> </div>
-        <h4>Reduce employee cost by 60%
-</h4>
-        <p class="mb-3">Hire pre-screened remote talents with strong technical and communication skills at unbeatable rates.</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-yellow">Learn More</a>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-red pe-none mb-5"> <i class="uil uil-building"></i> </div>
-        <h4>Expand without a legal entity</h4>
-        <p class="mb-3">We make sure that everything is in compliance with local labour law and act as a layer of legal insulation.</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-red">Learn More</a>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5"> <i class="uil uil-globe"></i> </div>
-        <h4>Build worldwide team rapidly</h4>
-        <p class="mb-3">RapidBrains onboards your new team in as little as 24 hours, and saves you 100% on hiring costs</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-leaf">Learn More</a>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3">
-        <div class="icon btn btn-block btn-lg btn-soft-blue pe-none mb-5"> <i class="uil uil-book-open"></i> </div>
-        <h4>Up-skilling and training process</h4>
-        <p class="mb-3">We upskill and train the employees from time-to-time to help them with a staged career progression</p>
-        <a href="https://www.rapidbrains.com/benefits" class="more hover link-blue">Learn More</a>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-
-    <!--Hero Image Ends-->
-    
-    <!--What makes us different Starts-->
-
-             
-             <section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-md-8 gy-10 align-items-center">
-      <div class="col-lg-6 offset-lg-1 order-lg-2 position-relative">
-        <figure class="rounded"><img class="img-fluid"   width="640" height="360" src="{{asset('assets/img/photos/about27@2x.webp')}}" srcset="{{asset('assets/img/photos/about27@2x.webp')}} 2x" alt="about27" loading="lazy"/></figure>
-        <div class="card shadow-lg position-absolute d-none d-md-block" style="top: 15%; left: -7%">
-          <div class="card-body py-4 px-5">
-            <div class="d-flex flex-row align-items-center">
-              <div>
-                <img src="{{asset('assets/img/icons/solid/alarm.svg')}}" class="svg-inject icon-svg icon-svg-xs solid-mono text-primary me-3" alt="alarm" />
-              </div>
-              <div>
-                  
-                <h3 class="fs-25 counter mb-0 text-nowrap">24 hours</h3>
-                <p class="fs-16 lh-sm mb-0 text-nowrap">To build team</p>
-              </div>
-            </div>
-          </div>
-          <!--/.card-body -->
-        </div>
-        <!--/.card -->
-        <div class="card shadow-lg position-absolute text-center d-none d-md-block" style="bottom: 10%; left: -10%;">
-          <div class="card-body p-6">
-            <div class="progressbar semi-circle orange mb-3" data-value="80"></div>
-            <h4 class="mb-0">Time Saving</h4>
-          </div>
-          <!--/.card-body -->
-        </div>
-        <!--/.card -->
-      </div>
-      <!--/column -->
-      <div class="col-lg-5">
-        <h3 class="display-4 mb-4 me-lg-n5">A talent marketplace to build remote teams, rapidly!</h3>
-        <p class="mb-6"> Companies can hire pre-screened remote talents worldwide, scale up or scale down in a matter of days with flexible engagements from hourly to full-time employment.</p>
-        <p class="mb-6">With a massive pool of top talents to choose from, you can find the perfect candidate for your team. RapidBrains offers an easy-to-use platform to view profiles, shortlist, hire, and communicate with candidates in one place. A simplest way to find and hire the best remote talent around the world thereby making remote hiring easy and economical for both companies and talents.</p>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-
-
-
-             
-             <!--             What makes us different Ends-->
-             <!--Steps Starts-->
-             
-<!-- /section -->
-             
-             <!--Steps Ends-->
-                      <!--pricing starts-->
-             <section class="wrapper bg-light">
-	<div class="container py-14 py-md-16">
-		<div class="row text-center">
-			<div class="col-xl-10 mx-auto">
-				<!--<h2 class="fs-15 text-uppercase text-primary mb-3">Job Positions</h2>-->
-				<h3 class="display-4 mb-10 px-xxl-15">Hire the best talent in every technology. Take a look at our talent pool</h3>
-			</div>
-			<!-- /column -->
-		</div>
-		<!-- /.row -->
-		<div class="row gy-6">
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=developer" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-red text-white w-11 h-11 fs-20 me-4">SE</span>
-						</div>
-						<div>
-							<h4 class="mb-1">Software Engineers</h4>
-						    <p class="mb-0 text-body">Java, Node.js, React.js, Vue.js </p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1000/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=android" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-green text-white w-11 h-11 fs-20 me-4">MD</span>
-						</div>
-						<div>
-						<h4 class="mb-1">Mobile Developer</h4>
-						    <p class="mb-0 text-body">Kotlin, Flutter, Swift </p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>	
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=aws" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-yellow text-white w-11 h-11 fs-20 me-4">CE</span>
-						</div>
-						<div>
-						<h4 class="mb-1">Cloud Engineers</h4>
-						    <p class="mb-0 text-body">Linux, AWS, GCP, Azure </p>
-							<span class="badge bg-pale-violet text-violet rounded py-1 mb-2">Starting from $1000/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=devops" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-purple text-white w-11 h-11 fs-20 me-4">DE</span>
-						</div>
-						<div>
-							
-							<h4 class="mb-1">DevOps Engineers</h4>
-						    <p class="mb-0 text-body">Terraform, Ansible, Kubernetes</p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $1200/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?skill=html" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-orange text-white w-11 h-11 fs-20 me-4">WD</span>
-						</div>
-						<div>
-							
-							<h4 class="mb-1">Web Developers</h4>
-						    <p class="mb-0 text-body">Wordpress, Magento, HTML, Php</p>
-							<span class="badge bg-pale-aqua text-aqua rounded py-1 mb-2">Starting from $1000/month</span>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-			<div class="col-md-6 col-lg-4">
-				<a href="https://talents.rapidbrains.com/filter?talent_id=qa" class="card shadow-lg lift h-100">
-					<div class="card-body p-5 d-flex flex-row">
-						<div>
-							<span class="avatar bg-pink text-white w-11 h-11 fs-20 me-4">TE</span>
-						</div>
-						<div>
-						    
-							<h4 class="mb-1">Test Engineers</h4>
-						    <p class="mb-0 text-body">Selenium, BrowserStack, Testrail</p>
-							<span class="badge bg-pale-blue text-blue rounded py-1 mb-2">Starting from $900/month</span>
-							
-						</div>
-					</div>
-				</a>
-			</div>
-			<!--/column -->
-		</div>
-		<!--/.row -->
-		<div class="row mt-11">
-			<div class="col-lg-6 col-xl-5 mx-auto text-center">
-				<h2 class="display-6 mb-3">Still not able to find the right talent?</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Make a request. Our hiring team got you covered.</p>
-				<a id="getintouch" class="btn btn-primary rounded-pill">Get in Touch</a>
-			</div>
-			<!-- /column -->
-		</div>
-		<!-- /.row -->
-	</div>
-	<!-- /.container -->
-</section>
-<!-- /section -->
-<!--pricing ends-->
-
-
-<!--Join Us Starts-->
-                        
-<section class="wrapper bg-soft-yellow">
-  <div class="container py-5 py-md-14">
-    <div class="row gx-lg-0 gy-10 align-items-center">
-        <!--/column -->
-      <div class="col-lg-5">
-        <h2 class="display-4 mb-3">Join Our Community</h2>
-        <p class="lead fs-lg">Join us and get access to the best brains in the world</p>
-            <p class="mb-0">Our mission is to make companies more profitable by reducing the employee cost through remote talents around the world and a vision to create opportunity for everyone by connecting the right talents to the right organisations</p>
-            </div>
-      <!--/column -->
-      <div class="col-lg-6 order-lg-2 offset-lg-1 grid">
-        <div class="row gx-md-5 gy-5 align-items-center counter-wrapper isotope">
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                    
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-purple pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-presentation-check"></i> </div>
-                  </div>
-                  
-                  <div>
-                    <h3 class="counter mb-1">100k+</h3>
-                    <p class="mb-0">Total Talents</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-red pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-users-alt"></i> </div>
-                  </div>
-                  <div>
-                    <h3 class="counter mb-1">85+ </h3>
-                    <p class="mb-0">Countries Served</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-yellow pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-user-check"></i> </div>
-                  </div>
-                  <div>
-                    <h3 class="counter mb-1">1.2k+</h3>
-                    <p class="mb-0">Happy Customers</p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="item col-md-6">
-            <div class="card shadow-lg">
-              <div class="card-body">
-                <div class="d-flex d-lg-block d-xl-flex flex-row">
-                  <div>
-                    <div class="icon btn btn-circle btn-lg btn-soft-aqua pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-trophy"></i> </div>
-                  </div>
-                  <div>
-                    <h3 class="counter mb-1">14+</h3>
-                    <p class="mb-0">Years in Industry </p>
-                  </div>
-                </div>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
- <!--/section -->
- 
- <!--         Join our community Ends   -->
-             
-             <!--Screening Process Starts-->
-
-             <section class="wrapper bg-light">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-        <!--/column -->
-      <div class="col-lg-5">
-        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
-        <h3 class="display-4 mb-5">RapidBrains Screening Process</h3>
-        <p>With RapidBrains you can hire employee without having to set up a local entity. We do hiring, onboarding, HR activities and comply with the local labour law for minimum wage, tax, health insurance, termination and so on.</p>
-            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">More Details</a>
-      </div>
-      <!--/column -->
-      <div class="col-lg-7 order-lg-2">
-          <div class="row gx-md-5 gy-5">
-          <div class="col-md-5 offset-md-1 align-self-end">
-            <div class="card bg-pale-yellow">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/telephone-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
-                <h4>Attitude Check</h4>
-                <p class="mb-0">Communication and attitude are key when screening candidates. We make sure that they will be a good fit for your company.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 align-self-end">
-            <div class="card bg-pale-red">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/shield.svg')}}" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
-                <h4>Skill-set Review</h4>
-                <p class="mb-0">Checking the talent's skill set is atmost important. RapidBrains setup screening tests for each technology to ensure candidate's experience.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-5">
-            <div class="card bg-pale-leaf">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/cloud-computing-3.svg')}}" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
-                <h4>Experience Screening</h4>
-                <p class="mb-0">RapidBrains do a thorough check on the experience of the employees with rigorous interviews and tests.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-          <div class="col-md-6 align-self-start">
-            <div class="card bg-pale-primary">
-              <div class="card-body">
-                <img src="{{asset('assets/img/icons/lineal/analytics.svg')}}" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
-                <h4>Background Verification</h4>
-                <p class="mb-0">A thorough verification of the background of the employees is done to ensure that they are who they say they are.</p>
-              </div>
-              <!--/.card-body -->
-            </div>
-            <!--/.card -->
-          </div>
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-      
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-             
-             <!--Screening process ends-->
-             <!--Why comapnies love RB Starts-->
-             <section class="wrapper bg-soft-orange" style="background-color:#FEFEFE !important;">
-  <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">How We Do It?</h2>
-    <p class="lead fs-lg mb-8">It’s just four steps to build your amazing remote team</p>
-    <div class="row gx-lg-8 gx-xl-12 gy-6 process-wrapper line">
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">01</span></span>
-        <h4 class="mb-1">Shortlist</h4>
-        <p class="mb-0">A pool of 1000+ candidates for you to choose from. Still not able to find the right one? Our hiring team got you covered.
-</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-primary pe-none mb-4"><span class="number">02</span></span>
-        <h4 class="mb-1">Schedule</h4>
-        <p class="mb-0">You can set your own process. If you don’t have one, we screen them with subject matter experts and get you feedback on every candidate.</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">03</span></span>
-        <h4 class="mb-1">Hire</h4>
-        <p class="mb-0">As simple as one click. No need to worry about employment paperworks or local labour laws. RapidBrains does it all!</p>
-      </div>
-      <!--/column -->
-      <div class="col-md-6 col-lg-3"> <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none mb-4"><span class="number">04</span></span>
-        <h4 class="mb-1">Onboard</h4>
-        <p class="mb-0">Once you’ve picked your choice - voila! You can start with a meeting to kick it off or start assigning tasks.</p>
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-                         
-                        
-
-<section class="wrapper bg-soft-orange">
-  <div class="container py-10 py-md-16">
-    <div class="row gx-md-10 gx-xl-12 gy-10">
-        <h2 class="display-3 mb-10 text-center">Why do companies love RapidBrains?</h2>
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card card-border-start border-red">
-                <div class="card-body">
-                    <h4>Cost-effective</h4>
-                    <p class="mb-0">With RapidBrains you can hire pre-screened remote talents with strong technical and communication 
-                        skills at unbeatable rates when compared to our competitors</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card  card-border-end border-yellow">
-                <div class="card-body">
-                    <h4>No employer costs</h4>
-                    <p class="mb-0">RapidBrains take care of all employer costs including government requirements, 
-                        benefits, taxes, fees healthcare insurance and even expense management and monthly reimbursement</p>
-                </div>
-            </div>
+<section class="wrapper image-wrapper bg-image  text-white" data-image-src="{{asset('assets/img/photos/RapidBrains-BG.jpg')}}">
+      <div class="container pt-17 pb-20 pt-md-19 pb-md-21 text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h1 class="display-1 mb-3">Apply Now</h1>
             
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card shadow-lg card-border-end border-green">
-                <div class="card-body">
-                    <h4>Flexible Engagements</h4>
-                    <p class="mb-0">Choose an engagement model that best fits your business. 
-                        Take up an employee for either an hourly or monthly basis. Totally up to you!</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card  card-border-start border-purple">
-                <div class="card-body">
-                    <h4>No lock-in period</h4>
-                    <p class="mb-0">There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card  card-border-start border-orange">
-                <div class="card-body">
-                    <h4>Custom Hiring Process</h4>
-                    <p class="mb-0">Our recruiting team can adapt to any of your processes - be it a machine test, 
-                        multiple rounds of interviews, our candidates will show their best.
-
-                    </p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-      <!-- /column -->
-      <div class="col-lg-6">
-        <div class="d-flex flex-row">
-            <div class="card shadow-lg  card-border-end border-pink">
-                <div class="card-body">
-                    <h4>Upskilling and training</h4>
-                    <p class="mb-0">We upskill and train your employees from time-to-time to help them with a staged career progression. 
-                        Or if you want to train an employee for a specific skillset we got you covered.</p>
-                </div>
-            </div>
-        </div>
-      </div>
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-  </div>
-  <!-- /.container -->
-  
-</section>
-<!-- /section -->
-             
-             <!--Why comapnies love RB Ends-->
-             
-    
-			 <!--Hiring Starts-->
-            <section class="wrapper">
-  <div class="container py-14 py-md-16">
-    <h2 class="display-4 mb-3">RapidBrains Vs Traditional Hiring</h2>
-    <p class="lead fs-lg">We do more to deliver you the suitable remote talents that satisfy and fit into the right skill set you are looking for. </p>
-    <div class="row">
-
-      <!--/column -->
-    </div>
-    <!--/.row -->
-    <div class="table-responsive">
-      <table class="table table-borderless table-striped text-center">
-        <thead>
-          <tr>
-            <th class="w-25"></th>
-            <th>
-              <div class="h4 mb-1">RapidBrains</div>
-              <!--<div class="fs-15 fw-normal text-secondary">$9 / Monthly</div>-->
-            </th>
-            <th>
-              <div class="h4 mb-1">Traditional Hiring</div>
-            </th>
-            
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="option text-start">Time to hire talent</td>
-            <td>Immediate</td>
-            <td>3 to 7 days</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Recruitment cost</td>
-            <td>Zero</td>
-            <td>Recruiter's Salary</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Pre-screened talents</td>
-            <td>Yes</td>
-            <td>No</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Quality Assurance / Replacement</td>
-            <td>Yes</td>
-            <td>No</td>
-          <tr>
-            <td class="option text-start">Background Verification</td>
-            <td>Yes</td>
-            <td>No</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Notice Period</td>
-            <td>Immediate</td>
-            <td>30 to 60 days</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Statutory Compliance in HR, Payroll and Tax</td>
-            <td>Zero</td>
-            <td>Your Team</td>
-            
-          </tr>
-          <tr>
-            <td class="option text-start">Termination cost</td>
-            <td>Zero</td>
-            <td>Very High</td>
-            
-          </tr>
-          
-        </tbody>
-        
-      </table>
-    </div>
-    <!-- /.table-responsive -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
-            
-
-            <!--Hiring Ends-->
-            
-    
-
-           <!--Save your time starts  -->
-           <!-- /section -->
-   @include('services.logo') 
-             
-    <section class="wrapper bg-gray">
-      <div class="container py-15 py-md-17 pb-md-19">
-        <div class="row align-items-center gy-8 mb-13">
-          <div class="col-lg-7 text-center text-lg-start">
-            <h3 class="display-3 mb-0 pe-xl-10 pe-xxl-15">Why remote working is preferred by the international hires?</h3>
-          </div>
-          <!-- /column -->
-          <div class="col-lg-5">
-            <div class="row gy-6 text-center">
-              <div class="col-md-6">
-                <div class="progressbar semi-circle fuchsia" data-value="60"></div>
-                <h4 class="mb-0">Cost savings</h4>
-              </div>
-              <!-- /column -->
-              <div class="col-md-6">
-                <div class="progressbar semi-circle orange" data-value="95"></div>
-                <h4 class="mb-0">Retention Rate</h4>
-              </div>
-              <!-- /column -->
-            </div>
-            <!-- /.row -->
+            <!-- /nav -->
           </div>
           <!-- /column -->
         </div>
@@ -785,38 +15,285 @@
       <!-- /.container -->
     </section>
     <!-- /section -->
-    <!--Save your time ends-->
-     
     <section class="wrapper bg-light">
-    
-  <div class="container py-20 py-md-20" style= "adding-top: 10rem !important;
-    padding-bottom: 1rem !important;">
+      <div class="container pb-14 pb-md-16">
+        <div class="row">
+          <div class="col-lg-7 col-xl-6 col-xxl-9 mx-auto mt-n20">
+            <div class="card shadow-lg">
+              <div class="card-body p-11 text-center">
+                <h2 class="mb-3 text-center">Get selected to the best companies in the world</h2>
+                <p class="lead mb-6 text-center">Application takes less than a minute.</p>
+                <form class="joinForm needs-validation text-start mb-3" id="enqform" enctype="multipart/form-data" method="post" novalidate>
+                  @csrf
+                
       
-    
-     <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" id="lazy" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}">
-        <div class="card-body">
-          <div class="row text-center">
-            <div class="col-xl-11 col-xxl-9 mx-auto">
-              <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
-              <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
 
+
+
+
+                <div class="messages"></div>
+                    <div style="display:none;" class="alert alert-success alert-dismissible fade show" id="success-msg"><button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>We have received your application. Stay tuned, we’ll get back to you very soon.
+                    </div>
+                    <div style="display:none;" class="alert alert-danger alert-dismissible fade show" id="danger-msg"><button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>Something went wrong!.
+                    </div>
+                    <div class="row gx-4">
+                      <div class="col-md-12">
+                        <div class="form-floating mb-4">
+                          <input id="tags" type="text" class="form-control">
+                          <label for="tags" class="form-label">Desired areas of expertise (e.g., JavaScript, Python, etc.) </label>
+
+                        </div>
+                      </div>
+                      <!-- /column -->
+          
+<div>
+           <span class="frcyxW "  id="data-remote-1" onclick="areaExp(1,event)"><span id="add-re-1">+</span><span id="remove-re-1" class="scsk">-</span>&nbsp;
+           Angular  </span>
+           <span class="frcyxW"  id="data-remote-2"  onclick="areaExp(2,event)"><span id="add-re-2">+</span><span id="remove-re-2"  class="scsk">-</span>&nbsp;
+           Android  </span>
+           <span class="frcyxW"  id="data-remote-3"  onclick="areaExp(3,event)"><span id="add-re-3">+</span><span id="remove-re-3"  class="scsk">-</span>&nbsp;
+           ASP.NET </span>
+           <span class="frcyxW"  id="data-remote-4"  onclick="areaExp(4,event)"><span id="add-re-4">+</span><span id="remove-re-4"  class="scsk">-</span>&nbsp; 
+           AWS </span>
+           <span class="frcyxW"  id="data-remote-5"  onclick="areaExp(5,event)" ><span id="add-re-5">+</span><span id="remove-re-5"  class="scsk">-</span>&nbsp; 
+           Blockchain </span>
+           <span class="frcyxW"   id="data-remote-6"  onclick="areaExp(6,event)"><span id="add-re-6">+</span><span id="remove-re-6"  class="scsk">-</span>&nbsp;
+           C Sharp </span>
+           <span class="frcyxW"   id="data-remote-7"  onclick="areaExp(7,event)"><span id="add-re-7">+</span><span id="remove-re-7"  class="scsk">-</span>&nbsp; 
+           DevOps </span>
+           <span class="frcyxW"   id="data-remote-8"  onclick="areaExp(8,event)"><span id="add-re-8">+</span><span id="remove-re-8"  class="scsk">-</span>&nbsp;
+           Flutter </span>
+           <span class="frcyxW"   id="data-remote-9"  onclick="areaExp(9,event)"><span id="add-re-9">+</span><span id="remove-re-9"  class="scsk">-</span>&nbsp;
+           Golang </span>
+           <span class="frcyxW"   id="data-remote-10"  onclick="areaExp(10,event)" ><span id="add-re-10">+</span><span id="remove-re-10"  class="scsk">-</span>&nbsp; 
+           Ionic </span>
+          
+        
+           <span class="frcyxW"  id="data-remote-11"  onclick="areaExp(11,event)"><span id="add-re-11">+</span><span id="remove-re-11"  class="scsk">-</span>&nbsp;
+           Java </span>
+           <span class="frcyxW"  id="data-remote-12"  onclick="areaExp(12,event)"><span id="add-re-12">+</span><span id="remove-re-12"  class="scsk">-</span>&nbsp; 
+           MERN </span>
+           <span class="frcyxW"  id="data-remote-13"  onclick="areaExp(13,event)"><span id="add-re-13">+</span><span id="remove-re-13"  class="scsk">-</span>&nbsp;
+           PHP </span>
+           <span class="frcyxW"  id="data-remote-14"  onclick="areaExp(14,event)"><span id="add-re-14">+</span><span id="remove-re-14"  class="scsk">-</span>&nbsp;
+           Python </span>
+           <span class="frcyxW"  id="data-remote-15"  onclick="areaExp(15,event)"><span id="add-re-15">+</span><span id="remove-re-15"  class="scsk">-</span>&nbsp;
+           MEAN </span>
+           <span class="frcyxW" id="data-remote-16"  onclick="areaExp(16,event)"><span id="add-re-16">+</span><span id="remove-re-16"  class="scsk">-</span>&nbsp;
+           React </span>
+           <span class="frcyxW" id="data-remote-17"  onclick="areaExp(17,event)"><span id="add-re-17">+</span><span id="remove-re-17"  class="scsk">-</span>&nbsp;
+           Ruby on Rails </span>
+           <span class="frcyxW" id="data-remote-18"  onclick="areaExp(18,event)"><span id="add-re-18">+</span><span id="remove-re-18"  class="scsk">-</span>&nbsp;
+           Machine Learning </span>
+           <span class="frcyxW" id="data-remote-19"  onclick="areaExp(19,event)"><span id="add-re-19">+</span><span id="remove-re-19"  class="scsk">-</span>&nbsp; 
+           Salesforce </span>
+           <span class="frcyxW" id="data-remote-20"  onclick="areaExp(20,event)"><span id="add-re-20">+</span><span id="remove-re-20"  class="scsk">-</span>&nbsp; 
+           SAP </span>
+            <span class="frcyxW"  id="data-remote-21"  onclick="areaExp(21,event)"><span id="add-re-21">+</span><span id="remove-re-21"  class="scsk">-</span>&nbsp;
+            Drupal </span>
+           <span class="frcyxW"  id="data-remote-22"  onclick="areaExp(22,event)"><span id="add-re-22">+</span><span id="remove-re-22"  class="scsk">-</span>&nbsp; 
+           Django </span>
+           <span class="frcyxW"  id="data-remote-23"  onclick="areaExp(23,event)"><span id="add-re-23">+</span><span id="remove-re-23"  class="scsk">-</span> &nbsp;
+           React Node </span>
+           <span class="frcyxW"  id="data-remote-24"  onclick="areaExp(24,event)"><span id="add-re-24">+</span><span id="remove-re-24"  class="scsk">-</span>&nbsp;
+           Backend </span>
+           <span class="frcyxW"  id="data-remote-25"  onclick="areaExp(25,event)"><span id="add-re-25">+</span><span id="remove-re-25"  class="scsk">-</span>&nbsp;
+           Frontend </span>
+           <span class="frcyxW" id="data-remote-26"  onclick="areaExp(26,event)"><span id="add-re-26">+</span><span id="remove-re-26"  class="scsk">-</span>&nbsp;
+           Postgresql </span>
+           <span class="frcyxW" id="data-remote-27"  onclick="areaExp(27,event)"><span id="add-re-27">+</span><span id="remove-re-27"  class="scsk">-</span>&nbsp;
+           Fullstack </span>
+           <span class="frcyxW" id="data-remote-28"  onclick="areaExp(28,event)"><span id="add-re-28">+</span><span id="remove-re-28"  class="scsk">-</span>&nbsp;
+           JavaScript </span>
+           <span class="frcyxW" id="data-remote-29"  onclick="areaExp(29,event)"><span id="add-re-29">+</span><span id="remove-re-29"  class="scsk">-</span>&nbsp; 
+           Node </span>
+           <span class="frcyxW" id="data-remote-30"  onclick="areaExp(30,event)"><span id="add-re-30">+</span><span id="remove-re-30"  class="scsk">-</span>&nbsp; 
+           React Native </span>
+            <span class="frcyxW"  id="data-remote-31"  onclick="areaExp(31,event)"><span id="add-re-31">+</span><span id="remove-re-31"  class="scsk">-</span> &nbsp;
+            Shopify </span>
+          
+           <span class="frcyxW"  id="data-remote-32"  onclick="areaExp(32,event)"><span id="add-re-32">+</span><span id="remove-re-32"  class="scsk">-</span>&nbsp; 
+           Wordpress </span>
+           <span class="frcyxW"  id="data-remote-33"  onclick="areaExp(33,event)"><span id="add-re-33">+</span><span id="remove-re-33"  class="scsk">-</span>&nbsp;
+           Kotlin </span>
+           <span class="frcyxW"  id="data-remote-34"  onclick="areaExp(34,event)"><span id="add-re-34">+</span><span id="remove-re-34"  class="scsk">-</span>&nbsp;
+           Xamarin </span>
+           <span class="frcyxW"  id="data-remote-35"  onclick="areaExp(35,event)"><span id="add-re-35">+</span><span id="remove-re-35"  class="scsk">-</span>&nbsp;
+           IOS </span>
+           <span class="frcyxW" id="data-remote-36"  onclick="areaExp(36,event)"><span id="add-re-36">+</span><span id="remove-re-36"  class="scsk">-</span>&nbsp;
+           Magento </span>
+           <span class="frcyxW" id="data-remote-37"  onclick="areaExp(37,event)"><span id="add-re-37">+</span><span id="remove-re-37"  class="scsk">-</span>&nbsp;
+           UI/UX </span>
+           <span class="frcyxW" id="data-remote-38"  onclick="areaExp(38,event)"><span id="add-re-38">+</span><span id="remove-re-38"  class="scsk">-</span>&nbsp;
+           SEO </span>
+           <span class="frcyxW" id="data-remote-39"  onclick="areaExp(39,event)"><span id="add-re-39">+</span><span id="remove-re-39"  class="scsk">-</span>&nbsp; 
+           Laravel </span>
+           <span class="frcyxW" id="data-remote-40"  onclick="areaExp(40,event)"><span id="add-re-40">+</span><span id="remove-re-40"  class="scsk">-</span>&nbsp; 
+           Jira </span>
+            <span class="frcyxW" id="data-remote-41"  onclick="areaExp(41,event)"><span id="add-re-41">+</span><span id="remove-re-41"  class="scsk">-</span>&nbsp; 
+            Ansible </span>
+            <span id="dots"></span>
+
+<span id="more">
+
+            <span class="frcyxW"  id="data-remote-42"  onclick="areaExp(42,event)"><span id="add-re-42">+</span><span id="remove-re-42"  class="scsk">-</span>&nbsp;
+            Apache kafka </span>
+           <span class="frcyxW"  id="data-remote-43"  onclick="areaExp(43,event)"><span id="add-re-43">+</span><span id="remove-re-43"  class="scsk">-</span>&nbsp; 
+           Azure </span>
+           <span class="frcyxW"  id="data-remote-44"  onclick="areaExp(44,event)"><span id="add-re-44">+</span><span id="remove-re-44"  class="scsk">-</span> &nbsp;
+           Bitbucket </span>
+           <span class="frcyxW"  id="data-remote-45"  onclick="areaExp(45,event)"><span id="add-re-45">+</span><span id="remove-re-45"  class="scsk">-</span>&nbsp;
+           Apache Spark </span>
+           <span class="frcyxW"  id="data-remote-46"  onclick="areaExp(46,event)"><span id="add-re-46">+</span><span id="remove-re-46"  class="scsk">-</span>&nbsp;
+           Bootstrap </span>
+           <span class="frcyxW" id="data-remote-47"  onclick="areaExp(47,event)"><span id="add-re-47">+</span><span id="remove-re-47"  class="scsk">-</span>&nbsp;
+           C++ </span>
+           <span class="frcyxW" id="data-remote-48"  onclick="areaExp(48,event)"><span id="add-re-48">+</span><span id="remove-re-48"  class="scsk">-</span>&nbsp;
+           BrowserStack </span>
+           <span class="frcyxW" id="data-remote-49"  onclick="areaExp(49,event)"><span id="add-re-49">+</span><span id="remove-re-49"  class="scsk">-</span>&nbsp;
+           Confluence </span>
+           <span class="frcyxW" id="data-remote-50"  onclick="areaExp(50,event)"><span id="add-re-50">+</span><span id="remove-re-50"  class="scsk">-</span>&nbsp; 
+           Docker </span>
+           <span class="frcyxW" id="data-remote-51"  onclick="areaExp(51,event)"><span id="add-re-51">+</span><span id="remove-re-51"  class="scsk">-</span>&nbsp; 
+           ElasticSearch </span>
+            <span class="frcyxW"  id="data-remote-52"  onclick="areaExp(52,event)"><span id="add-re-52">+</span><span id="remove-re-52"  class="scsk">-</span> &nbsp;
+            Express JS </span>
+           <span class="frcyxW"  id="data-remote-53"  onclick="areaExp(53,event)"><span id="add-re-53">+</span><span id="remove-re-53"  class="scsk">-</span>&nbsp; 
+           Firebase </span>
+           <span class="frcyxW"  id="data-remote-54"  onclick="areaExp(54,event)"><span id="add-re-54">+</span><span id="remove-re-54"  class="scsk">-</span>&nbsp;
+           Flask </span>
+           <span class="frcyxW"  id="data-remote-55"  onclick="areaExp(55,event)"><span id="add-re-55">+</span><span id="remove-re-55"  class="scsk">-</span>&nbsp;
+           Git </span>
+           <span class="frcyxW"  id="data-remote-56"  onclick="areaExp(56,event)"><span id="add-re-56">+</span><span id="remove-re-56"  class="scsk">-</span>&nbsp;
+           Kubernetes </span>
+           <span class="frcyxW" id="data-remote-57"  onclick="areaExp(57,event)"><span id="add-re-57">+</span><span id="remove-re-57"  class="scsk">-</span>&nbsp;
+           GitHub </span>
+           <span class="frcyxW" id="data-remote-58"  onclick="areaExp(58,event)"><span id="add-re-58">+</span><span id="remove-re-58"  class="scsk">-</span>&nbsp;
+           Grape JS </span>
+           <span class="frcyxW" id="data-remote-59"  onclick="areaExp(59,event)"><span id="add-re-59">+</span><span id="remove-re-59"  class="scsk">-</span>&nbsp;
+           Jenkins </span>
+           <span class="frcyxW" id="data-remote-60"  onclick="areaExp(60,event)"><span id="add-re-60">+</span><span id="remove-re-60"  class="scsk">-</span>&nbsp; 
+           Joomla </span>
+           <span class="frcyxW" id="data-remote-61"  onclick="areaExp(61,event)"><span id="add-re-61">+</span><span id="remove-re-61"  class="scsk">-</span>&nbsp; 
+           AEM </span>
+            <span class="frcyxW" id="data-remote-62"  onclick="areaExp(62,event)"><span id="add-re-62">+</span><span id="remove-re-62"  class="scsk">-</span>&nbsp; 
+            GitLab </span>
+          
+           <span class="frcyxW"  id="data-remote-63"  onclick="areaExp(63,event)"><span id="add-re-63">+</span><span id="remove-re-63"  class="scsk">-</span>&nbsp; 
+           Grafana </span>
+           <span class="frcyxW"  id="data-remote-64"  onclick="areaExp(64,event)"><span id="add-re-64">+</span><span id="remove-re-64"  class="scsk">-</span> &nbsp;
+           HTML CSS </span>
+           <span class="frcyxW"  id="data-remote-65"  onclick="areaExp(65,event)"><span id="add-re-65">+</span><span id="remove-re-65"  class="scsk">-</span>&nbsp;
+           Keras </span>
+           <span class="frcyxW"  id="data-remote-66"  onclick="areaExp(66,event)"><span id="add-re-66">+</span><span id="remove-re-66"  class="scsk">-</span>&nbsp;
+           Kibana </span>
+           <span class="frcyxW" id="data-remote-67"  onclick="areaExp(67,event)"><span id="add-re-67">+</span><span id="remove-re-67"  class="scsk">-</span>&nbsp;
+           Logstash </span>
+           <span class="frcyxW" id="data-remote-68"  onclick="areaExp(68,event)"><span id="add-re-68">+</span><span id="remove-re-68"  class="scsk">-</span>&nbsp;
+           Material UI </span>
+           <span class="frcyxW" id="data-remote-69"  onclick="areaExp(69,event)"><span id="add-re-69">+</span><span id="remove-re-69"  class="scsk">-</span>&nbsp;
+           Mendix </span>
+           <span class="frcyxW" id="data-remote-70"  onclick="areaExp(70,event)"><span id="add-re-70">+</span><span id="remove-re-70"  class="scsk">-</span>&nbsp; 
+           MicrosoftDynamics </span>
+           <span class="frcyxW" id="data-remote-71"  onclick="areaExp(71,event)"><span id="add-re-71">+</span><span id="remove-re-71"  class="scsk">-</span>&nbsp; 
+           MongoDB </span>
+            <span class="frcyxW"  id="data-remote-72"  onclick="areaExp(72,event)"><span id="add-re-72">+</span><span id="remove-re-72"  class="scsk">-</span> &nbsp;
+            Moodle </span>
+           <span class="frcyxW"  id="data-remote-73"  onclick="areaExp(73,event)"><span id="add-re-73">+</span><span id="remove-re-73"  class="scsk">-</span>&nbsp; 
+           MySQL </span>
+           <span class="frcyxW"  id="data-remote-74"  onclick="areaExp(74,event)"><span id="add-re-74">+</span><span id="remove-re-74"  class="scsk">-</span>&nbsp;
+            .NET Core </span>
+           <span class="frcyxW"  id="data-remote-75"  onclick="areaExp(75,event)"><span id="add-re-75">+</span><span id="remove-re-75"  class="scsk">-</span>&nbsp;
+           Next JS </span>
+           <span class="frcyxW"  id="data-remote-76"  onclick="areaExp(76,event)"><span id="add-re-76">+</span><span id="remove-re-76"  class="scsk">-</span>&nbsp;
+           NumPy </span>
+           <span class="frcyxW" id="data-remote-77"  onclick="areaExp(77,event)"><span id="add-re-77">+</span><span id="remove-re-77"  class="scsk">-</span>&nbsp;
+           Oracle </span>
+           <span class="frcyxW" id="data-remote-78"  onclick="areaExp(78,event)"><span id="add-re-78">+</span><span id="remove-re-78"  class="scsk">-</span>&nbsp;
+           Pandas </span>
+           <span class="frcyxW" id="data-remote-79"  onclick="areaExp(79,event)"><span id="add-re-79">+</span><span id="remove-re-79"  class="scsk">-</span>&nbsp;
+           Power BI </span>
+           <span class="frcyxW" id="data-remote-80"  onclick="areaExp(80,event)"><span id="add-re-80">+</span><span id="remove-re-80"  class="scsk">-</span>&nbsp; 
+           Prometheus </span>
+           <span class="frcyxW" id="data-remote-81"  onclick="areaExp(81,event)"><span id="add-re-81">+</span><span id="remove-re-81"  class="scsk">-</span>&nbsp; 
+           Puppet </span>
+           <span class="frcyxW" id="data-remote-82"  onclick="areaExp(82,event)"><span id="add-re-82">+</span><span id="remove-re-82"  class="scsk">-</span>&nbsp; 
+           PyTorch </span>
+           <span class="frcyxW" id="data-remote-83"  onclick="areaExp(83,event)"><span id="add-re-83">+</span><span id="remove-re-83"  class="scsk">-</span>&nbsp; 
+           RabbitMQ </span>
+           <span class="frcyxW" id="data-remote-84"  onclick="areaExp(84,event)"><span id="add-re-84">+</span><span id="remove-re-84"  class="scsk">-</span>&nbsp; 
+           Redis </span>
+           <span class="frcyxW" id="data-remote-85"  onclick="areaExp(85,event)"><span id="add-re-85">+</span><span id="remove-re-85"  class="scsk">-</span>&nbsp; 
+           Ruby </span>
+           <span class="frcyxW" id="data-remote-86"  onclick="areaExp(86,event)"><span id="add-re-86">+</span><span id="remove-re-86"  class="scsk">-</span>&nbsp; 
+           Rust </span>
+           <span class="frcyxW" id="data-remote-87"  onclick="areaExp(87,event)"><span id="add-re-87">+</span><span id="remove-re-87"  class="scsk">-</span>&nbsp; 
+           Scala </span>
+           <span class="frcyxW" id="data-remote-88"  onclick="areaExp(88,event)"><span id="add-re-88">+</span><span id="remove-re-88"  class="scsk">-</span>&nbsp; 
+           SenchaJs </span>
+           <span class="frcyxW" id="data-remote-89"  onclick="areaExp(89,event)"><span id="add-re-89">+</span><span id="remove-re-89"  class="scsk">-</span>&nbsp; 
+           Sharepoint </span>
+           <span class="frcyxW" id="data-remote-90"  onclick="areaExp(90,event)"><span id="add-re-90">+</span><span id="remove-re-90"  class="scsk">-</span>&nbsp; 
+           Slack </span>
+           <span class="frcyxW" id="data-remote-91"  onclick="areaExp(91,event)"><span id="add-re-91">+</span><span id="remove-re-91"  class="scsk">-</span>&nbsp; 
+           Solidity </span>
+           <span class="frcyxW" id="data-remote-92"  onclick="areaExp(92,event)"><span id="add-re-92">+</span><span id="remove-re-92"  class="scsk">-</span>&nbsp; 
+           Spring Boot </span>
+           <span class="frcyxW" id="data-remote-93"  onclick="areaExp(93,event)"><span id="add-re-93">+</span><span id="remove-re-93"  class="scsk">-</span>&nbsp; 
+           Swift </span>
+           <span class="frcyxW" id="data-remote-94"  onclick="areaExp(94,event)"><span id="add-re-94">+</span><span id="remove-re-94"  class="scsk">-</span>&nbsp; 
+           Tech Support </span>
+           <span class="frcyxW" id="data-remote-95"  onclick="areaExp(95,event)"><span id="add-re-95">+</span><span id="remove-re-95"  class="scsk">-</span>&nbsp; 
+           TensorFlow </span>
+           <span class="frcyxW" id="data-remote-96"  onclick="areaExp(96,event)"><span id="add-re-96">+</span><span id="remove-re-96"  class="scsk">-</span>&nbsp; 
+           Terraform </span>
+           <span class="frcyxW" id="data-remote-97"  onclick="areaExp(97,event)"><span id="add-re-97">+</span><span id="remove-re-97"  class="scsk">-</span>&nbsp; 
+           TestRail </span>
+           <span class="frcyxW" id="data-remote-98"  onclick="areaExp(98,event)"><span id="add-re-98">+</span><span id="remove-re-98"  class="scsk">-</span>&nbsp; 
+           TypeScript </span>
+           <span class="frcyxW" id="data-remote-99"  onclick="areaExp(99,event)"><span id="add-re-99">+</span><span id="remove-re-99"  class="scsk">-</span>&nbsp; 
+           Unity </span>
+           <span class="frcyxW" id="data-remote-100"  onclick="areaExp(100,event)"><span id="add-re-100">+</span><span id="remove-re-100"  class="scsk">-</span>&nbsp; 
+           Unreal Engine </span>
+           <span class="frcyxW" id="data-remote-101"  onclick="areaExp(101,event)"><span id="add-re-101">+</span><span id="remove-re-101"  class="scsk">-</span>&nbsp; 
+           Vue JS </span>
+        
+</span>            <a class="btn btn-primary btn-sm rounded-pill" onclick="myFunction()" id="myBtn">view more</a>
             </div>
-            <!--/column -->
+            <div class="pt-5">
+            <p class="lead mb-6 text-center">  or Please enter the skill set below</p>
+            </div>
+
+            <div class="col-md-12 pt-5">
+                        <div class="form-floating mb-4">
+                        <textarea  name="skill" id="skill" class="form-control" placeholder="Your message" style="height: 150px" ></textarea>
+                         <label for="email" class="form-label">Please enter the skill set </label>
+                        </div>
+                      </div>
+                      <!-- /column -->
+                      <div class="col-12 text-center pt-5">
+                        <input type="submit" id="join-us" class="btn btn-primary rounded-pill btn-login w-100 mb-2" value="Apply Now">
+                      </div>
+                      <!-- /column -->
+                    </div>
+                    <!-- /.row -->
+                  </form>
+
+                <!-- /form -->
+              
+                <!--/.social -->
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
           </div>
-          <!-- /.row -->
-          <div class="d-flex justify-content-center">
-            <span><a class="btn btn-white rounded" id="callbackreq">Request a call back</a></span>
-          </div>
+          <!-- /column -->
         </div>
-        <!--/.card-body -->
+        <!-- /.row -->
       </div>
-      <!--/.card -->
-             
-                        
-            
-             
+      <!-- /.container -->
+    </section>
+
+
     
-  </div>
-  </section>
- 
 @endsection
