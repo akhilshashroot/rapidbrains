@@ -15,10 +15,10 @@ class EnquiryController extends Controller
         $validator = Validator::make($request->all(), [
             'name' => 'required',
             'email' => 'nullable',
-         
+
         ]);
         if ($validator->fails()) {
-            return response()->json([ 
+            return response()->json([
                 'status'	=> 'notok',
                 'statuscode'    => '400',
                 'data' => $validator->errors(),
@@ -30,7 +30,7 @@ class EnquiryController extends Controller
       //  $maildata['subject'] 		=  'Stakefield Contact-us';
         $maildata['phone'] 		=  $request->phone;
         $maildata['skill']		=  $request->skill;
-           
+
         $maildata['type']		=  $request->enquirenow;
         if($request->enquirenow=='enquirenow'){
        $enq=new SeoEnquiry();
@@ -41,10 +41,30 @@ class EnquiryController extends Controller
        $enq->save();
         }
             Mail::send(new RapidBrainMail($maildata));
-            return response()->json([ 
+            return response()->json([
                 'status'	=> 'ok',
                 'statuscode'    => '402',
                 'message' => 'success',
             ]);
+    }
+    public function test_enquirystep1()
+    {
+        return view('test-enquirystep1');
+    }
+    public function test_enquirystep2()
+    {
+        return view('test-enquirystep2');
+    }
+    public function test_enquirystep3()
+    {
+        return view('test-enquirystep3');
+    }
+    public function test_enquirystep4()
+    {
+        return view('test-enquirystep4');
+    }
+    public function test_enquirystep5()
+    {
+        return view('test-enquirystep5');
     }
 }
