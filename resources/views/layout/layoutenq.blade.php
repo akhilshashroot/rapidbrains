@@ -31,6 +31,23 @@
     max-width: 1957px !important;
 }
     } */
+    
+
+    .selected-resources .resource {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background: #f2f2f2;
+    border-radius: 15px;
+    padding: 10px 15px;
+    align-items: center;
+}
+.role-name{
+  margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 600;
+
+}
     @media (min-width: 1400px){
 .col-xxl-9 {
     flex: 0 0 auto;
@@ -63,23 +80,13 @@ body{
     border: 0 !important;
     content: "\e92d" !important;
 }
-.frcyxW {
+.frcyxW1 {
     /* font-weight: 400; */
     /* font-size: 13px; */
     /* line-height: 123%; */
-    color: rgb(0, 0, 0);
-    background-color: transparent;
-    border: 1px solid rgb(159, 159, 159);
-    border-radius: 30px;
-    padding: 4px 12px;
-    min-height: 38px;
-    display: inline-flex;
-    -webkit-box-align: center;
-    align-items: center;
-    -webkit-box-pack: center;
-    justify-content: center;
-    cursor: pointer;
-    margin: 0px 8px 15px 0px;
+    background-color: #e5f4fd;
+    color: #5eb9f0;
+    border-color: transparent;
     
 
 }
@@ -94,9 +101,15 @@ font-weight: bold;
     padding-top:10px;
 }
 .dta-remote{
-    background-color: black;
-    color:white;
+  color: #fff;
+    background-color: #5eb9f0;
+    border-color: #5eb9f0;
     
+}
+.dta-remote:hover, .dta-remote:focus {
+    background-color: #5eb9f0;
+    color: #fff;
+    border-color: transparent;
 }
 @media (max-width: 720px){
 
@@ -110,7 +123,15 @@ width: 38%
     .frcyxW {
 width: 18%
 }
+.ml{
+margin-left: 50rem;
 }
+.ml1{
+  margin-left: 5rem;
+}
+}
+
+
 @media (min-width: 720px){
     .frcyxW {
 width: 15%
@@ -119,9 +140,19 @@ width: 15%
 .scsk{
     display:none;
 }
+.cpk{
+  margin-top: 59px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 #more {display: none;}
 #more1 {display: none;}
 #more2 {display: none;}
+#section2,#section3{display: none;}
+.border{
+  border-color:#5eb9f0 !important;
+ }
 </style>
 
 <body>
@@ -284,12 +315,12 @@ width: 15%
   <!--  </svg>-->
   <!--</div>-->
 
-
-  <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
   <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
   <script src="{{asset('assets/js/plugins.js')}}"></script>
   <script src="{{asset('assets/js/theme.js')}}"></script>
@@ -303,7 +334,9 @@ width: 15%
   </div>
 
  <script>
-    $("#enquirenowForm").validate({
+ window.localStorage.clear();
+
+ $("#enquirenowForm").validate({
  rules: {
  name: {
  required: true,
@@ -327,9 +360,7 @@ width: 15%
  maxlength: "The email name should less than or equal to 50 characters",
  },
  },
- success: function (label, element) {
-        grecaptcha.execute();
-        },
+
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
@@ -347,11 +378,7 @@ width: 15%
     if(response.status == 'notok') {
         $('#submit').html('Submit');
         $("#submit"). attr("disabled", false);
-        if(response.data['g-recaptcha-response']) {
-            var msg = response.data['g-recaptcha-response'][0];
-        } else {
-            var msg = 'something went wrong';
-        }
+
  swal({
  title: 'Sorry',
  text: msg,
@@ -383,6 +410,7 @@ width: 15%
  }
  })
     $("#gettouchForm").validate({
+    
  rules: {
  name: {
  required: true,
@@ -698,6 +726,7 @@ if ($("#hire_now").length > 0) {
 </script>
 
 <script>
+  var valclick = new Array();
     $(document).ready(function() {
         BindControls();
     });
@@ -815,10 +844,33 @@ if ($("#hire_now").length > 0) {
         });
     }
 
-
+    
     function areaExp(id,event){
   
-				
+   
+    
+      // if(set1){
+      //   valclick.push(set1);
+      // }
+
+
+     
+    
+
+      var element = id;
+
+var index = valclick.indexOf(element);
+if (index !== -1) {
+  valclick.splice(index, 1);
+  localStorage.setItem('skill-id', valclick);
+} else {
+  valclick.push(id);
+  localStorage.setItem('skill-id', valclick);
+}
+	
+console.log(valclick)
+
+
         var para = document.getElementById("data-remote-"+id);
             para.classList.toggle("dta-remote");
 					
@@ -826,7 +878,8 @@ if ($("#hire_now").length > 0) {
             para1.classList.toggle("scsk");
             var para2= document.getElementById("remove-re-"+id);
             para2.classList.toggle("scsk");
-			
+
+		
     }
 
     $(document).ready(function () {
@@ -837,7 +890,7 @@ if ($("#hire_now").length > 0) {
     });
 });
 
-
+var arrayk=new Array();
 function areaCheck(item){
     const arr = [
         "random",
@@ -944,6 +997,21 @@ function areaCheck(item){
 "Vue JS" ];		
       let id = arr.indexOf(item);
 
+
+      var element = id;
+
+var index = valclick.indexOf(element);
+if (index !== -1) {
+  valclick.splice(index, 1);
+  localStorage.setItem('skill-id', valclick);
+} else {
+  valclick.push(id);
+  localStorage.setItem('skill-id', valclick);
+}
+	
+console.log(valclick)
+
+
   var para = document.getElementById("data-remote-"+id);
       para.classList.toggle("dta-remote");
               
@@ -964,7 +1032,7 @@ function myFunction() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more"; 
+    btnText.innerHTML = "View more"; 
     moreText.style.display = "none";
     $('html, body').animate({
         scrollTop: $("#enqform").offset().top
@@ -976,7 +1044,229 @@ function myFunction() {
   
   }
 }
+
+
+const arr1 = [
+        "random",
+        "Angular",  
+"Android",  
+"ASP.NET", 
+"AWS",  
+"Blockchain",  
+"C Sharp",  
+"DevOps",  
+"Flutter",  
+"Golang",  
+"Ionic",  
+"Java" , 
+"MERN",  
+"PHP", 
+"Python",  
+"MEAN",  
+"React",  
+"Ruby on Rails",  
+"Machine Learning",  
+"Salesforce",  
+"SAP",  
+"Drupal",  
+"Django",  
+"React Node",  
+"Backend",  
+"Frontend",  
+"Postgresql",  
+"Fullstack",  
+"JavaScript",  
+"Node",
+"React Native", 
+"Shopify", 
+"Wordpress", 
+"Kotlin", 
+"Xamarin", 
+"IOS", 
+"Magento", 
+"UI/UX", 
+"SEO", 
+"Laravel", 
+"Jira", 
+"Ansible", 
+"Apache kafka", 
+"Azure", 
+"Bitbucket", 
+"Apache Spark", 
+"Bootstrap", 
+"C++", 
+"BrowserStack", 
+"Confluence", 
+"Docker", 
+"ElasticSearch", 
+"Express JS", 
+"Firebase", 
+"Flask", 
+"Git", 
+"Kubernetes", 
+"GitHub", 
+"Grape JS", 
+"Jenkins", 
+"Joomla", 
+"AEM", 
+"GitLab", 
+"Grafana", 
+"HTML CSS", 
+"Keras", 
+"Kibana", 
+"Logstash", 
+"Material UI", 
+"Mendix", 
+"MicrosoftDynamics", 
+"MongoDB",  
+"Moodle", 
+"MySQL", 
+".NET Core", 
+"Next JS",  
+"NumPy", 
+"Oracle", 
+"Pandas", 
+"Power BI", 
+"Prometheus", 
+"Puppet", 
+"PyTorch",  
+"RabbitMQ", 
+"Redis", 
+"Ruby", 
+"Rust", 
+"Scala",
+"SenchaJs", 
+"Sharepoint", 
+"Slack", 
+"Solidity", 
+"Spring Boot", 
+"Swift", 
+"Tech Support", 
+"TensorFlow", 
+"Terraform", 
+"TestRail", 
+"TypeScript", 
+"Unity", 
+"Unreal Engine", 
+"Vue JS" ];	
+
+
+
+
+$('#continue1').click(function(){
+  var allskill=localStorage.getItem('skill-id');
+
+  if(!allskill){
+    
+    document.getElementById("display-skill").style.display = 'block';
+    return false;
+  }
+  document.getElementById("display-skill").style.display = 'none';
+
+  const myArraySkill = allskill.split(",");
+// let word = myArray[1];
+
+for(var i = 0; i < myArraySkill.length; i++){
+   arrayk.push(arr1[myArraySkill[i]]);
+}
+$('#skill').val(arrayk.toString());
+console.log(arrayk.toString());
+document.getElementById("section1").style.display = 'none';
+document.getElementById("section2").style.display = 'block';
+window.scrollTo(0, 60);
+
+});
+
+const cards = document.querySelectorAll('.card12');
+        cards.forEach(card => {
+            card.addEventListener('click', selectCard);
+        });
+
+
+function selectCard(es){
+
+  document.getElementById("display-skill2").style.display = 'none';
+
+if(es==1){
+  localStorage.setItem('experience', "Junior level");
+  jQuery('#card-junior').addClass('border');
+  jQuery('#card-mid').removeClass('border');
+  jQuery('#card-senior').removeClass('border');
+
+}else if(es==2){
+  localStorage.setItem('experience', "Mid level");
+
+  jQuery('#card-mid').addClass('border');
+  jQuery('#card-junior').removeClass('border');
+  jQuery('#card-senior').removeClass('border');
+
+}else if(es==3){
+  localStorage.setItem('experience', "Senior level");
+
+  jQuery('#card-senior').addClass('border');
+  jQuery('#card-junior').removeClass('border');
+  jQuery('#card-mid').removeClass('border');
+
+}
+}
+$('#back1').click(function(){
+  document.getElementById("section1").style.display = 'block';
+document.getElementById("section2").style.display = 'none';
+});
+// const searchForLetter = (arr1 = [], letter = '') => {
+//    for(let i = 0; i < arr1.length; i++){
+//       const el = arr1[i];
+//       if(el.includes(letter)){
+     
+//       //document.getElementById("data-remote-"+i).style.display = 'none';
+//       arrayk.push(arr1[i])
+
+//       };
+//     console.log(arrayk)
+//     // document.getElementById("data-remote-"+id);
+//    };
+//    //return false;
+// };
+$('#continue2').click(function(){
+  var step2val=  localStorage.getItem('experience');
+  $('#experience').val(step2val);
+  if(!step2val){
+    
+    document.getElementById("display-skill2").style.display = 'block';
+    return false;
+  }
+  document.getElementById("section2").style.display = 'none';
+document.getElementById("section3").style.display = 'block';
+window.scrollTo(0, 60);
+
+});
+$('#back2').click(function(){
+  document.getElementById("section2").style.display = 'block';
+document.getElementById("section3").style.display = 'none';
+});
+
 </script>
+<link rel="stylesheet" href="https://unicons.iconscout.com/release-pro/v4.0.0/css/solid.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+<script>
+        const phoneInputField = document.querySelector("#phone");
+        console.log(phoneInputField);
+        const phoneInput = window.intlTelInput(phoneInputField, {
+            autoPlaceholder: false,
+            initialCountry: "IN",
+            autoInsertDialCode: true,
+            utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+        });
+    </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.css">
+<script>
+      $("#time").flatpickr({
+    enableTime: true,
+    dateFormat: "F, d Y H:i"
+});
+    </script>
 </body>
 
 </html>

@@ -77,13 +77,16 @@
     width: 1.5rem !important;
 }
 .shape.fuchsia .svg-fill {
-    fill: #e668b3;
+    fill: #953bff;
 }
 .shape.yellow .svg-fill {
-    fill: #fab758;
+    fill: #ff8955;
 }
 .shape.grape .svg-fill {
-    fill: #605dba;
+    fill: #ff8955;
+}
+.shape .svg-fill {
+    fill: #953bff;
 }
     .w-5 {
     width: 1.25rem !important;

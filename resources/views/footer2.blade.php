@@ -8,7 +8,7 @@
         <div class="card image-wrapper bg-full bg-image bg-image mb-14" id="lazy" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}" style="background-image: url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});">        <div class="card-body p-10 p-xl-12">
           <div class="row text-center">
           <div class="col-xl-11 col-xxl-9 mx-auto">
-              <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
+              <h2 class="fs-16 text-uppercase text-black mb-3">Join the remote work revolution!</h2>
               <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
 
             </div>

@@ -73,6 +73,9 @@
  display:block;
 
 }
+.new-mar{
+  margin-top:30px;
+}
 }
 
 @media (min-width: 992px){
@@ -116,6 +119,9 @@
 
 
 }
+.rotator-fade{
+  color:#ff5f7a !important;
+}
 </style>
 <!--<section class="wrapper bg-gray">
   <div class="container pt-12 pt-md-16 text-center">
@@ -135,7 +141,7 @@
 
 
 
-<div class="container pt-19 pt-md-21 text-center position-relative">
+<div class="container pt-19 pt-md-21 text-center position-relative new-mar">
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
         <div class="row position-relative">
           <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
@@ -488,7 +494,7 @@
     <div class="row gx-lg-0 gy-10 align-items-center">
         <!--/column -->
       <div class="col-lg-5">
-        <h2 class="display-4 mb-3">Join Our Community</h2>
+        <h2 class="display-4 mb-3">Join the remote work revolution!</h2>
         <p class="lead fs-lg">Join us and get access to the best brains in the world</p>
             <p class="mb-0">Our mission is to make companies more profitable by reducing the employee cost through remote talents around the world and a vision to create opportunity for everyone by connecting the right talents to the right organisations</p>
             </div>
@@ -1045,7 +1051,7 @@
         <div class="card-body">
           <div class="row text-center">
             <div class="col-xl-11 col-xxl-9 mx-auto">
-              <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
+              <h2 class="fs-16 text-uppercase text-black mb-3">Join the remote work revolution!</h2>
               <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
 
             </div>
