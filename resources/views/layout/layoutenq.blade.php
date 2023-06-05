@@ -35,6 +35,11 @@
  /* .ssform{
   border: 1px solid;
  } */
+ .swal2-popup .swal2-styled.swal2-confirm {
+   
+    background-color: #343F52 !important;
+  
+}
     .selected-resources .resource {
     display: flex;
     justify-content: space-between;
@@ -104,12 +109,12 @@ font-weight: bold;
 }
 .dta-remote{
   color: #fff;
-    background-color: #5eb9f0;
-    border-color: #5eb9f0;
+    background-color: #343f52;
+    border-color: #343f52;
     
 }
 .dta-remote:hover, .dta-remote:focus {
-    background-color: #5eb9f0;
+    background-color: #343f52;
     color: #fff;
     border-color: transparent;
 }
@@ -119,13 +124,21 @@ font-weight: bold;
 width: 38%
 }
 #phone{
-    margin-right: 61px; 
+    margin-right: 116px; 
  
   }
   #continue2{
    
     margin-left: 39px;
 
+  }
+  .newcase{
+    
+    margin-left: -40px;
+    margin-right: -20px;
+  }
+  .d1,.d2{
+    margin-right: -21px;
   }
 }
 
@@ -348,6 +361,7 @@ width: 15%
   <script src="{{asset('assets/js/contact.js')}}"></script>
   <script src="{{asset('assets/js/newsletter.js')}}"></script>
 
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 
 
@@ -753,12 +767,16 @@ if ($("#hire_now").length > 0) {
 </script>
 
 <script>
+const previousPageUrl = document.referrer;
+
+
   var valclick = new Array();
+  var val12= new Array();
     $(document).ready(function() {
-        BindControls();
+        BindControls('random');
     });
 
-    function BindControls() {
+    function BindControls(val12) {
         var Countries = [
         "Angular",  
 "Android",  
@@ -862,6 +880,11 @@ if ($("#hire_now").length > 0) {
 "Unreal Engine", 
 "Vue JS" ];
 
+
+Countries = Countries.filter(function(obj) { return val12.indexOf(obj) == -1; });
+
+
+
         $('#tags').autocomplete({
             source: Countries,
             minLength: 0,
@@ -883,7 +906,7 @@ if ($("#hire_now").length > 0) {
 
      
     
-
+  
       var element = id;
 
 var index = valclick.indexOf(element);
@@ -905,7 +928,8 @@ console.log(valclick)
             para1.classList.toggle("scsk");
             var para2= document.getElementById("remove-re-"+id);
             para2.classList.toggle("scsk");
-
+            var ks=arrayfilt();
+        BindControls(ks);
 		
     }
 
@@ -913,7 +937,12 @@ console.log(valclick)
  
     $('#tags').on('autocompleteselect', function (e, ui) {
         //$('#tagsname').html('You selected: ' + ui.item.value);
+     
         areaCheck( ui.item.value)
+        
+        var ks=arrayfilt();
+        BindControls(ks);
+      
     });
 });
 
@@ -1381,6 +1410,12 @@ document.getElementById("name-err").style.display = 'none';
             document.getElementById("mail-err").style.display = 'none';
           document.getElementById("name-err").style.display = 'block';
           return false;
+          }else if(response.iemail){
+            document.getElementById("mail-err").style.display = 'none';
+            document.getElementById("name-err").style.display = 'none';
+
+            document.getElementById("iemail").style.display = 'block';
+
           }
 
     } else {
@@ -1389,15 +1424,29 @@ document.getElementById("name-err").style.display = 'none';
  window.localStorage.clear();
  //alert('Ajax form has been submitted successfully');
  document.getElementById("enqform").reset();
- swal({
- title: 'We will get back to you at the earliest.',
- text: "You won't be able to revert this!",
- type: 'success',
- showConfirmButton:true,
- confirmButtonText: 'Okay'
- }).then(() => {
+ var str1="beta-lp";
+ var str2 ="alpha-lp";
+if(previousPageUrl.indexOf(str1) != -1 || previousPageUrl.indexOf(str2) != -1){
+  window.location = "/thank-you";
+}else{
+  Swal.fire(
+  'Thanks for the details',
+  'Our team will get back to you at the earliest!',
+  'success'
+).then(() => {
  location.reload();
 });
+}
+
+//  swal({
+//  title: 'We will get back to you at the earliest.',
+//  text: "You won't be able to revert this!",
+//  type: 'success',
+//  showConfirmButton:true,
+//  confirmButtonText: 'Okay'
+//  }).then(() => {
+//  location.reload();
+// });
 
     }
 
@@ -1409,6 +1458,294 @@ document.getElementById("name-err").style.display = 'none';
  }
  });
 });
+
+$(document).ready(function() {
+  BindControlsList();
+    });
+
+    function BindControlsList() {
+        var lists = [
+    "Afghanistan",
+    "Åland Islands",
+    "Albania",
+    "Algeria",
+    "American Samoa",
+    "Andorra",
+    "Angola",
+    "Anguilla",
+    "Antarctica",
+    "Antigua and Barbuda",
+    "Argentina",
+    "Armenia",
+    "Aruba",
+    "Australia",
+    "Austria",
+    "Azerbaijan",
+    "Bahamas",
+    "Bahrain",
+    "Bangladesh",
+    "Barbados",
+    "Belarus",
+    "Belgium",
+    "Belize",
+    "Benin",
+    "Bermuda",
+    "Bhutan",
+    "Bolivia, Plurinational State of",
+    "Bonaire, Sint Eustatius and Saba",
+    "Bosnia and Herzegovina",
+    "Botswana",
+    "Bouvet Island",
+    "Brazil",
+    "British Indian Ocean Territory",
+    "Brunei Darussalam",
+    "Bulgaria",
+    "Burkina Faso",
+    "Burundi",
+    "Cambodia",
+    "Cameroon",
+    "Canada",
+    "Cape Verde",
+    "Cayman Islands",
+    "Central African Republic",
+    "Chad",
+    "Chile",
+    "China",
+    "Christmas Island",
+    "Cocos (Keeling) Islands",
+    "Colombia",
+    "Comoros",
+    "Congo",
+    "Congo, the Democratic Republic of the",
+    "Cook Islands",
+    "Costa Rica",
+    "Côte d'Ivoire",
+    "Croatia",
+    "Cuba",
+    "Curaçao",
+    "Cyprus",
+    "Czech Republic",
+    "Denmark",
+    "Djibouti",
+    "Dominica",
+    "Dominican Republic",
+    "Ecuador",
+    "Egypt",
+    "El Salvador",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Estonia",
+    "Ethiopia",
+    "Falkland Islands (Malvinas)",
+    "Faroe Islands",
+    "Fiji",
+    "Finland",
+    "France",
+    "French Guiana",
+    "French Polynesia",
+    "French Southern Territories",
+    "Gabon",
+    "Gambia",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Gibraltar",
+    "Greece",
+    "Greenland",
+    "Grenada",
+    "Guadeloupe",
+    "Guam",
+    "Guatemala",
+    "Guernsey",
+    "Guinea",
+    "Guinea-Bissau",
+    "Guyana",
+    "Haiti",
+    "Heard Island and McDonald Islands",
+    "Holy See (Vatican City State)",
+    "Honduras",
+    "Hong Kong",
+    "Hungary",
+    "Iceland",
+    "India",
+    "Indonesia",
+    "Iran, Islamic Republic of",
+    "Iraq",
+    "Ireland",
+    "Isle of Man",
+    "Israel",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Jersey",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kiribati",
+    "Korea, Democratic People's Republic of",
+    "Korea, Republic of",
+    "Kuwait",
+    "Kyrgyzstan",
+    "Lao People's Democratic Republic",
+    "Latvia",
+    "Lebanon",
+    "Lesotho",
+    "Liberia",
+    "Libya",
+    "Liechtenstein",
+    "Lithuania",
+    "Luxembourg",
+    "Macao",
+    "Macedonia, the former Yugoslav Republic of",
+    "Madagascar",
+    "Malawi",
+    "Malaysia",
+    "Maldives",
+    "Mali",
+    "Malta",
+    "Marshall Islands",
+    "Martinique",
+    "Mauritania",
+    "Mauritius",
+    "Mayotte",
+    "Mexico",
+    "Micronesia, Federated States of",
+    "Moldova, Republic of",
+    "Monaco",
+    "Mongolia",
+    "Montenegro",
+    "Montserrat",
+    "Morocco",
+    "Mozambique",
+    "Myanmar",
+    "Namibia",
+    "Nauru",
+    "Nepal",
+    "Netherlands",
+    "New Caledonia",
+    "New Zealand",
+    "Nicaragua",
+    "Niger",
+    "Nigeria",
+    "Niue",
+    "Norfolk Island",
+    "Northern Mariana Islands",
+    "Norway",
+    "Oman",
+    "Pakistan",
+    "Palau",
+    "Palestinian Territory, Occupied",
+    "Panama",
+    "Papua New Guinea",
+    "Paraguay",
+    "Peru",
+    "Philippines",
+    "Pitcairn",
+    "Poland",
+    "Portugal",
+    "Puerto Rico",
+    "Qatar",
+    "Réunion",
+    "Romania",
+    "Russian Federation",
+    "Rwanda",
+    "Saint Barthélemy",
+    "Saint Helena, Ascension and Tristan da Cunha",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Martin (French part)",
+    "Saint Pierre and Miquelon",
+    "Saint Vincent and the Grenadines",
+    "Samoa",
+    "San Marino",
+    "Sao Tome and Principe",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia",
+    "Seychelles",
+    "Sierra Leone",
+    "Singapore",
+    "Sint Maarten (Dutch part)",
+    "Slovakia",
+    "Slovenia",
+    "Solomon Islands",
+    "Somalia",
+    "South Africa",
+    "South Georgia and the South Sandwich Islands",
+    "South Sudan",
+    "Spain",
+    "Sri Lanka",
+    "Sudan",
+    "Suriname",
+    "Svalbard and Jan Mayen",
+    "Swaziland",
+    "Sweden",
+    "Switzerland",
+    "Syrian Arab Republic",
+    "Taiwan, Province of China",
+    "Tajikistan",
+    "Tanzania, United Republic of",
+    "Thailand",
+    "Timor-Leste",
+    "Togo",
+    "Tokelau",
+    "Tonga",
+    "Trinidad and Tobago",
+    "Tunisia",
+    "Turkey",
+    "Turkmenistan",
+    "Turks and Caicos Islands",
+    "Tuvalu",
+    "Uganda",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States",
+    "United States Minor Outlying Islands",
+    "Uruguay",
+    "Uzbekistan",
+    "Vanuatu",
+    "Venezuela, Bolivarian Republic of",
+    "Viet Nam",
+    "Virgin Islands, British",
+    "Virgin Islands, U.S.",
+    "Wallis and Futuna",
+    "Western Sahara",
+    "Yemen",
+    "Zambia",
+    "Zimbabwe"];
+
+        $('#countries').autocomplete({
+            source: lists,
+            minLength: 0,
+            scroll: true
+        }).focus(function() {
+            $(this).autocomplete("search", "");
+        });
+    }
+    $(document).ready(function () {
+ 
+ $('#countries').on('autocompleteselect', function (e, ui) {
+     //$('#tagsname').html('You selected: ' + ui.item.value);
+     $("#countryname").val( ui.item.value);
+ });
+});
+
+function arrayfilt(){
+  var arrayk1=new Array();
+  var allskill=localStorage.getItem('skill-id');
+const myArraySkill = allskill.split(",");
+// let word = myArray[1];
+console.log(myArraySkill)
+for(var i = 0; i < myArraySkill.length; i++){
+   arrayk1.push(arr1[myArraySkill[i]]);
+}
+return arrayk1;
+}
+var element1 = document.getElementById('countries1');
+
+element1.style.transform = null;
+
 </script>
 </body>
 

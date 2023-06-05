@@ -104,4 +104,5 @@ Route::get('/global-footprint', [HomeController::class, 'globalFootprint'])->nam
 Route::get('/thank-you', [HomeController::class, 'thankYou'])->name('thankYou');
 Route::get('/capabilities', [HomeController::class, 'capAbilities'])->name('capAbilities');
 Route::get('/global-approach', [HomeController::class, 'globalApproach'])->name('globalApproach');
+Route::get('/talent-enquiry', [HomeController::class, 'enquiryPage'])->name('enquiry.page');
 

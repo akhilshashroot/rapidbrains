@@ -10,7 +10,7 @@
                 <li><i class="uil uil-check" ></i>Hire Dedicated Remote Developers and save 100% on Hiring Cost</li>
                 <li><i class="uil uil-check" ></i>Maximize your return on investment with RapidBrains</li>
               </ul><br>
-              <span><a class="btn btn-primary rounded-pill me-2" id="enquirenowID" >Hire Developers</a></span>
+              <span><a class="btn btn-primary rounded-pill me-2" href="{{route('enquiry.page')}}"  >Hire Developers</a></span>
             </div>
             <!-- /column -->
             <div class="col-lg-7">
@@ -110,7 +110,7 @@
             </div><br><br>
             <!-- /.row -->
             <div class="d-flex justify-content-center">
-              <span><a class="btn btn-primary rounded" id="enquirenowID"  >Hire Developers</a></span>
+              <span><a class="btn btn-primary rounded" href="{{route('enquiry.page')}}"   >Hire Developers</a></span>
             </div>
           </div>
           <!-- /column -->
@@ -611,7 +611,7 @@
         <h3 class="display-5 mb-5">Celebrating Our Industry Accolades and Achievements</h3>
         <p>Discover RapidBrains impressive collection of accolades, showcasing our dedication to excellence
           and commitment to delivering outstanding remote development solutions.</p>
-        <a id="enquirenowID"  class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
+        <a  href="{{route('enquiry.page')}}"   class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
       </div>
       <!--/column -->
     </div>

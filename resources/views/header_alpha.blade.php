@@ -144,7 +144,7 @@
               
                  
                 <nav class="nav-item justify-content-end text-end">
-                <a class="btn btn-primary btn-sm rounded-pill" id="enquirenowID" >Hire Developers</a> 
+                <a class="btn btn-primary btn-sm rounded-pill"  href="{{route('enquiry.page')}}" >Hire Developers</a> 
 
                   <!--<a href="#"><i class="uil uil-twitter"></i></a>-->
                   <!--<a href="#"><i class="uil uil-facebook-f"></i></a>-->

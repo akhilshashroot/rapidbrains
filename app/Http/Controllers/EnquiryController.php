@@ -8,6 +8,7 @@ use App\Mail\RapidBrainMail;
 use Illuminate\Support\Facades\Validator;
 use App\Models\SeoEnquiry;
 use App\Mail\RapidBrainMailEnquiry;
+use App\Mail\RapidBrainMailEnquiryReply;
 class EnquiryController extends Controller
 {
     public function MailFunction(Request $request){
@@ -106,14 +107,23 @@ class EnquiryController extends Controller
             ]);
           }
 
-
+          if(!$this->checkemail($request->email)){
+            return response()->json([
+                'status'	=> 'notok',
+                'statuscode'    => '402',
+              
+                'iemail' =>true,
+            ]);
+           
+         }
+       
 
         $maildata=array();
         $maildata['name']    		= $request->name;
         $maildata['email'] 		=  $request->email;
       //  $maildata['subject'] 		=  'Stakefield Contact-us';
         $maildata['phone'] 		=  $request->phoneno;
-        $maildata['skill']		=  $request->skill;
+        $maildata['skill']		= ( $request->add_skill)? str_replace(',', ', ', $request->skill).", ".$request->add_skill: str_replace(',', ', ', $request->skill);
         $maildata['add-skill']		=  $request->add_skill;
         $maildata['count']		=  $request->count;
         $maildata['experience']		=  $request->experience;
@@ -121,6 +131,7 @@ class EnquiryController extends Controller
 
         $maildata['time']		=  $request->time;
         $maildata['countrycode']		=  $request->countrycode;
+        $maildata['countryname']		=  $request->countryname;
 
         
         
@@ -134,10 +145,16 @@ class EnquiryController extends Controller
     //    $enq->save();
     //     }
             Mail::send(new RapidBrainMailEnquiry($maildata));
+            Mail::send(new RapidBrainMailEnquiryReply($maildata));
+
             return response()->json([
                 'status'	=> 'ok',
                 'statuscode'    => '402',
                 'message' => 'success',
             ]);
     }
+   public  function checkemail($str) {
+        return (!preg_match("/^([a-z0-9\+_\-]+)(\.[a-z0-9\+_\-]+)*@([a-z0-9\-]+\.)+[a-z]{2,6}$/ix", $str)) ? FALSE : TRUE;
+  }
+ 
 }

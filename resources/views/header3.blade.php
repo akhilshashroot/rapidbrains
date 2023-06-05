@@ -153,7 +153,11 @@
             <div class="navbar-other w-100 d-flex ms-auto">
               <ul class="navbar-nav flex-row align-items-center ms-auto spx">
 
-              <li class="nav-item"><a class="btn btn-primary btn-sm rounded-pill hed" id="enquirenowID">Enquire</a></li>
+              <li class="nav-item">
+              <a class="btn btn-primary btn-sm rounded-pill hed"  href="{{route('enquiry.page')}}" style="color:#fff;">Enquire</a>
+
+              
+           </li>
                 <li class="nav-item d-lg-none">
                   <button class="hamburger offcanvas-nav-btn" aria-label="enquire button"><span></span></button>
                 </li>

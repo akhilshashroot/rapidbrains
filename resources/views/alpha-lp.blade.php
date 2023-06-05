@@ -187,7 +187,7 @@
               <li><i class="uil uil-check"></i>1.2K Happy Customers.</li>
               <li><i class="uil uil-check"></i>95% of retention rate.</li>
             </ul><br>
-            <span><a class="btn btn-primary rounded-pill me-2"  id="enquirenowID">Hire Developers Now</a></span>
+            <span><a class="btn btn-primary rounded-pill me-2"   href="{{route('enquiry.page')}}" >Hire Developers Now</a></span>
           </div>
           <!--/column -->
         </div>
@@ -415,7 +415,7 @@
         <h2 class="fs-15 text-uppercase text-line text-primary text-center mb-3">RapidBrains Award-Winning Excellence</h2>
         <h3 class="display-5 mb-5">Celebrating Our Industry Accolades and Achievements</h3>
         <p>Discover RapidBrains impressive collection of accolades, showcasing our dedication to excellence and commitment to delivering outstanding remote development solutions.</p>
-        <a  id="enquirenowID" class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
+        <a  href="{{route('enquiry.page')}}"  class="btn btn-primary rounded-pill mt-3">Hire Developers</a>
       </div>
       <!--/column -->
     </div>

@@ -519,7 +519,7 @@
             cards.forEach(card => {
                 card.classList.remove('selected');
             });
-
+comsole
             const selectedCard = event.currentTarget;
             selectedCard.classList.add('selected');
 

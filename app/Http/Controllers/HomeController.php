@@ -154,4 +154,12 @@ class HomeController extends Controller
         $data['roboto']=true;
         return view('global-approach',compact('data'));
     }
+    public function enquiryPage() {
+        $data['title']= "Hire Best Remote Software Developers | RapidBrains";
+		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
+		$data['description']= "Hire best remote software developers from RapidBrains, A talent marketplace to rapidly build remote teams. Contact us to hire remote developers.";
+        $data['canonical']= "https://www.rapidbrains.com/talent-enquiry";
+        return view('enquiry',compact('data'));
+    }
+    
 }
