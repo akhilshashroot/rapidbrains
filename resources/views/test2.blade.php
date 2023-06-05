@@ -23,11 +23,13 @@
               <div class="card-body p-11 text-center">
                 <h2 class="mb-3 text-center">What are your must-have talents?</h2>
                 <p class="lead mb-6 text-center">Select the desired areas of expertise</p>
-                <form class="joinForm needs-validation text-start mb-3" id="enqform" enctype="multipart/form-data" method="post" novalidate>
+                <form  id="enqform" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
                   @csrf
                 
       <input type="hidden" name="skill" id="skill">
       <input type="hidden" name="experience" id="experience">
+      <input type="hidden" id="phoneno" name="phoneno" value="">
+      <input type="hidden" id="countrycode" name="countrycode" value="">
 
 
 
@@ -40,7 +42,7 @@
                     <div class="row gx-4">
                       <div class="col-md-12">
                         <div class="form-floating mb-4">
-                          <input id="tags" type="text" class="form-control">
+                          <input id="tags"  type="text" class="form-control ssform">
                           <label for="tags" class="form-label">Desired areas of expertise (e.g., JavaScript, Python, etc.) </label>
 
                         </div>
@@ -270,7 +272,7 @@
 
             <div class="col-md-12 pt-5">
                         <div class="form-floating mb-4">
-                        <textarea  name="skill" id="skill" class="form-control" placeholder="Your message" style="height: 150px" ></textarea>
+                        <textarea  name="add_skill" id="add-skill" class="form-control ssform" placeholder="Your message" style="height: 150px" ></textarea>
                          <label for="email" class="form-label">Please enter the skill set </label>
                         </div>
                       </div>
@@ -330,6 +332,7 @@
         
               <div class="row gy-6 justify-content-center" id="items">
                         <p class="lead mb-6 text-center">What level of experience are you looking for in the talent?</p>
+                        
                         <div class="col-12 col-md-5 col-lg-3">
                         <a href="javascript:void(0)" onclick="selectCard(1)">
                             <div class="card h-80 shadow-lg lift h-70 card12" id="card-junior">
@@ -389,6 +392,24 @@
 
 
                       <!-- /column -->
+                      <div class="row gy-6 justify-content-center" id="items" style="
+    margin-top: 10px;
+">
+
+                      
+                     <div class="col-md-6">
+                     <p class="lead mb-6 text-center">How many developers you are hiring? </p>
+
+                       <div class="form-floating">
+                       <input type="number" class="form-control ssform"  id="count" name="count"  placeholder="Name *" >
+                         <label for="count" class="form-label">How many developers you are hiring?</label>
+                       </div>
+                     </div>
+
+
+</div>
+
+
                       <div class="col-12 text-center pt-5 cpk">
                         <a href="javascript:void(0)" id="back1" class="btn btn-primary rounded-pill btn-login">
                         <i class="uil uil-arrow-left"></i>&nbsp;
@@ -434,7 +455,8 @@
             <div class="card shadow-lg">
               <div class="card-body p-11 text-center">
                 <h2 class="mb-3 text-center"></h2>
-                <p class="lead mb-6 text-center"></p>
+                <p class="lead mb-6 text-center">Please enter the following details so we can connect you with the right talents
+</p>
               
             
             
@@ -443,34 +465,37 @@
                    <div class="row gy-3 gx-3">
                      <div class="col-md-6">
                        <div class="form-floating">
-                       <input type="text" class="form-control"  id="name" name="name"  placeholder="Name *" required="">
-                         <label for="name" class="form-label">Name *</label>
+                       <input type="text" class="form-control ssform"  id="name" name="name"  placeholder="Name *" required>
+                       <label for="form_name" class="error" id="name-err">Please enter your name</label>
+                         <label for="name" class="form-label">Your Name *</label>
                        </div>
                      </div>
                      <div class="col-md-6">
                        <div class="form-floating">
-                       <input type="text" class="form-control"  id="email" name="email"  placeholder="email *" required="">
-                         <label for="name" class="form-label">Email ID *</label>
+                       <input type="text" class="form-control ssform"  id="email" name="email"  placeholder="email *" required>
+                       <label for="form_email" class="error" id="mail-err">Please enter your email</label>
+
+                         <label for="email" class="form-label">Email ID *</label>
                        </div>
                      </div>
                     
                      <div class="col-md-6">
                        <div class="form-floating">
-                       <input type="text" class="form-control" id="company" name="company" placeholder="Your company Name *">
+                       <input type="text" class="form-control ssform" id="company" name="company" placeholder="Your company Name *">
                          <label for="company" class="form-label">Company Name.</label>
                        </div>
                      </div>
                      <div class="col-md-6">
                        <div class="form-floating">
-                       <input id="phone" type="tel" class="form-control" name="phone"
-                            style="margin-right: 120px; width: 575px;">
+                       <input id="phone" type="text" class="form-control ssform" name="phone"
+                           >
                          <label for="phone" class="form-label">Phone No</label>
                        </div>
                      </div>
               
                      <div class="col-md-6">
                        <div class="form-floating">
-                       <input type="text" class="form-control" name="time"  id="time" placeholder="Convenient time for a meeting" >
+                       <input type="text" class="form-control ssform" name="time"  id="time" placeholder="Convenient time for a meeting" >
                          <label for="time" class="form-label">Convenient time for a meeting</label>
                        </div>
                      </div>
@@ -498,11 +523,8 @@
 
                       <!-- /column -->
               
-                        <a href="javascript:void(0)" id="continue3" class="btn btn-primary rounded-pill btn-login" value="Continue">
+                      <button class="btn btn-primary rounded-pill btn-login" id="submit1" type="submit">Submit</button>
 
-	<span>Submit</span>
-  
-</a>
                     
                       </div></form>
 

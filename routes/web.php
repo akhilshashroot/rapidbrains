@@ -38,6 +38,7 @@ Route::get('/test-enquirystep2', [EnquiryController::class, 'test_enquirystep2']
 Route::get('/test-enquirystep3', [EnquiryController::class, 'test_enquirystep3'])->name('test-enquirystep3');
 Route::get('/test-enquirystep4', [EnquiryController::class, 'test_enquirystep4'])->name('test-enquirystep4');
 Route::get('/test-enquirystep5', [EnquiryController::class, 'test_enquirystep5'])->name('test-enquirystep5');
+Route::post('/enquire/newform', [EnquiryController::class, 'newformEnquire'])->name('enquire-newform');
 
 
 //new updates

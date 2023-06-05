@@ -32,7 +32,9 @@
 }
     } */
     
-
+ /* .ssform{
+  border: 1px solid;
+ } */
     .selected-resources .resource {
     display: flex;
     justify-content: space-between;
@@ -116,7 +118,15 @@ font-weight: bold;
     .frcyxW {
 width: 38%
 }
+#phone{
+    margin-right: 61px; 
+ 
+  }
+  #continue2{
+   
+    margin-left: 39px;
 
+  }
 }
 
 @media (min-width: 992px){
@@ -133,6 +143,10 @@ margin-left: 50rem;
 
 
 @media (min-width: 720px){
+  #phone{
+    margin-right: 120px; 
+    width: 575px;
+  }
     .frcyxW {
 width: 15%
 }
@@ -149,10 +163,17 @@ width: 15%
 #more {display: none;}
 #more1 {display: none;}
 #more2 {display: none;}
-#section2,#section3{display: none;}
+#section2,#section3,#name-err,#mail-err{display: none;}
 .border{
   border-color:#5eb9f0 !important;
  }
+ @media (min-width: 992px){
+.ssp {
+  padding-top: 1.25rem;
+    padding-bottom: 0.25rem;
+}
+
+}
 </style>
 
 <body>
@@ -163,7 +184,7 @@ width: 15%
       @include('header2')
 
       @else
-      @include('header2')
+      @include('header-enq')
       @endif
    @yield('section')
 
@@ -220,7 +241,7 @@ width: 15%
                      </div>
                      <div class="col-md-12">
                        <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" required>
+                       <input type="text" class="form-control" id="phone1" name="phone" placeholder="Phone" required>
                          <label for="phone" class="form-label">Your Phone No.</label>
                        </div>
                      </div>
@@ -241,7 +262,7 @@ width: 15%
           data-size="invisible"></div>
 
               <div class="btn-container mx-auto pt-5">
-                <button class="btn btn-primary d-block w-100" id="submit" type="submit">Enquire Now</button>
+                <button class="btn btn-primary d-block w-100">Enquire Now</button>
 
                   </div>
 
@@ -316,7 +337,7 @@ width: 15%
   <!--</div>-->
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+  <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
   <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
@@ -335,7 +356,6 @@ width: 15%
 
  <script>
  window.localStorage.clear();
-
  $("#enquirenowForm").validate({
  rules: {
  name: {
@@ -360,7 +380,9 @@ width: 15%
  maxlength: "The email name should less than or equal to 50 characters",
  },
  },
-
+ success: function (label, element) {
+        grecaptcha.execute();
+        },
  submitHandler: function(form) {
  $.ajaxSetup({
  headers: {
@@ -378,7 +400,11 @@ width: 15%
     if(response.status == 'notok') {
         $('#submit').html('Submit');
         $("#submit"). attr("disabled", false);
-
+        if(response.data['g-recaptcha-response']) {
+            var msg = response.data['g-recaptcha-response'][0];
+        } else {
+            var msg = 'something went wrong';
+        }
  swal({
  title: 'Sorry',
  text: msg,
@@ -409,6 +435,7 @@ width: 15%
  });
  }
  })
+ 
     $("#gettouchForm").validate({
     
  rules: {
@@ -890,7 +917,7 @@ console.log(valclick)
     });
 });
 
-var arrayk=new Array();
+
 function areaCheck(item){
     const arr = [
         "random",
@@ -1154,23 +1181,27 @@ const arr1 = [
 
 
 $('#continue1').click(function(){
-  var allskill=localStorage.getItem('skill-id');
 
-  if(!allskill){
+  var arrayk=new Array();
+  var allskill=localStorage.getItem('skill-id');
+  var add_skill=$("#add-skill").val();
+  if(!allskill && !add_skill){
     
     document.getElementById("display-skill").style.display = 'block';
     return false;
   }
   document.getElementById("display-skill").style.display = 'none';
-
+if(allskill){
   const myArraySkill = allskill.split(",");
 // let word = myArray[1];
-
+console.log(myArraySkill)
 for(var i = 0; i < myArraySkill.length; i++){
    arrayk.push(arr1[myArraySkill[i]]);
 }
 $('#skill').val(arrayk.toString());
 console.log(arrayk.toString());
+}
+
 document.getElementById("section1").style.display = 'none';
 document.getElementById("section2").style.display = 'block';
 window.scrollTo(0, 60);
@@ -1210,6 +1241,7 @@ if(es==1){
 }
 }
 $('#back1').click(function(){
+  $("#skill").attr('value',' ');
   document.getElementById("section1").style.display = 'block';
 document.getElementById("section2").style.display = 'none';
 });
@@ -1258,6 +1290,16 @@ document.getElementById("section3").style.display = 'none';
             autoInsertDialCode: true,
             utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
         });
+
+        $("[name=phone]").on("blur", function() {
+  console.log($(this).val())
+  console.log(phoneInput.s.dialCode) //get counrty code
+  var phn=$(this).val();
+  $("#phoneno").val(phn);
+  $("#countrycode").val(phoneInput.s.dialCode);
+  
+})
+
     </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.2.3/flatpickr.css">
@@ -1266,7 +1308,108 @@ document.getElementById("section3").style.display = 'none';
     enableTime: true,
     dateFormat: "F, d Y H:i"
 });
+
+
+// let phoneNumberField = $('input[type="phone]');
+// var iti = window.intlTelInputGlobals.getInstance(phoneNumberField);
+// console.log(iti.getNumber());
+
     </script>
+
+
+
+<script>
+  jQuery(document).ready(function() {
+
+  $("#enqform").validate({
+ rules: {
+ name: {
+ required: true,
+ maxlength: 50
+ },
+ email: {
+ required: true,
+ maxlength: 50,
+ email: true,
+ },
+
+ },
+ messages: {
+ name: {
+ required: "Please enter name",
+ maxlength: "Your name maxlength should be 50 characters long."
+ },
+ email: {
+ required: "Please enter valid email",
+ email: "Please enter valid email",
+ maxlength: "The email name should less than or equal to 50 characters",
+ },
+ 
+ },
+
+
+ submitHandler: function(form) {
+ $.ajaxSetup({
+ headers: {
+ 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+ }
+ });
+
+document.getElementById("mail-err").style.display = 'none';
+document.getElementById("name-err").style.display = 'none';
+
+ $('#submit1').html('Please Wait...');
+
+ $("#submit1"). attr("disabled", true);
+ $.ajax({
+ url: "{{route('enquire-newform')}}",
+ type: "POST",
+ data: $('#enqform').serialize(),
+ success: function( response ) {
+    if(response.status == 'notok') {
+        $('#submit1').html('Submit');
+        $("#submit1"). attr("disabled", false);
+        if(response.email && response.name){
+            document.getElementById("mail-err").style.display = 'block';
+          document.getElementById("name-err").style.display = 'block';
+          return false;
+          }else if(response.email && !response.name){
+            document.getElementById("mail-err").style.display = 'block';
+          document.getElementById("name-err").style.display = 'none';
+          return false;
+          }else if(!response.email && response.name){
+            document.getElementById("mail-err").style.display = 'none';
+          document.getElementById("name-err").style.display = 'block';
+          return false;
+          }
+
+    } else {
+        $('#submit1').html('Submit');
+ $("#submit1"). attr("disabled", false);
+ window.localStorage.clear();
+ //alert('Ajax form has been submitted successfully');
+ document.getElementById("enqform").reset();
+ swal({
+ title: 'We will get back to you at the earliest.',
+ text: "You won't be able to revert this!",
+ type: 'success',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ }).then(() => {
+ location.reload();
+});
+
+    }
+
+
+
+
+ }
+ });
+ }
+ });
+});
+</script>
 </body>
 
 </html>
