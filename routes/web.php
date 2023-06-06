@@ -33,11 +33,11 @@ Route::get('/join', [HomeController::class, 'join'])->name('join');
 Route::post('join-rapidbrains', [ResumeCollection::class, 'store'])->name('rapidbrains.store');
 Route::post('contact-form', [ContactController::class, 'MailFunction'])->name('contact-form');
 Route::post('hire-form', [ContactController::class, 'hireFunction'])->name('hireFunction');
-Route::get('/test-enquirystep1', [EnquiryController::class, 'test_enquirystep1'])->name('test-enquirystep1');
-Route::get('/test-enquirystep2', [EnquiryController::class, 'test_enquirystep2'])->name('test-enquirystep2');
-Route::get('/test-enquirystep3', [EnquiryController::class, 'test_enquirystep3'])->name('test-enquirystep3');
-Route::get('/test-enquirystep4', [EnquiryController::class, 'test_enquirystep4'])->name('test-enquirystep4');
-Route::get('/test-enquirystep5', [EnquiryController::class, 'test_enquirystep5'])->name('test-enquirystep5');
+// Route::get('/test-enquirystep1', [EnquiryController::class, 'test_enquirystep1'])->name('test-enquirystep1');
+// Route::get('/test-enquirystep2', [EnquiryController::class, 'test_enquirystep2'])->name('test-enquirystep2');
+// Route::get('/test-enquirystep3', [EnquiryController::class, 'test_enquirystep3'])->name('test-enquirystep3');
+// Route::get('/test-enquirystep4', [EnquiryController::class, 'test_enquirystep4'])->name('test-enquirystep4');
+// Route::get('/test-enquirystep5', [EnquiryController::class, 'test_enquirystep5'])->name('test-enquirystep5');
 Route::post('/enquire/newform', [EnquiryController::class, 'newformEnquire'])->name('enquire-newform');
 
 
