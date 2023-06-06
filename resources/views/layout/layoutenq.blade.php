@@ -38,7 +38,8 @@
  .swal2-popup .swal2-styled.swal2-confirm {
    
     background-color: #343F52 !important;
-  
+    border-radius: 9.25em !important;
+    font-size: 17px !important;
 }
 div:where(.swal2-container) .swal2-html-container {
 
