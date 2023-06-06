@@ -37,7 +37,7 @@ class RapidBrainMailEnquiryReply extends Mailable
             $subject  = "Thank you for contacting RapidBrains";
             //$to_address="akhil.s@hashroot.com";
             $to_address=$data['email'];
-            return $this->to($to_address)->from('site@rapidbrains.com', 'Thank you for contacting RapidBrains')
+            return $this->to($to_address)->from('site@rapidbrains.com', 'RapidBrains')
             ->subject($subject)
             ->view('template.replymail', ['message_content' => $message_content,'name'=> $name]);
     

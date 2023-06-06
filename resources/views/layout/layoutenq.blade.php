@@ -40,6 +40,12 @@
     background-color: #343F52 !important;
   
 }
+div:where(.swal2-container) .swal2-html-container {
+
+    font-size: 20px !important;
+
+}
+
     .selected-resources .resource {
     display: flex;
     justify-content: space-between;
@@ -1430,7 +1436,7 @@ if(previousPageUrl.indexOf(str1) != -1 || previousPageUrl.indexOf(str2) != -1){
   window.location = "/thank-you";
 }else{
   Swal.fire(
-  'Thanks for the details',
+  'Thank you for the details',
   'Our team will get back to you at the earliest!',
   'success'
 ).then(() => {
