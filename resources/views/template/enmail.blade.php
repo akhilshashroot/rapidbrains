@@ -35,12 +35,11 @@ html,body { padding: 0; margin:0; }
 			</tr>
 			<tr>
 				<td align="left" valign="center">
-					<div style="text-align:left; margin: 0 20px; padding: 40px; background-color:#ffffff; border-radius: 6px">
+					<div style="text-align:left; margin: 0 20px; padding: 40px; background-color:#ffffff; border-radius: 6px;margin-bottom: 50px;">
 						<!--begin:Email content-->
 					
 						<div style="padding-bottom: 30px"> {!!$message_content!!}</div>
 						
-						<div style="border-bottom: 1px solid #eeeeee; margin: 15px 0"></div>
 						
 						<!--end:Email content-->
 					

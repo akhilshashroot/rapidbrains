@@ -32,15 +32,15 @@ class RapidBrainMailEnquiry extends Mailable
         $data = $this->data ;
         \Log::info($data);
         $countrycode= ($data['countrycode'])?"+":"";
-            $message_content = "<b>Name :</b> ".$data['name']."<br/><br/><b>
-            Email :</b> ".$data['email']."<br/><br/><b>
-            Phone :</b> <b>".$countrycode.$data['countrycode']." ".'</b>'.$data['phone']."<br/><br/><b>
-            Skills : </b>".$data['skill']."<br/><br/><b>
-            Company : </b>".$data['company']."<br/><br/><b>
-            Experience : </b>".$data['experience']."<br/><br/><b>
-            Number of developers  : </b>".$data['count']."<br/><br/><b>
-            Convenient time for a meeting : </b>".$data['time']."<br/><br/><b>
-            Country Name  : </b>".$data['countryname']."<br/><br/><b>";
+            $message_content = "<b>Name :</b> ".$data['name']."<br/><b>
+            Email :</b> ".$data['email']."<br/><b>
+            Phone :</b> <b>".$countrycode.$data['countrycode']." ".'</b>'.$data['phone']."<br/><b>
+            Skills : </b>".$data['skill']."<br/><b>
+            Company : </b>".$data['company']."<br/><b>
+            Experience : </b>".$data['experience']."<br/><b>
+            Number of developers  : </b>".$data['count']."<br/><b>
+            Convenient time for a meeting : </b>".$data['time']."<br/><b>
+            Country Name  : </b>".$data['countryname']."<br/><b>";
             $subject  = "RapidBrains Enquiry";
             $to_address="enquiry@rapidbrains.com";
            // $to_address="akhil.s@hashroot.com";
