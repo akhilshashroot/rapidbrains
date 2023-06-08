@@ -20,6 +20,7 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/about";
         return view('about',compact('data'));
     }
+    
     public function benefits() {
         $data['title']= "Benefits of Hiring From a Pool of Talents | RapidBrains";
 		$data['keywords']= "remote talents, hiring process, benefits of remote hiring, remote hiring, talent pool, hire remote developers, talent marketplace, talent cloud";
