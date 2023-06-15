@@ -4,7 +4,7 @@
       <div class="container py-14 pt-md-15 pb-md-18">
         <div class="row text-center">
           <div class="col-lg-9 col-xxl-7 mx-auto" data-cues="zoomIn" data-group="welcome" data-interval="-200">
-            <h2 class="display-1 mb-4">Remote hiring has never been this rapid!</h2>
+            <h1 class="display-1 mb-4">Remote hiring has never been this rapid!</h1>
             <p class="lead fs-24 lh-sm px-md-5 px-xl-15 px-xxl-10 mb-7">A talent marketplace to build amazing remote teams, rapidly</p>
             </div>
           <!-- /column -->
