@@ -289,7 +289,7 @@
       <div class="col-lg-5">
         <h3 class="display-4 mb-4 me-lg-n5">Hire the best remote developers and build your team, rapidly!</h3>
         <p class="mb-6">Companies can hire top remote developers worldwide, scale up or scale down in a matter of days with flexible engagements from hourly to full-time employment.</p>
-        <p class="mb-6">With over 100k+ trained and skilled remote software developers to choose from, hiring the best remote developers for your projects is super easy. Hire the top remote software engineers globally who are willing to work in your timezone without setting up a local entity - The smartest way to find and hire the best remote developers around the world, making hiring and employing easy and economical for companies and talents.</p>
+        <p class="mb-6">With over 100k+  skilled remote software developers to choose from, hiring the best remote developers for your projects is super easy. Hire the top remote software engineers globally who are willing to work in your timezone without setting up a local entity - The smartest way to find and hire the best remote developers around the world, making hiring and employing easy and economical for companies and talents.</p>
       </div>
       <!--/column -->
     </div>
