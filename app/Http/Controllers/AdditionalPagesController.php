@@ -150,7 +150,7 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireMLDevelopers() {
-        $data['title']= "Hire Remote Machine Learning Engineers - Remote Machine Learning Engineers";
+        $data['title']= "Remote Machine Learning Engineers | Hire in 24 hrs | RapidBrains";
 		$data['keywords']= ": hire machine learning engineer, hire remote machine learning engineer, Machine learning solutions, Machine learning services, Machine learning consulting, hire Machine learning consultant, Machine learning technology, Machine learning development, Machine learning algorithms, talent cloud";
 		$data['description']= "Hire remote machine learning engineers for your projects. Find top talent at RapidBrains and unleash the power of machine learning engineers in your business.";
         $data['canonical']= "https://www.rapidbrains.com/hire-machine-learning-engineers";
@@ -213,7 +213,7 @@ class AdditionalPagesController extends Controller
 
 
     public function hireNativeDevelopers() {
-        $data['title']= "Hire Remote React Native Developers - Remote React Native Developers";
+        $data['title']= "Remote React Native Developers | Hire in 24 hrs | RapidBrains";
 		$data['keywords']= "hire react native developer, hire remote react native developer, React Native mobile app development, React Native software development, hire React Native app development team, hire React Native mobile developer, React Native application development, hire React Native mobile programmers, React Native app programming, talent marketplace";
 		$data['description']= "Hire Professional React Native Developers from Our Talent Pool! RapidBrains helps you hire skilled and dedicated remote engineers for high-performing mobile apps.";
         $data['canonical']= "https://www.rapidbrains.com/hire-react-native-developers";
@@ -237,7 +237,7 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireRubyDevelopers() {
-        $data['title']= "Hire Remote Ruby on Rails Developers - Remote Ruby on Rails Developers";
+        $data['title']= "Remote Ruby on Rails Developers | Hire in 24 hrs | RapidBrains";
 		$data['keywords']= "hire Ruby on Rails developer, hire remote Ruby on Rails developer, hire Ruby on Rails web development team, Ruby on Rails software development, Ruby on Rails application development, hire Ruby on Rails web developer, hire Ruby on Rails programmers, Ruby on Rails web application programming, Ruby on Rails app development, build remote team";
 		$data['description']= "Find the best remote Ruby on Rails developers at RapidBrains. Get top-notch, customized RoR solutions for your business. Hire the best talent today.";
         $data['canonical']= "https://www.rapidbrains.com/hire-ruby-on-rails-developers";
