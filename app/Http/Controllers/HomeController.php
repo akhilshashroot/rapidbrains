@@ -156,9 +156,9 @@ class HomeController extends Controller
         return view('global-approach',compact('data'));
     }
     public function enquiryPage() {
-        $data['title']= "Hire Best Remote Software Developers | RapidBrains";
+        $data['title']= "Contact RapidBrains | Hire Tailored Remote Developers";
 		$data['keywords']= "remote team, remote work, remote talents, build remote team, hire remote talents, remote hiring, best remote talent";
-		$data['description']= "Hire best remote software developers from RapidBrains, A talent marketplace to rapidly build remote teams. Contact us to hire remote developers.";
+		$data['description']= "Enhance remote team building with RapidBrains. Find and hire remote software developers tailored to your needs. Contact us for top-notch talent today.";
         $data['canonical']= "https://www.rapidbrains.com/talent-enquiry";
         return view('enquiry',compact('data'));
     }

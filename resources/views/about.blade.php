@@ -54,7 +54,7 @@
       </div>
       <!--/column -->
       <div class="col-lg-6">
-        <h2 class="display-4 mb-3">Who Are We?</h2>
+        <h1 class="display-4 mb-3">Who Are We?</h1>
         <p class="lead fs-lg">A talent marketplace to build remote teams, rapidly!</p> 
         <p class="mb-6">With a massive pool of top talents to choose from, you can find the perfect candidate for your team. RapidBrains offers an easy-to-use platform where you can view profiles, shortlist, hire, and communicate with candidates all in one place. It's the simplest way to find and hire the best remote talent around the world thereby making remote hiring easy and economical for both companies and talents.
 </p>
