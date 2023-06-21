@@ -576,11 +576,13 @@ $(function () {
         },
         columns: [
             { data: 'DT_RowIndex', DT_RowIndex: 'DT_RowIndex',  orderable: false, searchable: false },
-            {data: 'title',  width: '220px',name: 'title'},
+            {data: 'title',  width: '190px',name: 'title'},
 
             {data: 'tech_stack',  width: '535px',name: 'tech_stack'},
-            {data: 'oneto3', width: '210px', name: 'oneto3'},
-        
+            // {data: 'oneto3', width: '210px', name: 'oneto3'},
+               {data: 'oneto3', width: '50px', name: 'oneto3'},
+            {data: 'threeto5', width:'50px',name: 'threeto5'},
+            {data: 'fiveto8', name: 'fiveto8', width:'50px'},
          
         
 

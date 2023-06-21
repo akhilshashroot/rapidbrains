@@ -141,9 +141,14 @@ thead {
   td:nth-of-type(3):before {
     content: "Tech Stack";
   }
-  td:nth-of-type(4):before {
-    content: "Salary starts \A from \A";
-  white-space: pre-wrap;
+td:nth-of-type(4):before {
+    content: "Junior";
+  }
+  td:nth-of-type(5):before {
+    content: "Senior";
+  }
+  td:nth-of-type(6):before {
+    content: "Expert";
   }
   /* td:nth-of-type(5):before {
     content: "Senior";
@@ -211,7 +216,9 @@ thead {
           <th scope="col" >Title</th>
 
           <th scope="col" >Tech Stack</th>
-          <th scope="col" >Salary starts from</th>
+      <th scope="col" >Junior</th>
+          <th scope="col" >Senior </th>
+          <th scope="col" >Expert</th>
           <!-- <th scope="col" >Senior </th>
           <th scope="col" >Expert</th> -->
           
