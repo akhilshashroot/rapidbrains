@@ -257,7 +257,7 @@
 
      <section class="wrapper bg-soft-red" style="padding-top: -50px;">
        <div class="container py-14 py-md-5">
-         <h2 class="display-4 mb-3 text-center">Unlock Productivity with Remote ReactJS Devs from RapidBrains</h2>
+         <h2 class="display-4 mb-3 text-center">Ignite Business Success with Python Developers: Unlocking Growth Opportunities</h2>
          <p class="lead text-center mb-10 px-md-16 px-lg-0">Our Benefits</p>
          <div class="row">
            <div class="col-lg-6 mb-0">
@@ -298,7 +298,7 @@
                  <!-- /.card-header -->
                  <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
                    <div class="card-body">
-                     <p>Access to skilled ReactJS developers with specialized knowledge and experience.</p>
+                     <p>Access to skilled Python developers with specialized knowledge and experience.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -373,8 +373,8 @@
        <div class="container py-14 py-md-16 text-center">
          <div class="row">
            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire A ReactJS Developers in 24 Hours</h2>
-             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top ReactJS Developers Remotely</h3>
+             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire A Python Developers in 24 Hours</h2>
+             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top Python Developers Remotely</h3>
            </div>
            <!-- /column -->
          </div>
