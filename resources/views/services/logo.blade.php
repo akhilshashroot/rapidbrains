@@ -1,4 +1,35 @@
-<section class="wrapper bg-light" style="padding-top: 50px;">
+<style>
+ @media (max-width: 720px){
+
+
+#tech-logo{
+ display:none;
+
+}
+
+}
+
+@media (min-width: 992px){
+
+ #tech-logo{
+ display:block;
+
+}
+
+}
+@media (min-width: 720px){
+ #tech-logo{
+ display:block;
+
+}
+
+}
+
+</style>
+
+
+
+<section class="wrapper bg-light" id="tech-logo" style="padding-top: 50px;">
 	<div class="container py-14 py-md-10">
 		<div class="row text-center">
 			<div class="col-xl-10 mx-auto">
