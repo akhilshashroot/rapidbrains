@@ -168,8 +168,8 @@ maximize outsourcing benefits. </p>
              <div class="row gx-lg-8 gx-xl-12 gy-10">
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Transform Your Web Development with Remote PHP Developers</h3>
-                 <p class="lead fs-18 mb-0">Supercharge your web development projects with the expertise of remote PHP developers. Harness their skills to transform your digital presence and achieve outstanding results.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=php" class="btn btn-primary rounded-pill" style="color: #fff;">Hire PHP Developers</a>
+                 <p class="lead fs-16 mb-0">Supercharge your web development projects with the expertise of remote PHP developers. Harness their skills to transform your digital presence and achieve outstanding results.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=php" class="btn btn-primary rounded-pill" style="margin-top: 25px; color: #fff;">Hire PHP Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">
