@@ -140,7 +140,7 @@
             <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Python Developers Remotely in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">: Discover a pool of highly skilled remote Python
+                 <p class="lead fs-18 mb-8">Discover a pool of highly skilled remote Python
                   developers available for immediate hire. Accelerate your projects
                   with their expertise and drive towards success</p>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
@@ -257,7 +257,7 @@
 
      <section class="wrapper bg-soft-red" style="padding-top: -50px;">
        <div class="container py-14 py-md-5">
-         <h2 class="display-4 mb-3 text-center">Ignite Business Success with Python Developers: Unlocking Growth Opportunities</h2>
+         <h2 class="display-4 mb-3 text-center">Ignite Business Success with Python Developers <br> Unlocking Growth Opportunities</h2>
          <p class="lead text-center mb-10 px-md-16 px-lg-0">Our Benefits</p>
          <div class="row">
            <div class="col-lg-6 mb-0">

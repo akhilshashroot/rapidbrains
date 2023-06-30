@@ -140,9 +140,8 @@
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire PHP Developers Remotely in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">RapidBrains offers remote PHP developers to elevate your web
-development capabilities. Build custom web applications, improve performance, and
-maximize outsourcing benefits.</p>
+                 <p class="lead fs-16 mb-8">RapidBrains offers remote PHP developers to elevate your web development capabilities. Build custom web applications, improve performance, and
+maximize outsourcing benefits. </p>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -169,8 +168,8 @@ maximize outsourcing benefits.</p>
              <div class="row gx-lg-8 gx-xl-12 gy-10">
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4">Transform Your Web Development with Remote PHP Developers</h3>
-                 <p class="lead fs-lg mb-0">Supercharge your web development projects with the expertise of remote PHP developers. Harness their skills to transform your digital presence and achieve outstanding results./p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire PHP Developers</a>
+                 <p class="lead fs-18 mb-0">Supercharge your web development projects with the expertise of remote PHP developers. Harness their skills to transform your digital presence and achieve outstanding results.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=php" class="btn btn-primary rounded-pill" style="color: #fff;">Hire PHP Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">
