@@ -253,7 +253,7 @@ maximize outsourcing benefits. </p>
 
 <section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
   <div class="container py-14 py-md-5">
-    <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring PHP Web Developers</h2>
+    <h2 class="display-4 mb-3 text-center">What are the Benefits of Hiring PHP Web Developers</h2><br><br>
     <!--<p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>-->
     <div class="row">
       <div class="col-lg-6 mb-0">
