@@ -1,124 +1,254 @@
-@extends('layout.layoutservice')
+@extends('layout.layoutheader2')
+
 @section('section')
 <style>
-    @media (max-width: 767px) {
-        .bg-dot {
-          display: none;
-        }
-      }
-</style>
+    .col-xl-53 {
+       flex: 0 0 auto;
+       width: 70%;
+     }
+     .lgc{
+       background-color: #f6f7f9 !important;
+     }
+
+     @media (min-width: 768px){
+   .pb-md-20 {
+       padding-bottom: 5rem !important;
+   }
+   .psb{
+     padding-top: 1rem !important;
+   }
+
+   }
 
 
 
-    <!-- section starts-->
+   @media (min-width: 1400px){
+   .col-xxl-6 {
 
-    <section class="wrapper bg-gray">
-  <div class="container py-14 py-md-16">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-      <div class="col-lg-6 position-relative order-lg-2">
-        <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
-        <div class="overlap-grid overlap-grid-2">
-          <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ionic-image.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ionic-image.webp')}} 2x" alt="ionic-image" loading="lazy"></figure>
-          </div>
-          <div class="item">
-            <figure class="rounded shadow"><img src="{{asset('assets/img/services/rapidbrains-ionic.webp')}}" srcset="{{asset('assets/img/services/rapidbrains-ionic.webp')}}" alt="ionic" loading="lazy"></figure>
-          </div>
-        </div>
-      </div>
-      <!--/column -->
-      <div class="col-lg-6">
-        <!--<img src="./assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />-->
-        <h1 class="display-2 mb-1">Hire the Best Remote Ionic Developers</h1><br>
-        <p class="mb-6">Ionic developers are extremely valuable in the app development industry
-            because of all the ways their expertise can help your company. Ionic
-            developers experienced in creating top-notch Ionic app development solutions
-            can help you create robust and scalable custom mobile solutions. Hire Ionic
-            developers with experience creating customized application solutions. Hire
-            from a large pool of the best talent available globally to create mobile
-            applications that are incredibly effective, fascinating, and simple to use.
-            </p>
-        <!--<div class="row gy-3 gx-xl-8">
-          <div class="col-xl-6">
-            <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
-              <li><span><i class="uil uil-check"></i></span><span>Aenean eu leo quam ornare curabitur blandit tempus.</span></li>
-              <li class="mt-3"><span><i class="uil uil-check"></i></span><span>Nullam quis risus eget urna mollis ornare donec elit.</span></li>
-            </ul>
-          </div>-->
-          <!--/column -->
-          <!--<div class="col-xl-6">
-            <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
-              <li><span><i class="uil uil-check"></i></span><span>Etiam porta sem malesuada magna mollis euismod.</span></li>
-              <li class="mt-3"><span><i class="uil uil-check"></i></span><span>Fermentum massa vivamus faucibus amet euismod.</span></li>
-            </ul>
-          </div>-->
-          <!--/column -->
-        </div>
-        <!--/.row -->
-      </div>
-      <!--/column -->
-    </div>
-    <!--/.row -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
+       width: 60%  !important;
+   }
 
-<!--section ends-->
+   }
+   @media (min-width: 1200px){
+   .col-xl-7 {
+
+       width: 68.333333% !important;
+   }
+   }
 
 
+   @media (min-width: 900px){
+   .spx {
+       margin-right: -13px !important;
+
+   }
+   }
+    @media (max-width: 720px){
 
 
-<!-- divider -->
-<section class="wrapper bg-white angled upper-end"></section>
+   .hed {
+     color: #fff !important;
+       background-color: #343f52  !important;
+       border-color: #343f52  !important;
+
+   }
+   /* .pt-19 {
+       padding-top: 13rem!important;
+   } */
+   .ccs{
+     margin-top: -4rem;
+   }
+   #sect-bg{
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/RapidBrains-footerbg.webp);
+
+   }
+
+   #sect-bg1{
+    display:none;
+
+   }
+   #sect-bg2{
+    display:block;
+
+   }
+   }
+
+   @media (min-width: 992px){
+   .px-lg-33 {
+       padding-right: 0.1rem !important;
+       padding-left: 0.1rem !important;
+   }
+   #sect-bg{
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+
+   }
+   #sect-bg1{
+    display:block;
+
+   }
+   #sect-bg2{
+    display:none;
+
+   }
+   }
+   @media (min-width: 720px){
+
+   #sect-bg{
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+
+   }
+   #sect-bg1{
+    display:block;
+
+   }
+   #sect-bg2{
+    display:none;
+
+   }
+   }
+   .image-wrapper.bg-overlay-light-300:before {
+     background: rgba(250, 255, 240, 0) !important;
+
+
+   }
+   </style>
+   <!--<section class="wrapper bg-gray">
+     <div class="container pt-12 pt-md-16 text-center">
+       <div class="row">
+         <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
+           <h1 class="display-1 fs-58 mb-7">Build your remote team, rapidly!</h1>
+           <div class="d-flex justify-content-center" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
+             <span><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn btn-primary me-2">Hire Now</a></span>
+           </div>
+         </div>
+       </div>
+     </div>
+     <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="https://www.rapidbrains.com/assets/img/photos/Web Banner-min.jpg
+   " alt="RapidBrains Home" /></figure>
+   </section>-->
+   <section class="wrapper overflow-hidden image-wrapper" id="sect-bg" style="padding-bottom: 240px" >
 
 
 
+   <div class="container pt-19 pt-md-21 text-center position-relative">
+           <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
+           <div class="row position-relative">
+             <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
+               <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/pie.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/scribble.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div data-cues="slideInDown" data-group="page-title">
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Ionic Developers Remotely in 24 Hours!</h1>
+                 <p class="lead fs-16 mb-8">Find skilled remote Ionic developers for hire. Efficient, reliable, and <br>ready to bring your app ideas to life.</p>
+                 <div class="d-flex justify-content-center" data-cues="slideInDown"  >
+                 <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
+                 <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
+               </div>
+               </div>
 
-<!--section starts-->
+               <!-- /div -->
+             </div>
+             <!-- /column -->
+           </div>
+         <!-- /.container -->
+         </div>
+         <!-- /.container -->
 
-<section class="wrapper bg-light">
-    <div class="container py-14 py-md-16">
-        <div class="row">
-            <div class="col-lg-11 col-xxl-10 mx-auto text-center">
-              <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
-              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Ionic Developers for Your Web and Mobile Apps</h3>
-              <p>With the support of web technologies like HTML, CSS, and JavaScript, mobile
-                apps can be created using the popular open-source framework Ionic. Our
-                developers have expertise and can assist you in producing top-notch, crossplatform mobile applications that feel and look native on both iOS and Android
-                devices. With the help of Ionic developers, efficiently develop solutions to
-                grow your business using cutting-edge technologies. Drive your company
-                forward with performance and efficiency, and offer solutions that help you
-                achieve your corporate goals faster. Hire an Ionic framework developer to
-                produce solutions with incredible flexibility and high-performance standards.
-                Take control of your development projects and create solid app solutions that
-                are customizable and meet higher performance standards by hiring experienced
-                and certified Ionic developers. Hire Ionic developers from RapidBrains to get
-                powerful, cross-platform mobile app solutions that are incredibly innovative.
-                Since every company is distinct, RapidBrains strives to offer solutions that are
-                specially designed to fit your needs.
-                </p>
+         <!-- /.container -->
+       </section>
+   <!-- /section -->
+   <!--section starts-->
 
-          <br> <br>
-          <div class="col-lg-6 col-xl-5 mx-auto text-center">
-				<h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-				<p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1000/month</p>
-				<a  href="https://talents.rapidbrains.com/filter?skill=Ionic" class="btn btn-primary rounded-pill">Show Talents</a>
-			</div>
-            </div>
-            <!--/column -->
-          </div>
-    </div>
-    <!-- /.container -->
-  </section>
-  <!-- /section -->
+   <section class="wrapper bg-soft-yellow">
+       <div class="container py-14 py-md-16">
+         <div class="card bg-light rounded-4 shadow" style="margin-top: -300px;">
+           <div class="card-body p-md-10 p-xl-11">
+             <div class="row gx-lg-8 gx-xl-12 gy-10">
+               <div class="col-lg-6" style="margin-top: 50px;">
+                 <h3 class="display-4 mb-4">Hire Talented Ionic Developers for Your Next Web and Mobile App Journey!</h3>
+                 <p class="lead fs-16 mb-0">Transform your vision into reality with our talented Ionic developers. Create seamless web and mobile apps that take your ideas to the next level</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=ionic" class="btn btn-primary rounded-pill" style="margin-top: 25px; color: #fff;">Hire Ionic Developers</a>
+               </div>
+               <!--/column -->
+               <div class="col-lg-6">
+                 <div class="accordion accordion-wrapper" id="accordionExample">
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingOne">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Strong Java and Kotlin proficiency for robust Android app development.</button>
+                     </div>
+                     <!--/.card-header -->
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingTwo">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Experience in UI/UX design for seamless user experiences.</button>
+                     </div>
+                     <!--/.card-header -->
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingThree">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Deep knowledge of Android SDK and frameworks for efficient development.</button>
+                     </div>
+                     <!--/.card-header -->
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingFour">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Expertise in API integration and third-party libraries for enhanced functionality.</button>
+                     </div>
+                     <!--/.card-header -->
 
-<!--section ends-->
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingFour">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Debugging skills for efficient bug resolution and app optimization.</button>
+                     </div>
+                     <!--/.card-header -->
+
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                   <div class="card plain accordion-item">
+                     <div class="card-header" id="headingFour">
+                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Adaptability to new technologies and industry trends for cutting-edge app solutions.</button>
+                     </div>
+                     <!--/.card-header -->
+
+                     <!--/.accordion-collapse -->
+                   </div>
+                   <!--/.accordion-item -->
+                 </div>
+                 <!--/.accordion -->
+               </div>
+               <!--/column -->
+               <!--<div class="col-lg-6 col-xl-5 mx-auto text-center">
+                   <h2 class="display-6 mb-3">Take a look at our talent pool</h2>
+                   <p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
+                   <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Show Talents</a>
+               </div>-->
+             </div>
+             <!--/.row -->
+           </div>
+           <!--/.card-body -->
+         </div>
+         <!--/.card -->
+       </div>
+       <!-- /.container -->
+
+     </section>
+     <!-- /section -->
+
+     <!--section ends-->
 
 
-
-
-<!--section starts-->
+     <!--section starts-->
 
 <section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
   <div class="container py-14 py-md-5">
@@ -239,144 +369,285 @@
 
 <!--section ends-->
 
-  <!--section ends-->
 
 
+     <!--section starts-->
 
+     <section class="wrapper bg-light">
+       <div class="container py-14 py-md-16 text-center">
+         <div class="row">
+           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire Ionic Developers in 24 Hours</h2>
+             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top Ionic Developers Remotely</h3>
+           </div>
+           <!-- /column -->
+         </div>
+         <!-- /.row -->
+         <div class="position-relative">
+           <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
+           <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
+           <div class="row gx-md-5 gy-5 text-center">
+             <div class="col-md-6 col-xl-3">
+               <div class="card shadow-lg">
+                 <div class="card-body">
+                   <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
+                   <h4 style="padding-top: 15px;">Role Essentials</h4>
+                   <p class="mb-2">Define job responsibilities, required skills and experience for the role.</p>
+                 </div>
+                 <!--/.card-body -->
+               </div>
+               <!--/.card -->
+             </div>
+             <!--/column -->
+             <div class="col-md-6 col-xl-3">
+               <div class="card shadow-lg">
+                 <div class="card-body">
+                   <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
+                   <h4 style="padding-top: 15px;">Talent Hunt</h4>
+                   <p class="mb-2">Find top talent matching job specifications from a vast pool.</p>
+                 </div>
+                 <!--/.card-body -->
+               </div>
+               <!--/.card -->
+             </div>
+             <!--/column -->
+             <div class="col-md-6 col-xl-3">
+               <div class="card shadow-lg">
+                 <div class="card-body">
+                   <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
+                   <h4 style="padding-top: 15px;">Assess Candidates</h4>
+                   <p class="mb-2">Interview to evaluate technical expertise, soft skills, and experience.</p>
+                 </div>
+                 <!--/.card-body -->
+               </div>
+               <!--/.card -->
+             </div>
+             <!--/column -->
+             <div class="col-md-6 col-xl-3">
+               <div class="card shadow-lg">
+                 <div class="card-body">
+                   <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
+                   <!--svg-inject-->
+                   <h4 style="padding-top: 15px;">Seal the Deal</h4>
+                   <p class="mb-2">Select the best fit for company needs and culture, then onboard.</p>
 
-<!--section starts-->
+                 </div>
+                 <!--/.card-body -->
+               </div>
+               <!--/.card -->
+             </div>
+             <!--/column -->
+           </div>
+           <!--/.row -->
+         </div>
+         <!-- /.position-relative -->
+       </div>
+       <!-- /.container -->
+     </section>
+     <!-- /section -->
 
+     <!--section ends-->
 
+     <!--section starts-->
 
+     <section class="wrapper bg-light" style="margin-top: -50px;">
+       <div class="container py-14 py-md-16">
+           <div class="row text-center">
+               <div class="col-xl-10 mx-auto">
+                   <h3 class="display-4 mb-10 px-xxl-15">Embrace the Mastery of Remote Ionic Developers for Cross-Platform Excellence!</h3>
+                   <p style="margin-top: -25px;">Find skilled remote Ionic developers for your web and mobile apps. Cross-platform expertise, rapid development, and native-like experiences</p>
+               </div>
+               <!-- /column -->
+           </div><br><br><br>
+         <div class="row gx-md-8 gx-xl-12 gy-10">
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Cross-Platform Development</h4>
+                 <p class="mb-0">Ionic developers can build apps that run on multiple platforms like iOS, Android, and the web, saving time and effort.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Cost-Effective Solution</h4>
+                 <p class="mb-0">Developing with Ionic reduces costs as it allows for code reuse across platforms, minimizing development and maintenance expenses.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Rapid Development</h4>
+                 <p class="mb-0">Ionic offers pre-built UI components and ready-to-use plugins, enabling faster app development and shorter time-to-market.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Native-like User Experience</h4>
+                 <p class="mb-0">Ionic developers create apps with native-like performance and user experience, providing a seamless and responsive interface.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Plugin Integration</h4>
+                 <p class="mb-0">Ionic developers can easily integrate native device features and functionalities using a wide range of plugins.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Angular Framework</h4>
+                 <p class="mb-0">Ionic is built on the popular Angular framework, empowering developers to leverage its powerful features and ecosystem.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Active Community Support</h4>
+                 <p class="mb-0">The Ionic community is active and supportive, providing resources, tutorials, and plugins to help developers overcome challenges.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+           <div class="col-lg-6">
+             <div class="d-flex flex-row">
+               <div>
+                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+               </div>
+               <div>
+                 <h4>Scalability and Flexibility</h4>
+                 <p class="mb-0">Ionic apps are highly scalable, allowing developers to add new features and scale the app as the business grows.</p>
+               </div>
+             </div>
+           </div>
+           <!-- /column -->
+         </div>
+         <!-- /.row -->
+       </div>
+       <!-- /.container -->
+     </section>
+     <!-- /section -->
 
-<!--section starts-->
+     <!--section ends-->
 
-<section class="wrapper bg-light">
-  <div class="container py-14 py-md-16 text-center">
-    <div class="row">
-      <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-        <h2 class="fs-15 text-uppercase text-muted mb-3">Steps to Hire Ionic Developers</h2>
-        <h3 class="display-4 mb-10 px-xl-10">A comprehensive guide to find and hire the best Ionic Developers for your
-            organization.</h3>
-      </div>
-      <!-- /column -->
-    </div>
-    <!-- /.row -->
-    <div class="position-relative">
-      <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-      <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-      <div class="row gx-md-5 gy-5 text-center">
-        <div class="col-md-6 col-xl-3">
-          <div class="card shadow-lg">
-            <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements" loading="lazy"/>
-              <h4 style="padding-top: 15px;">Job Description and Requirements</h4>
-              <p class="mb-2">Gathering the job responsibilities,
-                  skills, and experience required for the position.</p>
-            </div>
-            <!--/.card-body -->
-          </div>
-          <!--/.card -->
-        </div>
-        <!--/column -->
-        <div class="col-md-6 col-xl-3">
-          <div class="card shadow-lg">
-            <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing" loading="lazy"/>
-              <h4 style="padding-top: 15px;">Sourcing <br>Candidates</h4>
-              <p class="mb-2">Search through the pool of top talents to identify
-                  suitable candidates matching the job specifications.</p>
-            </div>
-            <!--/.card-body -->
-          </div>
-          <!--/.card -->
-        </div>
-        <!--/column -->
-        <div class="col-md-6 col-xl-3">
-          <div class="card shadow-lg">
-            <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening" loading="lazy"/>
-              <h4 style="padding-top: 15px;">Screening and Interviewing</h4>
-              <p class="mb-2">Schedule interviews with the selected
-                  candidates to evaluate their technical and soft skills and experience</p>
-            </div>
-            <!--/.card-body -->
-          </div>
-          <!--/.card -->
-        </div>
-        <!--/column -->
-        <div class="col-md-6 col-xl-3">
-          <div class="card shadow-lg">
-            <div class="card-body">
-              <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
-              <!--svg-inject-->
-              <h4 style="padding-top: 15px;">Offer and <br>Onboarding</h4>
-              <p class="mb-2">Based on the evaluation, choose the best
-                  candidate who best fits the needs and culture of the company.</p>
+     <section class="wrapper bg-soft-yellow">
+       <div class="container py-14 py-md-16">
+         <div class="row gx-lg-8 gx-xl-12 gy-10">
+           <div class="col-lg-6 mb-0">
+             <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
+             <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
+           </div>
+           <!--/column -->
+           <div class="col-lg-6">
+             <div id="accordion-3" class="accordion-wrapper">
+               <div class="card accordion-item">
+                 <div class="card-header" id="accordion-heading-3-1">
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What benefits do remote Ionic developers offer compared to in-house developers?</button>
+                 </div>
+                 <!-- /.card-header -->
+                 <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
+                   <div class="card-body">
+                     <p class="fs-14">Remote Ionic developers provide cost savings, access to a global talent pool, flexibility in scaling resources, and diverse expertise. They can deliver high-quality work remotely, ensuring seamless app development.</p>
+                   </div>
+                   <!-- /.card-body -->
+                 </div>
+                 <!-- /.collapse -->
+               </div>
+               <!-- /.card -->
+               <div class="card accordion-item">
+                 <div class="card-header" id="accordion-heading-3-2">
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What skills should I look for in remote Ionic developers?</button>
+                 </div>
+                 <!-- /.card-header -->
+                 <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
+                   <div class="card-body">
+                     <p class="fs-14">Look for developers proficient in Ionic framework, Angular, HTML, CSS, and JavaScript. Familiarity with Cordova/PhoneGap, plugin integration, and UI/UX design principles is also valuable.</p>
+                   </div>
+                   <!-- /.card-body -->
+                 </div>
+                 <!-- /.collapse -->
+               </div>
+               <!-- /.card -->
+               <div class="card accordion-item">
+                 <div class="card-header" id="accordion-heading-3-3">
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Can remote Ionic developers work in agile development environments?</button>
+                 </div>
+                 <!-- /.card-header -->
+                 <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
+                   <div class="card-body">
+                     <p class="fs-14">Yes, remote developers are experienced in agile methodologies and can actively participate in agile practices like sprint planning, daily stand-ups, and retrospectives.</p>
+                   </div>
+                   <!-- /.card-body -->
+                 </div>
+                 <!-- /.collapse -->
+               </div>
+               <!-- /.card -->
+               <div class="card accordion-item">
+                 <div class="card-header" id="accordion-heading-3-4">
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What security measures should I consider when hiring remote Ionic developers?</button>
+                 </div>
+                 <!-- /.card-header -->
+                 <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
+                   <div class="card-body">
+                     <p class="fs-14">Prioritize developers who understand data security best practices and are willing to sign non-disclosure agreements (NDAs) to protect your project's sensitive information.</p>
+                   </div>
+                   <!-- /.card-body -->
+                 </div>
+                 <!-- /.collapse -->
+               </div>
+               <!-- /.card -->
+             </div>
+             <!-- /.accordion-wrapper -->
+           </div>
+           <!--/column -->
+         </div>
+         <!--/.row -->
+       </div>
+       <!-- /.container -->
+     </section>
+     <!-- /section -->
 
-            </div>
-            <!--/.card-body -->
-          </div>
-          <!--/.card -->
-        </div>
-        <!--/column -->
-      </div>
-      <!--/.row -->
-    </div>
-    <!-- /.position-relative -->
-  </div>
-  <!-- /.container -->
-</section>
-<!-- /section -->
+   <!--Section-->
 
 <!--section ends-->
 
-
-
-
-
-  <!--section starts-->
-
-<section class="wrapper bg-soft-orange">
-    <div class="container py-14 py-md-16">
-        <div class="row">
-            <div class="col-lg-11 col-xxl-10 mx-auto text-center">
-              <!--<h2 class="fs-15 text-uppercase text-muted mb-3">FAQ</h2>-->
-              <h3 class="display-4 mb-10 px-lg-12 px-xl-10 px-xxl-15">Hire Remote Ionic Developers with RapidBrains</h3>
-              <p>For companies of all sizes, RapidBrains is a top provider of remote Ionic
-                developers. We know that creating a mobile app can be challenging, which is
-                why we are here to support you. Our developers have the knowledge and
-                expertise required to produce top-notch, cross-platform mobile applications
-                that feel and look native to both iOS and Android devices. Our dedicated team
-                of Ionic developers has created high-performing, natively compiled mobile
-                apps and progressive web apps that have assisted businesses in achieving their
-                objectives. To handle the complex requirements of your mobile app
-                development project, we can offer you a team of dedicated Ionic developers.
-                Our developers have the knowledge and expertise required to complete the
-                project, whether you are looking to create a simple app for your small business
-                or a complex app for a large corporation. Every business is different, and at
-                RapidBrains, we strive to offer solutions that are specially crafted to fit your
-                needs. To find out more about how we can assist you with your upcoming
-                mobile app project, get in touch with us today. We are committed to offering
-                superior, economical solutions that support our clients in achieving their
-                objectives.</p>
-
-            </div>
-            <!--/column -->
-          </div>
-    </div>
-    <!-- /.container -->
-  </section>
-  <!-- /section -->
-
-<!--section ends-->
-
-
-
-
-
-<!--section starts-->
-<!--section starts-->
 @include('services.logo')
 <!-- /section -->
 
@@ -387,4 +658,3 @@
 
 <!--section starts-->
 @endsection
-<!--section ends-->
