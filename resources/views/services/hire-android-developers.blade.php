@@ -374,7 +374,7 @@
        <div class="container py-14 py-md-16 text-center">
          <div class="row">
            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire A Android Developers in 24 Hours</h2>
+             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire Android Developers in 24 Hours</h2>
              <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top Android Developers Remotely</h3>
            </div>
            <!-- /column -->
