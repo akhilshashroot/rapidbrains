@@ -250,7 +250,7 @@
 
      <!--section starts-->
 
-<section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
+<section class="wrapper bg-soft-red" style="padding-top: 50px;">
   <div class="container py-14 py-md-5">
     <h2 class="display-4 mb-3 text-center">Why RapidBrains for Hiring Android Developers?</h2>
     <p class="lead text-center mb-10 px-md-16 px-lg-0">Our Benefits</p>
