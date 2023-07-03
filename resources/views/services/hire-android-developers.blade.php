@@ -562,7 +562,7 @@
 
      <!--section ends-->
 
-     <section class="wrapper bg-soft-blue">
+     <section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
