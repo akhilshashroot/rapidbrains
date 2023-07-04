@@ -172,7 +172,7 @@
                <div class="col-lg-6" style="margin-top: 50px;">
                  <h3 class="display-4 mb-4"> Supercharge Your Team's Success with Remote Flutter Developers.</h3>
                  <p class="lead fs-16 mb-0">Empower your team with remote Flutter developers to supercharge success. Leverage their expertise for high-quality app development and accelerated growth.</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=expressjs" class="btn btn-primary rounded-pill" style="color: #fff;">Hire Flutter Developers</a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=flutter" class="btn btn-primary rounded-pill" style="color: #fff;">Hire Flutter Developers</a>
                </div>
                <!--/column -->
                <div class="col-lg-6">
