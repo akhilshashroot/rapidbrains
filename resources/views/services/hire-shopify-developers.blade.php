@@ -518,10 +518,7 @@ strategically allocate your budget for business growth. </p>
                </div>
                <div>
                  <h4>Agile Collaboration</h4>
-                 <p class="mb-0">RapidBrains ensures seamless remote collaboration with constant
-availability, regular updates, and clear communication. They use project
-management tools, online channels, and video conferencing for efficient
-teamwork, regardless of location</p>
+                 <p class="mb-0">RapidBrains enables seamless remote collaboration with constant availability, updates, clear communication, and efficient teamwork across locations.</p>
                </div>
              </div>
            </div>
