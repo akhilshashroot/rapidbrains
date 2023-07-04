@@ -462,7 +462,7 @@
        <div class="container py-14 py-md-16">
            <div class="row text-center">
                <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">: Boost Your Website's Productivity, Relevance, and Security with Skilled Remote WordPress Developers from RapidBrains</h3>
+                   <h3 class="display-4 mb-10 px-xxl-15">Boost Your Website's Productivity, Relevance, and Security with Skilled Remote WordPress Developers from RapidBrains</h3>
                    <p style="margin-top: -25px;">Hire the best WordPress developers to build Open source applications for rapid business transformation and creation of business value.</p>
                </div>
                <!-- /column -->
