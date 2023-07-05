@@ -147,6 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire ReactJs Developers Remotely in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Revolutionize your app development process with our <br>top-tier ReactJS developers.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -253,7 +254,7 @@
 
 <!--Screening Process Starts-->
 
-<section class="wrapper bg-light">
+<section class="wrapper bg-light" style="margin-top: -85px;">
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
         <!--/column -->
@@ -331,13 +332,19 @@
 
 <!--Section Starts-->
 
-<section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" style="margin-top: -100px;" data-image-src="https://www.rapidbrains.com/assets/img/map.webp">
-  <div class="container py-0 py-md-18">
+<section class="wrapper bg-soft-red">
+  <div class="container py-14 py-md-16">
+    <div class="row mb-8">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled ReactJS developers</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
     <div class="row">
-      <div class="col-lg-6 col-xl-5 mx-auto">
-        <h2 class="display-4 mb-3 text-center">Connect with Top Talent Worldwide!</h2>
-        <p class="lead mb-5 px-md-16 px-lg-3">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled ReactJS developers.</p>
-        <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Hire ReactJs Developers</a>
+      <div class="col-lg-5 mx-auto text-center">
+      <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire ReactJs Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -352,13 +359,13 @@
 
 <!--Section Starts-->
 
-<section class="wrapper" style="margin-top: -50px">
+<section class="wrapper">
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Unlocking the ReactJS Wizardry: Skills for Hiring Top-notch Developers</h3>
         <p class="mb-7">Unlock the Wizardry of ReactJS with our Guide on Must-Have Developer Skills. Discover the expertise that sets exceptional ReactJS developers apart, empowering project success</p>
-        <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
@@ -454,7 +461,7 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-blue">
+     <section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
