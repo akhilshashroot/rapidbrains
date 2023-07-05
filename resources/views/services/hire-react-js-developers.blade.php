@@ -157,404 +157,296 @@
 
          <!-- /.container -->
        </section>
+       
    <!-- /section -->
+
+   <!--section ends-->
+
    <!--section starts-->
 
-   <section class="wrapper bg-soft-red">
-       <div class="container py-14 py-md-16">
-         <div class="card bg-light rounded-4 shadow" style="margin-top: -300px;">
-           <div class="card-body p-md-10 p-xl-11">
-             <div class="row gx-lg-8 gx-xl-12 gy-10">
-               <div class="col-lg-6" style="margin-top: 50px;">
-                 <h3 class="display-4 mb-4">Expand Team By Hiring Dedicated ReactJS Developers</h3>
-                 <p class="lead fs-lg mb-0">Looking to create interactive online apps? Hire ReactJS developers in 24 hours with RapidBrains!</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill" style="color: #fff;">Hire ReactJs Developers</a>
-               </div>
-               <!--/column -->
-               <div class="col-lg-6">
-                 <div class="accordion accordion-wrapper" id="accordionExample">
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingOne">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Scale up your app with skilled ReactJS front-end developers.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingTwo">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Manage UI components with experienced ReactJS developers.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingThree">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Hire top ReactJS developers with expertise in JavaScript, CSS, HTML, and UI/UX.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Need a speedy deployment? Hire ReactJS developers at an unbeatable price.</button>
-                     </div>
-                     <!--/.card-header -->
+   <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+      <div class="col-lg-5 order-lg-2">
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/react.webp" srcset="https://www.rapidbrains.com/assets/img/services/react.webp" alt="React Logo" /></figure>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7">
+        <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
+        <h3 class="display-2 mb-7">Why hire remote React JS developers from RapidBrains?</h3>
+        <p>Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remote ReactJS developers at RapidBrains. With their deep knowledge and experience in ReactJS development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
+        <div class="accordion accordion-wrapper" id="accordionExample">
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingOne">
+              <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>With RapidBrains you can hire pre-screened remote talents with strong technical and communication skills at unbeatable rates when compared to our competitors.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingTwo">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Upskilling and training</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>We upskill and train your employees from time-to-time to help them with a staged career progression. Or if you want to train an employee for a specific skillset we got you covered.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingThree">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Custom Hiring Process </button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>Our recruiting team can adapt to any of your processes - be it a machine test, multiple rounds of interviews, our candidates will show their best.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingFour">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">No lock-in period</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+        </div>
+        <!--/.accordion -->
+      </div>
+      <!--/column -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Get devoted and dedicated ReactJS engineers with advanced tools and methods.</button>
-                     </div>
-                     <!--/.card-header -->
+<!--section ends-->
 
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Value your investment with on-time project delivery from our experts.</button>
-                     </div>
-                     <!--/.card-header -->
+<!--Screening Process Starts-->
 
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                 </div>
-                 <!--/.accordion -->
-               </div>
-               <!--/column -->
-               <!--<div class="col-lg-6 col-xl-5 mx-auto text-center">
-                   <h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-                   <p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-                   <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Show Talents</a>
-               </div>-->
-             </div>
-             <!--/.row -->
-           </div>
-           <!--/.card-body -->
-         </div>
-         <!--/.card -->
-       </div>
-       <!-- /.container -->
+<section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+        <!--/column -->
+      <div class="col-lg-5">
+        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
+        <h3 class="display-4 mb-5">Our service is meticulously tailored to meet your specific requirements</h3>
+        <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7 order-lg-2">
+          <div class="row gx-md-5 gy-5">
+          <div class="col-md-5 offset-md-1 align-self-end">
+            <div class="card bg-pale-yellow">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/telephone-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
+                <h4>Attitude Check</h4>
+                <p class="mb-0">Communication and attitude are crucial in candidate screening. We ensure they're a good fit for your company.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-end">
+            <div class="card bg-pale-red">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
+                <h4>Reviewing Skill Sets</h4>
+                <p class="mb-0">Skill-set evaluation is crucial. RapidBrains administers technology-specific screening tests to ensure candidates possess the necessary expertise.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-5">
+            <div class="card bg-pale-leaf">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
+                <h4>Experience Screening</h4>
+                <p class="mb-0">RapidBrains meticulously evaluates employee experience through rigorous interviews and tests.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-start">
+            <div class="card bg-pale-primary">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
+                <h4>Background Verification</h4>
+                <p class="mb-0">We conduct extensive background checks to verify the authenticity of our employees.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+        </div>
+        <!--/.row -->
+      </div>
 
-     </section>
-     <!-- /section -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-     <!--section ends-->
+<!--Screening process ends-->
+
+<!--Talent Pool-->
+
+<!--Section Starts-->
+
+<section class="wrapper image-wrapper bg-auto no-overlay bg-image text-center py-14 py-md-16 bg-map" style="margin-top: -100px;" data-image-src="https://www.rapidbrains.com/assets/img/map.webp">
+  <div class="container py-0 py-md-18">
+    <div class="row">
+      <div class="col-lg-6 col-xl-5 mx-auto">
+        <h2 class="display-4 mb-3 text-center">Connect with Top Talent Worldwide!</h2>
+        <p class="lead mb-5 px-md-16 px-lg-3">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled ReactJS developers.</p>
+        <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Hire ReactJs Developers</a>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Section Ends-->
 
 
-     <!--section starts-->
+<!--Section Starts-->
 
-     <section class="wrapper bg-soft-red" style="padding-top: -50px;">
-       <div class="container py-14 py-md-5">
-         <h2 class="display-4 mb-3 text-center">Unlock Productivity with Remote ReactJS Devs from RapidBrains</h2>
-         <p class="lead text-center mb-10 px-md-16 px-lg-0">Our Benefits</p>
-         <div class="row">
-           <div class="col-lg-6 mb-0">
-             <div id="accordion-1" class="accordion-wrapper">
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-1-1">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Cost-effective</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
-                   <div class="card-body">
-                     <p>Reduced overhead costs make them a value proposition for small & medium enterprises.</p>
-                   </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-1-2">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Flexibility</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
-                   <div class="card-body">
-                     <p>Adjust workload and hours according to project needs without location constraints.
-                       </p>
-                     </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-1-3">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Expertise</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
-                   <div class="card-body">
-                     <p>Access to skilled ReactJS developers with specialized knowledge and experience.</p>
-                   </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-             </div>
-             <!-- /.accordion-wrapper -->
-           </div>
-           <!--/column -->
-           <div class="col-lg-6">
-               <div id="accordion-2" class="accordion-wrapper">
-                   <div class="card accordion-item">
-                     <div class="card-header" id="accordion-heading-2-1">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-1" aria-expanded="true" aria-controls="accordion-collapse-2-1">Time-saving</button>
-                     </div>
-                     <!-- /.card-header -->
-                     <div id="accordion-collapse-2-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
-                       <div class="card-body">
-                         <p>Leverage different time zones to maintain constant project progress and complete projects in time.</p>
-                         </div>
-                       <!-- /.card-body -->
-                     </div>
-                     <!-- /.collapse -->
-                   </div>
-                   <!-- /.card -->
-             <div id="accordion-2" class="accordion-wrapper">
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-2-2">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Scalability</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                   <div class="card-body">
-                     <p>Easily expand or reduce team size based on project requirements without any lock-in commitments.</p>
-                     </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-2-3">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Global Talent</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
-                   <div class="card-body">
-                     <p>Access top-tier talent from around the world, not limited by geographical boundaries.</p>
-                     </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-             </div>
-             <!-- /.accordion-wrapper -->
-           </div>
-           <!--/column -->
-         </div>
-         <!--/.row -->
-       </div>
-       <!-- /.container -->
-       </div>
-     </section>
+<section class="wrapper" style="margin-top: -50px">
+  <div class="container py-14 py-md-16">
+    <div class="row d-flex align-items-start gy-10">
+      <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
+        <h3 class="display-3 mb-5">Unlocking the ReactJS Wizardry: Skills for Hiring Top-notch Developers</h3>
+        <p class="mb-7">Unlock the Wizardry of ReactJS with our Guide on Must-Have Developer Skills. Discover the expertise that sets exceptional ReactJS developers apart, empowering project success</p>
+        <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6 ms-auto">
+        <div class="card bg-soft-fuchsia mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="./assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Strong ReactJS Knowledge</h3>
+              <p class="mb-0">The developer should have a deep understanding of ReactJS concepts, such as components, JSX syntax, state management, and lifecycle methods.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-aqua mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="./assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Proficiency in JavaScript</h3>
+              <p class="mb-0"> Strong JavaScript skills are crucial as ReactJS heavily relies on JavaScript for building interactive user interfaces. JavaScript proficiency is for scalable ReactJS code</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-yellow mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="./assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Experience with React Libraries and Tools</h3>
+              <p class="mb-0">The ability to leverage react libraries and tools effectively enhances development efficiency and enables integration of additional functionalities into ReactJS applications</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-leaf mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="./assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">CSS and Styling</h3>
+              <p class="mb-0">React developers should be proficient in CSS and styling methodologies like CSS-in-JS or CSS modules to create visually appealing user interfaces.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        
+        <div class="card bg-soft-orange mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="./assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Understanding of Web Technologies</h3>
+              <p class="mb-0">Knowledge of HTML, CSS, and DOM manipulation is essential for seamless integration of React components into web applications.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-grape">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="./assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Problem-Solving and Communication skills</h3>
+              <p class="mb-0">Problem-solving skills, and communication, are essential. Exceptional ReactJs developers adeptly tackle complex issues, ensuring smooth progress and optimal outcomes.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-     <!--section ends-->
+<!--Section Ends-->
 
-     <!--section starts-->
-
-     <section class="wrapper bg-light">
-       <div class="container py-14 py-md-16 text-center">
-         <div class="row">
-           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire A ReactJS Developers in 24 Hours</h2>
-             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top ReactJS Developers Remotely</h3>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-         <div class="position-relative">
-           <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-           <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-           <div class="row gx-md-5 gy-5 text-center">
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Role Essentials</h4>
-                   <p class="mb-2">Define job responsibilities, required skills and experience for the role.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
-                   <h4 style="padding-top: 15px;">Talent Hunt</h4>
-                   <p class="mb-2">Find top talent matching job specifications from a vast pool.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Assess Candidates</h4>
-                   <p class="mb-2">Interview to evaluate technical expertise, soft skills, and experience.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
-                   <!--svg-inject-->
-                   <h4 style="padding-top: 15px;">Seal the Deal</h4>
-                   <p class="mb-2">Select the best fit for company needs and culture, then onboard.</p>
-
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-           </div>
-           <!--/.row -->
-         </div>
-         <!-- /.position-relative -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-     <!--section starts-->
-
-     <section class="wrapper bg-light" style="margin-top: -50px;">
-       <div class="container py-14 py-md-16">
-           <div class="row text-center">
-               <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">RapidBrains: Your Go-To for Expert Remote ReactJS Developers</h3>
-                   <p style="margin-top: -25px;">Empowering Innovation with Top-Notch ReactJS Talent & Unleashing Excellence in ReactJS Development Remotely</p>
-               </div>
-               <!-- /column -->
-           </div><br><br><br>
-         <div class="row gx-md-8 gx-xl-12 gy-10">
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Creative & Skilled</h4>
-                 <p class="mb-0">Are you looking for innovative and high-quality solutions? Look no further than hiring ReactJS developers, who can bring cutting-edge technology and expertise to your projects</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Cross-Platform Apps</h4>
-                 <p class="mb-0">Transform your concepts into dynamic and feature-rich applications that cater to your unique needs with our expert application development services.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Expert Front-End Designs</h4>
-                 <p class="mb-0">Maximize your user interface potential by hiring dedicated ReactJS developers with expertise in UI design and development.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>User-Focused Approach</h4>
-                 <p class="mb-0">Elevate your application development with advanced and user-centric applications that provide a seamless user experience with our expert team.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Scalable Solutions</h4>
-                 <p class="mb-0">Ensure a seamless user experience for all with our responsive web app development services, suitable for businesses of all sizes.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Customized Web Apps</h4>
-                 <p class="mb-0">Get robust, tailored applications that address your specific business needs and help you achieve your goals with our expert development team.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Diverse Experience</h4>
-                 <p class="mb-0">Tap into vast expertise in ReactJS development by hiring our talented developers from India, providing top-notch services for your project.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Cost-Effective Talent</h4>
-                 <p class="mb-0">Access top industry professionals for your project at an unbeatable price point with our team of skilled developers.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
+<!--Section Starts-->
 
      <section class="wrapper bg-soft-blue">
        <div class="container py-14 py-md-16">
