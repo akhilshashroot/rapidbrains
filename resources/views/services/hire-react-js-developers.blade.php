@@ -359,7 +359,7 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="./assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Strong ReactJS Knowledge</h3>
@@ -372,7 +372,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="./assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in JavaScript</h3>
@@ -385,7 +385,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="./assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Experience with React Libraries and Tools</h3>
@@ -398,7 +398,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="./assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">CSS and Styling</h3>
@@ -412,7 +412,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="./assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Understanding of Web Technologies</h3>
@@ -425,7 +425,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="./assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Problem-Solving and Communication skills</h3>
