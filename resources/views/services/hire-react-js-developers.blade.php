@@ -260,7 +260,7 @@
         <!--/column -->
       <div class="col-lg-5">
         <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
-        <h3 class="display-4 mb-5">Our service is meticulously tailored to meet your specific requirements</h3>
+        <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
         <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
             <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
       </div>
@@ -363,7 +363,7 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Unlocking the ReactJS Wizardry: Skills for Hiring Top-notch Developers</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Reactjs Developers</h3>
         <p class="mb-7">Unlock the Wizardry of ReactJS with our Guide on Must-Have Developer Skills. Discover the expertise that sets exceptional ReactJS developers apart, empowering project success</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
