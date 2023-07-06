@@ -389,7 +389,7 @@
               
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Familiarity With Automation Tools</h3>
+              <h3 class="fs-21 mb-2">Familiarity with Automation Tools</h3>
               <p class="mb-0">Automation tools for efficient software delivery. Expertise in build, test, and deployment pipelines.</p>
             </div>
           </div>
