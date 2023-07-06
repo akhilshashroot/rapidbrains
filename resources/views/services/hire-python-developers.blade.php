@@ -111,6 +111,12 @@
 
 
    }
+   @media (min-width: 992px) {
+  .col-lg-5 {
+    top: 8rem;
+    position: sticky;
+    }
+  }
    </style>
    <!--<section class="wrapper bg-gray">
      <div class="container pt-12 pt-md-16 text-center">
@@ -134,15 +140,14 @@
            <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
            <div class="row position-relative">
              <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
-             <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/pie.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/scribble.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/pie.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/scribble.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+               <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Python Developers Remotely in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Discover a pool of highly skilled remote Python
-                  developers available for immediate hire. Accelerate your projects
-                  with their expertise and drive towards success</p>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Python Developer</h1>
+                 <p class="lead fs-18 mb-8">Supercharge your app development with our top-tier Python developers,<br> skilled in crafting innovative solutions</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=python" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -159,431 +164,304 @@
 
          <!-- /.container -->
        </section>
+       
    <!-- /section -->
+
+   <!--section ends-->
+
    <!--section starts-->
 
-   <section class="wrapper bg-soft-red">
-       <div class="container py-14 py-md-16">
-         <div class="card bg-light rounded-4 shadow" style="margin-top: -300px;">
-           <div class="card-body p-md-10 p-xl-11">
-             <div class="row gx-lg-8 gx-xl-12 gy-10">
-               <div class="col-lg-6" style="margin-top: 50px;">
-                 <h3 class="display-4 mb-4">Elevate Your Team's Efficiency with Remote Python Developers</h3>
-                 <p class="lead fs-16 mb-0">Maximize your team's efficiency with remote Python developers. Leverage their expertise and streamline your projects for optimal productivity with RapidBrains!</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=python" class="btn btn-primary rounded-pill" style="color: #fff;">Hire Python Developers</a>
-               </div>
-               <!--/column -->
-               <div class="col-lg-6">
-                 <div class="accordion accordion-wrapper" id="accordionExample">
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingOne">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Scale your operations with top remote Python developers from RapidBrains.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingTwo">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Ensure smooth operations and consistent infrastructure remotely.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingThree">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">You can count on our Python developer for timely updates and maintenance.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Secure your Python applications and optimize your workflows with our
-                        Python developer.</button>
-                     </div>
-                     <!--/.card-header -->
+   <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+      <div class="col-lg-5 order-lg-2">
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-python.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-python.webp" alt="Python Logo" /></figure>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7">
+        <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
+        <h3 class="display-2 mb-7">Why Hire Remote Python Developers From Rapidbrains?</h3>
+        <p>Leverage the power of our remote Python developers and witness the transformation of your projects into successful ventures. Tap into their extensive expertise to optimize productivity and streamline workflows. Trust our skilled professionals to seamlessly integrate with your team and deliver exceptional outcomes.</p>
+        <div class="accordion accordion-wrapper" id="accordionExample">
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingOne">
+              <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>With RapidBrains you can hire pre-screened remote talents with strong technical and communication skills at unbeatable rates when compared to our competitors.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingTwo">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Upskilling and training</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>We upskill and train your employees from time-to-time to help them with a staged career progression. Or if you want to train an employee for a specific skillset we got you covered.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingThree">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Custom Hiring Process </button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>Our recruiting team can adapt to any of your processes - be it a machine test, multiple rounds of interviews, our candidates will show their best.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingFour">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">No lock-in period</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+        </div>
+        <!--/.accordion -->
+      </div>
+      <!--/column -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Efficiently manage cross-platform connections, security, and automation
-                        remotely.
-                        </button>
-                     </div>
-                     <!--/.card-header -->
+<!--section ends-->
 
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Get the latest Python updates and security patches</button>
-                     </div>
-                     <!--/.card-header -->
+<!--Screening Process Starts-->
 
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                 </div>
-                 <!--/.accordion -->
-               </div>
-               <!--/column -->
-               <!--<div class="col-lg-6 col-xl-5 mx-auto text-center">
-                   <h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-                   <p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-                   <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Show Talents</a>
-               </div>-->
-             </div>
-             <!--/.row -->
-           </div>
-           <!--/.card-body -->
-         </div>
-         <!--/.card -->
-       </div>
-       <!-- /.container -->
+<section class="wrapper bg-light" style="margin-top: -85px;">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+        <!--/column -->
+      <div class="col-lg-5">
+        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
+        <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
+        <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7 order-lg-2">
+          <div class="row gx-md-5 gy-5">
+          <div class="col-md-5 offset-md-1 align-self-end">
+            <div class="card bg-pale-yellow">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/telephone-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
+                <h4>Attitude Check</h4>
+                <p class="mb-0">Communication and attitude are crucial in candidate screening. We ensure they're a good fit for your company.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-end">
+            <div class="card bg-pale-red">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
+                <h4>Reviewing Skill Sets</h4>
+                <p class="mb-0">Skill-set evaluation is crucial. RapidBrains administers technology-specific screening tests to ensure candidates possess the necessary expertise.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-5">
+            <div class="card bg-pale-leaf">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
+                <h4>Experience Screening</h4>
+                <p class="mb-0">RapidBrains meticulously evaluates employee experience through rigorous interviews and tests.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-start">
+            <div class="card bg-pale-primary">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
+                <h4>Background Verification</h4>
+                <p class="mb-0">We conduct extensive background checks to verify the authenticity of our employees.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+        </div>
+        <!--/.row -->
+      </div>
 
-     </section>
-     <!-- /section -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-     <!--section ends-->
+<!--Screening process ends-->
+
+<!--Talent Pool-->
+
+<!--Section Starts-->
+
+<section class="wrapper bg-soft-red">
+  <div class="container py-14 py-md-16">
+    <div class="row mb-8">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you access a wide range of talented Python developers, ready to meet your development needs</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+    <div class="row">
+      <div class="col-lg-5 mx-auto text-center">
+      <a href="https://talents.rapidbrains.com/filter?skill=python" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Python Developers <i class="uil uil-arrow-up-right"></i></a>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Section Ends-->
 
 
-     <!--section starts-->
+<!--Section Starts-->
 
-     <section class="wrapper bg-soft-red" style="padding-top: -50px;">
-       <div class="container py-14 py-md-5">
-         <h2 class="display-4 mb-3 text-center">Ignite Business Success with Python Developers <br> Unlocking Growth Opportunities</h2>
-         <p class="lead text-center mb-10 px-md-16 px-lg-0">Our Benefits</p>
-         <div class="row">
-           <div class="col-lg-6 mb-0">
-             <div id="accordion-1" class="accordion-wrapper">
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-1-1">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Cost-effective</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
-                   <div class="card-body">
-                     <p>Reduced overhead costs make them a value proposition for small & medium enterprises.</p>
-                   </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-1-2">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Flexibility</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
-                   <div class="card-body">
-                     <p>Adjust workload and hours according to project needs without location constraints.
-                       </p>
-                     </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-1-3">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Expertise</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
-                   <div class="card-body">
-                     <p>Access to skilled Python developers with specialized knowledge and experience.</p>
-                   </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-             </div>
-             <!-- /.accordion-wrapper -->
-           </div>
-           <!--/column -->
-           <div class="col-lg-6">
-               <div id="accordion-2" class="accordion-wrapper">
-                   <div class="card accordion-item">
-                     <div class="card-header" id="accordion-heading-2-1">
-                       <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-1" aria-expanded="true" aria-controls="accordion-collapse-2-1">Time-saving</button>
-                     </div>
-                     <!-- /.card-header -->
-                     <div id="accordion-collapse-2-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-1" data-bs-target="#accordion-2">
-                       <div class="card-body">
-                         <p>Leverage different time zones to maintain constant project progress and complete projects in time.</p>
-                         </div>
-                       <!-- /.card-body -->
-                     </div>
-                     <!-- /.collapse -->
-                   </div>
-                   <!-- /.card -->
-             <div id="accordion-2" class="accordion-wrapper">
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-2-2">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Scalability</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                   <div class="card-body">
-                     <p>Easily expand or reduce team size based on project requirements without any lock-in commitments.</p>
-                     </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-               <div class="card accordion-item">
-                 <div class="card-header" id="accordion-heading-2-3">
-                   <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Global Talent</button>
-                 </div>
-                 <!-- /.card-header -->
-                 <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
-                   <div class="card-body">
-                     <p>Access top-tier talent from around the world, not limited by geographical boundaries.</p>
-                     </div>
-                   <!-- /.card-body -->
-                 </div>
-                 <!-- /.collapse -->
-               </div>
-               <!-- /.card -->
-             </div>
-             <!-- /.accordion-wrapper -->
-           </div>
-           <!--/column -->
-         </div>
-         <!--/.row -->
-       </div>
-       <!-- /.container -->
-       </div>
-     </section>
+<section class="wrapper">
+  <div class="container py-14 py-md-16">
+    <div class="row d-flex align-items-start gy-10">
+      <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Python Developers</h3>
+        <p class="mb-7">Unlock the Power of Python: Your Guide to Essential Skills for Remote Python Developer Opportunities. Discover the Expertise that Sets Apart Remote Python Developers, Enabling Project Success</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6 ms-auto">
+        <div class="card bg-soft-fuchsia mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Solid Python Proficiency</h3>
+              <p class="mb-0">The developer must possess a comprehensive grasp of Python, encompassing core language concepts, libraries, and functionalities essential for web development.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-aqua mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Web Frameworks</h3>
+              <p class="mb-0">Familiarity with popular Python web frameworks such as Django or Flask, and understanding how to build robust and scalable web applications.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-yellow mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Database Management</h3>
+              <p class="mb-0">Knowledge of working with databases, including experience with SQL and understanding of ORM (Object-Relational Mapping) concepts.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-leaf mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Problem-Solving Abilities</h3>
+              <p class="mb-0">Strong analytical and problem-solving skills to tackle complex challenges, optimize code performance, and debug issues effectively.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        
+        <div class="card bg-soft-orange mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Knowledge of Development Tools</h3>
+              <p class="mb-0">Familiarity with development tools and technologies such as Git for version control, virtual environments, and package managers like pip.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-grape">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Collaboration and Communication</h3>
+              <p class="mb-0">Ability to work well in a team environment, collaborate with other developers, and effectively communicate ideas and solutions.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-     <!--section ends-->
+<!--Section Ends-->
 
-     <!--section starts-->
+<!--Section Starts-->
 
-     <section class="wrapper bg-light">
-       <div class="container py-14 py-md-16 text-center">
-         <div class="row">
-           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire A Python Developers in 24 Hours</h2>
-             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top Python Developers Remotely</h3>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-         <div class="position-relative">
-           <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-           <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-           <div class="row gx-md-5 gy-5 text-center">
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Role Essentials</h4>
-                   <p class="mb-2">Define job responsibilities, required skills and experience for the role.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
-                   <h4 style="padding-top: 15px;">Talent Hunt</h4>
-                   <p class="mb-2">Find top talent matching job specifications from a vast pool.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Assess Candidates</h4>
-                   <p class="mb-2">Interview to evaluate technical expertise, soft skills, and experience.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
-                   <!--svg-inject-->
-                   <h4 style="padding-top: 15px;">Seal the Deal</h4>
-                   <p class="mb-2">Select the best fit for company needs and culture, then onboard.</p>
-
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-           </div>
-           <!--/.row -->
-         </div>
-         <!-- /.position-relative -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-     <!--section starts-->
-
-     <section class="wrapper bg-light" style="margin-top: -50px;">
-       <div class="container py-14 py-md-16">
-           <div class="row text-center">
-               <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">RapidBrains: Harness the Expertise of Python Developers,
-                    Empowering Progress.</h3>
-                   <p style="margin-top: -25px;">Unleash unlimited opportunities with top-notch remote Python developers,
-                    fueling innovation and driving remarkable success.
-                    </p>
-               </div>
-               <!-- /column -->
-           </div><br><br><br>
-         <div class="row gx-md-8 gx-xl-12 gy-10">
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Driven Development</h4>
-                 <p class="mb-0">Embark on a journey through the forefront
-                  of contemporary application development, guided by proficient Python developers,
-                  and elevate your digital products to new heights.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Accelerate Python Development</h4>
-                 <p class="mb-0">Automate and streamline processes to empower
-                  your team in delivering high-quality software efficiently.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Market-Ready Solutions</h4>
-                 <p class="mb-0">Unleash your potential in a dynamic market with our
-                  solutions. Boost competitiveness, adapt swiftly, and exceed customer expectations
-                  with innovative and reliable software that fulfills their needs flawlessly.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Reliable Operations</h4>
-                 <p class="mb-0">Ensure uninterrupted operations for Python
-                  developers with our solutions, minimizing outages and reducing downtime.
-                  Always keep your software available.
-                  </p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Seamless Dispatch</h4>
-                 <p class="mb-0">Boost your efficiency as a Python developer with continuous
-                  integration, delivery, and deployment—the foundation of modern software
-                  development.
-                  </p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Rapid Release Cycle</h4>
-                 <p class="mb-0">Achieve a competitive edge with our solutions that enable you
-                  to accelerate development cycles, rapidly introduce new features, and deliver cuttingedge software at an unprecedented pace.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Robust Software Delivery</h4>
-                 <p class="mb-0">Safeguard the stability of your Python software with our
-                  specialized testing and monitoring tools. Detect issues at an early stage, optimize
-                  your development workflow, and deliver top-notch, dependable software to your
-                  clients with unwavering reliability.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Collaborative Python Development</h4>
-                 <p class="mb-0">Promote effective collaboration and close the
-                  gap between development and operations teams using our tailored solutions.
-                  Streamline teamwork, align with business goals, and deliver Python software that
-                  meets customer needs with precision.
-                  </p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-     <section class="wrapper bg-soft-orange">
+     <section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
@@ -602,10 +480,7 @@
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">At RapidBrains, we have a team of highly experienced and skilled Python
-                      developers. Our developers possess extensive hands-on experience in building
-                      robust and efficient Python applications. They stay up-to-date with the latest trends
-                      and best practices in Python development to deliver high-quality solutions.</p>
+                     <p class="fs-14">At RapidBrains, we have a team of highly experienced and skilled Python developers. Our developers possess extensive hands-on experience in building robust and efficient Python applications. They stay up-to-date with the latest trends and best practices in Python development to deliver high-quality solutions.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -619,10 +494,7 @@
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Absolutely! RapidBrains offers the flexibility to hire dedicated remote Python
-                      developers for your project. By hiring a dedicated developer, you gain full control
-                      over the development process and ensure focused attention on your project's
-                      specific requirements.</p>
+                     <p class="fs-14">Absolutely! RapidBrains offers the flexibility to hire dedicated remote Python developers for your project. By hiring a dedicated developer, you gain full control over the development process and ensure focused attention on your project's specific requirements.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -636,12 +508,7 @@
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">The hiring process at RapidBrains is simple and streamlined. Once you share
-                      your project requirements with us, our team will assess your needs and provide you
-                      with suitable profiles of experienced Python developers. You can review these
-                      profiles, conduct interviews, and select the developer who best aligns with your
-                      project requirements. We prioritize a smooth onboarding process to quickly initiate
-                      your project.</p>
+                     <p class="fs-14">The hiring process at RapidBrains is simple and streamlined. Once you share your project requirements with us, our team will assess your needs and provide you with suitable profiles of experienced Python developers. You can review these profiles, conduct interviews, and select the developer who best aligns with your project requirements. We prioritize a smooth onboarding process to quickly initiate your project.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -655,10 +522,7 @@
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, we understand the importance of confidentiality and data security.
-                      RapidBrains prioritizes the protection of your project details and information. We
-                      are committed to signing non-disclosure agreements (NDAs) to ensure the
-                      confidentiality and security of your sensitive data.</p>
+                     <p class="fs-14">Yes, we understand the importance of confidentiality and data security. RapidBrains prioritizes the protection of your project details and information. We are committed to signing non-disclosure agreements (NDAs) to ensure the confidentiality and security of your sensitive data.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
