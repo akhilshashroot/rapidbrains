@@ -442,7 +442,7 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="megaphone" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">EEffective Communication</h3>
+              <h3 class="fs-21 mb-2">Effective Communication</h3>
               <p class="mb-0">Their clear and responsive communication skills, combined with their ability to effectively collaborate remotely, ensure smooth project execution, timely updates, and seamless coordination.</p>
             </div>
           </div>

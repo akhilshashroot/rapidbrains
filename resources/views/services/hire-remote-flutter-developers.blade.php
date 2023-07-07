@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -111,6 +111,12 @@
 
 
    }
+   @media (min-width: 992px) {
+  .col-lg-5 {
+    top: 8rem;
+    position: sticky;
+    }
+  }
    </style>
    <!--<section class="wrapper bg-gray">
      <div class="container pt-12 pt-md-16 text-center">
@@ -126,7 +132,6 @@
      <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="https://www.rapidbrains.com/assets/img/photos/Web Banner-min.jpg
    " alt="RapidBrains Home" /></figure>
    </section>-->
-   
    <section class="wrapper overflow-hidden image-wrapper" id="sect-bg" style="padding-bottom: 240px" >
 
 
@@ -140,8 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Flutter Developers Remotely in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Unlock the Potential of Global Flutter Developers for Trusted, <br> Innovative Cross-Platform Solutions!</p>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated Flutter Developers</h1>
+                 <p class="lead fs-18 mb-8"> Hire a highly experienced Flutter developer to build effective and user-friendly apps for web and mobile platforms.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=flutter" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -158,430 +164,304 @@
 
          <!-- /.container -->
        </section>
+       
    <!-- /section -->
+
+   <!--section ends-->
+
    <!--section starts-->
 
-   <section class="wrapper bg-soft-red">
-       <div class="container py-14 py-md-16">
-         <div class="card bg-light rounded-4 shadow" style="margin-top: -300px;">
-           <div class="card-body p-md-10 p-xl-11">
-             <div class="row gx-lg-8 gx-xl-12 gy-10">
-               <div class="col-lg-6" style="margin-top: 50px;">
-                 <h3 class="display-4 mb-4"> Supercharge Your Team's Success with Remote Flutter Developers.</h3>
-                 <p class="lead fs-16 mb-0">Empower your team with remote Flutter developers to supercharge success. Leverage their expertise for high-quality app development and accelerated growth.</p><br>
-                 <a href="https://talents.rapidbrains.com/filter?skill=flutter" class="btn btn-primary rounded-pill" style="color: #fff;">Hire Flutter Developers</a>
-               </div>
-               <!--/column -->
-               <div class="col-lg-6">
-                 <div class="accordion accordion-wrapper" id="accordionExample">
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingOne">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Scale your projects with top-notch remote Flutter developers from RapidBrains.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingTwo">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Achieve flawless performance and exceptional functionality remotely</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingThree">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Trust our Flutter developers for prompt updates and maintenance.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Fortify your Flutter applications' security and optimize your workflows with our 
-                        experts</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Seamlessly handle cross-platform integration, security, and automation remotely.</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Stay ahead with the latest Flutter updates and security patches</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                 </div>
-                 <!--/.accordion -->
-               </div>
-               <!--/column -->
-               <!--<div class="col-lg-6 col-xl-5 mx-auto text-center">
-                   <h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-                   <p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-                   <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Show Talents</a>
-               </div>-->
-             </div>
-             <!--/.row -->
-           </div>
-           <!--/.card-body -->
-         </div>
-         <!--/.card -->
-       </div>
-       <!-- /.container -->
-
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-
-     <!--section starts-->
-
-     <section class="wrapper bg-soft-red" style="padding-top: 50px;">
-         <div class="container py-14 py-md-5">
-           <h2 class="display-4 mb-3 text-center">How Remote Flutter Developers<br> Make differences
-         </h2>
-           <p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>
-           <div class="row">
-             <div class="col-lg-6 mb-0">
-               <div id="accordion-1" class="accordion-wrapper">
-                 <div class="card accordion-item">
-                   <div class="card-header" id="accordion-heading-1-1">
-                     <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Flexibility</button>
-                   </div>
-                   <!-- /.card-header -->
-                   <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
-                     <div class="card-body">
-                       <p>By teaming up remote Flutter developers, you may scale Flutter developers as
-                         necessary to achieve your business goals.
-                         </p>
-                     </div>
-                     <!-- /.card-body -->
-                   </div>
-                   <!-- /.collapse -->
-                 </div>
-                 <!-- /.card -->
-                 <div class="card accordion-item">
-                   <div class="card-header" id="accordion-heading-1-2">
-                     <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Experienced Flutter Developers</button>
-                   </div>
-                   <!-- /.card-header -->
-                   <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
-                     <div class="card-body">
-                       <p>Our Flutter developers are highly experienced and talented in creating secure,
-                         responsive, and compatible Flutter mobile applications.
-                          </div>
-                     <!-- /.card-body -->
-                   </div>
-                   <!-- /.collapse -->
-                 </div>
-                 <!-- /.card -->
-                 <div class="card accordion-item">
-                   <div class="card-header" id="accordion-heading-1-3">
-                     <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Customized App Development Services</button>
-                   </div>
-                   <!-- /.card-header -->
-                   <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
-                     <div class="card-body">
-                       <p>Remote Flutter experts are well versed in Flutter technology that offers
-                         customized and creative unique mobile applications.</p>
-                     </div>
-                     <!-- /.card-body -->
-                   </div>
-                   <!-- /.collapse -->
-                 </div>
-                 <!-- /.card -->
-               </div>
-               <!-- /.accordion-wrapper -->
-             </div>
-             <!--/column -->
-             <div class="col-lg-6">
-                 <div id="accordion-2" class="accordion-wrapper">
-                     <div class="card accordion-item">
-                       <div class="card-header" id="accordion-heading-2-2">
-                         <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Cost and Time Efficiency</button>
-                       </div>
-                       <!-- /.card-header -->
-                       <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                         <div class="card-body">
-                           <p>Hiring Flutter developers remotely saves time and cost by making the
-                             procedures swift and efficient.</p>
-                           </div>
-                         <!-- /.card-body -->
-                       </div>
-                       <!-- /.collapse -->
-                     </div>
-                     <!-- /.card -->
-               <div id="accordion-2" class="accordion-wrapper">
-                 <div class="card accordion-item">
-                   <div class="card-header" id="accordion-heading-2-2">
-                     <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Quick Support and Maintenance Response</button>
-                   </div>
-                   <!-- /.card-header -->
-                   <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                     <div class="card-body">
-                       <p>By hiring remote Flutter developers, quick support and maintenance in
-                         emergencies, queries or concerns are available round the clock
-     
-       </p>
-                       </div>
-                     <!-- /.card-body -->
-                   </div>
-                   <!-- /.collapse -->
-                 </div>
-                 <!-- /.card -->
-                 <div class="card accordion-item">
-                   <div class="card-header" id="accordion-heading-2-3">
-                     <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Clean Coding Practice</button>
-                   </div>
-                   <!-- /.card-header -->
-                   <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
-                     <div class="card-body">
-                       <p>Guaranteed top-notch Flutter apps that are secure, reliable, and bug-free by
-                         adhering to effective and clean development techniques.
-                         </p>
-                       </div>
-                     <!-- /.card-body -->
-                   </div>
-                   <!-- /.collapse -->
-                 </div>
-                 <!-- /.card -->
-               </div>
-               <!-- /.accordion-wrapper -->
-             </div>
-             <!--/column -->
-           </div>
-           <!--/.row -->
-         </div>
-         <!-- /.container -->
-         </div>
-       </section>
-     
-       <!--section ends-->
-
-     <!--section starts-->
-
-     <section class="wrapper bg-light">
-       <div class="container py-14 py-md-16 text-center">
-         <div class="row">
-           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire Flutter Developers in 24 Hours</h2>
-             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top Flutter Developers Remotely</h3>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-         <div class="position-relative">
-           <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-           <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-           <div class="row gx-md-5 gy-5 text-center">
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Role Essentials</h4>
-                   <p class="mb-2">Define job responsibilities, required skills and experience for the role.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
-                   <h4 style="padding-top: 15px;">Talent Hunt</h4>
-                   <p class="mb-2">Find top talent matching job specifications from a vast pool.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Assess Candidates</h4>
-                   <p class="mb-2">Interview to evaluate technical expertise, soft skills, and experience.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
-                   <!--svg-inject-->
-                   <h4 style="padding-top: 15px;">Seal the Deal</h4>
-                   <p class="mb-2">Select the best fit for company needs and culture, then onboard.</p>
-
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-           </div>
-           <!--/.row -->
-         </div>
-         <!-- /.position-relative -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-
-     <!--section ends-->
-
-     <!--section starts-->
-
-     <section class="wrapper bg-light" style="margin-top: -50px;">
-       <div class="container py-14 py-md-16">
-           <div class="row text-center">
-               <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">Drive Success with Skilled Remote Flutter Developers from 
-                    RapidBrains.</h3>
-                   <p style="margin-top: -25px;">Unleash the Potential of Expert Flutter Developers, Igniting Innovation and Achieving 
-                    Remarkable Results</p>
-               </div>
-               <!-- /column -->
-           </div><br><br><br>
-         <div class="row gx-md-8 gx-xl-12 gy-10">
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Empowering Flutter Development</h4>
-                 <p class="mb-0">Experience the forefront of app development guided by our 
-                    proficient Flutter developers, taking your digital products to new heights.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Turbocharge Flutter Development</h4>
-                 <p class="mb-0"> Streamline processes and automate tasks, enabling your 
-                    team to deliver high-quality software with speed and efficiency.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Market-Ready Solutions</h4>
-                 <p class="mb-0">Gain a competitive edge in a dynamic market with our solutions. 
-                    Propel your business forward and exceed customer expectations with innovative 
-                    and reliable flutter applications</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Reliable Operations</h4>
-                 <p class="mb-0">Ensure uninterrupted operations for Flutter developers with 
-                    our solutions, minimizing disruptions and maximizing uptime for your software.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Seamless Deployment</h4>
-                 <p class="mb-0">Boost productivity as a Flutter developer with seamless integration, 
-                    continuous delivery, and efficient deployment - the pillars of modern software development..</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Agile Release Cycle</h4>
-                 <p class="mb-0">Stay ahead of the competition with our solutions that enable rapid 
-                    development cycles, quick feature deployments, and cutting-edge software releases.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-            <div class="d-flex flex-row">
-              <div>
-                <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+   <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+      <div class="col-lg-5 order-lg-2">
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-flutter.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-flutter.webp" alt="MERN Stack Logo" /></figure>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7">
+        <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
+        <h3 class="display-2 mb-7">Why hire remote Flutter developers from RapidBrains?</h3>
+        <p>Hiring remote Flutter developers from our team at RapidBrains provides the advantage of tapping into a skilled pool of experts with a profound knowledge of Flutter development. Our developers are adept at creating powerful and cross-platform applications, tailored to meet your unique business requirements, delivering robust and seamless user experiences.</p>
+        <div class="accordion accordion-wrapper" id="accordionExample">
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingOne">
+              <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>With RapidBrains you can hire pre-screened remote talents with strong technical and communication skills at unbeatable rates when compared to our competitors.</p>
               </div>
-              <div>
-                <h4>Robust Software Delivery</h4>
-                <p class="mb-0">Fortify your Flutter applications with our comprehensive testing 
-                    and monitoring tools. Identify and address issues early and deliver top-notch software with unwavering stability.</p>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingTwo">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Upskilling and training</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>We upskill and train your employees from time-to-time to help them with a staged career progression. Or if you want to train an employee for a specific skillset we got you covered.</p>
               </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingThree">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Custom Hiring Process </button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>Our recruiting team can adapt to any of your processes - be it a machine test, multiple rounds of interviews, our candidates will show their best.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingFour">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">No lock-in period</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+        </div>
+        <!--/.accordion -->
+      </div>
+      <!--/column -->
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--section ends-->
+
+<!--Screening Process Starts-->
+
+<section class="wrapper bg-light" style="margin-top: -85px;">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+        <!--/column -->
+      <div class="col-lg-5">
+        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
+        <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
+        <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7 order-lg-2">
+          <div class="row gx-md-5 gy-5">
+          <div class="col-md-5 offset-md-1 align-self-end">
+            <div class="card bg-pale-yellow">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/telephone-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
+                <h4>Attitude Check</h4>
+                <p class="mb-0">Communication and attitude are crucial in candidate screening. We ensure they're a good fit for your company.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-end">
+            <div class="card bg-pale-red">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
+                <h4>Reviewing Skill Sets</h4>
+                <p class="mb-0">Skill-set evaluation is crucial. RapidBrains administers technology-specific screening tests to ensure candidates possess the necessary expertise.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-5">
+            <div class="card bg-pale-leaf">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
+                <h4>Experience Screening</h4>
+                <p class="mb-0">RapidBrains meticulously evaluates employee experience through rigorous interviews and tests.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-start">
+            <div class="card bg-pale-primary">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
+                <h4>Background Verification</h4>
+                <p class="mb-0">We conduct extensive background checks to verify the authenticity of our employees.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+        </div>
+        <!--/.row -->
+      </div>
+
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Screening process ends-->
+
+<!--Talent Pool-->
+
+<!--Section Starts-->
+
+<section class="wrapper bg-soft-red">
+  <div class="container py-14 py-md-16">
+    <div class="row mb-8">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Flutter developers</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+    <div class="row">
+      <div class="col-lg-5 mx-auto text-center">
+      <a href="https://talents.rapidbrains.com/filter?skill=flutter" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Flutter Developers <i class="uil uil-arrow-up-right"></i></a>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Section Ends-->
+
+
+<!--Section Starts-->
+
+<section class="wrapper">
+  <div class="container py-14 py-md-16">
+    <div class="row d-flex align-items-start gy-10">
+      <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Flutter Developers</h3>
+        <p class="mb-7">Hiring remote Flutter developers is a strategic decision for businesses aiming to develop exceptional cross-platform applications. However, finding skilled and reliable remote Flutter developers can be a daunting task. To assist you in the hiring process, here are some crucial skills to consider when seeking remote Flutter developers.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6 ms-auto">
+        <div class="card bg-soft-fuchsia mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/target.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="target" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Strong Dart Programming</h3>
+              <p class="mb-0">Proficiency to develop Flutter applications by applying the Dart programming language.</p>
             </div>
           </div>
-          <!-- /column -->
-          <div class="col-lg-6">
-            <div class="d-flex flex-row">
-              <div>
-                <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-              </div>
-              <div>
-                <h4>Collaborative Flutter Development:</h4>
-                <p class="mb-0">Promote collaboration, streamline teamwork, and deliver tailored Flutter apps that align with business objectives and customer needs.</p>
-              </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-aqua mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check-list" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Flutter Framework knowledge</h3>
+              <p class="mb-0"> A thorough comprehension of and hands-on involvement with the Flutter framework.</p>
             </div>
           </div>
-          <!-- /column -->
-         </div>
-         <!-- /.row -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-yellow mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/workflow.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="workflow" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Cross-Platform Development</h3>
+              <p class="mb-0">An elementary understanding of developing cross-platform mobile applications for iOS and Android.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-leaf mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/menu.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="menu" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">State Management</h3>
+              <p class="mb-0">Familiarity with state management solutions like Provider, Bloc, or MobX.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        
+        <div class="card bg-soft-orange mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="settings" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Firebase Integration</h3>
+              <p class="mb-0">Knowledge of integrating Firebase services like Authentication, Cloud Messaging, and Firestore.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-grape">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="rocket" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Version Control</h3>
+              <p class="mb-0">Familiarity with Git and using version control systems for collaborative development.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-     <!--section ends-->
+<!--Section Ends-->
 
-     <section class="wrapper bg-soft-yellow">
+<!--Section Starts-->
+
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
@@ -669,12 +549,6 @@
        <!-- /.container -->
      </section>
      <!-- /section -->
-
-   <!--Section-->
-
-<!--section ends-->
-
-   <!--Section-->
 
 <!--section ends-->
 
