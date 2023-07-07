@@ -372,7 +372,7 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="Browser" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="Browser" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2">Supremacy of the PHP</h3>
@@ -385,7 +385,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="settings" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="settings" />
               
             </div>
             <div>
@@ -426,7 +426,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="shield" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="shield" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Recognising security best practices</h3>
@@ -439,7 +439,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="megaphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="megaphone" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Communication and documentation skills</h3>
