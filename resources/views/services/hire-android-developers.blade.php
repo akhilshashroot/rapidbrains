@@ -425,7 +425,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="check" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Knowledge of Testing and Quality Assurance</h3>
@@ -438,7 +438,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loading.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="loading" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loading.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="loading" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Continuous Learning</h3>
