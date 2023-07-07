@@ -429,7 +429,7 @@
             <img src="https://www.rapidbrains.com/assets/img/icons/lineal/ranking.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="ranking" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">SEO Optimizationt</h3>
+              <h3 class="fs-21 mb-2">SEO Optimization</h3>
               <p class="mb-0">With a comprehensive understanding of SEO best practices, they have the knowledge and skills to optimize your store, improve its search engine visibility, and drive organic traffic.</p>
             </div>
           </div>
