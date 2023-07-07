@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -111,6 +111,12 @@
 
 
    }
+   @media (min-width: 992px) {
+  .col-lg-5 {
+    top: 8rem;
+    position: sticky;
+    }
+  }
    </style>
    <!--<section class="wrapper bg-gray">
      <div class="container pt-12 pt-md-16 text-center">
@@ -139,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Shopify devs for seamless eCommerce.</h1>
-                 <p class="lead fs-16 mb-8">Unleash the power of our skilled remote Shopify developers to boost
-growth and create an exceptional user experience</p>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Shopify Developers</h1>
+                 <p class="lead fs-18 mb-8">Hiring a skilled Shopify developer enables you to create a customized and thriving e-commerce platform that meets your business requirements.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -158,395 +164,305 @@ growth and create an exceptional user experience</p>
 
          <!-- /.container -->
        </section>
+       
    <!-- /section -->
+
+   <!--section ends-->
+
    <!--section starts-->
 
-   <section class="wrapper bg-soft-yellow">
-       <div class="container py-14 py-md-16">
-         <div class="card bg-light rounded-4 shadow" style="margin-top: -300px;">
-           <div class="card-body p-md-10 p-xl-11">
-             <div class="row gx-lg-8 gx-xl-12 gy-10">
-               <div class="col-lg-6" style="margin-top: 50px;">
-                 <h3 class="display-4 mb-4">Empower Your eCommerce Store with Remote Shopify Developers</h3>
-                 <p class="lead fs-16 mb-0">Boost your eCommerce store's performance with skilled remote Shopify developers, maximizing growth and success.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-primary rounded-pill" style="margin-top: 25px; color: #fff;">Hire Shopify Developers</a>
-               </div>
-               <!--/column -->
-               <div class="col-lg-6">
-                 <div class="accordion accordion-wrapper" id="accordionExample">
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingOne">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Elevate your eCommerce store with skilled remote Shopify developers for a stronger online presence.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingTwo">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> Leverage cutting-edge Shopify development solutions to outshine your competition.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingThree">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Need a swift launch? Engage remote Shopify developers at an unbeatable price for fast deployment.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Access the expertise of devoted and dedicated remote Shopify developers armed with advanced tools and methodologies.</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Ensure optimal value for your investment with our remote Shopify experts, committed to timely project delivery.</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                 </div>
-                 <!--/.accordion -->
-               </div>
-               <!--/column -->
-               <!--<div class="col-lg-6 col-xl-5 mx-auto text-center">
-                   <h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-                   <p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-                   <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Show Talents</a>
-               </div>-->
-             </div>
-             <!--/.row -->
-           </div>
-           <!--/.card-body -->
-         </div>
-         <!--/.card -->
-       </div>
-       <!-- /.container -->
-
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-
-     <!--section starts-->
-
-<section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
-  <div class="container py-14 py-md-5">
-    <h2 class="display-4 mb-3 text-center">Why Hire our Shopify Developers</h2><br>
-    <p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>
-    <div class="row">
-      <div class="col-lg-6 mb-0">
-        <div id="accordion-1" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-1">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Expertise in e-Commerce</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>With their expertise in developing, Shopify developers can make sure that your
-                    website is user-friendly and has the capacity to handle high traffic and sales.
-                    </p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Customization capabilities</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>By hiring a Shopify developer, you can give your store a unique and
-                    customized design that will help it stand out in the e-commerce space.
-                    </p>
-            </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">Faster development</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>Our skilled remote developers can work quickly to complete your project on
-                    schedule and within your set budget.
-                    </p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-        </div>
-        <!-- /.accordion-wrapper -->
+   <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+      <div class="col-lg-5 order-lg-2">
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-shopify.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-shopify.webp" alt="Shopify Logo" /></figure>
       </div>
       <!--/column -->
-      <div class="col-lg-6">
-          <div id="accordion-2" class="accordion-wrapper">
-              <div class="card accordion-item">
-                <div class="card-header" id="accordion-heading-2-2">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Security and compliance</button>
-                </div>
-                <!-- /.card-header -->
-                <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                  <div class="card-body">
-                    <p>The security features of the platform are familiar to Shopify developers and
-                        can ensure that your store complies with all applicable rules and regulations.
-                        </p>
-                    </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.collapse -->
+      <div class="col-lg-7">
+        <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
+        <h3 class="display-2 mb-7">Why hire remote Shopify developers from RapidBrains?</h3>
+        <p>Hiring remote Shopify developers from RapidBrains offers the advantage of accessing a talented pool of experts who possess a deep understanding Shopify, ensuring the development of robust and scalable e-commerce solutions tailored to your specific business needs.</p>
+        <div class="accordion accordion-wrapper" id="accordionExample">
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingOne">
+              <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>With RapidBrains you can hire pre-screened remote talents with strong technical and communication skills at unbeatable rates when compared to our competitors.</p>
               </div>
-              <!-- /.card -->
-        <div id="accordion-2" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-2-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Cost savings</button>
+              <!--/.card-body -->
             </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-              <div class="card-body">
-                <p>Hiring remote developers can help you save money on overhead expenses like
-                    office rent and tools.</p>
-                </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
+            <!--/.accordion-collapse -->
           </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-2-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Scalability</button>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingTwo">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Upskilling and training</button>
             </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
+            <!--/.card-header -->
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
               <div class="card-body">
-                <p>Shopify developers can assist you in scaling your store as your business
-                    expands to handle more customers and revenue.</p>
-                </div>
-              <!-- /.card-body -->
+                <p>We upskill and train your employees from time-to-time to help them with a staged career progression. Or if you want to train an employee for a specific skillset we got you covered.</p>
+              </div>
+              <!--/.card-body -->
             </div>
-            <!-- /.collapse -->
+            <!--/.accordion-collapse -->
           </div>
-          <!-- /.card -->
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingThree">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Custom Hiring Process </button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>Our recruiting team can adapt to any of your processes - be it a machine test, multiple rounds of interviews, our candidates will show their best.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingFour">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">No lock-in period</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
         </div>
-        <!-- /.accordion-wrapper -->
+        <!--/.accordion -->
       </div>
       <!--/column -->
     </div>
     <!--/.row -->
   </div>
   <!-- /.container -->
-  </div>
 </section>
+<!-- /section -->
 
 <!--section ends-->
 
+<!--Screening Process Starts-->
+
+<section class="wrapper bg-light" style="margin-top: -85px;">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+        <!--/column -->
+      <div class="col-lg-5">
+        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
+        <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
+        <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7 order-lg-2">
+          <div class="row gx-md-5 gy-5">
+          <div class="col-md-5 offset-md-1 align-self-end">
+            <div class="card bg-pale-yellow">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/telephone-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
+                <h4>Attitude Check</h4>
+                <p class="mb-0">Communication and attitude are crucial in candidate screening. We ensure they're a good fit for your company.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-end">
+            <div class="card bg-pale-red">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
+                <h4>Reviewing Skill Sets</h4>
+                <p class="mb-0">Skill-set evaluation is crucial. RapidBrains administers technology-specific screening tests to ensure candidates possess the necessary expertise.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-5">
+            <div class="card bg-pale-leaf">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
+                <h4>Experience Screening</h4>
+                <p class="mb-0">RapidBrains meticulously evaluates employee experience through rigorous interviews and tests.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-start">
+            <div class="card bg-pale-primary">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
+                <h4>Background Verification</h4>
+                <p class="mb-0">We conduct extensive background checks to verify the authenticity of our employees.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+        </div>
+        <!--/.row -->
+      </div>
+
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Screening process ends-->
+
+<!--Talent Pool-->
+
+<!--Section Starts-->
+
+<section class="wrapper bg-soft-red">
+  <div class="container py-14 py-md-16">
+    <div class="row mb-8">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Shopify developers</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+    <div class="row">
+      <div class="col-lg-5 mx-auto text-center">
+      <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Shopify Developers <i class="uil uil-arrow-up-right"></i></a>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Section Ends-->
 
 
-     <!--section starts-->
+<!--Section Starts-->
 
-     <section class="wrapper bg-light">
-       <div class="container py-14 py-md-16 text-center">
-         <div class="row">
-           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire Shopify Developers in 24 Hours</h2>
-             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top Shopify Developers Remotely</h3>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-         <div class="position-relative">
-           <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-           <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-           <div class="row gx-md-5 gy-5 text-center">
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Role Essentials</h4>
-                   <p class="mb-2">Define job responsibilities, required skills and experience for the role.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
-                   <h4 style="padding-top: 15px;">Talent Hunt</h4>
-                   <p class="mb-2">Find top talent matching job specifications from a vast pool.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Assess Candidates</h4>
-                   <p class="mb-2">Interview to evaluate technical expertise, soft skills, and experience.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
-                   <!--svg-inject-->
-                   <h4 style="padding-top: 15px;">Seal the Deal</h4>
-                   <p class="mb-2">Select the best fit for company needs and culture, then onboard.</p>
+<section class="wrapper">
+  <div class="container py-14 py-md-16">
+    <div class="row d-flex align-items-start gy-10">
+      <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Shopify Developers</h3>
+        <p class="mb-7">Hiring remote Shopify developers is a strategic decision for businesses aiming to build exceptional e-commerce solutions. However, finding skilled and reliable remote Shopify developers can be a challenging task. To assist you in the hiring process, here are some essential skills to look for when hiring remote Shopify developers.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6 ms-auto">
+        <div class="card bg-soft-fuchsia mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/computer.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="computer" /> 
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Proficiency in Shopify</h3>
+              <p class="mb-0">Expertise in Shopify's features and app integration enables them to create customized e-commerce solutions that elevate your online store's functionality and user experience.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-aqua mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser" />
+              
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Front-end Development Skills</h3>
+              <p class="mb-0">Strong command of HTML, CSS, and javaScript, they possess the skills needed to craft visually appealing and engaging designs that leave a lasting impression on your customers.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-yellow mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="settings" /> 
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Shopify Liquid</h3>
+              <p class="mb-0">Proficiency in working with Shopify's versatile and dynamic templating language empowers them to effectively customize themes and ensure a visually stunning experience for your customers.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-leaf mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src=" https://www.rapidbrains.com/assets/img/icons/lineal/menu.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="menu" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">App Integration</h3>
+              <p class="mb-0">With their extensive experience in integrating and configuring a wide range of third-party apps, they possess the expertise to seamlessly enhance your store's functionality.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        
+        <div class="card bg-soft-orange mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/ranking.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="ranking" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">SEO Optimizationt</h3>
+              <p class="mb-0">With a comprehensive understanding of SEO best practices, they have the knowledge and skills to optimize your store, improve its search engine visibility, and drive organic traffic.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-grape">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="megaphone" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">EEffective Communication</h3>
+              <p class="mb-0">Their clear and responsive communication skills, combined with their ability to effectively collaborate remotely, ensure smooth project execution, timely updates, and seamless coordination.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-           </div>
-           <!--/.row -->
-         </div>
-         <!-- /.position-relative -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
+<!--Section Ends-->
 
-     <!--section ends-->
+<!--Section Starts-->
 
-     <!--section starts-->
-
-     <section class="wrapper bg-light" style="margin-top: -50px;">
-       <div class="container py-14 py-md-16">
-           <div class="row text-center">
-               <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">Unlock Success with RapidBrains' Remote Shopify Developers: Your Trusted E-Commerce Solution Experts</h3>
-                   <p style="margin-top: -25px;">Unlock e-commerce success with RapidBrains' remote Shopify developers. Trust our expertise for reliable, scalable solutions. Drive sales and growth!</p>
-               </div>
-               <!-- /column -->
-           </div><br><br><br>
-         <div class="row gx-md-8 gx-xl-12 gy-10">
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Unleash Excellence</h4>
-                 <p class="mb-0">RapidBrains excels in Shopify development. Their skilled
-developers create custom themes, plugins, optimize performance, and solve complex
-Shopify-related challenges</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>User-Focused Approach</h4>
-                 <p class="mb-0">RapidBrains prioritizes user-centric solutions, creating
-engaging, intuitive experiences that drive sales. They understand your audience, optimize
-usability, and exceed customer expectations.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Scaling New Heights</h4>
-                 <p class="mb-0"> As your business grows, RapidBrains' Remote Shopify
-Developers build scalable solutions with best practices in code, database,
-and infrastructure. Handle increasing traffic and sales without
-compromising performance or stability</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Cost-Effectiveness</h4>
-                 <p class="mb-0"> Save costs by hiring Remote Shopify Developers from RapidBrains.
-Tap into skilled talent at competitive rates, avoid infrastructure expenses, and
-strategically allocate your budget for business growth. </p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Agile Collaboration</h4>
-                 <p class="mb-0">RapidBrains enables seamless remote collaboration with constant availability, updates, clear communication, and efficient teamwork across locations.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Cross-Platform Apps</h4>
-                 <p class="mb-0">Empower your ideas with our skilled
-developers, transforming them into dynamic and feature-rich applications tailored to your
-specific needs.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
