@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Android Developers</h1>
-                 <p class="lead fs-18 mb-8">Unlock the power of our Superior developers. Accelerate your app development with novel solutions.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=android" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire React Native Developers Remotely in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">By adopting our React native developers full capabilities and being forthcoming with novel ideas, you can accelerate their development of your apps.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=react-native" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-android.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-android.webp" alt="MERN Stack Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-native.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-native.webp" alt="MERN Stack Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Android developers from RapidBrains?</h3>
-        <p>Hiring remote Android developers from RapidBrains allows you to leverage their expertise in Android development, access a global talent pool, and benefit from cost-effectiveness, timely delivery, and effective communication for seamless project execution.</p>
+        <h3 class="display-2 mb-7">Why hire remote React Native developers from RapidBrains?</h3>
+        <p>By engaging skilled React Native developers from RapidBrains, you can leverage their platform expertise, tap into an extensive talent pool, benefit from cost-effectiveness, prompt project delivery, and seamless communication, ensuring smooth execution of your projects.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Android developers</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled React Native developers</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=android" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Android Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=react-native" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire React Native Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,8 +363,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Android Developers</h3>
-        <p class="mb-7">Finding the right person for the job is crucial for the success of your project. Android is the most popular mobile operating system, and with millions of apps available on the Google Play Store, it's essential to find a skilled and competent developer.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote React Native Developers</h3>
+        <p class="mb-7">Hiring remote React Native developers is a strategic move for businesses looking to build exceptional mobile applications. finding skilled and reliable remote React Native developers can be a challenging task. To help you in your hiring process, here are some essential skills to look for when hiring remote React Native developers.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -375,8 +375,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="Search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency in Java and Kotlin</h3>
-              <p class="mb-0">Android devs must master Java & Kotlin, write clean code, use libraries/APIs, and manage memory effectively.</p>
+              <h3 class="fs-21 mb-2">React Native knowledge</h3>
+              <p class="mb-0">Expertise in the framework, practical experience, and a track record of managing complex projects are essential traits for remote React Native developers.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -388,8 +388,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Experience with Frameworks</h3>
-              <p class="mb-0">Familiarity with Retrofit, Dagger, RxJava is desirable. Streamline dev process and build robust Android apps.</p>
+              <h3 class="fs-21 mb-2">Strong JavaScript Fundamentals</h3>
+              <p class="mb-0">Essential for remote React Native devs: strong JavaScript foundation ,functional & async programming proficiency. Enables robust React Native app development.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +398,11 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/workflow.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="workflow" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">UI/UX Design Skills</h3>
-              <p class="mb-0">Good design eye, XML proficiency, Material Design knowledge, and intuitive UX are vital for an exceptional Android dev.</p>
+              <h3 class="fs-21 mb-2">Cross-Platform Development Expertise</h3>
+              <p class="mb-0">Seek remote React Native devs skilled in cross-platform devs design adaptable UIs, utilize platform-specific features effectively.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +411,11 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-2.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="Settings" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="Smartphone" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Knowledge of Backend Integration</h3>
-              <p class="mb-0">Solid RESTful API understanding, JSON handling, secure communication are essential for Android devs.</p>
+              <h3 class="fs-21 mb-2">Knowledge of Native Mobile Development</h3>
+              <p class="mb-0">React Native benefits from native dev knowledge. Swift (iOS) or Java/Kotlin (Android) familiarity enables platform-specific features and scalability.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +425,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="check" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/files.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="files" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Knowledge of Testing and Quality Assurance</h3>
-              <p class="mb-0">Dev's must excel in unit, integration, UI testing, Familiarity with Espresso, JUnit for flawless app functionality.</p>
+              <h3 class="fs-21 mb-2">Native Modules & Third-Party Libraries</h3>
+              <p class="mb-0">With integration proficiency and a keen ability to leverage libraries for enhanced features, they ensure optimal app functionality and user experience.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +438,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loading.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="loading" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/clock-3.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="Clock" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Continuous Learning</h3>
-              <p class="mb-0">Android dev must embrace change, stay updated, learn new trends/tools, deliver cutting-edge solutions.</p>
+              <h3 class="fs-21 mb-2">Self-Motivation & Time Management</h3>
+              <p class="mb-0">Self-driven, deadline-oriented, with a proven track record of timely delivery, they consistently strive for excellence in every project they undertake.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -475,12 +475,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I find remote Android developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I go about hiring remote React Native developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">You can find remote Android developers through various platforms like job boards, freelance websites, and professional networking sites. You can also partner with remote staffing agencies or reach out to development firms specializing in remote work.</p>
+                     <p class="fs-14">RapidBrains offers a straightforward process for hiring remote React Native developers. You can easily explore our pool of talent, evaluate their profiles, and choose the developers that align with your requirements. We streamline the entire hiring journey, from initial screening to final selection.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +489,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What qualifications should I look for in remote Android developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What skill sets do your remote React Native developers possess?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Look for developers with strong proficiency in Android SDK, Java, Kotlin, and relevant frameworks. Experience in app development, knowledge of design patterns, and familiarity with version control systems are also important.</p>
+                     <p class="fs-14">Our remote React Native developers possess a comprehensive skill set that includes expertise in JavaScript, the React Native framework, and mobile app development. They excel in building cross-platform applications, integrating APIs, handling navigation, managing state, and optimizing performance. Moreover, they have proficiency in front-end technologies like HTML, CSS, and more.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +503,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How can I assess the skills of remote Android developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Is it possible to review the profiles of developers before making a hiring decision?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Conduct technical interviews and code assessments to evaluate their knowledge and problem-solving abilities. Additionally, reviewing their past projects and requesting code samples can provide insights into their coding style and quality.</p>
+                     <p class="fs-14">Certainly! Prior to hiring, you have the opportunity to review the profiles of our remote React Native developers. These profiles provide in-depth insights into their experience, skills, past projects, and technical proficiencies. By assessing these profiles, you can effectively evaluate their suitability for your project and make an informed hiring choice.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +517,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How can remote Android developers ensure effective communication?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do you ensure the quality of remote React Native development?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Remote developers should have good communication skills and be adept at using collaboration tools like video conferencing, project management software, and messaging platforms to maintain regular communication and updates.</p>
+                     <p class="fs-14">Ensuring top-notch quality in remote React Native development is a primary focus at RapidBrains. We maintain high standards by employing a rigorous screening process to select highly skilled developers. Moreover, we foster open communication and collaboration between clients and developers to ensure clarity of requirements and adherence to best practices. Our team provides project management support and conducts regular code reviews to uphold quality standards. Ultimately, client satisfaction is of utmost importance, and we promptly address any concerns to deliver a high-quality end product.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
