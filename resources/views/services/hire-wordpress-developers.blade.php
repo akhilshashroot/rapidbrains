@@ -111,6 +111,12 @@
 
 
    }
+   @media (min-width: 992px) {
+  .col-lg-5 {
+    top: 8rem;
+    position: sticky;
+    }
+  }
    </style>
    <!--<section class="wrapper bg-gray">
      <div class="container pt-12 pt-md-16 text-center">
@@ -140,7 +146,8 @@
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire WordPress Developers Remotely in 24 Hours!</h1>
-                 <p class="lead fs-16 mb-8">Get skilled WordPress developers hired remotely for your projects within just 24 hours, ensuring quick and efficient website development and customization.</p>
+                 <p class="lead fs-18 mb-8">Hire a WordPress developer with proficiency in building user-friendly and efficient websites and web applications.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=wordpress" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -157,407 +164,305 @@
 
          <!-- /.container -->
        </section>
+       
    <!-- /section -->
-   <!--section starts-->
 
-   <section class="wrapper bg-soft-red">
-       <div class="container py-14 py-md-16">
-         <div class="card bg-light rounded-4 shadow" style="margin-top: -300px;">
-           <div class="card-body p-md-10 p-xl-11">
-             <div class="row gx-lg-8 gx-xl-12 gy-10">
-               <div class="col-lg-6" style="margin-top: 50px;">
-                 <h3 class="display-4 mb-4">Unleash remote WordPress wizards for an elevated website experience!</h3>
-                 <p class="lead fs-16 mb-0">Experience the magic of remote WordPress wizards who will elevate your website to new heights, delivering a seamless and captivating user experience with their expertise and innovative solutions.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=wordpress" class="btn btn-primary rounded-pill" style="margin-top: 25px; color: #fff;">Hire WordPress Developers</a>
-               </div>
-               <!--/column -->
-               <div class="col-lg-6">
-                 <div class="accordion accordion-wrapper" id="accordionExample">
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingOne">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Skilled in dynamic front-end development using WordPress for immersive user experiences.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingTwo">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Seamlessly integrate WordPress plugins for enhanced functionality and customization</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingThree">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">WordPress expert for full-stack development, end-to-end solutions.</button>
-                     </div>
-                     <!--/.card-header -->
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Experienced in creating custom WordPress themes for unique and visually appealing websites</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">WordPress e-commerce pro, optimizing seamless transactions</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                   <div class="card plain accordion-item">
-                     <div class="card-header" id="headingFour">
-                       <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Optimize WordPress for visibility and organic traffic</button>
-                     </div>
-                     <!--/.card-header -->
-
-                     <!--/.accordion-collapse -->
-                   </div>
-                   <!--/.accordion-item -->
-                 </div>
-                 <!--/.accordion -->
-               </div>
-               <!--/column -->
-               <!--<div class="col-lg-6 col-xl-5 mx-auto text-center">
-                   <h2 class="display-6 mb-3">Take a look at our talent pool</h2>
-                   <p class="lead mb-5 px-md-16 px-lg-3">Salary starts from $1200/month</p>
-                   <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-primary rounded-pill">Show Talents</a>
-               </div>-->
-             </div>
-             <!--/.row -->
-           </div>
-           <!--/.card-body -->
-         </div>
-         <!--/.card -->
-       </div>
-       <!-- /.container -->
-
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
+   <!--section ends-->
 
    <!--section starts-->
 
-<section class="wrapper bg-soft-yellow" style="padding-top: 50px;">
-  <div class="container py-14 py-md-5">
-    <h2 class="display-4 mb-3 text-center">Why Hire Remote WordPress Developers from RapidBrains</h2><br>
-    <p class="lead text-center mb-10 px-md-16 px-lg-0">Benefits</p>
-    <div class="row">
-      <div class="col-lg-6 mb-0">
-        <div id="accordion-1" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-1">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-1" aria-expanded="true" aria-controls="accordion-collapse-1-1">Skills and Expertise</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-1" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-1" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>You can access a variety of specialized skills and expertise that are not easily
-                    accessible in-house by hiring a WordPress developer.
-                    </p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-2" aria-expanded="true" aria-controls="accordion-collapse-1-2">Faster Development
-            </button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-2" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>Projects can be finished more quickly and effectively with the help of an
-                    experienced WordPress developer
-
-                    </p>
-            </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-1-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-1-3" aria-expanded="true" aria-controls="accordion-collapse-1-3">High-Quality Results</button>
-            </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-1-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-1-3" data-bs-target="#accordion-1">
-              <div class="card-body">
-                <p>A skilled WordPress developer is equipped to meet your needs and exceed your
-                    expectations with high-quality results
-
-                    </p>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
-          </div>
-          <!-- /.card -->
-        </div>
-        <!-- /.accordion-wrapper -->
+   <section class="wrapper bg-light">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+      <div class="col-lg-5 order-lg-2">
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-wordpressshopify.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-wordpress.webp" alt="WordPress Logo" /></figure>
       </div>
       <!--/column -->
-      <div class="col-lg-6">
-          <div id="accordion-2" class="accordion-wrapper">
-              <div class="card accordion-item">
-                <div class="card-header" id="accordion-heading-2-2">
-                  <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Cost Savings</button>
-                </div>
-                <!-- /.card-header -->
-                <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-                  <div class="card-body">
-                    <p>You have access to a flexible, budget-friendly solution that delivers the
-                        outcomes you require without compromising quality.
-                        </p>
-                    </div>
-                  <!-- /.card-body -->
-                </div>
-                <!-- /.collapse -->
+      <div class="col-lg-7">
+        <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
+        <h3 class="display-2 mb-7">Why hire remote WordPress developers from RapidBrains?</h3>
+        <p>Hiring remote WordPress developers from our RapidBrains team has the benefit of giving you access to a talented pool of professionals who are well-versed in WordPress development. Our developers are adept at building strong, adaptable websites that are suited to your unique business needs and provide exceptional user experiences.</p>
+        <div class="accordion accordion-wrapper" id="accordionExample">
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingOne">
+              <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>With RapidBrains you can hire pre-screened remote talents with strong technical and communication skills at unbeatable rates when compared to our competitors.</p>
               </div>
-              <!-- /.card -->
-        <div id="accordion-2" class="accordion-wrapper">
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-2-2">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-2" aria-expanded="true" aria-controls="accordion-collapse-2-2">Improved Maintenance and Support</button>
+              <!--/.card-body -->
             </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-2-2" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-2" data-bs-target="#accordion-2">
-              <div class="card-body">
-                <p>Your website or application can receive better maintenance and support from
-                    a skilled WordPress developer.
-                    </p>
-                </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.collapse -->
+            <!--/.accordion-collapse -->
           </div>
-          <!-- /.card -->
-          <div class="card accordion-item">
-            <div class="card-header" id="accordion-heading-2-3">
-              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-2-3" aria-expanded="true" aria-controls="accordion-collapse-2-3">Improved User Experience</button>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingTwo">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Upskilling and training</button>
             </div>
-            <!-- /.card-header -->
-            <div id="accordion-collapse-2-3" class="accordion-collapse collapse show" aria-labelledby="accordion-heading-2-3" data-bs-target="#accordion-2">
+            <!--/.card-header -->
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
               <div class="card-body">
-                <p>Your website or application's user experience can be enhanced by a WordPress
-                    developer, making it more accessible and user-friendly.
-                    </p>
-                </div>
-              <!-- /.card-body -->
+                <p>We upskill and train your employees from time-to-time to help them with a staged career progression. Or if you want to train an employee for a specific skillset we got you covered.</p>
+              </div>
+              <!--/.card-body -->
             </div>
-            <!-- /.collapse -->
+            <!--/.accordion-collapse -->
           </div>
-          <!-- /.card -->
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingThree">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Custom Hiring Process </button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>Our recruiting team can adapt to any of your processes - be it a machine test, multiple rounds of interviews, our candidates will show their best.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
+          <div class="card plain accordion-item">
+            <div class="card-header" id="headingFour">
+              <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">No lock-in period</button>
+            </div>
+            <!--/.card-header -->
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+              <div class="card-body">
+                <p>There’s no long term contract or commitment required. Want someone for 2 weeks? Or maybe 2 months? We got you!</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.accordion-collapse -->
+          </div>
+          <!--/.accordion-item -->
         </div>
-        <!-- /.accordion-wrapper -->
+        <!--/.accordion -->
       </div>
       <!--/column -->
     </div>
     <!--/.row -->
   </div>
   <!-- /.container -->
-  </div>
 </section>
+<!-- /section -->
 
 <!--section ends-->
 
-  <!--section ends-->
+<!--Screening Process Starts-->
+
+<section class="wrapper bg-light" style="margin-top: -85px;">
+  <div class="container py-14 py-md-16">
+    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+        <!--/column -->
+      <div class="col-lg-5">
+        <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
+        <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
+        <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
+            <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
+      </div>
+      <!--/column -->
+      <div class="col-lg-7 order-lg-2">
+          <div class="row gx-md-5 gy-5">
+          <div class="col-md-5 offset-md-1 align-self-end">
+            <div class="card bg-pale-yellow">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/telephone-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow mb-3" alt="telephone" loading="lazy"/>
+                <h4>Attitude Check</h4>
+                <p class="mb-0">Communication and attitude are crucial in candidate screening. We ensure they're a good fit for your company.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-end">
+            <div class="card bg-pale-red">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-red mb-3" alt="shield" loading="lazy"/>
+                <h4>Reviewing Skill Sets</h4>
+                <p class="mb-0">Skill-set evaluation is crucial. RapidBrains administers technology-specific screening tests to ensure candidates possess the necessary expertise.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-5">
+            <div class="card bg-pale-leaf">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf mb-3" alt="cloud-computing" loading="lazy"/>
+                <h4>Experience Screening</h4>
+                <p class="mb-0">RapidBrains meticulously evaluates employee experience through rigorous interviews and tests.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+          <div class="col-md-6 align-self-start">
+            <div class="card bg-pale-primary">
+              <div class="card-body">
+                <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-primary mb-3" alt="analytics" loading="lazy"/>
+                <h4>Background Verification</h4>
+                <p class="mb-0">We conduct extensive background checks to verify the authenticity of our employees.</p>
+              </div>
+              <!--/.card-body -->
+            </div>
+            <!--/.card -->
+          </div>
+          <!--/column -->
+        </div>
+        <!--/.row -->
+      </div>
+
+    </div>
+    <!--/.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Screening process ends-->
+
+<!--Talent Pool-->
+
+<!--Section Starts-->
+
+<section class="wrapper bg-soft-red">
+  <div class="container py-14 py-md-16">
+    <div class="row mb-8">
+      <div class="col-lg-8 mx-auto text-center">
+        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled WordPress developers</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+    <div class="row">
+      <div class="col-lg-5 mx-auto text-center">
+      <a href="https://talents.rapidbrains.com/filter?skill=wordpress" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire WordPress Developers <i class="uil uil-arrow-up-right"></i></a>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
+
+<!--Section Ends-->
 
 
-     <!--section starts-->
+<!--Section Starts-->
 
-     <section class="wrapper bg-light">
-       <div class="container py-14 py-md-16 text-center">
-         <div class="row">
-           <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-             <h2 class="fs-15 text-uppercase text-muted mb-3">Hire WordPress Developers in 24 Hours</h2>
-             <h3 class="display-4 mb-10 px-xl-10">4-Steps Easy Strategy To Hire Top WordPress Developers Remotely</h3>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-         <div class="position-relative">
-           <div class="shape rounded-circle bg-soft-blue rellax w-16 h-16" data-rellax-speed="1" style="bottom: -0.5rem; right: -2.2rem; z-index: 0;"></div>
-           <div class="shape bg-dot yellow rellax w-16 h-17" data-rellax-speed="1" style="top: -0.5rem; left: -2.5rem; z-index: 0;"></div>
-           <div class="row gx-md-5 gy-5 text-center">
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/requirements.webp" style="width:50px; height:50px" alt="requirements"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Role Essentials</h4>
-                   <p class="mb-2">Define job responsibilities, required skills and experience for the role.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/sourcing.webp" style="width:50px; height:50px" alt="sourcing"  loading="lazy" />
-                   <h4 style="padding-top: 15px;">Talent Hunt</h4>
-                   <p class="mb-2">Find top talent matching job specifications from a vast pool.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/screening.webp" style="width:50px; height:50px" alt="screening"  loading="lazy"/>
-                   <h4 style="padding-top: 15px;">Assess Candidates</h4>
-                   <p class="mb-2">Interview to evaluate technical expertise, soft skills, and experience.</p>
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-             <div class="col-md-6 col-xl-3">
-               <div class="card shadow-lg">
-                 <div class="card-body">
-                   <img src="https://www.rapidbrains.com/assets/img/android/onboarding.webp" style="width:50px; height:50px" alt="onboarding" loading="lazy"/>
-                   <!--svg-inject-->
-                   <h4 style="padding-top: 15px;">Seal the Deal</h4>
-                   <p class="mb-2">Select the best fit for company needs and culture, then onboard.</p>
+<section class="wrapper">
+  <div class="container py-14 py-md-16">
+    <div class="row d-flex align-items-start gy-10">
+      <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote WordPress Developers</h3>
+        <p class="mb-7">Hiring remote WordPress developers is a strategic move for businesses looking to build exceptional websites and web applications. However, finding skilled and reliable remote WordPress developers can be a challenging task. To assist you in the hiring process, here are some essential skills to consider when seeking remote WordPress developers.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+      </div>
+      <!-- /column -->
+      <div class="col-lg-6 ms-auto">
+        <div class="card bg-soft-fuchsia mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="browser" /> 
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Theme Customization</h3>
+              <p class="mb-0">Having the ability to modify and personalise WordPress themes in accordance with client needs.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-aqua mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="settings" />
+              
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Plugin Development</h3>
+              <p class="mb-0">An understanding of creating unique WordPress plugins to improve website functionality.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-yellow mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="web" /> 
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">PHP Programming</h3>
+              <p class="mb-0">Proficient in the PHP programming language to extend WordPress capabilities.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-leaf mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src=" https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Responsive Design</h3>
+              <p class="mb-0">Ability to create responsive and mobile-friendly websites using WordPress.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        
+        <div class="card bg-soft-orange mb-6">
+          <div class="card-body d-flex flex-row">
+            <div>
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/ranking.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="ranking" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">SEO Optimization</h3>
+              <p class="mb-0">Possessing expertise with search engine optimisation for WordPress websites.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+        <div class="card bg-soft-grape">
+          <div class="card-body d-flex flex-row">
+            <div>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="megaphone" />
+            </div>
+            <div>
+              <h3 class="fs-21 mb-2">Good Communication</h3>
+              <p class="mb-0">Communication skills to collaborate with clients and understand their requirements.</p>
+            </div>
+          </div>
+          <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+<!-- /section -->
 
-                 </div>
-                 <!--/.card-body -->
-               </div>
-               <!--/.card -->
-             </div>
-             <!--/column -->
-           </div>
-           <!--/.row -->
-         </div>
-         <!-- /.position-relative -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
+<!--Section Ends-->
 
-     <!--section ends-->
+<!--Section Starts-->
 
-     <!--section starts-->
-
-     <section class="wrapper bg-light" style="margin-top: -50px;">
-       <div class="container py-14 py-md-16">
-           <div class="row text-center">
-               <div class="col-xl-10 mx-auto">
-                   <h3 class="display-4 mb-10 px-xxl-15">Boost Your Website's Productivity, Relevance, and Security with Skilled Remote WordPress Developers from RapidBrains</h3>
-                   <p style="margin-top: -25px;">Hire the best WordPress developers to build Open source applications for rapid business transformation and creation of business value.</p>
-               </div>
-               <!-- /column -->
-           </div><br><br><br>
-         <div class="row gx-md-8 gx-xl-12 gy-10">
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Boost CMS Productivity</h4>
-                 <p class="mb-0">Engage WordPress developers to
-maintain your CMS site's productivity and ensure timely updates in line with current trends
-and relevance.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>WordPress Plugin Development</h4>
-                 <p class="mb-0">Remote WordPress developers can create custom plugins
-to meet your needs and elevate your brand</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>WordPress Blog Development</h4>
-                 <p class="mb-0">Hire expert WordPress developers to leverage the flexible
-platform for development and integration of WordPress blog.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>WordPress Ecommerce Development</h4>
-                 <p class="mb-0">Dedicated WordPress experts for WordPress
-eCommerce Development services to meet your business requirements.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Seamless Integration</h4>
-                 <p class="mb-0">Offshore WordPress developer for Custom API and integration
-services to create functionally rich experience for users</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-           <div class="col-lg-6">
-             <div class="d-flex flex-row">
-               <div>
-                 <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
-               </div>
-               <div>
-                 <h4>Reliable Support and Maintenance</h4>
-                 <p class="mb-0">WordPress expert available for hire,
-specializing in providing comprehensive support and maintenance services to ensure your
-website remains up-to-date and secure.</p>
-               </div>
-             </div>
-           </div>
-           <!-- /column -->
-         </div>
-         <!-- /.row -->
-       </div>
-       <!-- /.container -->
-     </section>
-     <!-- /section -->
-
-     <!--section ends-->
-
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
@@ -576,7 +481,7 @@ website remains up-to-date and secure.</p>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">: At RapidBrains, our WordPress developers are highly skilled and experienced in
+                     <p class="fs-14">At RapidBrains, our WordPress developers are highly skilled and experienced in
 developing websites and applications using the WordPress platform. They have a
 strong understanding of WordPress architecture, themes, plugins, and customization.
 Our developers stay updated with the latest WordPress trends and best practices to
