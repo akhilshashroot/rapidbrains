@@ -537,7 +537,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire dedicated JAVA developers</h1>
                  <p class="lead fs-18 mb-8"> Hire a Java developer with experience in creating efficient software solutions for web and mobile applications.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -734,7 +734,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Java Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Java Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -788,7 +788,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Experience in Frameworks</h3>
@@ -801,7 +801,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">IDEs and Tools</h3>
@@ -815,7 +815,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">proficiency in Testing</h3>
@@ -828,7 +828,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Version Control</h3>
@@ -865,13 +865,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I hire ReactJS developers remotely from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How does RapidBrains help clients hire Java developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Share your project requirements with us, and our team will present you with a curated list
-                       of candidates who match your needs. Choose the right developer to join your team.</p>
+                     <p class="fs-14">RapidBrains serves as a platform that connects clients with skilled Java developers. We have a pool of talented developers who specialize in Java development. Clients can browse through profiles, assess skills, and select the most suitable Java developer for their project.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -880,12 +879,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What skills do your remote ReactJS developers possess?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What is the process for hiring Java developers through RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our developers are skilled in ReactJS, Redux, JavaScript, HTML, CSS, and other relevant technologies. They have experience in building scalable and high-performance web applications.</p>
+                     <p class="fs-14">The process is straightforward. Clients can submit their project requirements and preferences. RapidBrains evaluates the requirements and presents a curated list of Java developers matching the criteria. Clients can review the profiles, conduct interviews, and choose the developer they feel is the best fit for their project.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -894,12 +893,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Can I review developers' profiles before hiring?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">What if a client is not satisfied with the hired Java developer?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, we provide detailed profiles of our developers, showcasing their experience, skills, and project history. You can review these profiles to make an informed decision.</p>
+                     <p class="fs-14">RapidBrains strives to ensure client satisfaction. In the rare event that a client is not satisfied with the assigned Java developer, we provide support and assistance to address any concerns. Depending on the situation, we can explore alternatives and, if necessary, provide a replacement developer.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -908,12 +907,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do you ensure quality in remote ReactJS development?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What level of experience do the Java developers in RapidBrains possess?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our developers follow industry best practices, maintain regular communication, and provide progress updates to ensure the highest quality output in every project.</p>
+                     <p class="fs-14">The Java developers in RapidBrains have a wide range of experience levels, including junior, mid-level, and senior developers. This allows clients to find developers suitable for their specific project requirements.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
