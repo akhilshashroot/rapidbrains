@@ -336,7 +336,7 @@
   <div class="container py-14 py-md-16">
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
-        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide: Join our Global Network</h2>
+        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
         <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled UX/UI Designers.</h3>
       </div>
       <!-- /column -->
