@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire dedicated ASP.NET Developers</h1>
-                 <p class="lead fs-18 mb-8"> Join our team remotely and contribute to exciting ASP.NET projects.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=asp.net" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated ASP.NET Developers</h1>
+                 <p class="lead fs-18 mb-8">Are you struggling to find skilled ASP.NET developers to join your team? Do you need reliable and experienced professionals who can work remotely and deliver top-notch results? Look no further! Our dedicated ASP.NET developers are here to provide the expertise you need to meet your project goals.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=asp-dot-net" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=asp.net" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire ASP.NET Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=asp-dot-net" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire ASP.NET Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -467,8 +467,8 @@
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
-             <h3 class="display-3 mb-4">“Got Questions? We've Got Answers!”</h3>
-             <p class="lead mb-6">Find answers to your questions and satisfy your thirst for knowledge</p>
+             <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
