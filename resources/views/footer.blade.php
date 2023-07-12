@@ -5,7 +5,7 @@
         <div class="col-md-4 col-lg-3">
           <div class="widget">
             <img class="mb-4" src="{{asset('assets/img/RapidBrains-logo.svg')}}" srcset="{{asset('assets/img/RapidBrains-logo')}}@2x.svg 2x" alt="RapidBrains Logo" width="200" height="39" style="margin-right:3rem;" />
-            <p class="mb-4">© {{ date('Y') }} RapidBrains. <br class="d-none d-lg-block" />A HashRoot Company</p>
+            <p class="mb-4">© {{ date('Y') }} RapidBrains. <br class="d-none d-lg-block" />A HashRoot Brand</p>
             <nav class="nav social ">
             <a href="https://www.linkedin.com/company/rapidbrains" aria-label="RapidBrains linkedin account"><i class="uil uil-linkedin"></i></a>
               <a href="https://www.facebook.com/rapidbrains" aria-label="RapidBrains facebook Account"><i class="uil uil-facebook-f"></i></a>
