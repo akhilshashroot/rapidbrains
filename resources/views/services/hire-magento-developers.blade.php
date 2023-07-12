@@ -466,8 +466,8 @@
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
-             <h3 class="display-3 mb-4">“Got Questions? We've Got Answers!”</h3>
-             <p class="lead mb-6">Find answers to your questions and satisfy your thirst for knowledge.</p>
+             <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->

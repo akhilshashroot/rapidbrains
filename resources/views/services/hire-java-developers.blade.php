@@ -146,9 +146,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire dedicated JAVA developers</h1>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated Java Developers</h1>
                  <p class="lead fs-18 mb-8"> Hire a Java developer with experience in creating efficient software solutions for web and mobile applications.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=Java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -181,7 +181,7 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote JAVA Developers from RapidBrains ?</h3>
+        <h3 class="display-2 mb-7">Why hire remote Java Developers from RapidBrains ?</h3>
         <p> Hiring our RapidBrains team's talented pool of remote Java developers provides the advantage of their extensive expertise in Java development. Our developers excel at building reliable and scalable software solutions, tailored to meet your unique business requirements and deliver exceptional user experiences</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled JAVA developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Java developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=Java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Java Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=java" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Java Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,7 +364,7 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote JAVA Developers</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Java Developers</h3>
         <p class="mb-7">Companies seeking to create exceptional software solutions should carefully select developers with expertise in Java development. However, finding competent and reliable remote Java developers can be a challenging task. To assist you in the hiring process, here are some essential characteristics to look for when seeking remote Java developers.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
@@ -429,7 +429,7 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">proficiency in Testing</h3>
+              <h3 class="fs-21 mb-2">Proficiency in Testing</h3>
               <p class="mb-0">Strong Knowledge of unit testing frameworks like JUnit for ensuring code quality.</p>
             </div>
           </div>
