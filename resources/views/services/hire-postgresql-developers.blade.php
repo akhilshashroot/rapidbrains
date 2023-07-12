@@ -372,7 +372,7 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="web" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="check" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2"> SQL Proficiency</h3>
@@ -385,7 +385,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="server" />
               
             </div>
             <div>
@@ -399,7 +399,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="design" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="refresh" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2">Query Optimization</h3>
@@ -412,7 +412,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/files.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="networking" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/files.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="files" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Stored Procedures and Functions</h3>
@@ -426,7 +426,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="settings-3" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="check-list" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Performance Tuning</h3>
@@ -439,7 +439,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="menu" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="tools" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">PostgreSQL Tools</h3>
@@ -476,17 +476,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can a remote Golang developer help improve my software 
-                    Project?
-                    </button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What is PostgreSQL and how does it differ from other databases like MySQL and SQLite?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> A remote Golang developer can contribute to improving 
-                      your software project in several ways. They can develop high performance and efficient code using the Go programming language. They can optimize your project for scalability, 
-                      concurrency, and robustness. Additionally, they can provide expertise in implementing specific features, integrating third party libraries, and resolving any performance or security issues in your Golang application.
-                      </p>
+                     <p class="fs-14">PostgreSQL is an open-source object-oriented Relational Database Management System (RDBMS). It stands out from other databases like MySQL and SQLite due to its advanced and extensible nature, along with its strong support for object-oriented programming concepts. These features make PostgreSQL a powerful choice for managing complex data and allow for greater flexibility in designing and implementing solutions.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -495,16 +490,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2"> How does the hiring process work at RapidBrains for Golang 
-                    developers? 
-                    </button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">  How can RapidBrains help with PostgreSQL projects?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">The hiring process at RapidBrains for Golang developers follows a straightforward approach. Once we understand your project requirements, we present you with profiles of skilled remote Golang developers who match your criteria. You have the opportunity to review these profiles, 
-                      conduct interviews, and select the developer who best aligns with your project's needs. Our aim is to ensure a smooth and efficient onboarding process for you.
-                      </p>
+                     <p class="fs-14">RapidBrains provides expert PostgreSQL developers who can assist with various aspects of PostgreSQL projects. They offer services to design, develop, and implement PostgreSQL solutions tailored to specific project requirements. Additionally, RapidBrains offers regular monitoring and performance control to ensure optimal functionality of the PostgreSQL database throughout the project lifecycle.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -513,18 +504,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Can I hire dedicated remote Golang developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How does the hiring process work for PostgreSQL developers at RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Absolutely! RapidBrains provides the option to hire dedicated 
-                      remote Golang developers for your project. By hiring dedicated 
-                      developers, you gain the advantage of having their full attention 
-                      and expertise focused solely on your Golang development goals. 
-                      This facilitates effective collaboration, customized strategies, and 
-                      timely delivery of your software project.
-                      </p>
+                     <p class="fs-14">The hiring process for PostgreSQL developers at RapidBrains is straightforward. Once you share your PostgreSQL development requirements, their team evaluates them and presents you with profiles of skilled developers with expertise in PostgreSQL. You can review these profiles, conduct interviews, and select the developer who best fits your project. RapidBrains aims to streamline the onboarding process, ensuring a quick initiation of your PostgreSQL development project.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -533,14 +518,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Will the hired Golang developer work exclusively for me?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Is the confidentiality of my project information ensured?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, the hired Golang developer will work exclusively on your project, just 
-                      like an in-house team member. They will dedicate their time and effort to meet your project requirements and ensure its success
-                      .</p>
+                     <p class="fs-14">Yes, RapidBrains understands the importance of confidentiality and data security for PostgreSQL developers. They prioritize the protection of your project information and are open to signing non-disclosure agreements (NDAs) to safeguard the confidentiality and privacy of your sensitive PostgreSQL development data.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
