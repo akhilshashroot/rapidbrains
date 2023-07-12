@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/sap.webp" srcset="https://www.rapidbrains.com/assets/img/services/sap.webp" alt="sap Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="sap Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -503,7 +503,7 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How can I get started with hiring Express.js developers through Rapid Brains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How can I get started with hiring Express.js developers through RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
