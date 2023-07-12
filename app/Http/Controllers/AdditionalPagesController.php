@@ -338,4 +338,12 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-salesforce-developers";
         return view('services.hire-salesforce-developers',compact('data'));
     }
+
+    public function hireExpressJSDevelopers() {
+        $data['title']= "Hire Top-notch Remote Expressjs Developers from RapidBrains";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Accelerate your web development projects with RapidBrains' dedicated Remote Expressjs developers. Experience unmatched expertise and seamless collaboration. Contact us today!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-expressjs-developers";
+        return view('services.hire-express-js-developers',compact('data'));
+    }
 }
