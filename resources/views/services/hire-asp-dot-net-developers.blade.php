@@ -372,7 +372,7 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="web" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in C#</h3>
@@ -385,7 +385,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="web" />
               
             </div>
             <div>
@@ -399,7 +399,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="design" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="server" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2"> Database Integration</h3>
@@ -412,7 +412,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="networking" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Front-End Development</h3>
@@ -439,7 +439,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="menu" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Problem-Solving</h3>

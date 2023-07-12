@@ -385,7 +385,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/networking.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/networking.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="networking" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Cloud Architecture Design</h3>
@@ -398,7 +398,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="refresh" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Automation and Infrastructure as Code</h3>
@@ -411,7 +411,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="shield" />
             </div>
             <div>
               <h3 class="fs-21 mb-2"> Security and Compliance</h3>
@@ -425,7 +425,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check-list" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">DevOps Practices</h3>
@@ -438,7 +438,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="settings" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Troubleshooting and Monitoring</h3>
@@ -475,13 +475,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I hire ReactJS developers remotely from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What services does RapidBrains offer in relation to hiring AWS developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Share your project requirements with us, and our team will present you with a curated list
-                       of candidates who match your needs. Choose the right developer to join your team.</p>
+                     <p class="fs-14"> RapidBrains offers the opportunity to hire certified AWS developers who can assist with various cloud computing needs, including AWS migration, optimization, and the development of cloud-based applications on different platforms.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +489,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What skills do your remote ReactJS developers possess?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2"> What are the benefits of hiring AWS developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our developers are skilled in ReactJS, Redux, JavaScript, HTML, CSS, and other relevant technologies. They have experience in building scalable and high-performance web applications.</p>
+                     <p class="fs-14">Hiring AWS developers from RapidBrains provides several benefits, including enhanced application performance, lower infrastructure costs, increased flexibility in scaling cloud infrastructure, improved security for data and applications, faster deployment of applications, and access to the latest cloud technology and solutions.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +503,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Can I review developers' profiles before hiring?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> How can hiring AWS developers help improve application performance?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, we provide detailed profiles of our developers, showcasing their experience, skills, and project history. You can review these profiles to make an informed decision.</p>
+                     <p class="fs-14">AWS developers can enhance application performance by utilizing their expertise in optimizing and scaling applications within the AWS environment. They can leverage AWS services and features to ensure better scalability, reliability, and overall performance of the applications.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +517,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do you ensure quality in remote ReactJS development?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can hiring AWS developers help reduce infrastructure costs?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our developers follow industry best practices, maintain regular communication, and provide progress updates to ensure the highest quality output in every project.</p>
+                     <p class="fs-14">Yes, hiring AWS developers can help reduce infrastructure costs. With AWS, you only pay for the resources you use, eliminating the need for upfront investments in hardware and infrastructure. AWS developers can optimize resource allocation and recommend cost-effective Yes, the hired Golang developer will work exclusively on your project, just 
+                      solutions, resulting in lower infrastructure expenses.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

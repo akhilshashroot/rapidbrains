@@ -411,7 +411,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/workflow.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/workflow.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="workflow" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Database Integration</h3>
@@ -475,12 +475,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What qualifications and experience should we seek when hiring Magento developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What support can I expect from RapidBrains during the development process?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Look for developers with expertise in Magento, PHP, e-commerce development, and experience with Magento extensions and themes.</p>
+                     <p class="fs-14"> RapidBrains is committed to providing comprehensive support throughout the development process. They facilitate effective communication channels between you and their C# developers, ensuring smooth collaboration. They also have project managers who oversee the progress of your project, manage timelines, and address any concerns that may arise. RapidBrains aims to foster a productive and collaborative environment to ensure the success of your project.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +489,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How can we assess the skills and proficiency of Magento developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can I hire dedicated remote C# developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Evaluate their portfolio, ask for sample projects, conduct technical interviews, and assess their knowledge of Magento best practices.</p>
+                     <p class="fs-14">Absolutely! RapidBrains offers the option to hire dedicated remote C# developers for your project. Hiring dedicated developers ensures their full commitment to your project's specific requirements, resulting in efficient development and seamless collaboration.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +503,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Can remote Magento developers effectively collaborate with our team?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How does the hiring process work at RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, with effective communication tools and project management systems, remote Magento developers can collaborate seamlessly with your team.</p>
+                     <p class="fs-14">The hiring process at RapidBrains is straightforward. Once you share your project requirements, our team evaluates them and presents you with suitable profiles of skilled C# developers. You can review the profiles, conduct interviews, and select the developer who best fits your project. We aim to streamline the onboarding process for a quick project initiation.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +517,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What should we consider when determining the cost of hiring Magento developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Is the confidentiality of my project information ensured?                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Factors such as the complexity of the project, desired features, developer experience, and the scope of work should be considered to determine the cost of hiring Magento developers.</p>
+                     <p class="fs-14"> Yes, RapidBrains understands the importance of confidentiality and data security. We prioritize the protection of your project information. We are open to signing non-disclosure agreements (NDAs) to safeguard the confidentiality and privacy of your sensitive data.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

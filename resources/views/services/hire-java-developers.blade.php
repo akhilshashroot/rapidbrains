@@ -399,7 +399,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Experience in Frameworks</h3>
@@ -412,7 +412,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">IDEs and Tools</h3>
@@ -426,7 +426,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">proficiency in Testing</h3>
@@ -439,7 +439,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="settings" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Version Control</h3>

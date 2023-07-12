@@ -385,7 +385,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="refresh" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">On-Page Optimization</h3>
@@ -411,7 +411,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="web" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Link Building & Outreach</h3>
@@ -425,7 +425,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="brower" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check-list" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Analytics & Reporting</h3>

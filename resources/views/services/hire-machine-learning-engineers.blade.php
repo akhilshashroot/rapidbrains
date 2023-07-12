@@ -398,7 +398,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="web" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Deep Learning Expertise</h3>
@@ -411,7 +411,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loading.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loading.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="loading" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Data Preprocessing and Feature Engineering</h3>
@@ -475,12 +475,18 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What qualifications and experience should we seek when hiring Magento developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">Is the confidentiality of my project information ensured?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Look for developers with expertise in Magento, PHP, e-commerce development, and experience with Magento extensions and themes.</p>
+                     <p class="fs-14">Absolutely. RapidBrains prioritizes the confidentiality and security of your
+                      project information. We understand the significance of safeguarding
+                      sensitive data. To ensure confidentiality and privacy, we are open to
+                      signing non-disclosure agreements (NDAs). Rest assured that your project
+                      will be handled with the utmost professionalism and discretion by our
+                      machine learning engineers.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +495,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How can we assess the skills and proficiency of Magento developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Will I own the source code?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Evaluate their portfolio, ask for sample projects, conduct technical interviews, and assess their knowledge of Magento best practices.</p>
+                     <p class="fs-14">Yes, as the client, you will typically own the source code developed by the
+                      machine learning engineers you hire for your project. Our experts ensure
+                      that the ownership of the source code is properly documented and
+                      protected
+                      .</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +513,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Can remote Magento developers effectively collaborate with our team?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Can RapidBrains customize machine learning solutions according to my company's requirements?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, with effective communication tools and project management systems, remote Magento developers can collaborate seamlessly with your team.</p>
+                     <p class="fs-14">Yes, RapidBrains specializes in developing customized machine learning solutions tailored to meet the specific requirements of your company. Our dedicated machine learning engineers will closely collaborate with your team to understand your business objectives, data infrastructure, and desired outcomes. Based on this understanding, they will design and implement a solution that addresses your unique needs.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +527,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What should we consider when determining the cost of hiring Magento developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How can integrating AI and Machine Learning benefit my company?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Factors such as the complexity of the project, desired features, developer experience, and the scope of work should be considered to determine the cost of hiring Magento developers.</p>
+                     <p class="fs-14">Integrating AI and Machine Learning into your company can offer several benefits. It can enhance operational efficiency by automating repetitive tasks, improving accuracy, and reducing errors. Machine learning algorithms can analyze vast amounts of data to extract valuable insights, enabling data-driven decision-making. Additionally, AI and Machine Learning can help in creating personalized user experiences, optimizing resource allocation, and identifying patterns for predictive analytics.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

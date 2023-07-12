@@ -146,7 +146,7 @@
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire just the best UX/UI Designers</h1>
-                 <p class="lead fs-18 mb-8">Elevate digital experiences with skilled remote UI/UX designers. Drive user engagement and innovation. Hire your creative team now!</p>
+                 <p class="lead fs-18 mb-8">Elevate digital experiences with skilled remote UI/UX designers. <br> Drive user engagement and innovation. <br> Hire your creative team now!</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=ux/ui" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
@@ -372,7 +372,7 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/workflow.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="Browser" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/workflow.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="workflow" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2">User-Centric Approach</h3>
@@ -385,7 +385,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="settings" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser" />
               
             </div>
             <div>
@@ -399,7 +399,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="workflow" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="paper-plane" /> 
             </div>
             <div>
               <h3 class="fs-21 mb-2">Collaboration & Communication</h3>
@@ -412,7 +412,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src=" https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="networking" />
+              <img src=" https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Prototyping & Wireframing</h3>
