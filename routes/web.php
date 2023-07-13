@@ -88,7 +88,12 @@ Route::get('/hire-app-developers', [AdditionalPagesController::class, 'hireAppDe
 Route::get('/hire-sap-developers', [AdditionalPagesController::class, 'hireSapDevelopers'])->name('hire-sap-developers');
 Route::get('/hire-salesforce-developers', [AdditionalPagesController::class, 'hireSalesforceDevelopers'])->name('hire-salesforce-developers');
 Route::get('/hire-expressjs-developers', [AdditionalPagesController::class, 'hireExpressJSDevelopers'])->name('hire-expressjs-developers');
-
+Route::get('/hire-unreal-engine-developers', [AdditionalPagesController::class, 'hireUnrealEngineDevelopers'])->name('hire-unreal-engine-developers');
+Route::get('/hire-rust-developers', [AdditionalPagesController::class, 'hireRustDevelopers'])->name('hire-rust-developers');
+Route::get('/hire-typescript-developers', [AdditionalPagesController::class, 'hireTypeScriptDevelopers'])->name('hire-typescript-developers');
+Route::get('/hire-rust-developers', [AdditionalPagesController::class, 'hireRustDevelopers'])->name('hire-rust-developers');
+Route::get('/hire-vue-js-developers', [AdditionalPagesController::class, 'hireVueJsDevelopers'])->name('hire-vue-js-developers');
+Route::get('/hire-unity-developers', [AdditionalPagesController::class, 'hireUnityDevelopers'])->name('hire-unity-developers');
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
 Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'index'])->name('customsearch.index');

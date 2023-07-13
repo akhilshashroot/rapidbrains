@@ -64,7 +64,12 @@
                             <li><a class="dropdown-item" title="Drupal Developers" href="{{route('hire-drupal-developers')}}">Drupal Developers</a></li>
                             <li><a class="dropdown-item" title="SAP Developers" href="{{route('hire-sap-developers')}}">SAP Developers</a></li>
                             <li><a class="dropdown-item" title="Salesforce Developers" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
-
+                            <li><a class="dropdown-item" title="ExpressJS Developers" href="{{route('hire-expressjs-developers')}}">ExpressJS Developers</a></li>
+                            <li><a class="dropdown-item" title="Unreal Engine Developers" href="{{route('hire-unreal-engine-developers')}}">Unreal Engine Developers</a></li>
+                            <li><a class="dropdown-item" title="TypeScript Developers" href="{{route('hire-typescript-developers')}}">TypeScript Developers</a></li>
+                            <li><a class="dropdown-item" title="Rust Developers" href="{{route('hire-rust-developers')}}">Rust Developers</a></li>
+                            <li><a class="dropdown-item" title="Vue.js Developers" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
+                            <li><a class="dropdown-item" title="Unity Developers" href="{{route('hire-unity-developers')}}">Unity Developers</a></li>
 
                       </ul>
                       <!--/.row -->

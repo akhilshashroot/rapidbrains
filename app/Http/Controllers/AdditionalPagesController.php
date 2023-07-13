@@ -346,4 +346,45 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-expressjs-developers";
         return view('services.hire-express-js-developers',compact('data'));
     }
+
+    public function  hireUnrealEngineDevelopers() {
+        $data['title']= "Empower Your Projects | Hire Remote Unreal Engine Developers in 24 Hours";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Fuel your projects with skilled remote Unreal Engine developers. Drive innovation, creativity, and captivating experiences. Find your experts now!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-unreal-engine-developers";
+        return view('services.hire-unreal-engine-developers',compact('data'));
+    }
+
+    public function  hireTypeScriptDevelopers() {
+        $data['title']= "Hire Remote TypeScript Developers |  TypeScript Developer in 24 Hours!";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Fuel your projects with skilled remote TypeScript developers. Drive productivity, scalability, and code quality. Find your experts now!";
+        $data['canonical']= " https://www.rapidbrains.com/hire-typescript-developers";
+        return view('services.hire-typescript-developers',compact('data'));
+    }
+
+    public function  hireRustDevelopers() {
+        $data['title']= "Hire Top-Talented Remote Rust Developers in 24 Hours!";
+		$data['keywords']= " Discover top-notch remote Rust developers to power your projects. Drive innovation, performance, and secure coding. Hire skilled professionals now!";
+		$data['description']= "Fuel your projects with skilled remote Unreal Engine developers. Drive innovation, creativity, and captivating experiences. Find your experts now!";
+        $data['canonical']= " https://www.rapidbrains.com/hire-rust-developers";
+        return view('services.hire-rust-developers',compact('data'));
+    }
+
+    public function  hireVueJsDevelopers() {
+        $data['title']= "Elevate Your Web Projects | Hire Remote Vue.js Developers";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Supercharge your web projects with skilled remote Vue.js developers. Achieve exceptional results and enhance user experiences. Hire now!";
+        $data['canonical']= " https://www.rapidbrains.com/hire-vue.js-developers";
+        return view('services.hire-vue-js-developers',compact('data'));
+    }
+
+    public function  hireUnityDevelopers() {
+        $data['title']= "Hire Dedicated Remote Unity Developers | Unity Programmers in 24 Hours!";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Supercharge your projects with talented remote unity developers. Unleash innovation, efficiency, and game-changing results. Get started today!";
+        $data['canonical']= " https://www.rapidbrains.com/hire-unity-developers";
+        return view('services.hire-unity-developers',compact('data'));
+    }
+
 }

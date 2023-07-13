@@ -69,7 +69,11 @@
                             <li><a class="dropdown-item" href="{{route('hire-sap-developers')}}">SAP Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-expressjs-developers')}}">ExpressJS Developers</a></li>
-
+                            <li><a class="dropdown-item" href="{{route('hire-unreal-engine-developers')}}">Unreal Engine Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-typescript-developers')}}">TypeScript Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-rust-developers')}}">Rust Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-unity-developers')}}">Unity Developers</a></li>
                       </ul>
                       <!--/.row -->
                     </li>
