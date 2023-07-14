@@ -75,6 +75,9 @@
                             <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-unity-developers')}}">Unity Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-flask-developers')}}">Flask Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-oracle-developers')}}">Oracle Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-swift-developers')}}">Swift Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-springboot-developers')}}">Spring Boot Developers</a></li>
                       </ul>
                       <!--/.row -->
                     </li>

@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Unity Developers Remotely in 24 Hours! </h1>
-                 <p class="lead fs-18 mb-8">Struggling to find top-notch remote Unity developers? Look no further! Hire just the best Unity developers for your project. We provide highly skilled and experienced professionals who excel in Unity development, saving you time and effort in finding the perfect remote talent.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=unity" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Swift Developers Remotely in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Get top-notch Swift developers for hire and accelerate your app development.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=swift" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" alt="unity Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/blockchain.webp" srcset="https://www.rapidbrains.com/assets/img/services/blockchain.webp" alt="flask Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7"> Why hire remote Unity Developers from RapidBrains ?</h3>
-        <p> Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remote Unity Developers at RapidBrains. With their deep knowledge and experience in Unity Development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
+        <h3 class="display-2 mb-7">Why hire remote Swift Developers from RapidBrains ?  </h3>
+        <p>RapidBrains empowers you to hire exceptional Remote Swift Developers who exemplify the highest standards of technical excellence.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0"> Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Unity Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Swift Developers</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=unity" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Unity Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=swift" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Swift Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +363,20 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Unity Developers</h3>
-        <p class="mb-7"> When looking for Unity developers from RapidBrains, prioritize skills such as expertise in Unity game development, proficiency in C#, knowledge of 3D modeling and animation, experience with game physics, strong problem-solving abilities, and a collaborative mindset for successful game development projects.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Swift Developers</h3>
+        <p class="mb-7">Hire skilled remote Swift Developers from RapidBrains for exceptional expertise and seamless collaboration in your development projects. Elevate your team's capabilities today!</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Unreal Engine expertise</h3>
-              <p class="mb-0">Demonstrated proficiency in developing and optimizing Unreal Engine projects for immersive experiences.</p>
+              <h3 class="fs-21 mb-2">Solid Swift Programming Skills</h3>
+              <p class="mb-0"> Look for developers with a strong foundation in Swift, including proficiency in syntax, data types, and control flow.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,11 +385,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="smartphone" />
+              
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Unity expertise</h3>
-              <p class="mb-0"> Extensive experience in Unity game development, including scene management, asset integration, and physics simulations.</p>
+              <h3 class="fs-21 mb-2">Knowledge of iOS Frameworks</h3>
+              <p class="mb-0"> Seek developers who are familiar with key iOS frameworks like UIKit, Core Data, and Core Animation to ensure they can build robust and efficient iOS applications.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +399,11 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">C# programming proficiency</h3>
-              <p class="mb-0">  Proficient in C# for implementing gameplay mechanics, AI behavior, and custom functionalities in Unity projects.</p>
+              <h3 class="fs-21 mb-2">Experience with Xcode</h3>
+              <p class="mb-0"> Xcode is the primary IDE for Swift development. Ensure your developers have hands-on experience with Xcode, including debugging and project management.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +412,11 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="web" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cross-platform development</h3>
-              <p class="mb-0"> Skilled in deploying Unity games across multiple platforms, such as PC, consoles, mobile devices, and virtual reality.</p>
+              <h3 class="fs-21 mb-2">Understanding of Design Patterns </h3>
+              <p class="mb-0"> Proficiency in common design patterns like MVC (Model-View-Controller) and MVVM (Model-View-ViewModel) is crucial for writing maintainable and scalable code.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +426,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="tools" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle-2" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Unity Editor proficiency</h3>
-              <p class="mb-0"> Proficient in utilizing Unity Editor to design levels, create animations, implement UI elements, and optimize performance.</p>
+              <h3 class="fs-21 mb-2"> App UI/UX Design Skills </h3>
+              <p class="mb-0"> Look for developers with an eye for design, who can create visually appealing and user-friendly interfaces using Interface Builder or SwiftUI.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +439,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="web" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Game optimization and debugging</h3>
-              <p class="mb-0"> Strong skills in optimizing game performance, identifying and fixing bugs, and ensuring smooth gameplay experiences.</p>
+              <h3 class="fs-21 mb-2">Familiarity with Networking and APIs </h3>
+              <p class="mb-0"> Swift developers should be comfortable working with RESTful APIs, JSON parsing, and handling network requests using libraries like Alamofire or URLSession.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -461,13 +462,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -475,12 +476,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I hire Unity developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I overcome the challenges of managing productivity and time zones with remote Swift developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains provides a straightforward process to hire Unity developers. Simply visit their website and explore their talent pool of Unity developers. You can review their profiles, skills, and experience. Once you find suitable candidates, you can contact RapidBrains to initiate the hiring process and discuss your specific requirements. </p>
+                     <p class="fs-14">Addressing the challenges of managing productivity and time zones with remote Swift developers can be achieved through various approaches. Firstly, setting clear expectations and objectives, coupled with regular updates on progress and defined deadlines, can help maintain project momentum. Utilizing project management tools that facilitate task tracking and milestone management is also advantageous. Effective time management strategies, such as aligning overlapping working hours or implementing flexible schedules, can help mitigate the impact of different time zones. Additionally, fostering a supportive and inclusive remote work culture contributes to team motivation and productivity.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +490,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can I interview and assess Unity developers before hiring them?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2"> How reliable is RapidBrains in providing top talent?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains provides the opportunity to interview and assess Unity developers before making a hiring decision. Once you express interest in a particular developer or a shortlist of developers, you can request interviews. RapidBrains will coordinate the interview process and facilitate communication between you and the developers. This allows you to evaluate their technical skills, problem-solving abilities, communication skills, and cultural fit for your project.</p>
+                     <p class="fs-14">RapidBrains has earned the trust of over 1.2K customers who have successfully tapped into a vast pool of skilled Swift developers. With their rigorous screening and selection process, RapidBrains ensures that only top talent is available for hire, providing you with reliable and exceptional developers for your projects.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +504,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Are Unity developers from RapidBrains available for remote work or on-site positions?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> How can I ensure data security and protect intellectual property when hiring remote Swift developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains offers flexible options for hiring Unity developers. They have developers available for both remote work and on-site positions. Depending on your project's requirements and your organization's preferences, you can choose to hire developers who can work remotely from anywhere or those who can work on-site at your location. RapidBrains will help you find the right fit based on your specific needs.</p>
+                     <p class="fs-14">Protecting  data security and intellectual property is paramount when hiring remote Swift developers. To ensure protection, it is crucial to establish non-disclosure agreements (NDAs) and intellectual property agreements with the developers. Performing comprehensive background checks and verifying their reputation and trustworthiness can also help maintain the security of sensitive information. Additionally, implementing security measures like secure file sharing platforms, encrypted communication channels, and controlled access to confidential data can further fortify the protection of intellectual property.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +518,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I hire Unity developers from RapidBrains for both short-term and long-term projects?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What are the advantages of hiring remote Swift Developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains offers flexibility in hiring Unity developers for both short-term and long-term projects. You can discuss your project duration and requirements with RapidBrains to find developers who align with your timeline.</p>
+                     <p class="fs-14">By hiring remote Swift Developers from RapidBrains, you gain access to a vast pool of skilled professionals from around the world. Our developers have solid Swift programming skills, expertise in iOS frameworks, experience with Xcode, and knowledge of design patterns. They also possess UI/UX design skills, networking proficiency, debugging capabilities, and familiarity with CI/CD practices.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

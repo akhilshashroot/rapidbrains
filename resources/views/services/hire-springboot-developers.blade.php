@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Unity Developers Remotely in 24 Hours! </h1>
-                 <p class="lead fs-18 mb-8">Struggling to find top-notch remote Unity developers? Look no further! Hire just the best Unity developers for your project. We provide highly skilled and experienced professionals who excel in Unity development, saving you time and effort in finding the perfect remote talent.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=unity" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Spring Boot Developers in 24 hours! </h1>
+                 <p class="lead fs-18 mb-8">Unlock the Power of Spring: Hire Elite Spring Boot Developers Today!</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=springboot" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -180,8 +180,8 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7"> Why hire remote Unity Developers from RapidBrains ?</h3>
-        <p> Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remote Unity Developers at RapidBrains. With their deep knowledge and experience in Unity Development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
+        <h3 class="display-2 mb-7">Why hire remote Spring Boot Developers from RapidBrains ?</h3>
+        <p>Boost your efficiency and expedite your projects by leveraging the expertise and capabilities of our remote Spring Boot Developers at RapidBrains. Equipped with extensive knowledge and hands-on experience in Spring Boot Development, our developers excel at creating top-notch web applications, intuitive user interfaces, and dynamic components.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0"> Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Unity Developers.</h3>
+        <h3 class="display-4 mb-0"> Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Spring Boot.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=unity" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Unity Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=springboot" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Spring Boot Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,8 +363,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Unity Developers</h3>
-        <p class="mb-7"> When looking for Unity developers from RapidBrains, prioritize skills such as expertise in Unity game development, proficiency in C#, knowledge of 3D modeling and animation, experience with game physics, strong problem-solving abilities, and a collaborative mindset for successful game development projects.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Spring Boot Developers</h3>
+        <p class="mb-7">Finding the perfect remote Spring Boot developer?Seek candidates with a track record of high-quality code and adaptability. Build a winning remote team with these skills!</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -375,8 +375,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Unreal Engine expertise</h3>
-              <p class="mb-0">Demonstrated proficiency in developing and optimizing Unreal Engine projects for immersive experiences.</p>
+              <h3 class="fs-21 mb-2">Proficiency in Spring Boot Framework</h3>
+              <p class="mb-0"> When hiring remote Spring Boot developers, it is vital to assess their proficiency in the Spring Boot framework. Spring Boot is a powerful Java-based framework that simplifies the development of standalone, production-grade Spring applications. Look for candidates who have hands-on experience with Spring Boot and can demonstrate their ability to develop scalable and robust applications using this framework.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -388,8 +388,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Unity expertise</h3>
-              <p class="mb-0"> Extensive experience in Unity game development, including scene management, asset integration, and physics simulations.</p>
+              <h3 class="fs-21 mb-2">Strong Java Development Skills</h3>
+              <p class="mb-0">  Since Spring Boot is based on Java, it is crucial for remote developers to have a strong foundation in Java programming. Ensure that the candidates possess a deep understanding of Java concepts, such as object-oriented programming, data structures, and multithreading. Their expertise in Java will directly influence their ability to utilize Spring Boot effectively.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -401,8 +401,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">C# programming proficiency</h3>
-              <p class="mb-0">  Proficient in C# for implementing gameplay mechanics, AI behavior, and custom functionalities in Unity projects.</p>
+              <h3 class="fs-21 mb-2"> Experience with Spring Ecosystem</h3>
+              <p class="mb-0"> In addition to Spring Boot, the ideal remote Spring Boot developers should have experience with other components of the Spring ecosystem, such as Spring MVC, Spring Data, and Spring Security. Familiarity with these components will enable them to leverage the full potential of the Spring framework and create comprehensive and secure applications.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +411,11 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="web" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cross-platform development</h3>
-              <p class="mb-0"> Skilled in deploying Unity games across multiple platforms, such as PC, consoles, mobile devices, and virtual reality.</p>
+              <h3 class="fs-21 mb-2"> Database Management Skills</h3>
+              <p class="mb-0"> Remote Spring Boot developers should have a solid understanding of database management systems. Look for candidates who are proficient in SQL and have experience working with popular databases like MySQL, PostgreSQL, or MongoDB. Their ability to design efficient database schemas and write optimized queries will greatly impact the performance of your applications.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +425,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Unity Editor proficiency</h3>
-              <p class="mb-0"> Proficient in utilizing Unity Editor to design levels, create animations, implement UI elements, and optimize performance.</p>
+              <h3 class="fs-21 mb-2">Unit Testing and Test-Driven Development (TDD)</h3>
+              <p class="mb-0"> A crucial aspect of software development is ensuring the quality and reliability of the code. Remote Spring Boot developers should be well-versed in unit testing and Test-Driven Development (TDD) methodologies. Seek candidates who have experience writing automated tests using frameworks like JUnit and Mockito to validate the functionality of their code.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +438,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="rocket" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Game optimization and debugging</h3>
-              <p class="mb-0"> Strong skills in optimizing game performance, identifying and fixing bugs, and ensuring smooth gameplay experiences.</p>
+              <h3 class="fs-21 mb-2"> Version Control and Collaboration</h3>
+              <p class="mb-0"> Remote developers must be adept at working collaboratively, even when physically distant from the rest of the team. Look for candidates who have experience with version control systems like Git, as well as knowledge of collaboration tools like GitHub or Bitbucket. These skills demonstrate their ability to effectively manage code repositories and contribute to collaborative projects.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -475,12 +475,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I hire Unity developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">Why do we hire remote Spring Boot developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains provides a straightforward process to hire Unity developers. Simply visit their website and explore their talent pool of Unity developers. You can review their profiles, skills, and experience. Once you find suitable candidates, you can contact RapidBrains to initiate the hiring process and discuss your specific requirements. </p>
+                     <p class="fs-14">Hiring remote Spring Boot developers from RapidBrains allows for flexibility, access to top talent, and cost-effectiveness in building successful software applications.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +489,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can I interview and assess Unity developers before hiring them?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How do you ensure quality in remote Spring Boot development?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains provides the opportunity to interview and assess Unity developers before making a hiring decision. Once you express interest in a particular developer or a shortlist of developers, you can request interviews. RapidBrains will coordinate the interview process and facilitate communication between you and the developers. This allows you to evaluate their technical skills, problem-solving abilities, communication skills, and cultural fit for your project.</p>
+                     <p class="fs-14">We ensure quality in remote Spring Boot development through a rigorous selection process, regular communication, efficient project management, and adherence to industry best practices.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +503,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Are Unity developers from RapidBrains available for remote work or on-site positions?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How does RapidBrains connect me with top Spring Boot developers worldwide?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains offers flexible options for hiring Unity developers. They have developers available for both remote work and on-site positions. Depending on your project's requirements and your organization's preferences, you can choose to hire developers who can work remotely from anywhere or those who can work on-site at your location. RapidBrains will help you find the right fit based on your specific needs.</p>
+                     <p class="fs-14">RapidBrains connects clients with top Spring Boot developers worldwide. We rigorously screen and evaluate developers for technical expertise, professionalism, and experience. With the trust of over 1.2K customers, we leverage our community to identify the most suitable candidates. Our global talent pool offers diverse backgrounds and skills. By considering your project specifications, we personalize the matching process to find developers who align perfectly with your requirements. Our goal is seamless talent integration into your projects.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +517,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I hire Unity developers from RapidBrains for both short-term and long-term projects?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How can I hire Spring Boot developers in 24 hours? </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains offers flexibility in hiring Unity developers for both short-term and long-term projects. You can discuss your project duration and requirements with RapidBrains to find developers who align with your timeline.</p>
+                     <p class="fs-14">Contact our team or visit our website to express your requirement for Spring Boot developers.Provide the necessary details about your project, including scope, timeline, and specific skills required.Our expert recruiters will swiftly assess our pool of elite Spring Boot developers and shortlist suitable candidates.We will arrange interviews and share profiles of the shortlisted developers with you.After making the final selection, we expedite the onboarding process, enabling you to hire your preferred Spring Boot developer within 24 hours.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

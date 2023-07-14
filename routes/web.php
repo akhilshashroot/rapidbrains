@@ -95,6 +95,9 @@ Route::get('/hire-rust-developers', [AdditionalPagesController::class, 'hireRust
 Route::get('/hire-vue-js-developers', [AdditionalPagesController::class, 'hireVueJsDevelopers'])->name('hire-vue-js-developers');
 Route::get('/hire-unity-developers', [AdditionalPagesController::class, 'hireUnityDevelopers'])->name('hire-unity-developers');
 Route::get('/hire-flask-developers', [AdditionalPagesController::class, 'hireFlaskDevelopers'])->name('hire-flask-developers');
+Route::get('/hire-oracle-developers', [AdditionalPagesController::class, 'hireOracleDevelopers'])->name('hire-oracle-developers');
+Route::get('/hire-swift-developers', [AdditionalPagesController::class, 'hireSwiftDevelopers'])->name('hire-swift-developers');
+Route::get('/hire-springboot-developers', [AdditionalPagesController::class, 'hireSpringBootDevelopers'])->name('hire-springboot-developers');
 
 
 

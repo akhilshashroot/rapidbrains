@@ -395,5 +395,29 @@ class AdditionalPagesController extends Controller
         return view('services.hire-flask-developers',compact('data'));
     }
 
+    public function  hireOracleDevelopers() {
+        $data['title']= "Hire Top-Talented Remote Oracle Developers in 24 Hours!";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Boost Your Business with Expert Remote Oracle Developers. Leverage their Proficiency to Transform your Operations. Get Started Today.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-oracle-developers";
+        return view('services.hire-oracle-developers',compact('data'));
+    }
+
+    public function  hireSwiftDevelopers() {
+        $data['title']= "Revolutionize Your Development Process with Remote Swift Experts";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Accelerate your development with our remote Swift developers. From app creation to maintenance, our experts ensure top-notch performance. Get in touch today!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-swift-developers";
+        return view('services.hire-swift-developers',compact('data'));
+    }
+
+    public function  hireSpringBootDevelopers() {
+        $data['title']= "Top-notch Spring Boot Developers for Hire";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Accelerate Your Project with Skilled Remote Spring Boot Developers";
+        $data['canonical']= " https://www.rapidbrains.com/hire-springboot-developers";
+        return view('services.hire-springboot-developers',compact('data'));
+    }
+
 
 }

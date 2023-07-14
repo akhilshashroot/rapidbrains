@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Unity Developers Remotely in 24 Hours! </h1>
-                 <p class="lead fs-18 mb-8">Struggling to find top-notch remote Unity developers? Look no further! Hire just the best Unity developers for your project. We provide highly skilled and experienced professionals who excel in Unity development, saving you time and effort in finding the perfect remote talent.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=unity" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated Remote Oracle Developer! </h1>
+                 <p class="lead fs-18 mb-8">RapidBrains empowers you to hire exceptional remote Oracle developers who exemplify the highest standards of technical excellence.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Oracle" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -180,8 +180,8 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7"> Why hire remote Unity Developers from RapidBrains ?</h3>
-        <p> Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remote Unity Developers at RapidBrains. With their deep knowledge and experience in Unity Development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
+        <h3 class="display-2 mb-7">  Why hire a remote Oracle Developer from RapidBrains ?</h3>
+        <p> Looking for a remote Oracle Developer? Our highly skilled developers specialize in Oracle technologies, providing efficient solutions for seamless database management and system integration.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0"> Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Unity Developers.</h3>
+        <h3 class="display-4 mb-0"> Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Oracle Developer </h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=unity" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Unity Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Oracle" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Oracle Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,8 +363,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Unity Developers</h3>
-        <p class="mb-7"> When looking for Unity developers from RapidBrains, prioritize skills such as expertise in Unity game development, proficiency in C#, knowledge of 3D modeling and animation, experience with game physics, strong problem-solving abilities, and a collaborative mindset for successful game development projects.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Oracle Developers </h3>
+        <p class="mb-7">Key skills to prioritize when hiring remote Oracle developers for successful remote collaboration and efficient Oracle development.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -375,8 +375,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Unreal Engine expertise</h3>
-              <p class="mb-0">Demonstrated proficiency in developing and optimizing Unreal Engine projects for immersive experiences.</p>
+              <h3 class="fs-21 mb-2">Oracle Database Administration</h3>
+              <p class="mb-0"> Expertise in managing, optimizing, and troubleshooting Oracle databases for seamless performance.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -388,8 +388,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Unity expertise</h3>
-              <p class="mb-0"> Extensive experience in Unity game development, including scene management, asset integration, and physics simulations.</p>
+              <h3 class="fs-21 mb-2">SQL and PL/SQL Development</h3>
+              <p class="mb-0"> Proficiency in writing efficient SQL queries and developing PL/SQL procedures, functions, and triggers.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +398,11 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">C# programming proficiency</h3>
-              <p class="mb-0">  Proficient in C# for implementing gameplay mechanics, AI behavior, and custom functionalities in Unity projects.</p>
+              <h3 class="fs-21 mb-2">Oracle Application Development</h3>
+              <p class="mb-0">   Experience in developing applications using Oracle technologies like Oracle Forms, APEX, or Oracle JDeveloper.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +411,11 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="web" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="refresh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cross-platform development</h3>
-              <p class="mb-0"> Skilled in deploying Unity games across multiple platforms, such as PC, consoles, mobile devices, and virtual reality.</p>
+              <h3 class="fs-21 mb-2"> Performance Tuning</h3>
+              <p class="mb-0"> Knowledge of identifying and resolving performance bottlenecks in Oracle databases, optimizing queries, and tuning the database configuration.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +425,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Unity Editor proficiency</h3>
-              <p class="mb-0"> Proficient in utilizing Unity Editor to design levels, create animations, implement UI elements, and optimize performance.</p>
+              <h3 class="fs-21 mb-2">Database Security</h3>
+              <p class="mb-0">  Understanding of Oracle's security features, ability to implement access controls, and safeguard sensitive data.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +438,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="plane" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Game optimization and debugging</h3>
-              <p class="mb-0"> Strong skills in optimizing game performance, identifying and fixing bugs, and ensuring smooth gameplay experiences.</p>
+              <h3 class="fs-21 mb-2">Collaboration and Communication</h3>
+              <p class="mb-0"> Excellent communication skills and ability to collaborate effectively with remote teams, ensuring smooth project coordination.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -475,12 +475,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I hire Unity developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">Why do we hire remote Oracle developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains provides a straightforward process to hire Unity developers. Simply visit their website and explore their talent pool of Unity developers. You can review their profiles, skills, and experience. Once you find suitable candidates, you can contact RapidBrains to initiate the hiring process and discuss your specific requirements. </p>
+                     <p class="fs-14">Hiring remote Oracle developers from RapidBrains ensures access to top talent, seamless collaboration, and efficient project execution for optimal business outcomes. </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +489,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can I interview and assess Unity developers before hiring them?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What if I am not satisfied with the performance of the remote Oracle developer?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains provides the opportunity to interview and assess Unity developers before making a hiring decision. Once you express interest in a particular developer or a shortlist of developers, you can request interviews. RapidBrains will coordinate the interview process and facilitate communication between you and the developers. This allows you to evaluate their technical skills, problem-solving abilities, communication skills, and cultural fit for your project.</p>
+                     <p class="fs-14">If you're unhappy with the remote Oracle developer's performance, we offer open communication, mediation, support, and the option to replace the developer. Client satisfaction is our priority, and we'll work to address your concerns and find a solution that meets your needs.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +503,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Are Unity developers from RapidBrains available for remote work or on-site positions?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Can I interview the remote Oracle developer before hiring?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains offers flexible options for hiring Unity developers. They have developers available for both remote work and on-site positions. Depending on your project's requirements and your organization's preferences, you can choose to hire developers who can work remotely from anywhere or those who can work on-site at your location. RapidBrains will help you find the right fit based on your specific needs.</p>
+                     <p class="fs-14">Yes, you can interview the remote Oracle developer before making a hiring decision. At RapidBrains, we understand the importance of finding the right fit for your project. Once we provide you with suitable profiles of Oracle developers, you can schedule interviews with them to assess their technical skills, experience, and communication abilities. We encourage open communication and collaboration to ensure a successful partnership.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +517,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I hire Unity developers from RapidBrains for both short-term and long-term projects?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4"> Can I hire Oracle developers from RapidBrains for both short-term and long-term projects?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains offers flexibility in hiring Unity developers for both short-term and long-term projects. You can discuss your project duration and requirements with RapidBrains to find developers who align with your timeline.</p>
+                     <p class="fs-14">Certainly! RapidBrains provides flexibility in hiring Oracle developers for both short-term and long-term projects. Whether you need a developer for a specific project or require ongoing support, you can discuss your project duration and requirements with RapidBrains. Our team will assist you in finding experienced Oracle developers who are available to work on your desired timeline.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
