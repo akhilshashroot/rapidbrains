@@ -94,6 +94,9 @@ Route::get('/hire-typescript-developers', [AdditionalPagesController::class, 'hi
 Route::get('/hire-rust-developers', [AdditionalPagesController::class, 'hireRustDevelopers'])->name('hire-rust-developers');
 Route::get('/hire-vue-js-developers', [AdditionalPagesController::class, 'hireVueJsDevelopers'])->name('hire-vue-js-developers');
 Route::get('/hire-unity-developers', [AdditionalPagesController::class, 'hireUnityDevelopers'])->name('hire-unity-developers');
+Route::get('/hire-flask-developers', [AdditionalPagesController::class, 'hireFlaskDevelopers'])->name('hire-flask-developers');
+
+
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
 Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'index'])->name('customsearch.index');

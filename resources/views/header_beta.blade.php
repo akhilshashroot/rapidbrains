@@ -92,6 +92,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-rust-developers">Rust Developers</a></li>
                           <li><a class="dropdown-item" href=" https://www.rapidbrains.com/hire-vue.js-developers">Vue.js Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-unity-developers">Unity Developers</a></li>
+                          <li><a class="dropdown-item" href=" https://www.rapidbrains.com/hire-flask-developers">Flask Developers</a></li>
                     </ul>
                     <!--/.row -->
                   </li>

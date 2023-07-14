@@ -386,5 +386,14 @@ class AdditionalPagesController extends Controller
         $data['canonical']= " https://www.rapidbrains.com/hire-unity-developers";
         return view('services.hire-unity-developers',compact('data'));
     }
+    
+    public function  hireFlaskDevelopers() {
+        $data['title']= "Hiring the Best Remote Flask Developers in Record Time";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Want to Hire Top-Talented Flask Developers? Get the Best Remote Experts for Your Project Within 24 Hours.";
+        $data['canonical']= " https://www.rapidbrains.com/hire-flask-developers";
+        return view('services.hire-flask-developers',compact('data'));
+    }
+
 
 }

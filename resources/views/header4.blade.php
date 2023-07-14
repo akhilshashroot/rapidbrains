@@ -74,6 +74,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-rust-developers')}}">Rust Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-unity-developers')}}">Unity Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-flask-developers')}}">Flask Developers</a></li>
                       </ul>
                       <!--/.row -->
                     </li>
