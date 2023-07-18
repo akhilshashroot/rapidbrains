@@ -100,7 +100,7 @@ Route::get('/hire-swift-developers', [AdditionalPagesController::class, 'hireSwi
 Route::get('/hire-springboot-developers', [AdditionalPagesController::class, 'hireSpringBootDevelopers'])->name('hire-springboot-developers');
 Route::get('/hire-docker-developers', [AdditionalPagesController::class, 'hireDockerDevelopers'])->name('hire-docker-developers');
 Route::get('/hire-kubernetes-developers', [AdditionalPagesController::class, 'hireKubernetesDevelopers'])->name('hire-kubernetes-developers');
-
+Route::get('/hire-codeIgniter-developers', [AdditionalPagesController::class, 'hireCodeIgniterDevelopers'])->name('hire-codeIgniter-developers');
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');

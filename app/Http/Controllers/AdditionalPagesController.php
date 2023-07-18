@@ -341,7 +341,7 @@ class AdditionalPagesController extends Controller
 
     public function hireExpressJSDevelopers() {
         $data['title']= "Hire Top-notch Remote Expressjs Developers from RapidBrains";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Accelerate your web development projects with RapidBrains' dedicated Remote Expressjs developers. Experience unmatched expertise and seamless collaboration. Contact us today!";
         $data['canonical']= "https://www.rapidbrains.com/hire-expressjs-developers";
         return view('services.hire-express-js-developers',compact('data'));
@@ -349,7 +349,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireUnrealEngineDevelopers() {
         $data['title']= "Empower Your Projects | Hire Remote Unreal Engine Developers in 24 Hours";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Fuel your projects with skilled remote Unreal Engine developers. Drive innovation, creativity, and captivating experiences. Find your experts now!";
         $data['canonical']= "https://www.rapidbrains.com/hire-unreal-engine-developers";
         return view('services.hire-unreal-engine-developers',compact('data'));
@@ -357,7 +357,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireTypeScriptDevelopers() {
         $data['title']= "Hire Remote TypeScript Developers |  TypeScript Developer in 24 Hours!";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Fuel your projects with skilled remote TypeScript developers. Drive productivity, scalability, and code quality. Find your experts now!";
         $data['canonical']= " https://www.rapidbrains.com/hire-typescript-developers";
         return view('services.hire-typescript-developers',compact('data'));
@@ -365,7 +365,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireRustDevelopers() {
         $data['title']= "Hire Top-Talented Remote Rust Developers in 24 Hours!";
-		$data['keywords']= " Discover top-notch remote Rust developers to power your projects. Drive innovation, performance, and secure coding. Hire skilled professionals now!";
+		$data['keywords']= " ";
 		$data['description']= "Fuel your projects with skilled remote Unreal Engine developers. Drive innovation, creativity, and captivating experiences. Find your experts now!";
         $data['canonical']= " https://www.rapidbrains.com/hire-rust-developers";
         return view('services.hire-rust-developers',compact('data'));
@@ -373,7 +373,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireVueJsDevelopers() {
         $data['title']= "Elevate Your Web Projects | Hire Remote Vue.js Developers";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Supercharge your web projects with skilled remote Vue.js developers. Achieve exceptional results and enhance user experiences. Hire now!";
         $data['canonical']= " https://www.rapidbrains.com/hire-vue.js-developers";
         return view('services.hire-vue-js-developers',compact('data'));
@@ -381,7 +381,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireUnityDevelopers() {
         $data['title']= "Hire Dedicated Remote Unity Developers | Unity Programmers in 24 Hours!";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Supercharge your projects with talented remote unity developers. Unleash innovation, efficiency, and game-changing results. Get started today!";
         $data['canonical']= " https://www.rapidbrains.com/hire-unity-developers";
         return view('services.hire-unity-developers',compact('data'));
@@ -389,7 +389,7 @@ class AdditionalPagesController extends Controller
     
     public function  hireFlaskDevelopers() {
         $data['title']= "Hiring the Best Remote Flask Developers in Record Time";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Want to Hire Top-Talented Flask Developers? Get the Best Remote Experts for Your Project Within 24 Hours.";
         $data['canonical']= " https://www.rapidbrains.com/hire-flask-developers";
         return view('services.hire-flask-developers',compact('data'));
@@ -397,7 +397,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireOracleDevelopers() {
         $data['title']= "Hire Top-Talented Remote Oracle Developers in 24 Hours!";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Boost Your Business with Expert Remote Oracle Developers. Leverage their Proficiency to Transform your Operations. Get Started Today.";
         $data['canonical']= "https://www.rapidbrains.com/hire-oracle-developers";
         return view('services.hire-oracle-developers',compact('data'));
@@ -413,7 +413,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireSpringBootDevelopers() {
         $data['title']= "Top-notch Spring Boot Developers for Hire";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Accelerate Your Project with Skilled Remote Spring Boot Developers";
         $data['canonical']= " https://www.rapidbrains.com/hire-springboot-developers";
         return view('services.hire-springboot-developers',compact('data'));
@@ -421,7 +421,7 @@ class AdditionalPagesController extends Controller
 
     public function  hireDockerDevelopers() {
         $data['title']= "Hire Remote Docker Developer in 24 hours | Select From 100K+ Developers";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Hire elite remote Docker developers within 24 hours from RapidBrains. Top talent, remote, just for you. Experience excellence now.";
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-docker-developers";
         return view('services.hire-docker-developers',compact('data'));
@@ -429,10 +429,18 @@ class AdditionalPagesController extends Controller
 
     public function  hireKubernetesDevelopers() {
         $data['title']= "Hire Remote Kubernetes Developer in 24 hours | Rapidbrains Jobs";
-		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['keywords']= "";
 		$data['description']= "Hire top-notch Kubernetes developers within 24 hours through RapidBrains. Our platform offers a carefully curated selection of skilled remote software developers";
         $data['canonical']= " https://www.rapidbrains.com/hire-remote-kubernetes-developers";
         return view('services.hire-kubernetes-developers',compact('data'));
+    }
+
+    public function  hireCodeIgniterDevelopers() {
+        $data['title']= "Top-notch CodeIgniter Developers| Hire the Best";
+		$data['keywords']= "";
+		$data['description']= "Get access to talented CodeIgniter specialists for your remote projects. Boost your development team's efficiency.";
+        $data['canonical']= " https://www.rapidbrains.com/hire-codeIgniter-developers";
+        return view('services.hire-codeIgniter-developers',compact('data'));
     }
 
 

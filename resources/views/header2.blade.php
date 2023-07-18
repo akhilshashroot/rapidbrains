@@ -85,6 +85,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-springboot-developers')}}">Spring Boot Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-docker-developers')}}">Docker Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-kubernetes-developers')}}">Kubernetes Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-codeIgniter-developers')}}">CodeIgniter Developers</a></li>
 
                       </ul>
                       <!--/.row -->
