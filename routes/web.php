@@ -98,6 +98,8 @@ Route::get('/hire-flask-developers', [AdditionalPagesController::class, 'hireFla
 Route::get('/hire-oracle-developers', [AdditionalPagesController::class, 'hireOracleDevelopers'])->name('hire-oracle-developers');
 Route::get('/hire-swift-developers', [AdditionalPagesController::class, 'hireSwiftDevelopers'])->name('hire-swift-developers');
 Route::get('/hire-springboot-developers', [AdditionalPagesController::class, 'hireSpringBootDevelopers'])->name('hire-springboot-developers');
+Route::get('/hire-docker-developers', [AdditionalPagesController::class, 'hireDockerDevelopers'])->name('hire-docker-developers');
+Route::get('/hire-kubernetes-developers', [AdditionalPagesController::class, 'hireKubernetesDevelopers'])->name('hire-kubernetes-developers');
 
 
 

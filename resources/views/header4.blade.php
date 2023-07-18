@@ -78,7 +78,10 @@
                             <li><a class="dropdown-item" href="{{route('hire-oracle-developers')}}">Oracle Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-swift-developers')}}">Swift Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-springboot-developers')}}">Spring Boot Developers</a></li>
-                      </ul>
+                            <li><a class="dropdown-item" href="{{route('hire-docker-developers')}}">Docker Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-kubernetes-developers')}}">Kubernetes Developers</a></li>
+                      
+                          </ul>
                       <!--/.row -->
                     </li>
                     <!--/.mega-menu-content-->

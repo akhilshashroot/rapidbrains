@@ -419,5 +419,21 @@ class AdditionalPagesController extends Controller
         return view('services.hire-springboot-developers',compact('data'));
     }
 
+    public function  hireDockerDevelopers() {
+        $data['title']= "Hire Remote Docker Developer in 24 hours | Select From 100K+ Developers";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Hire elite remote Docker developers within 24 hours from RapidBrains. Top talent, remote, just for you. Experience excellence now.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-docker-developers";
+        return view('services.hire-docker-developers',compact('data'));
+    }
+
+    public function  hireKubernetesDevelopers() {
+        $data['title']= "Hire Remote Kubernetes Developer in 24 hours | Rapidbrains Jobs";
+		$data['keywords']= "hire salesforce developers, hire remote salesforce developers,salesforce development team, salesforce developer for hire, hire salesforce consultants, hire salesforce experts, salesforce app development, salesforce custom development, hire remote developers";
+		$data['description']= "Hire top-notch Kubernetes developers within 24 hours through RapidBrains. Our platform offers a carefully curated selection of skilled remote software developers";
+        $data['canonical']= " https://www.rapidbrains.com/hire-remote-kubernetes-developers";
+        return view('services.hire-kubernetes-developers',compact('data'));
+    }
+
 
 }
