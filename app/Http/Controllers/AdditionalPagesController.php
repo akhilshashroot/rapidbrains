@@ -443,5 +443,13 @@ class AdditionalPagesController extends Controller
         return view('services.hire-codeIgniter-developers',compact('data'));
     }
 
+    public function  hireMongoDBDevelopers() {
+        $data['title']= " Hire Top-Talented Remote MongoDB in 24 Hours!";
+		$data['keywords']= "";
+		$data['description']= "Hire skilled MongoDB experts for remote positions within 24 hours! Boost your team's efficiency and productivity.";
+        $data['canonical']= "  https://www.rapidbrains.com/hire-mongodb-developers";
+        return view('services.hire-mongodb-developers',compact('data'));
+    }
+    
 
 }
