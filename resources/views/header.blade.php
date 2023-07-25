@@ -78,6 +78,10 @@
                             <li><a class="dropdown-item" title="Kubernetes Developers" href="{{route('hire-kubernetes-developers')}}">Kubernetes Developers</a></li>
                             <li><a class="dropdown-item" title="CodeIgniter Developers" href="{{route('hire-codeIgniter-developers')}}">CodeIgniter Developers</a></li>
                             <li><a class="dropdown-item" title="MongoDB Developers" href="{{route('hire-mongodb-developers')}}">MongoDB Developers</a></li>
+                            <li><a class="dropdown-item" title="Elasticsearch Developers" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
+                            <li><a class="dropdown-item" title="AI Developers" href="{{route('hire-ai-developers')}}">AI Developers</a></li>
+                            <li><a class="dropdown-item" title="Software Testers" href="{{route('hire-software-testers')}}">Software Testers</a></li>
+                      
                       </ul>
                       <!--/.row -->
                     </li>

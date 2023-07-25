@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire just the best MongoDB developers! </h1>
-                 <p class="lead fs-18 mb-8">Need remote MongoDB experts? Get top-talented professionals within 24 hours for your database needs. Hire now!</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=MongoDB" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated Remote Elasticsearch developers!</h1>
+                 <p class="lead fs-18 mb-8">Find expert Elasticsearch developers for your project. Hire dedicated developers to optimize search & data management.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Elasticsearch " class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" alt="unity Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/blockchain.webp" srcset="https://www.rapidbrains.com/assets/img/services/blockchain.webp" alt="CodeIgniter Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote  MongoDB developers from RapidBrains ?</h3>
-        <p>Supercharge your MongoDB projects with the expertise of remote MongoDB developers from RapidBrains. Tap into a global talent network, benefit from tailored solutions, and achieve cost-effective, productive, and timely project delivery. Elevate your business with RapidBrains and unleash MongoDB's full potential.</p>
+        <h3 class="display-2 mb-7">Why hire remote Elasticsearch developers from RapidBrains ? </h3>
+        <p>Discover unparalleled advantages with remote Elasticsearch developers from RapidBrains. Harness top talent globally, cost-effectively, and seamlessly. Leverage their expertise to elevate your projects to new heights. Unlock exceptional development with RapidBrains today.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled MongoDB developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Elasticsearch developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=MongoDB" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire MongoDB Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Elasticsearch" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Elasticsearch Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +363,20 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote MongoDB developers</h3>
-        <p class="mb-7">Harness the Potential of Remote MongoDB Developers. Discover Exceptional Talent to Revolutionize Your Projects, Streamline Workflows, and Achieve Unparalleled Database Efficiency. When seeking MongoDB developers from RapidBrains, prioritize essential skills and qualities that will drive the success of your project.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Elasticsearch developers</h3>
+        <p class="mb-7">Unleash the Power of Remote Elasticsearch Developers. Unearth Exceptional Talent to Transform Your Projects, Optimize Workflows, and Attain Unmatched Search Efficiency. When searching for Elasticsearch developers from RapidBrains, emphasize crucial skills and attributes that will steer the triumph of your project.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Performance Tuning</h3>
-              <p class="mb-0">Look for developers who have experience in performance tuning for MongoDB. They should understand how to analyze and optimize query performance, use appropriate indexes, and identify and resolve bottlenecks in the database.</p>
+              <h3 class="fs-21 mb-2">Elasticsearch Proficiency</h3>
+              <p class="mb-0">Look for candidates who have a strong understanding of Elasticsearch's architecture, data modeling, indexing, searching, and aggregation capabilities. They should be familiar with Elasticsearch's query DSL and know how to optimize search performance.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,11 +385,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="server" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="server" />
+              
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Modeling for Scalability</h3>
-              <p class="mb-0">If your project requires handling large amounts of data or high traffic, seek developers who have expertise in designing scalable data models. They should be familiar with techniques such as denormalization, data partitioning, and data distribution strategies to ensure efficient performance as your application scales. </p>
+              <h3 class="fs-21 mb-2">Data Analysis and Indexing</h3>
+              <p class="mb-0">Elasticsearch is all about handling and querying large volumes of data efficiently. Seek developers who have experience in data analysis and indexing strategies to design efficient data models and indexing patterns.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +399,11 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Backup and Recovery</h3>
-              <p class="mb-0">  Data integrity and disaster recovery are critical aspects of any database. Ensure that developers have knowledge of MongoDB's backup and recovery mechanisms, including regular backups, point-in-time recovery, and handling data corruption scenarios.</p>
+              <h3 class="fs-21 mb-2">Elastic Stack</h3>
+              <p class="mb-0">Elasticsearch is often used as part of the Elastic Stack (formerly known as ELK Stack) which includes Elasticsearch, Logstash, and Kibana. Candidates with experience in setting up and configuring the full stack will be valuable.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +412,11 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="phone" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Real-time Data Processing</h3>
-              <p class="mb-0"> If your application requires real-time data processing or event-driven architecture, look for developers who have experience with MongoDB's change streams. They should be capable of capturing and reacting to data changes in real time, enabling functionalities like real-time notifications or analytics.</p>
+              <h3 class="fs-21 mb-2">RESTful APIs</h3>
+              <p class="mb-0">Elasticsearch is accessed using RESTful APIs. Your ideal candidates should have expertise in working with these APIs for data ingestion, querying, and managing the cluster.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +426,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="list" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="refresh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Integration with Frameworks and Tools</h3>
-              <p class="mb-0"> Assess developers' familiarity with popular frameworks and tools that integrate with MongoDB, such as Mongoose (for Node.js), PyMongo (for Python), or MongoDB Atlas (for managed cloud deployments). Experience in integrating MongoDB with these tools can streamline development and improve productivity.</p>
+              <h3 class="fs-21 mb-2">Query Optimization</h3>
+              <p class="mb-0"> An experienced Elasticsearch developer should be skilled in optimizing search queries and aggregations to ensure high performance and minimal response times. </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +439,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="SHIELD" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Testing and Quality Assurance</h3>
-              <p class="mb-0">  Strong testing skills are important to ensure the reliability and stability of your application. Look for developers who can write effective unit tests, perform integration testing with MongoDB, and follow best practices in quality assurance.</p>
+              <h3 class="fs-21 mb-2">Monitoring and Maintenance</h3>
+              <p class="mb-0">Look for candidates who understand how to monitor the health of an Elasticsearch cluster, diagnose issues, and perform necessary maintenance tasks.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -461,13 +462,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -475,12 +476,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What services does RapidBrains offer for hiring MongoDB developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What is the Elastic Stack, and why is it important for Elasticsearch developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains offers the service of hiring remote MongoDB developers, providing access to top-talented professionals within 24 hours.</p>
+                     <p class="fs-14">The Elastic Stack, formerly known as the ELK Stack, includes Elasticsearch, Logstash, and Kibana. It is essential for Elasticsearch developers as it provides a comprehensive solution for data collection, processing, storage, and visualization, enabling effective data management and analysis.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +490,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How can I connect with top talent worldwide for MongoDB  development?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2"> What are the advantages of hiring remote Elasticsearch developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">To connect with top talent worldwide for MongoDB development, you can tap into our global network at RapidBrains. We have a vast pool of skilled MongoDB developers, trusted by over 1.2K customers. By leveraging our network, you can find experienced professionals who specialize in MongoDB and are capable of meeting your project requirements while delivering exceptional results.</p>
+                     <p class="fs-14"> Hiring remote Elasticsearch developers from RapidBrains offers unparalleled advantages, including access to top talent from around the world, cost-effectiveness, and seamless integration into your projects for exceptional development.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +504,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> How important is performance tuning when hiring MongoDB developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> How many customers have trusted RapidBrains for hiring skilled Elasticsearch developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Performance tuning is a crucial skill to consider when hiring MongoDB developers. Developers with experience in performance tuning can analyze and optimize query performance, utilize appropriate indexes, and identify and resolve bottlenecks in the database. This expertise ensures optimal performance and efficiency for your MongoDB projects.</p>
+                     <p class="fs-14">RapidBrains has been trusted by over 1.2K customers for finding skilled Elasticsearch developers.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +518,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What are the advantages of hiring remote MongoDB developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4"> How does RapidBrains ensure the quality of the Elasticsearch developers on their platform?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> Hiring remote MongoDB developers from RapidBrains brings several advantages, including tapping into a global talent network, benefiting from tailored solutions, and achieving cost-effective, productive, and timely project delivery.</p>
+                     <p class="fs-14">RapidBrains ensures the quality of Elasticsearch developers on their platform through a rigorous screening and vetting process. They assess candidates' technical skills, experience, and past projects to ensure they meet the required standards. Additionally, client feedback and reviews play a crucial role in maintaining the quality of the talent pool.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
