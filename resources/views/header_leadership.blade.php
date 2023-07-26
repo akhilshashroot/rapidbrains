@@ -103,6 +103,10 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-elasticsearch-developers">Elasticsearch Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-artificia-intelligence-developers">AI Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-software-tester">Software Testers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-vapt-testers">VAPT testers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-meteor-developers">Meteor Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-automation-tester">Automation Testers</a></li>
+                      
 
 
 

@@ -105,6 +105,10 @@ Route::get('/hire-mongodb-developers', [AdditionalPagesController::class, 'hireM
 Route::get('/hire-elasticsearch-developers', [AdditionalPagesController::class, 'hireElasticsearchDevelopers'])->name('hire-elasticsearch-developers');
 Route::get('/hire-ai-developers', [AdditionalPagesController::class, 'hireAIDevelopers'])->name('hire-ai-developers');
 Route::get('/hire-software-testers', [AdditionalPagesController::class, 'hireSoftwareTesters'])->name('hire-software-testers');
+Route::get('/hire-vapt-testers', [AdditionalPagesController::class, 'hireVaptTesters'])->name('hire-vapt-testers');
+Route::get('/hire-meteor-developers', [AdditionalPagesController::class, 'hireMeteorDevelopers'])->name('hire-meteor-developers');
+Route::get('/hire-automation-testers', [AdditionalPagesController::class, 'hireAutomationTesters'])->name('hire-automation-testers');
+
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');

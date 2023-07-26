@@ -477,5 +477,30 @@ class AdditionalPagesController extends Controller
     }
 
 
+    public function  hireVaptTesters() {
+        $data['title']= "Discover the Top Remote VAPT Tester for Hire fromRapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Get ready to unlock top-notch security testing expertise with RapidBrains' awesome remote VAPT testers. Check out our talented team of professionals and ensure robust protection for your digital assets!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-vapt-developers";
+        return view('services.hire-vapt-testers',compact('data'));
+    }
+
+    public function  hireMeteorDevelopers() {
+        $data['title']= "Recruit a Skilled Remote Meteor Developer in Just 24 Hours | RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Discover the Proficiency of Exceptional Meteor Developers Within 24 Hours. Our Highly Skilled Team Delivers Top-tier Solutions, Backed by a Proven Track Record of Success in unlocking Your Project's Full Potential. Partner with Us Today!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-meteor-developers";
+        return view('services.hire-meteor-developers',compact('data'));
+    }
+
+    public function  hireAutomationTesters() {
+        $data['title']= "Explore the Finest Remote Automation Tester for Hire at RapidBrains.";
+		$data['keywords']= "";
+		$data['description']= "Experience the Power of Automation Testing with RapidBrains' Exceptional Remote Testers. Explore Our Skilled Team of Automation Testing Professionals and Ensure Seamless Quality Assurance for Your Projects!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-automation-tester";
+        return view('services.hire-automation-testers',compact('data'));
+    }
+    
+
 
 }

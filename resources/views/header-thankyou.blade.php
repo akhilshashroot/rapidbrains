@@ -78,6 +78,10 @@
                             <li><a class="dropdown-item" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-ai-developers')}}">AI Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-software-testers')}}">Software Testers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-vapt-testers')}}">VAPT Testers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
+                      
                       
 
                       </ul>
