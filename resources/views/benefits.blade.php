@@ -288,6 +288,106 @@
         </div>
 
 
+         {{-- <!--table Starts-->
+         <section class="wrapper">
+          <div class="container py-14 py-md-16">
+            <h2 class="display-4 mb-3 text-center">Onsite job vs Remote job</h2>
+            <!--<p class="lead fs-lg">We do more to deliver you the suitable remote talents that satisfy and fit into the right skill set you are looking for. </p> -->
+            <div class="row">
+        
+              <!--/column -->
+            </div>
+            <!--/.row -->
+            <div class="table-responsive">
+              <table class="table table-borderless table-striped text-center">
+                <thead>
+                  <tr>
+                    <th class="w-25"></th>
+                    <th>
+                      <div class="h4 mb-1">Onsite</div>
+                      <!--<div class="fs-15 fw-normal text-secondary">$9 / Monthly</div>-->
+                    </th>
+                    <th>
+                      <div class="h4 mb-1">Remote</div>
+                    </th>
+        
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="option text-start">Location</td>
+                    <td>Onsite jobs require employees to work at a physical workplace, often a company office or facility</td>
+                    <td>Remote jobs allow individuals to work from any location with an internet connection, such as home or co-working spaces.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Commute</td>
+                    <td>Onsite jobs necessitate regular commuting, which can consume valuable time and lead to stress.</td>
+                    <td>Remote jobs eliminate the need for commuting, providing more flexibility and reducing transportation costs.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Work Environment</td>
+                    <td>Onsite jobs offer a structured work environment with designated workspaces, promoting a sense of professionalism and collaboration.</td>
+                    <td>Remote jobs provide the flexibility to create a personalized work environment, tailored to individual preferences and comfort.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Work-Life Balance</td>
+                    <td>Onsite jobs may have fixed working hours, making it harder to maintain a balanced life.</td>
+                    <td>Remote jobs often offer better work-life balance since employees can manage their schedules and have more time for personal commitments.</td>
+                  <tr>
+                    <td class="option text-start">Collaboration</td>
+                    <td>Onsite jobs foster face-to-face interactions, making it easier to collaborate with colleagues, share ideas, and build strong team dynamics.</td>
+                    <td>Remote jobs rely on virtual communication tools, requiring effective online collaboration skills.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Distractions</td>
+                    <td>Onsite jobs may have distractions from office activities or noisy environments.</td>
+                    <td>Remote jobs could be disrupted by distractions at home, such as family members or household chores.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Technology</td>
+                    <td>Onsite jobs generally have access to company-provided infrastructure and support.</td>
+                    <td>Remote jobs require reliable internet access and proper technology setup for effective communication and work performance.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Job Opportunities</td>
+                    <td>Onsite jobs limit job opportunities to a specific geographic location.</td>
+                    <td>Remote jobs open up possibilities to work with companies and clients from anywhere in the world.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Company Culture</td>
+                    <td>Onsite jobs provide employees with a direct experience of the company's culture through in-person interactions and social activities.</td>
+                    <td>Remote jobs require companies to foster a virtual company culture to maintain team cohesion.</td>
+        
+                  </tr>
+                  <tr>
+                    <td class="option text-start">Health Considerations</td>
+                    <td>Onsite jobs may expose employees to potential health risks related to commuting and shared office spaces.</td>
+                    <td>Remote jobs reduce these risks but can present challenges in maintaining proper ergonomics and promoting physical activity.</td>
+        
+                  </tr>
+
+                </tbody>
+        
+              </table>
+            </div>
+            <!-- /.table-responsive -->
+          </div>
+          <!-- /.container -->
+        </section>
+        <!-- /section -->
+        
+        
+         <!--table Ends--> --}}
+
+
+
 <section class="wrapper bg-light">
   <div class="container py-14 py-md-5">
     <h2 class="display-4 mb-3 text-center">Remote working is the next revolution!</h2>

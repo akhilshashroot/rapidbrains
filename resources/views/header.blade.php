@@ -84,6 +84,8 @@
                             <li><a class="dropdown-item" title="VAPT Testers" href="{{route('hire-vapt-testers')}}">VAPT Testers</a></li>
                             <li><a class="dropdown-item" title="Meteor Developers" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
                             <li><a class="dropdown-item" title="Automation Testers" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
+                            <li><a class="dropdown-item" title= "Slack Developers" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
+                      
                       
                       </ul>
                       <!--/.row -->

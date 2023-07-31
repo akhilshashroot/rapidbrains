@@ -500,6 +500,14 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-automation-tester";
         return view('services.hire-automation-testers',compact('data'));
     }
+
+    public function  hireSlackDevelopers() {
+        $data['title']= "Remote Slack Developers for Hire | Boost Collaboration";
+		$data['keywords']= "";
+		$data['description']= "Find and hire remote Slack developers to enhance team communication and productivity. Take your collaboration to the next level!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-slack-developers";
+        return view('services.hire-slack-developers',compact('data'));
+    }
     
 
 

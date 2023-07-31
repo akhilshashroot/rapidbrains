@@ -108,7 +108,7 @@ Route::get('/hire-software-testers', [AdditionalPagesController::class, 'hireSof
 Route::get('/hire-vapt-testers', [AdditionalPagesController::class, 'hireVaptTesters'])->name('hire-vapt-testers');
 Route::get('/hire-meteor-developers', [AdditionalPagesController::class, 'hireMeteorDevelopers'])->name('hire-meteor-developers');
 Route::get('/hire-automation-testers', [AdditionalPagesController::class, 'hireAutomationTesters'])->name('hire-automation-testers');
-
+Route::get('/hire-slack-developers', [AdditionalPagesController::class, 'hireSlackDevelopers'])->name('hire-slack-developers');
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
