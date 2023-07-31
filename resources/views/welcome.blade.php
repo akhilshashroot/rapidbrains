@@ -993,7 +993,7 @@
                 </div>
                 <!--/column -->
                 <div class="col-lg-4">
-                  <h2 class="fs-15 text-uppercase text-primary text-center mb-3">RapidBrains Award-Winning Excellence</h2>
+                  <h2 class="fs-15 text-uppercase text-primary mb-3">RapidBrains Award-Winning Excellence</h2>
                   <h3 class="display-5 mb-5">Celebrating Our Industry Accolades and Achievements</h3>
                   <p>Discover RapidBrains impressive collection of accolades, showcasing our dedication to excellence and commitment to delivering outstanding remote development solutions.</p>
                 </div>
