@@ -98,7 +98,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-springboot-developers">Spring Boot Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-docker-developers">Docker Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-kubernetes-developers">Kubernetes Developers</a></li>
-                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-codeIgniter-developers">CodeIgniter Developers</a></li>    
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-codeigniter-developers">CodeIgniter Developers</a></li>    
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-mongodb-developers">MongoDB Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-elasticsearch-developers">Elasticsearch Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-artificia-intelligence-developers">AI Developers</a></li>
@@ -106,7 +106,8 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-vapt-testers">VAPT testers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-meteor-developers">Meteor Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-automation-tester">Automation Testers</a></li>
-                          <li><a class="dropdown-item" href=" https://www.rapidbrains.com/hire-slack-developers">Slack Testers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-slack-developers">Slack Testers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-tailwind-css-developer">Tailwind CSS Developers</a></li>
                       
 
 

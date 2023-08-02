@@ -73,7 +73,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-spring-bootdevelopers')}}">Spring Boot Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-docker-developers')}}">Docker Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-kubernetes-developers')}}">Kubernetes Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-codeIgniter-developers')}}">CodeIgniter Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-codeigniter-developers')}}">CodeIgniter Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-mongodb-developers')}}">MongoDB Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-ai-developers')}}">AI Developers</a></li>
@@ -82,6 +82,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
                       
                             
                       

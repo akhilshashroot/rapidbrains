@@ -100,7 +100,7 @@ Route::get('/hire-swift-developers', [AdditionalPagesController::class, 'hireSwi
 Route::get('/hire-springboot-developers', [AdditionalPagesController::class, 'hireSpringBootDevelopers'])->name('hire-springboot-developers');
 Route::get('/hire-docker-developers', [AdditionalPagesController::class, 'hireDockerDevelopers'])->name('hire-docker-developers');
 Route::get('/hire-kubernetes-developers', [AdditionalPagesController::class, 'hireKubernetesDevelopers'])->name('hire-kubernetes-developers');
-Route::get('/hire-codeIgniter-developers', [AdditionalPagesController::class, 'hireCodeIgniterDevelopers'])->name('hire-codeIgniter-developers');
+Route::get('/hire-codeigniter-developers', [AdditionalPagesController::class, 'hireCodeIgniterDevelopers'])->name('hire-codeigniter-developers');
 Route::get('/hire-mongodb-developers', [AdditionalPagesController::class, 'hireMongoDBDevelopers'])->name('hire-mongodb-developers');
 Route::get('/hire-elasticsearch-developers', [AdditionalPagesController::class, 'hireElasticsearchDevelopers'])->name('hire-elasticsearch-developers');
 Route::get('/hire-ai-developers', [AdditionalPagesController::class, 'hireAIDevelopers'])->name('hire-ai-developers');
@@ -109,6 +109,7 @@ Route::get('/hire-vapt-testers', [AdditionalPagesController::class, 'hireVaptTes
 Route::get('/hire-meteor-developers', [AdditionalPagesController::class, 'hireMeteorDevelopers'])->name('hire-meteor-developers');
 Route::get('/hire-automation-testers', [AdditionalPagesController::class, 'hireAutomationTesters'])->name('hire-automation-testers');
 Route::get('/hire-slack-developers', [AdditionalPagesController::class, 'hireSlackDevelopers'])->name('hire-slack-developers');
+Route::get('/hire-tailwind-css-developers', [AdditionalPagesController::class, 'hireTailwindCssDevelopers'])->name('hire-tailwind-css-developers');
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
@@ -127,3 +128,7 @@ Route::get('/capabilities', [HomeController::class, 'capAbilities'])->name('capA
 Route::get('/global-approach', [HomeController::class, 'globalApproach'])->name('globalApproach');
 Route::get('/talent-enquiry', [HomeController::class, 'enquiryPage'])->name('enquiry.page');
 
+
+// Route::get('/', function () {
+//     return view('header_sample2');
+// });

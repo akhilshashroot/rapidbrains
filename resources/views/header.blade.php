@@ -76,7 +76,7 @@
                             <li><a class="dropdown-item" title="Spring Boot Developers" href="{{route('hire-springboot-developers')}}">Spring Boot Developers</a></li>
                             <li><a class="dropdown-item" title="Docker Developers" href="{{route('hire-docker-developers')}}">Docker Developers</a></li>
                             <li><a class="dropdown-item" title="Kubernetes Developers" href="{{route('hire-kubernetes-developers')}}">Kubernetes Developers</a></li>
-                            <li><a class="dropdown-item" title="CodeIgniter Developers" href="{{route('hire-codeIgniter-developers')}}">CodeIgniter Developers</a></li>
+                            <li><a class="dropdown-item" title="CodeIgniter Developers" href="{{route('hire-codeigniter-developers')}}">CodeIgniter Developers</a></li>
                             <li><a class="dropdown-item" title="MongoDB Developers" href="{{route('hire-mongodb-developers')}}">MongoDB Developers</a></li>
                             <li><a class="dropdown-item" title="Elasticsearch Developers" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
                             <li><a class="dropdown-item" title="AI Developers" href="{{route('hire-ai-developers')}}">AI Developers</a></li>
@@ -85,6 +85,7 @@
                             <li><a class="dropdown-item" title="Meteor Developers" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
                             <li><a class="dropdown-item" title="Automation Testers" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
                             <li><a class="dropdown-item" title= "Slack Developers" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
+                            <li><a class="dropdown-item" title="Tailwind CSS Developer" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
                       
                       
                       </ul>

@@ -1,4 +1,4 @@
-@extends('layout.layout')
+@extends('layout.layoutheader2')
 @section('section')
 <section class="wrapper bg-gray">
   <div class="container py-14 py-md-16">
@@ -37,7 +37,7 @@
       <!--/column -->
       <div class="col-lg-5">
         <h2 class="display-4 mb-3">Let’s Talk</h2>
-        <p class="lead fs-lg">Let's make something great together. We are <span class="underline">trusted by</span> over 21000+ talents. Join us by using our services and grow your business.</p>
+        <p class="lead fs-lg">Discover the power of collaboration as we embark on a journey towards greatness. With a staggering count of over 21,000 satisfied talents who have placed their trust in us, it's time for you to join our ranks and experience firsthand the transformative impact our services can have on your business growth.</p>
         <a href="https://talents.rapidbrains.com/" class="btn btn-primary rounded-pill mt-2">Hire Now</a>
       </div>
       <!--/column -->
@@ -54,6 +54,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h1 class="display-1 mb-3 text-black">Get in Touch</h1>
+            <p class="lead fs-lg">Thank you for choosing RapidBrains! We greatly appreciate your feedback, inquiries, and the opportunity to connect with you. Please don't hesitate to contact us using the provided information below. Our committed team is readily available to assist you and ensure that you receive the necessary information you seek.</p>
             <nav class="d-inline-block" aria-label="breadcrumb">
               <ol class="breadcrumb text-white">
                 <li class="breadcrumb-item"><a href="#">Home</a></li>

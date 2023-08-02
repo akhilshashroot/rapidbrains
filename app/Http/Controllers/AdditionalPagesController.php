@@ -438,7 +438,7 @@ class AdditionalPagesController extends Controller
     public function  hireCodeIgniterDevelopers() {
         $data['title']= "Top-notch CodeIgniter Developers| Hire the Best";
 		$data['keywords']= "";
-		$data['description']= "Get access to talented CodeIgniter specialists for your remote projects. Boost your development team's efficiency.";
+		$data['description']= "Get access to talented Codeigniter specialists for your remote projects. Boost your development team's efficiency.";
         $data['canonical']= "https://www.rapidbrains.com/hire-codeIgniter-developers";
         return view('services.hire-codeIgniter-developers',compact('data'));
     }
@@ -508,7 +508,15 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-slack-developers";
         return view('services.hire-slack-developers',compact('data'));
     }
-    
 
+    public function  hireTailwindCssDevelopers() {
+        $data['title']= "Hire Tailwind CSS Developer at RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find skilled Tailwind CSS developers at RapidBrains for your project. Optimize your project with top-notch CSS expertise";
+        $data['canonical']= " https://www.rapidbrains.com/hire-tailwind-css-developer";
+        return view('services.hire-tailwind-css-developers',compact('data'));
+    }
+    
+    
 
 }
