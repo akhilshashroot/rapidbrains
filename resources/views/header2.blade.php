@@ -95,6 +95,9 @@
                             <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-tensorflow-developers')}}">TensorFlow Developers</a></li>
+                      
                       
                       
                       

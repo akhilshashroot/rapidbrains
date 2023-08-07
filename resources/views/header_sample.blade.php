@@ -23,10 +23,10 @@
             <ul class="navbar-nav">
                
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a>
-                  <ul class="dropdown-menu">
+                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" style='color: #343f52;'>Hire Talents</a>
+
+                  <ul class="dropdown-menu rgt">
                     <li class="dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown" >Mobile App Developer  </a>
-                      
                       <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="{{route('hire-android-developers')}}">Android Developer</a></li>
                         <li><a class="dropdown-item" href="{{route('hire-ios-developers')}}">IOS Developers</a></li>
@@ -65,7 +65,7 @@
 
                       </ul>
                     </li>
-                    <li class="dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">DevOps</a>
+                    <li class="dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">DevOps </a>
                       <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="{{route('hire-devops-developers')}}">DevOps Engineers</a></li>
                       </ul>

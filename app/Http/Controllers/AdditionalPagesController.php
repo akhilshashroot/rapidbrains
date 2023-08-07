@@ -513,8 +513,24 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Tailwind CSS Developer at RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Find skilled Tailwind CSS developers at RapidBrains for your project. Optimize your project with top-notch CSS expertise";
-        $data['canonical']= " https://www.rapidbrains.com/hire-tailwind-css-developer";
+        $data['canonical']= "https://www.rapidbrains.com/hire-tailwind-css-developer";
         return view('services.hire-tailwind-css-developers',compact('data'));
+    }
+
+    public function  hirePytorchDevelopers() {
+        $data['title']= " Expert PyTorch Developer for Hire: Join Forces with RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Elevate Your AI Solutions with Skilled Remote PyTorch Developers. Partner with RapidBrains to Infuse Expertise into Your Team.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-pytorch-developer";
+        return view('services.hire-pytorch-developers',compact('data'));
+    }
+
+    public function  hireTensorflowDevelopers() {
+        $data['title']= "Hire Remote TensorFlow Developer: Code, Create, Innovate!";
+		$data['keywords']= "";
+		$data['description']= "Be a Remote TensorFlow Dev. Code, create & innovate for groundbreaking AI.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-tensorflow-developers";
+        return view('services.hire-tensorflow-developers',compact('data'));
     }
     
     

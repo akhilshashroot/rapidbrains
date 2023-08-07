@@ -110,6 +110,8 @@ Route::get('/hire-meteor-developers', [AdditionalPagesController::class, 'hireMe
 Route::get('/hire-automation-testers', [AdditionalPagesController::class, 'hireAutomationTesters'])->name('hire-automation-testers');
 Route::get('/hire-slack-developers', [AdditionalPagesController::class, 'hireSlackDevelopers'])->name('hire-slack-developers');
 Route::get('/hire-tailwind-css-developers', [AdditionalPagesController::class, 'hireTailwindCssDevelopers'])->name('hire-tailwind-css-developers');
+Route::get('/hire-pytorch-developers', [AdditionalPagesController::class, 'hirePytorchDevelopers'])->name('hire-pytorch-developers');
+Route::get('/hire-tensorflow-developers', [AdditionalPagesController::class, 'hireTensorflowDevelopers'])->name('hire-tensorflow-developers');
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');

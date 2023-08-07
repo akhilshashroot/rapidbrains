@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Tailwind CSS developer Remotely in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8"> Discover Your Ideal Match - Hire Tailwind CSS Developers from RapidBrains! Unlock the Full Potential of Tailwind CSS with Our Talented Team.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=tailwind_css" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire PyTorch Developers Remotely in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Maximize AI Excellence - Secure Proficient PyTorch Developers from RapidBrains! Capitalize on Comprehensive PyTorch Proficiency with Our Accomplished Team.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=PyTorch " class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-ai.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-ai.webp" alt="AI Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-swift.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-swift.webp" alt="Swift Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Tailwind CSS developers from RapidBrains?</h3>
-        <p>Boost Your Development Efficiency and Elevate Projects with Our Remote Tailwind CSS Developers at RapidBrains. With their extensive expertise in Tailwind CSS, they excel at creating top-notch web applications, captivating user interfaces, and dynamic interactive components.</p>
+        <h3 class="display-2 mb-7">Why hire remote PyTorch developers from RapidBrains ? </h3>
+        <p>Facilitate AI Advancements and Propel Projects with Our Remote PyTorch Developers at RapidBrains. Drawing upon their profound PyTorch expertise, they excel in devising sophisticated AI solutions, conducting insightful data analysis, and formulating transformative models.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Tailwind CSS Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled PyTorch developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=tailwind_css" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Tailwind CSS Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=PyTorch" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire PyTorch Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,21 +363,20 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Tailwind CSS Developers.</h3>
-        <p class="mb-7">Elevate Your Projects with Tailwind CSS Experts from RapidBrains, Highly Skilled in Analytical and Problem-Solving Capabilities. They Identify Potential Improvements and Effectively Communicate Complex UI Concepts, Enabling Seamless Collaboration with Your Development Team and Stakeholders.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote PyTorch developers</h3>
+        <p class="mb-7">Harness Profound PyTorch Expertise through our In-Depth Analysis of Crucial Developer Proficiencies. Delve into the Competencies that Set Exceptional PyTorch Developers Apart, Paving the Path to AI Excellence.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Front-End Development Foundation</h3>
-              <p class="mb-0">A proficient Tailwind CSS developer should have a strong grasp of front-end development technologies like HTML, CSS, and JavaScript. Their ability to seamlessly integrate Tailwind CSS with other frameworks and libraries is crucial.
-               </p>
+              <h3 class="fs-21 mb-2">PyTorch Proficiency</h3>
+              <p class="mb-0"> A solid grasp of PyTorch's intricacies, enabling seamless model development and optimization. </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -386,12 +385,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="analytics" />
+          
             </div>
             <div>
-              <h3 class="fs-21 mb-2"> UI/UX Design Sensibility</h3>
-              <p class="mb-0"> Beyond implementing pre-designed components, competent developers should demonstrate an eye for design aesthetics and a solid understanding of user experience principles. Their skills in crafting visually appealing and user-friendly interfaces enhance the overall user experience.
-                </p>
+              <h3 class="fs-21 mb-2">Algorithmic Prowess</h3>
+              <p class="mb-0">Ability to architect and implement intricate algorithms, vital for cutting-edge AI solutions.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -400,11 +399,11 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="list" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Responsive Web Design</h3>
-              <p class="mb-0">Adapting to the growing mobile usage, Tailwind CSS developers must excel in creating responsive web applications that work flawlessly across various screen sizes and devices.</p>
+              <h3 class="fs-21 mb-2">Data Analysis Skills</h3>
+              <p class="mb-0">Proficiency in data preprocessing, analysis, and insight extraction for robust AI models.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -413,11 +412,11 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Code Optimization</h3>
-              <p class="mb-0">Writing optimized and efficient CSS code is vital for a high-performing website. Seek developers who can produce clean, concise, and organized code, avoiding redundancy and improving loading times.</p>
+              <h3 class="fs-21 mb-2">Deep Learning Expertise</h3>
+              <p class="mb-0">In-depth knowledge of deep learning principles, facilitating effective neural network design.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -427,11 +426,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="rocket" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle-2" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Version Control Systems</h3>
-              <p class="mb-0">Proficiency in version control systems like Git is essential for collaborative development and maintaining code integrity within the team.</p>
+              <h3 class="fs-21 mb-2">Problem-Solving Aptitude</h3>
+              <p class="mb-0">Capacity to dissect complex AI challenges and innovate pragmatic solutions.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -440,11 +439,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="web" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/team.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="team" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cross-Browser Compatibility </h3>
-              <p class="mb-0"> Developers should be well-versed in testing and ensuring cross-browser compatibility, ensuring consistent performance and appearance across different web browsers.</p>
+              <h3 class="fs-21 mb-2">Collaborative Spirit</h3>
+              <p class="mb-0">Strong teamwork and communication skills for cohesive collaboration with diverse teams.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -463,13 +462,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -477,12 +476,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How does RapidBrains source and vet software developers for hiring?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1"> What is PyTorch and why is it important for AI development?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"0>RapidBrains employs a rigorous screening process to ensure the highest quality developers. Candidates undergo technical assessments, coding challenges, and interviews conducted by experienced technical experts to verify their skills and expertise.</p>
+                     <p class="fs-14">PyTorch is an open-source machine learning framework that facilitates the creation of deep learning models. It's essential for AI development due to its dynamic computation graph and intuitive syntax.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -491,12 +490,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How does RapidBrains ensure the confidentiality and security of my project information?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can PyTorch developers handle both model development and deployment?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> RapidBrains takes data security and confidentiality seriously. They sign non-disclosure agreements (NDAs) with clients and developers to protect sensitive information. Additionally, they follow strict data security measures to safeguard your project details.</p>
+                     <p class="fs-14">Yes, proficient PyTorch developers can design, train, and deploy AI models using PyTorch and relevant deployment tools.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -505,12 +504,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How can I ensure that the software developer I hire is a good fit for my company culture and team dynamics?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How do PyTorch developers contribute to AI model optimization?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">During the hiring process, assess the developer's soft skills and communication abilities. Conduct behavioral interviews to gauge their teamwork, adaptability, and alignment with your company's values and culture.</p>
+                     <p class="fs-14">PyTorch developers optimize AI models by fine-tuning neural network architectures, adjusting hyperparameters, and implementing efficient training techniques.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -519,12 +519,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How important is it for a software developer to have experience with Agile or other development methodologies?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What is the typical role of a PyTorch developer in a project?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> Experience with Agile or other development methodologies is highly valuable as it indicates the developer's ability to work collaboratively, adapt to changing requirements, and deliver iterative and customer-centric solutions.</p>
+                     <p class="fs-14">PyTorch developers design, implement, and test AI models, ensure their performance and accuracy, collaborate with data scientists, and integrate models into applications.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

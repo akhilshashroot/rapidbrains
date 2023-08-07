@@ -29,6 +29,18 @@
 
 <style>
 
+
+@media (min-width: 992px){
+/* .navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-toggle:after {
+ 
+    right: -1rem;
+  
+} */
+.rgt{
+  --bs-dropdown-min-width: 11rem  !important;
+}
+}
+
 .uil-dollar-sign-alt:before {
   content: "\ea9e";
 }
@@ -228,7 +240,7 @@
       <!--Header Starts  -->
       <!--Header Starts  -->
 
-      @include('header_sample')
+      @include('header4')
 
    @yield('section')
 
