@@ -532,6 +532,14 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-tensorflow-developers";
         return view('services.hire-tensorflow-developers',compact('data'));
     }
+
+    public function  hireCiCdEngineers() {
+        $data['title']= "Expert CI/CD Engineers for Seamless DevOps Automation";
+		$data['keywords']= "CI/CD engineer hiring, Hire Remote CI/CD Engineer, Hire CI/CD engineer, CI/CD development team, CI/CD programmer for hire,Hire CI/CD solutions architect, Find CI/CD engineer, Hire Professional CI/CD engineer";
+		$data['description']= "Boost DevOps efficiency with skilled CI/CD engineers. Streamline workflows. Accelerate deployments.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-ci/cd-engineers";
+        return view('services.hire-ci-cd-engineers',compact('data'));
+    }
     
     
 

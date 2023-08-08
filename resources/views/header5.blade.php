@@ -92,6 +92,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-tailwind-css-developer">Tailwind CSS Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-pytorch-developer">PyTorch Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-tensorflow-developers">TensorFlow Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-ci/cd-engineers">CI/CD Engineers</a></li>
                       
 
 

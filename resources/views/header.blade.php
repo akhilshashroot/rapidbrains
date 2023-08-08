@@ -88,6 +88,7 @@
                             <li><a class="dropdown-item" title="Tailwind CSS Developer" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
                             <li><a class="dropdown-item" tite="Pytorch Developer" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>
                             <li><a class="dropdown-item" tite="Tensorflow Developer" href="{{route('hire-tensorflow-developers')}}">TensorFlow Developers</a></li>
+                            <li><a class="dropdown-item" tite="CI/CD Engineers" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
                       
                       
                       
