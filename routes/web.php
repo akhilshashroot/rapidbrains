@@ -113,6 +113,11 @@ Route::get('/hire-tailwind-css-developers', [AdditionalPagesController::class, '
 Route::get('/hire-pytorch-developers', [AdditionalPagesController::class, 'hirePytorchDevelopers'])->name('hire-pytorch-developers');
 Route::get('/hire-tensorflow-developers', [AdditionalPagesController::class, 'hireTensorflowDevelopers'])->name('hire-tensorflow-developers');
 Route::get('/hire-ci-cd-engineers', [AdditionalPagesController::class, 'hireCiCdEngineers'])->name('hire-ci-cd-engineers');
+Route::get('/hire-redis-developers', [AdditionalPagesController::class, 'hireRedisDevelopers'])->name('hire-redis-developers');
+Route::get('/hire-firebase-developers', [AdditionalPagesController::class, 'hireFirebaseDevelopers'])->name('hire-firebase-developers');
+Route::get('/hire-grafana-developers', [AdditionalPagesController::class, 'hireGrafanaDevelopers'])->name('hire-grafana-developers');
+Route::get('/hire-rabbitmq-developers', [AdditionalPagesController::class, 'hireRabbitMQDevelopers'])->name('hire-rabbitmq-developers');
+
 
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');

@@ -7,15 +7,15 @@ use Illuminate\Http\Request;
 class AdditionalPagesController extends Controller
 {
     public function hireAndroiDevelopers() {
-        $data['title']= "Hire Android Developers - Remote Android Developers";
+        $data['title']= "Hire Remote Android Developer in 24 hours from RapidBrains";
 		$data['keywords']= "Hire Android Developer, Android developer hiring, Hire mobile app developer, Android app developer, Android development team, Android developer for hire, Hire Android programmer, Find Android developer,Professional Android developer";
-		$data['description']= "RapidBrains lets you hire remote android developers swiftly with a hassle-free procedure and let you focus on your business goals.Hire angular developers now!";
+		$data['description']= "RapidBrains lets you hire remote android developers swiftly with a hassle-free procedure and let you focus on your business goals.Hire andriod developers now!";
         $data['canonical']= "https://www.rapidbrains.com/hire-android-developers";
         return view('services.hire-android-developers',compact('data'));
     }
 
     public function hireAngularDevelopers() {
-        $data['title']= "Hire Angular Developers | Remote Angular Developers";
+        $data['title']= " Hire Remote Angular Developer in 24 hours from RapidBrains";
 		$data['keywords']= "Hire Angular Developer, Hire AngularJS developer, Angular web development team, Angular programmer for hire, hire remote Angular developer, Angular development, Hire full-stack Angular developer,Professional AngularJS developer";
 		$data['description']= "Hire remote angular developers from RapidBrains to build your remote team that will enhance your business productivity. Hire Angular developers in easy steps!";
         $data['canonical']= "https://www.rapidbrains.com/hire-angular-developers";
@@ -54,7 +54,7 @@ class AdditionalPagesController extends Controller
         return view('services.hire-c-sharp-developers',compact('data'));
     }
     public function hireDevopsDevelopers() {
-        $data['title']= "Hire Remote DevOps Engineers - Remote DevOps Engineers";
+        $data['title']= " Hire Remote Devops Engineer in 24 hours from RapidBrains";
 		$data['keywords']= "DevOps engineer hiring, Hire Remote DevOps Engineer, Hire DevOps engineer, DevOps development team, DevOps programmer for hire,Hire DevOps solutions architect, Find DevOps engineer, Hire Professional DevOps engineer";
 		$data['description']= "Hire remote DevOps engineers from RapidBrains to enhance efficiency, reliability, and security. Accelerate software development, reduce costs, and implement robust measures. Elevate your DevOps practices!";
         $data['canonical']= "https://www.rapidbrains.com/hire-devops-engineers";
@@ -102,25 +102,25 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireIonicDevelopers() {
-        $data['title']= "Hire Remote Ionic Developers - Remote Ionic Developers";
+        $data['title']= "Hire Remote Ionic Developer in 24 hours from RapidBrains";
 		$data['keywords']= "Ionic developer hiring, Hire Ionic developer, Hire remote Ionic developer, Hire Ionic development team, Hire Ionic programmer, Find Ionic developer, Professional Ionic developer, hire remote talents";
-		$data['description']= "Looking for professional remote Ionic developers? Hire expert remote Ionic developers from RapidBrains for cost-effective and efficient cross-platform mobile app development.";
+		$data['description']= "RapidBrains: Hire remote Ionic developer. Expertise in creating dynamic apps. Build your project with confidence";
         $data['canonical']= "https://www.rapidbrains.com/hire-ionic-developers";
         return view('services.hire-ionic-developers',compact('data'));
     }
 
     public function hireIosDevelopers() {
-        $data['title']= "Hire Remote iOS Developers - Remote iOS Developers";
+        $data['title']= "Hire Remote iOS Developer in 24 hours from RapidBrains";
 		$data['keywords']= "iOS developer hiring, Hire iOS developer, Hire remote iOS developer, Hire iOS development team, Hire iOS programmer, Find iOS developer, Professional iOS developer, hire remote engineers";
-		$data['description']= "RapidBrains helps you hire Dedicated iOS Developers remotely from the pool of Skilled Talents! Hire iOS Application Developers as per your project requirements.";
+		$data['description']= "Hire skilled remote iOS developer from RapidBrains. Expertise in creating dynamic apps for Apple devices. Build with confidence.";
         $data['canonical']= "https://www.rapidbrains.com/hire-ios-developers";
         return view('services.hire-ios-developers',compact('data'));
     }
 
     public function hireJavaDevelopers() {
-        $data['title']= "Hire Remote Java Developers - Remote Java Developers";
+        $data['title']= "Hire Remote Java Developer in 24 hours from RapidBrains";
 		$data['keywords']= "Hire Java developer, Hire Remote Java developer, Hire Java development team, Hire Java programmer, Find Java developer, Hire Professional Java developer, build remote team";
-		$data['description']= "Get access to expert Java developers for versatile, reliable, and secure application development. Hire the best Remote Java Developers from RapidBrains.";
+		$data['description']= " RapidBrains: Hire remote Java developer. Build robust applications with top Java expertise. Your coding solution awaits.";
         $data['canonical']= "https://www.rapidbrains.com/hire-java-developers";
         return view('services.hire-java-developers',compact('data'));
     }
@@ -134,9 +134,9 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireKotlinDevelopers() {
-        $data['title']= "Hire Remote Kotlin Developers - Remote Kotlin Developers";
+        $data['title']= "Hire Remote Kotlin Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire kotlin developer, hire remote kotlin developer, hire Kotlin app development team, hire Kotlin mobile app development, hire Kotlin software developers, hire Kotlin app developer, Kotlin application development, hire remote talents";
-		$data['description']= "Hire top-notch remote Kotlin developers from RapidBrains. Get access to expert talent, specialized skills, and improved maintenance & support for your mobile app.";
+		$data['description']= "Find and hire remote Kotlin developers from RapidBrains. Expertise in Android app development and more. Build with confidence";
         $data['canonical']= "https://www.rapidbrains.com/hire-kotlin-developers";
         return view('services.hire-kotlin-developers',compact('data'));
     }
@@ -159,9 +159,9 @@ class AdditionalPagesController extends Controller
 
 
     public function hireMagentoDevelopers() {
-        $data['title']= "Hire Remote Magento Developers - Remote Magento Developers";
+        $data['title']= " Hire Remote Magento Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire magento developer, hire remote magento developer, hire Magento web development team, Magento e-commerce development, Magento software development, hire Magento web developer, Magento programming, Magento e-commerce programming, Magento app development";
-		$data['description']= "Find and Hire Magento Developers for your eCommerce website. RapidBrains helps you hire Magento Developers with highly secure and scalable eCommerce solutions.";
+		$data['description']= "RapidBrains: Securely hire remote Magento developer. Create, customize & optimize your online store with trusted e-commerce experts.";
         $data['canonical']= "https://www.rapidbrains.com/hire-magento-developers";
         return view('services.hire-magento-developers',compact('data'));
     }
@@ -175,7 +175,7 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireMernDevelopers() {
-        $data['title']= "Hire Remote MERN Stack Developers - Remote MERN Stack Developers";
+        $data['title']= "Hire Remote MERN Stack Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire MERN stack developer, hire remote MERN stack developer, MERN Stack, Hire MERN stack web development team, MERN stack software development, MERN stack application development, hire MERN stack web developer, MERN stack programming, MERN stack web application programming, MERN stack app development, hire remote developers";
 		$data['description']= "Hire remote MERN Stack developers from RapidBrains. Access a pool of top talents for your project. Unlock a wide range of services with our skilled team.";
         $data['canonical']= "https://www.rapidbrains.com/hire-mern-stack-developers";
@@ -183,7 +183,7 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireNodejsDevelopers() {
-        $data['title']= "Hire Remote NodeJS Developers - Remote NodeJS Developers";
+        $data['title']= "Hire Remote NodeJS Developer in 24 hours from RapidBrainss";
 		$data['keywords']= "hire NodeJS developer, hire remote NodeJS developer, hire NodeJS web development team, NodeJS software development, NodeJS application development, hire NodeJS web developer, hire NodeJS programmers, NodeJS web application programming, NodeJS app development, hire developers";
 		$data['description']= "Hire remote NodeJS developers and elevate your project. RapidBrains connects you with skilled professionals for seamless development. Start now!";
         $data['canonical']= "https://www.rapidbrains.com/hire-node-js-developers";
@@ -191,15 +191,15 @@ class AdditionalPagesController extends Controller
     }
 
     public function hirePhpDevelopers() {
-        $data['title']= "Hire Remote PHP Developers - Remote PHP Developers";
+        $data['title']= " Hire Remote PHP Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire PHP developer, hire remote PHP developer, hire PHP web development team, PHP software development, PHP application development, hire PHP web developer, hire PHP programmers, PHP web application programming, PHP app development, hire remote developers";
-		$data['description']= "Hire skilled PHP developers from RapidBrains for improved efficiency, increased reliability, and cost savings. Our remote developers have a proven track record and can work on multiple projects.";
+		$data['description']= "Efficiently hire remote PHP developer from RapidBrains. Expertise in PHP development for seamless projects. Start building today!";
         $data['canonical']= "https://www.rapidbrains.com/hire-php-developers";
         return view('services.hire-php-developers',compact('data'));
     }
 
     public function hireReactDevelopers() {
-        $data['title']= "Hire Remote ReactJS Developers - Remote ReactJS Developers";
+        $data['title']= " Hire Remote React JS Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire react developer, hire remote react developer, hire React web development team, React software development, React application development, hire React web developer, hire React programmers, React web application programming, React app development, remote hiring solution";
 		$data['description']= "Hire remote ReactJS developers and supercharge your projects. RapidBrains offers top talent to meet your development needs. Level up your team today!";
         $data['canonical']= "https://www.rapidbrains.com/hire-react-js-developers";
@@ -213,17 +213,17 @@ class AdditionalPagesController extends Controller
 
 
     public function hireNativeDevelopers() {
-        $data['title']= "Remote React Native Developers | Hire in 24 hrs | RapidBrains";
+        $data['title']= "Hire Remote React Native Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire react native developer, hire remote react native developer, React Native mobile app development, React Native software development, hire React Native app development team, hire React Native mobile developer, React Native application development, hire React Native mobile programmers, React Native app programming, talent marketplace";
-		$data['description']= "Hire Professional React Native Developers from Our Talent Pool! RapidBrains helps you hire skilled and dedicated remote engineers for high-performing mobile apps.";
+		$data['description']= "Looking for expertise? Hire remote React Native developer from RapidBrains. Build top-notch mobile apps with confidence.";
         $data['canonical']= "https://www.rapidbrains.com/hire-react-native-developers";
         return view('services.hire-react-native-developers',compact('data'));
     }
 
     public function hirePythonDevelopers() {
-        $data['title']= "Hire Remote Python Developers - Remote Python Developers";
+        $data['title']= " Hire Remote Python  Developer in 24 hours from RapidBrains ";
 		$data['keywords']= "hire python developer, hire remote python developer, hire Python software development team, Python app development, Python web development, hire Python software developer, Python application development, hire Python programmers, Python web application programming, hire developers";
-		$data['description']= "Get top-notch Python development services by hiring qualified Python developers from RapidBrains. Our team of talented developers has experience building scalable, effective, and high-performance applications.";
+		$data['description']= " Hire remote Python developers for seamless project execution. Expertise in coding, debugging, and more. Hire today!";
         $data['canonical']= "https://www.rapidbrains.com/hire-python-developers";
         return view('services.hire-python-developers',compact('data'));
     }
@@ -245,17 +245,17 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireUiUxDevelopers() {
-        $data['title']= "Hire Remote UI/UX Designers - Remote UI/UX Designers";
+        $data['title']= " Hire Remote UI/UX Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire UI/UX designer, hire remote UI/UX designer, UI/UX design services, UI/UX design solutions, UI/UX design consulting, hire UI/UX designer, UI/UX design technology, UI/UX design development, UI/UX design strategies, hire remote talents";
-		$data['description']= "Boost your project user experience with expert remote UI/UX designers from RapidBrains. Hire now for exceptional results.";
+		$data['description']= " RapidBrains: Hire remote UI/UX developer. Craft engaging user experiences with expert designers. Elevate your digital products";
         $data['canonical']= "https://www.rapidbrains.com/hire-ui-ux-designers";
         return view('services.hire-ui-ux-designers',compact('data'));
     }
 
     public function hireShopifyDevelopers() {
-        $data['title']= "Hire Remote Shopify Developers - Remote Shopify Developers";
+        $data['title']= "Hire Remote Shopify Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire Shopify developer, hire remote Shopify developer, hire Shopify web development team, Shopify e-commerce development, Shopify software development, hire Shopify web developer, hire Shopify programmers, Shopify e-commerce programming, Shopify app development,hire remote developers";
-		$data['description']= "Hire top-talented remote Shopify developers at RapidBrains for expert e-Commerce solutions. Customize, optimize, and scale your online store with us today.";
+		$data['description']= "RapidBrains: Hire skilled remote Shopify developer. Create, customize, and optimize your online store with experts you can trust";
         $data['canonical']= "https://www.rapidbrains.com/hire-shopify-developers";
         return view('services.hire-shopify-developers',compact('data'));
     }
@@ -294,15 +294,15 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireWordpressDevelopers() {
-        $data['title']= "Hire Remote WordPress Developers - Remote WordPress Developers";
+        $data['title']= "Hire Remote Wordpress Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire WordPress developer, hire remote WordPress developer, hire WordPress web development team, WordPress software development, WordPress application development, hire WordPress web developer, WordPress programming, hire WordPress web application programmers, WordPress app development, hire remote talents";
-		$data['description']= "Hire expert remote WordPress developers from RapidBrains for cost-effective and efficient solutions. Get high-quality results, improved maintenance, and support for your website.";
+		$data['description']= "RapidBrains offers remote WordPress developer hiring. Get experts for customizing, designing, and optimizing your website";
         $data['canonical']= "https://www.rapidbrains.com/hire-wordpress-developers";
         return view('services.hire-wordpress-developers',compact('data'));
     }
 
     public function hireXamarinDevelopers() {
-        $data['title']= "Hire Remote Xamarin Developers – Remote Xamarin Developers";
+        $data['title']= " Hire Remote Xamarin Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire Xamarin developer, hire remote Xamarin developer, hire Xamarin mobile app development team, Xamarin software development, Xamarin app development, hire Xamarin mobile developer, Xamarin application development, hire Xamarin mobile programmers, Xamarin app programming, hire remote talents";
 		$data['description']= "Easily hire remote Xamarin developers with RapidBrains.Find the right talent for your company and take your mobile app to the next level.";
         $data['canonical']= "https://www.rapidbrains.com/hire-xamarin-developers";
@@ -539,6 +539,38 @@ class AdditionalPagesController extends Controller
 		$data['description']= "Boost DevOps efficiency with skilled CI/CD engineers. Streamline workflows. Accelerate deployments.";
         $data['canonical']= "https://www.rapidbrains.com/hire-ci/cd-engineers";
         return view('services.hire-ci-cd-engineers',compact('data'));
+    }
+
+    public function  hireRedisDevelopers() {
+        $data['title']= "Hire Remote Redis Developer in 24 hours | Select From 100K+ Developers";
+		$data['keywords']= "";
+		$data['description']= "Hire elite remote Redis developers within 24 hours from RapidBrains. Top remote talent, just for you. Experience excellence now.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-redis-developers";
+        return view('services.hire-redis-developers',compact('data'));
+    }
+    
+    public function  hireRabbitMQDevelopers() {
+        $data['title']= "Hire RabbitMQ Developers: Messaging Masters at Your Service";
+		$data['keywords']= "hire RabbitMQ developer, hire remote Firebase developer, hire Firebase web development team, Firebase software development, Firebase application development, hire Firebase web developer, hire Firebase programmers, Firebase web application programming,Firebase app development,Firebase hiring solution";
+		$data['description']= "Find and hire skilled RabbitMQ developers to optimize your messaging systems. Proven expertise in message queuing for seamless data flow.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-rabbitmq-developers";
+        return view('services.hire-rabbitmq-developers',compact('data'));
+    }
+    
+    public function  hireFirebaseDevelopers() {
+        $data['title']= "Expert Firebase Developers for Hire | Harness the Power of Real-time Apps";
+		$data['keywords']= "hire Firebase developer, hire remote Firebase developer, hire Firebase web development team, Firebase software development, Firebase application development, hire Firebase web developer, hire Firebase programmers, Firebase web application programming,Firebase app development,Firebase hiring solution";
+		$data['description']= "Looking to hire skilled Firebase developers? Our experienced team specializes in creating real-time applications, leveraging the capabilities of Firebase to deliver seamless user experiences. Connect with us to bring your app ideas to life!";
+        $data['canonical']= " https://www.rapidbrains.com/hire-firebase-developers";
+        return view('services.hire-firebase-developers',compact('data'));
+    }
+    
+    public function  hireGrafanaDevelopers() {
+        $data['title']= "Hire Exceptional Remote Grafana Developers";
+		$data['keywords']= "";
+		$data['description']= "Supercharge your projects with our meticulously selected remote Grafana developers. Unparalleled expertise you can rely on.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-grafana-developers";
+        return view('services.hire-grafana-developers',compact('data'));
     }
     
     

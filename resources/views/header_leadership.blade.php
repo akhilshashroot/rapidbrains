@@ -111,6 +111,11 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-pytorch-developer">PyTorch Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-tensorflow-developers">TensorFlow Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-ci/cd-engineers">CI/CD Engineers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-redis-developers">Redis Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-firebase-developers">Firebase Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-grafana-developers">Grafana Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-rabbitmq-developers">RabbitMQ Developers</a></li>
+                      
                       
                       
 
