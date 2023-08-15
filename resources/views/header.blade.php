@@ -94,6 +94,7 @@
                             <li><a class="dropdown-item" tite="Grafana Developer" href="{{route('hire-grafana-developers')}}">Grafana Developers</a></li>
                             <li><a class="dropdown-item" tite="RabbitMQ Developer" href="{{route('hire-rabbitmq-developers')}}">RabbitMQ Developers</a></li>
                       
+                            <li><a class="dropdown-item" tite="RabbitMQ Developer" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
                       
                       
                       

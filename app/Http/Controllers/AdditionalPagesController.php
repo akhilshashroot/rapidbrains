@@ -573,6 +573,14 @@ class AdditionalPagesController extends Controller
         return view('services.hire-grafana-developers',compact('data'));
     }
     
+    public function  hireKerasDevelopers() {
+        $data['title']= "Hire Keras Developers Remotely in 24 Hours";
+		$data['keywords']= "";
+		$data['description']= "Rapidly hire elite Keras developers. Remote expertise in 24 hours. Deep learning excellence for your project";
+        $data['canonical']= "https://www.rapidbrains.com/hire-Keras-developers";
+        return view('services.hire-keras-developers',compact('data'));
+    }
+    
     
 
 }
