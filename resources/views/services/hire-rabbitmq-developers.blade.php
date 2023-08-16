@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire RabbitMQ Developers Remotely in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Struggling to find skilled RabbitMQ developers for your project? Our remote RabbitMQ developers bring expert knowledge in message queuing architecture, ensuring seamless communication and data flow within your applications. Say goodbye to the challenges of recruitment, onboarding, and limited local talent pool. Embrace the flexibility of hiring experienced RabbitMQ developers who understand distributed systems, even from afar.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=rabbitmq " class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=rabbitmq " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=RabbitMQ" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire RabbitMQ Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=RabbitMQ" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire RabbitMQ Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -365,7 +365,7 @@
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote RabbitMQ developers</h3>
         <p class="mb-7">Our RabbitMQ developers possess a robust skill set to optimize your messaging architecture. Proficient in designing, implementing, and managing message queuing systems, our experts ensure efficient data flow, fault tolerance, and scalability. Their expertise covers real-time communication, protocol customization, and integration within complex distributed systems. Trust in our RabbitMQ developers to enhance your application's performance and reliability, delivering seamless messaging solutions tailored to your needs.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">

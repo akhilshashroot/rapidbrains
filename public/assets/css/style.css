@@ -4223,6 +4223,7 @@ fieldset:disabled .btn {
   --bs-btn-disabled-color: #fff;
   --bs-btn-disabled-bg: #3f78e0;
   --bs-btn-disabled-border-color: #3f78e0;
+  
 }
 .btn-secondary {
   --bs-btn-color: #343f52;
