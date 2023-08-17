@@ -1,6 +1,125 @@
-@extends('layout.layout')
+@extends('layout.layoutheader2')
 @section('section')
-<section class="wrapper bg-gray">
+
+<style>
+  .col-xl-53 {
+     flex: 0 0 auto;
+     width: 70%;
+   }
+   .lgc{
+     background-color: #f6f7f9 !important;
+   }
+
+   @media (min-width: 768px){
+ .pb-md-20 {
+     padding-bottom: 5rem !important;
+ }
+ .psb{
+   padding-top: 1rem !important;
+ }
+
+ }
+
+
+
+ @media (min-width: 1400px){
+ .col-xxl-6 {
+
+     width: 60%  !important;
+ }
+
+ }
+ @media (min-width: 1200px){
+ .col-xl-7 {
+
+     width: 68.333333% !important;
+ }
+ }
+
+
+ @media (min-width: 900px){
+ .spx {
+     margin-right: -13px !important;
+
+ }
+ }
+  @media (max-width: 720px){
+
+
+ .hed {
+   color: #fff !important;
+     background-color: #343f52  !important;
+     border-color: #343f52  !important;
+
+ }
+ /* .pt-19 {
+     padding-top: 13rem!important;
+ } */
+ .ccs{
+   margin-top: -4rem;
+ }
+ #sect-bg{
+   background-image:  url(https://www.rapidbrains.com/assets/img/photos/RapidBrains-footerbg.webp);
+
+ }
+
+ #sect-bg1{
+  display:none;
+
+ }
+ #sect-bg2{
+  display:block;
+
+ }
+ }
+
+ @media (min-width: 992px){
+ .px-lg-33 {
+     padding-right: 0.1rem !important;
+     padding-left: 0.1rem !important;
+ }
+ #sect-bg{
+   background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+
+ }
+ #sect-bg1{
+  display:block;
+
+ }
+ #sect-bg2{
+  display:none;
+
+ }
+ }
+ @media (min-width: 720px){
+
+ #sect-bg{
+   background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+
+ }
+ #sect-bg1{
+  display:block;
+
+ }
+ #sect-bg2{
+  display:none;
+
+ }
+ }
+ .image-wrapper.bg-overlay-light-300:before {
+   background: rgba(250, 255, 240, 0) !important;
+
+
+ }
+ @media (min-width: 992px) {
+.col-lg-5 {
+  top: 8rem;
+  position: sticky;
+  }
+}
+ </style>
+<section class="wrapper overflow-hidden image-wrapper" id="sect-bg" style="padding-bottom: 240px" >   
+{{-- <section class="wrapper bg-gray"> --}}
       <div class="container py-14 pt-md-15 pb-md-18">
         <div class="row text-center">
           <div class="col-lg-9 col-xxl-7 mx-auto" data-cues="zoomIn" data-group="welcome" data-interval="-200">
