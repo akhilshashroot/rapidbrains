@@ -118,6 +118,7 @@ Route::get('/hire-firebase-developers', [AdditionalPagesController::class, 'hire
 Route::get('/hire-grafana-developers', [AdditionalPagesController::class, 'hireGrafanaDevelopers'])->name('hire-grafana-developers');
 Route::get('/hire-rabbitmq-developers', [AdditionalPagesController::class, 'hireRabbitMQDevelopers'])->name('hire-rabbitmq-developers');
 Route::get('/hire-keras-developers', [AdditionalPagesController::class, 'hireKerasDevelopers'])->name('hire-keras-developers');
+Route::get('/hire-kafka-developers', [AdditionalPagesController::class, 'hireKafkaDevelopers'])->name('hire-kafka-developers');
 
 
 

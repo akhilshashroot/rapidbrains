@@ -581,6 +581,13 @@ class AdditionalPagesController extends Controller
         return view('services.hire-keras-developers',compact('data'));
     }
     
+    public function  hireKafkaDevelopers() {
+        $data['title']= "Hire Remote React JS Developer in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find skilled Remote React JS developers for hire within 24 hours at RapidBrains. Build dynamic web applications with top talent. Get started now!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-kafka-developers";
+        return view('services.hire-kafka-developers',compact('data'));
+    }
     
 
 }

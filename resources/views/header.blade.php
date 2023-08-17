@@ -93,8 +93,8 @@
                             <li><a class="dropdown-item" tite="Firebase Developer" href="{{route('hire-firebase-developers')}}">Firebase Developers</a></li>
                             <li><a class="dropdown-item" tite="Grafana Developer" href="{{route('hire-grafana-developers')}}">Grafana Developers</a></li>
                             <li><a class="dropdown-item" tite="RabbitMQ Developer" href="{{route('hire-rabbitmq-developers')}}">RabbitMQ Developers</a></li>
-                      
-                            <li><a class="dropdown-item" tite="RabbitMQ Developer" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
+                            <li><a class="dropdown-item" tite="Kafka Developer" href="{{route('hire-kafka-developers')}}">Kafka Developers</a></li>
+                            <li><a class="dropdown-item" tite="Keras Developer" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
                       
                       
                       
