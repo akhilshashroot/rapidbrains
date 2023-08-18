@@ -582,9 +582,9 @@ class AdditionalPagesController extends Controller
     }
     
     public function  hireKafkaDevelopers() {
-        $data['title']= "Hire Remote React JS Developer in 24 hours from RapidBrains";
+        $data['title']= "Hire Remote Kafka Developer in 24 hours from RapidBrains";
 		$data['keywords']= "";
-		$data['description']= "Find skilled Remote React JS developers for hire within 24 hours at RapidBrains. Build dynamic web applications with top talent. Get started now!";
+		$data['description']= " RapidBrains has proficient remote Kafka developers available for hire in just 24 hours. Make Exceptional Applications for Data Streaming by Crafting Robust Applications. Start your journey right away!";
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-kafka-developers";
         return view('services.hire-kafka-developers',compact('data'));
     }
