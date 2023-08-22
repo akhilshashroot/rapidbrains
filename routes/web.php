@@ -119,6 +119,7 @@ Route::get('/hire-grafana-developers', [AdditionalPagesController::class, 'hireG
 Route::get('/hire-rabbitmq-developers', [AdditionalPagesController::class, 'hireRabbitMQDevelopers'])->name('hire-rabbitmq-developers');
 Route::get('/hire-keras-developers', [AdditionalPagesController::class, 'hireKerasDevelopers'])->name('hire-keras-developers');
 Route::get('/hire-kafka-developers', [AdditionalPagesController::class, 'hireKafkaDevelopers'])->name('hire-kafka-developers');
+Route::get('/hire-snowflake-developers', [AdditionalPagesController::class, 'hireSnowflakeDevelopers'])->name('hire-snowflake-developers');
 
 
 

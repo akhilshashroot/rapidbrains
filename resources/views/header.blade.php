@@ -95,6 +95,7 @@
                             <li><a class="dropdown-item" tite="RabbitMQ Developer" href="{{route('hire-rabbitmq-developers')}}">RabbitMQ Developers</a></li>
                             <li><a class="dropdown-item" tite="Kafka Developer" href="{{route('hire-kafka-developers')}}">Kafka Developers</a></li>
                             <li><a class="dropdown-item" tite="Keras Developer" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
+                            <li><a class="dropdown-item" tite="Snowflake Developer" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                       
                       
                       

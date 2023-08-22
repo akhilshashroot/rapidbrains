@@ -588,6 +588,14 @@ class AdditionalPagesController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-kafka-developers";
         return view('services.hire-kafka-developers',compact('data'));
     }
+
+    public function  hireSnowflakeDevelopers() {
+        $data['title']= "Hire Remote Snowflake Developer in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "you can find proficient remote Snowflake developers for quick hiring. Experienced Experts to Create Strong Data Warehousing Solutions. Start your journey now.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-snowflake-developers";
+        return view('services.hire-snowflake-developers',compact('data'));
+    }
     
 
 }

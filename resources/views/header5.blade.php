@@ -99,6 +99,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-rabbitmq-developers">RabbitMQ Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-Keras-developers">Keras Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-kafka-developers">Kafka Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-snowflake-developers">Snowflake Developers</a></li>
 
 
 
