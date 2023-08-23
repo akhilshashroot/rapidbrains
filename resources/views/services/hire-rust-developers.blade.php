@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">HHire Dedicated Remote Rust Developers </h1>
                  <p class="lead fs-18 mb-8">Struggling to find skilled Rust developers? Hire dedicated remote Rust developers to overcome talent shortage and accelerate your project's success.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=rust" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=rust" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=rust" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Rust Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=rust" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Rust Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -365,7 +365,7 @@
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Rust Developers.</h3>
         <p class="mb-7">"Skills for Hiring Rust Developers.Explore key attributes to look for when selecting remote Unreal Engine developers. Ensure exceptional results for your projects and create outstanding virtual experiences."</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">

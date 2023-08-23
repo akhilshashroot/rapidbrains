@@ -86,6 +86,13 @@
                             <li><a class="dropdown-item" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-tensorflow-developers')}}">TensorFlow Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-redis-developers')}}">Redis Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-firebase-developers')}}">Firebase Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-grafana-developers')}}">Grafana Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-rabbitmq-developers')}}">RabbitMQ Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-kafka-developers')}}">Kafka Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                       
                       
                             

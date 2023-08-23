@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire dedicated App developers!</h1>
-                 <p class="lead fs-18 mb-8">We provide the chance to hire remote app developers who are specialists in <br> producing highquality, user-friendly applications </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=app" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated  Keras Developers Remotely</h1>
+                 <p class="lead fs-18 mb-8">With the help of our talented team of Keras developers, who have years of experience creating cutting-edge deep learning models using the Keras Framework, you can maximise the AI potential for your project. AI-powered solutions can speed up innovation and produce outstanding results. Join hands with our Keras experts today.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=keras" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-app-developer.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-app-developer.webp" alt="app Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-ai.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-ai.webp" alt="AI Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote App Developers from RapidBrains ?</h3>
-        <p>By hiring our RapidBrains team's skilled pool of remote app developers, you can leverage their extensive expertise in web and mobile application development. Our developers excel at building scalable and efficient solutions that are customized to meet your unique business requirements and deliver exceptional performance</p>
+        <h3 class="display-2 mb-7">Why hire remote Keras developers from RapidBrains?</h3>
+        <p> Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remote Keras developers at RapidBrains. With their deep knowledge and experience in Keras development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled App developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Keras Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=App" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire App Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Keras" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Keras Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,8 +363,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote App Developers</h3>
-        <p class="mb-7">Companies aiming to build exceptional software solutions should carefully choose Drupal developers with expertise in web development. However, finding competent and reliable remote Drupal developers can be a challenging task. To assist you in the hiring process, here are some essential qualities to look for when seeking remote Drupal developers</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Keras Developers.</h3>
+        <p class="mb-7">Companies striving to create groundbreaking AI applications should strategically select Keras developers with proficiency in deep learning. Yet, the search for skilled and dependable remote Keras developers can pose challenges. To streamline your recruitment journey, we are here to help. Check out the key attributes to prioritize when on the lookout for exceptional remote Keras developers.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -372,11 +372,12 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Mobile App Development</h3>
-              <p class="mb-0">Proficiency in developing native or cross-platform mobile applications.              </p>
+              <h3 class="fs-21 mb-2">Deep Learning Fundamentals</h3>
+              <p class="mb-0">A strong grasp of neural network concepts, including different types of layers, activation functions, loss functions, optimization algorithms, and regularization techniques.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,11 +386,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check-list" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Programming Languages</h3>
-              <p class="mb-0"> Expertise in languages like Swift (iOS), Java/Kotlin (Android), or React Native (cross-platform).</p>
+              <h3 class="fs-21 mb-2">Keras API Proficiency</h3>
+              <p class="mb-0"> In-depth knowledge of the Keras API for building, training, and evaluating neural network models. This includes understanding how to define layers, compile models, and use Keras callbacks effectively.
+                </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +400,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone-2" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">User Interface (UI) Design</h3>
-              <p class="mb-0">Ability to create visually appealing and user-friendly interfaces for mobile apps.</p>
+              <h3 class="fs-21 mb-2">TensorFlow Integration</h3>
+              <p class="mb-0">Familiarity with integrating Keras with TensorFlow, including understanding TensorFlow backend settings and troubleshooting integration issues.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -414,8 +417,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Mobile Frameworks</h3>
-              <p class="mb-0"> Experience with frameworks like Flutter, Xamarin, or Ionic for efficient app development.</p>
+              <h3 class="fs-21 mb-2">Python Programming</h3>
+              <p class="mb-0"> Proficiency in writing clean, efficient, and maintainable Python code, which is essential for working with Keras as a Python library.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +428,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="settings-2" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">API Integration</h3>
-              <p class="mb-0">Knowledge of integrating with APIs to retrieve and manipulate data in mobile apps.</p>
+              <h3 class="fs-21 mb-2">Data Preprocessing</h3>
+              <p class="mb-0"> Skill in preparing and preprocessing data for training, including data normalization, augmentation, and handling different data formats.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +441,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="refresh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Database Management</h3>
-              <p class="mb-0">Understanding of database systems like SQLite or Firebase for data storage.</p>
+              <h3 class="fs-21 mb-2">Hyperparameter Tuning</h3>
+              <p class="mb-0"> Experience with optimizing model performance through hyperparameter tuning, including adjusting learning rates, batch sizes, and other key hyperparameters.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -475,12 +478,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">Why should I choose dedicated App engineers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How do I hire Keras developers remotely from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our dedicated App developers work solely on your project, ensuring maximum attention and focus on your project requirements. We offer skilled and experienced developers who can develop high-quality, scalable, and secure applications that meet your business needs. We also provide flexible hiring models, on-time delivery, and excellent customer support.</p>
+                     <p class="fs-14"0>The hiring process at RapidBrains is simple and straightforward. After you share your project requirements, our team evaluates them and presents you with profiles of skilled Keras developers who match your criteria. You can review the profiles, conduct interviews, and select the developer who best suits your project's needs. We aim to make the onboarding process quick and hassle-free.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +492,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What experience does your team have in the technology or platform ?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Is the confidentiality of my project information ensured?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our App developers have a wide range of expertise in various technologies, platforms, and programming languages. They have experience in developing applications for various industries like healthcare, finance, education, entertainment, etc. Our developers are proficient in designing and developing custom applications that meet our client's requirements and expectations.</p>
+                     <p class="fs-14">Yes, RapidBrains understands the importance of confidentiality and data security. We take the protection of your project information seriously. We are open to signing non-disclosure agreements (NDAs) to ensure the confidentiality and privacy of your sensitive data. You can trust us to handle your project with the utmost professionalism and discretion.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +506,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Will I own the  App source code?                  </button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">What should RapidBrains consider when determining the cost of hiring Keras developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> Yes, as the client, you will typically own the  App source code developed by the App developers you hire from RapidBrains. Their experts ensure that the ownership of the source code is properly documented and protected. </p>
+                     <p class="fs-14">Factors such as the complexity of the project, desired features, developer experience, and the scope of work should be considered to determine the cost of hiring Keras developers.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +520,14 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What kind of support can I expect from RapidBrains during the development process?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I hire dedicated remote front end developers from RapidBrains?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> RapidBrains provides comprehensive support throughout the development process for app developers. They establish effective communication channels between you and their team, ensuring smooth collaboration. RapidBrains assigns project managers who oversee the progress of your project, manage timelines, and address any concerns that may arise. Their goal is to create a productive and collaborative environment to ensure the success of your app development project.</p>
+                     <p class="fs-14">
+                      Certainly! RapidBrains offers the option to hire dedicated remote front end developers for your project. Hiring dedicated developers guarantees their full commitment to your project's specific front end requirements, leading to efficient development and seamless collaboration.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>

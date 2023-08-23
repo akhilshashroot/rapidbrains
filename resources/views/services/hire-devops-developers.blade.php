@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best DevOps Devlopers</h1>
                  <p class="lead fs-18 mb-8">Our top-notch DevOps developers can help you improve the quality of your app development because they are adept at coming up with original ideas.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire DevOps Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire DevOps Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -365,7 +365,7 @@
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote DevOps Developers</h3>
         <p class="mb-7">Your Roadmap to Essential Skills for Remote DevOps Developer Opportunities. Explore the Expertise that Distinguishes Exceptional Remote DevOps Developers, Accelerating Project Success.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">

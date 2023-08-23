@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire dedicated App developers!</h1>
-                 <p class="lead fs-18 mb-8">We provide the chance to hire remote app developers who are specialists in <br> producing highquality, user-friendly applications </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=app" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire RabbitMQ Developers Remotely in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Struggling to find skilled RabbitMQ developers for your project? Our remote RabbitMQ developers bring expert knowledge in message queuing architecture, ensuring seamless communication and data flow within your applications. Say goodbye to the challenges of recruitment, onboarding, and limited local talent pool. Embrace the flexibility of hiring experienced RabbitMQ developers who understand distributed systems, even from afar.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=rabbitmq " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-app-developer.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-app-developer.webp" alt="app Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-swift.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-swift.webp" alt="Swift Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote App Developers from RapidBrains ?</h3>
-        <p>By hiring our RapidBrains team's skilled pool of remote app developers, you can leverage their extensive expertise in web and mobile application development. Our developers excel at building scalable and efficient solutions that are customized to meet your unique business requirements and deliver exceptional performance</p>
+        <h3 class="display-2 mb-7">Why hire remote RabbitMQ developers from RapidBrains ? </h3>
+        <p> Supercharge your productivity and project progress with our remote RabbitMQ Developers at RapidBrains. Equipped with extensive expertise in RabbitMQ Development, they excel in building premium web apps, user interfaces, and dynamic interactive components to elevate your digital experience.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled App developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled RabbitMQ developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=App" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire App Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=RabbitMQ" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire RabbitMQ Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +363,20 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote App Developers</h3>
-        <p class="mb-7">Companies aiming to build exceptional software solutions should carefully choose Drupal developers with expertise in web development. However, finding competent and reliable remote Drupal developers can be a challenging task. To assist you in the hiring process, here are some essential qualities to look for when seeking remote Drupal developers</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote RabbitMQ developers</h3>
+        <p class="mb-7">Our RabbitMQ developers possess a robust skill set to optimize your messaging architecture. Proficient in designing, implementing, and managing message queuing systems, our experts ensure efficient data flow, fault tolerance, and scalability. Their expertise covers real-time communication, protocol customization, and integration within complex distributed systems. Trust in our RabbitMQ developers to enhance your application's performance and reliability, delivering seamless messaging solutions tailored to your needs.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="smartphone" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Mobile App Development</h3>
-              <p class="mb-0">Proficiency in developing native or cross-platform mobile applications.              </p>
+              <h3 class="fs-21 mb-2">Message Queue Integration</h3>
+              <p class="mb-0">Look for expertise in integrating RabbitMQ with different systems and services to ensure efficient communication and seamless data flow. </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,11 +385,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check-list" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/analytics.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="analytics" />
+          
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Programming Languages</h3>
-              <p class="mb-0"> Expertise in languages like Swift (iOS), Java/Kotlin (Android), or React Native (cross-platform).</p>
+              <h3 class="fs-21 mb-2">Message Serialization</h3>
+              <p class="mb-0">Choose developers who are proficient in handling various data formats and serialization techniques to ensure compatibility.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +399,11 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone-2" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="list" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">User Interface (UI) Design</h3>
-              <p class="mb-0">Ability to create visually appealing and user-friendly interfaces for mobile apps.</p>
+              <h3 class="fs-21 mb-2">Concurrency and Scalability</h3>
+              <p class="mb-0">Opt for developers who can design RabbitMQ setups that handle high levels of concurrency and can be scaled horizontally.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -414,8 +415,8 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Mobile Frameworks</h3>
-              <p class="mb-0"> Experience with frameworks like Flutter, Xamarin, or Ionic for efficient app development.</p>
+              <h3 class="fs-21 mb-2">Error Handling and Dead Letter Queues</h3>
+              <p class="mb-0">Look for skills in managing errors and handling failed messages through mechanisms like dead letter queues, improving system robustness. </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +426,11 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="settings-2" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle-2" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">API Integration</h3>
-              <p class="mb-0">Knowledge of integrating with APIs to retrieve and manipulate data in mobile apps.</p>
+              <h3 class="fs-21 mb-2">Concurrency and Scalability</h3>
+              <p class="mb-0">Choose developers who design RabbitMQ for concurrency, horizontal scaling & growing workloads</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +439,11 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/team.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="team" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Database Management</h3>
-              <p class="mb-0">Understanding of database systems like SQLite or Firebase for data storage.</p>
+              <h3 class="fs-21 mb-2">Cross-Platform Proficiency</h3>
+              <p class="mb-0">Look for RabbitMQ developers capable of deploying and maintaining systems on different operating systems and cloud platforms.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -461,13 +462,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -475,12 +476,12 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">Why should I choose dedicated App engineers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1"> How can I assess the expertise and experience of remote RabbitMQ Developers during the hiring process?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our dedicated App developers work solely on your project, ensuring maximum attention and focus on your project requirements. We offer skilled and experienced developers who can develop high-quality, scalable, and secure applications that meet your business needs. We also provide flexible hiring models, on-time delivery, and excellent customer support.</p>
+                     <p class="fs-14">Evaluating the proficiency of remote RabbitMQ Developers requires a systematic approach. Request their portfolio showcasing past RabbitMQ integration projects and seek recommendations from previous clients or employers. Conduct technical interviews and coding assessments tailored to RabbitMQ development to evaluate their problem-solving skills and capabilities in this domain.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -489,12 +490,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What experience does your team have in the technology or platform ?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How should I handle challenges related to different time zones when hiring remote RabbitMQ Developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Our App developers have a wide range of expertise in various technologies, platforms, and programming languages. They have experience in developing applications for various industries like healthcare, finance, education, entertainment, etc. Our developers are proficient in designing and developing custom applications that meet our client's requirements and expectations.</p>
+                     <p class="fs-14">Dealing with time zone variations requires careful planning. Consider RabbitMQ Developers located in regions with manageable time differences or those open to adjusting their work hours. Establish clear communication protocols and utilize collaborative tools to bridge gaps in real-time communication effectively.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -503,12 +504,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3"> Will I own the  App source code?                  </button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">What are some effective tools and platforms for ensuring smooth collaboration with remote RabbitMQ Developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> Yes, as the client, you will typically own the  App source code developed by the App developers you hire from RapidBrains. Their experts ensure that the ownership of the source code is properly documented and protected. </p>
+                     <p class="fs-14">Streamline collaboration with remote RabbitMQ Developers by utilizing collaboration tools and project management platforms. Version control and code review platforms like GitHub, GitLab, or Bitbucket facilitate code management. Project management solutions such as Trello or Jira aid in task tracking and project advancement, enhancing overall workflow efficiency.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -517,12 +519,12 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What kind of support can I expect from RapidBrains during the development process?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How can I ensure data security while collaborating with remote RabbitMQ Developers?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> RapidBrains provides comprehensive support throughout the development process for app developers. They establish effective communication channels between you and their team, ensuring smooth collaboration. RapidBrains assigns project managers who oversee the progress of your project, manage timelines, and address any concerns that may arise. Their goal is to create a productive and collaborative environment to ensure the success of your app development project.</p>
+                     <p class="fs-14">To maintain data security, implement precautions like secure file-sharing systems and enforce non-disclosure agreements (NDAs) to uphold confidentiality. Choose developers with a demonstrated history of responsibly handling sensitive data and utilize secure communication channels for sharing confidential information. Regularly review and update security measures to remain vigilant against potential security threats.</p>
                    </div>
                    <!-- /.card-body -->
                  </div>

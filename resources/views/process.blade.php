@@ -1,5 +1,131 @@
-@extends('layout.layout')
+@extends('layout.layoutheader2')
+
 @section('section')
+<style>
+    @media (max-width: 720px){
+   
+}
+@media (min-width: 720px){
+.cs{
+
+
+    width: max-content; 
+    height: max-content;
+}
+}
+@media (max-width: 720px){
+.hed {
+  color: #fff !important;
+    background-color: #343f52  !important;
+    border-color: #343f52  !important;
+  
+}
+/* .pt-19 {
+    padding-top: 13rem!important;
+} */
+.ccs{
+  margin-top: -4rem;
+}
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+
+#sect-bg1{
+ display:none;
+
+}
+#sect-bg2{
+ display:block;
+
+}
+} 
+
+@media (min-width: 992px){
+.px-lg-33 {
+    padding-right: 0.1rem !important;
+    padding-left: 0.1rem !important;
+}
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+#sect-bg1{
+ display:block;
+
+}
+#sect-bg2{
+ display:none;
+
+}
+}
+@media (min-width: 720px){
+
+#sect-bg{
+  background-image:  url({{asset('assets/img/photos/RapidBrains-footerbg.webp')}});
+
+}
+#sect-bg1{
+ display:block;
+
+}
+#sect-bg2{
+ display:none;
+
+}
+}
+@media (min-width: 768px){
+.py-md-16x {
+    padding-top: 10rem !important;
+    padding-bottom: 7rem !important;
+}
+}
+
+.py-13c {
+    padding-top: 8rem !important;
+    padding-bottom: 2rem !important;
+}
+</style>
+   
+<section class="wrapper image-wrapper bg-image" data-image-src="https://www.rapidbrains.com/assets/img/photos/RapidBrains-footerbg.webp">
+    <div class="container pt-10 pt-md-14 pb-14 pb-md-0">
+       <div class="row gx-md-8 gx-lg-12 gy-3 gy-lg-0 mb-13" >
+         <div class="text-center" style="padding-top: 100px;">
+           <h3 class="display-1 fs-50 lh-xxs mb-0">Get access to the <br> best brains in the world</h3><br>
+         </div>
+         <!-- /column -->
+         <div class="text-center" style="padding-bottom: 175px;">
+           <p class="lead fs-20 my-3">RapidBrains is a talent marketplace which helps companies to <br> build their remote team rapidly</p>
+          
+         </div>
+         <!-- /column -->
+       </div>
+       <!-- /.row -->
+       {{-- <div class="position-relative">
+         <!--<div class="shape bg-dot primary rellax w-17 h-21" data-rellax-speed="1" style="top: -2.5rem; right: -2.7rem;"></div>-->
+         <figure class="rounded mb-md-n20"><img src="https://www.rapidbrains.com/assets/img/common/our-capabilities.webp" srcset="https://www.rapidbrains.com/assets/img/common/our-capabilities.webp" alt="about18" /></figure>
+       </div> --}}
+     </div>
+
+</section>
+<!-- /section -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{-- @extends('layout.layout')
+@section('section')--}}
 <style>
 figure img {
     width: 90%  !important;
@@ -12,7 +138,7 @@ figure img {
 }
 }
 </style>
-  <section class="wrapper bg-gray">
+  {{-- <section class="wrapper bg-gray"> 
   <div class="container pt-8 pt-md-14">
     <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-10 mb-lg-16 align-items-center">
       <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-1 position-relative order-lg-2" data-cue="zoomIn">
@@ -32,9 +158,9 @@ figure img {
     <!-- /.row -->
     </div>
 </section>
-<!-- /section -->
+<!-- /section --> --}}
 
-<section class="wrapper bg-light"  style="margin-top: -80px;">
+<section class="wrapper bg-light"  style="margin-top: -100px;">
             <div class="container pt-14 pt-md-17 pb-14 pb-md-10">
                 <div class="row text-center">
                   <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">

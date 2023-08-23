@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Front End Developers Remotely in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Hire a front-end developer with experience in creating efficient and <br> user-friendly interfaces for web and mobile applications</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Front End Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Front End Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -365,7 +365,7 @@
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5"> Must-Have Skills to Look for When Hiring Remote Front End  Developers</h3>
         <p class="mb-7">Organizations  aiming to develop exceptional user interfaces should meticulously choose developers with expertise in front-end development. However, finding competent and reliable remote front-end developers can be a challenging task. To assist you in the hiring process, here are some essential qualities to look for when seeking remote front-end developers.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=Golang" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=Golang" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
