@@ -140,6 +140,7 @@
 <section class="wrapper overflow-hidden image-wrapper" data-image-src="url({{asset('assets/img/photos/rapidbrains-cover.webp')}})"  style="background-image: url({{asset('assets/img/photos/rapidbrains-cover.webp')}});padding-bottom: 90px" >
 
 
+  
 
 <div class="container pt-19 pt-md-21 text-center position-relative new-mar">
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
