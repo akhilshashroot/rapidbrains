@@ -376,7 +376,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in Python</h3>
-              <p class="mb-0"> Strong grasp of Python programming language and its object-oriented principles for efficient Django development.</p>
+              <p class="mb-0"> Strong grasp of <a class="text-reset" href=" https://www.rapidbrains.com/hire-python-developers">Python</a> programming language and its object-oriented principles for efficient Django development.</p>
             </div>
           </div>
           <!-- /.card-body -->

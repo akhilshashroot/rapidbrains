@@ -402,7 +402,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Development of Android</h3>
-              <p class="mb-0">Experience in developing Android applications using Kotlin and Android Studio.</p>
+              <p class="mb-0">Experience in developing <a class="text-reset" href=" https://www.rapidbrains.com/hire-android-developers">Android</a> applications using Kotlin and Android Studio.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -415,7 +415,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Java Interoperability</h3>
-              <p class="mb-0">Grasping of how to integrate existing codebases with Kotlin and Java seamlessly.</p>
+              <p class="mb-0">Grasping of how to integrate existing codebases with Kotlin and <a class="text-reset" href="https://www.rapidbrains.com/hire-java-developers">Java</a> seamlessly.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -442,7 +442,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Android Jetpack</h3>
-              <p class="mb-0">Understanding and utilization of Android Jetpack components and libraries.</p>
+              <p class="mb-0">Understanding and utilization of <a class="text-reset" href=" https://www.rapidbrains.com/hire-android-developers">Android</a> Jetpack components and libraries.</p>
             </div>
           </div>
           <!-- /.card-body -->

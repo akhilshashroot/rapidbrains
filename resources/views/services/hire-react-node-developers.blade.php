@@ -376,7 +376,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in JavaScript</h3>
-              <p class="mb-0">Mastery of JavaScript, the foundation for React Node development, including modern ES6+ syntax and concepts.</p>
+              <p class="mb-0">Mastery of <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a>, the foundation for React Node development, including modern ES6+ syntax and concepts.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -390,7 +390,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">React.js Expertise</h3>
-              <p class="mb-0">Strong understanding of React.js library, including component-based architecture, state management, and virtual DOM manipulation.</p>
+              <p class="mb-0">Strong understanding of <a class="text-reset" href=" https://www.rapidbrains.com/hire-react-js-developers">React.js</a> library, including component-based architecture, state management, and virtual DOM manipulation.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -403,15 +403,15 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Node.js Knowledge</h3>
-              <p class="mb-0">In-depth knowledge of Node.js runtime environment, including event-driven, non-blocking I/O operations, and server-side development.</p>
+              <p class="mb-0">In-depth knowledge of <a class="text-reset" href=" https://www.rapidbrains.com/hire-python-developers">Node.js</a> runtime environment, including event-driven, non-blocking I/O operations, and server-side development.</p>
             </div>
           </div>
           <!-- /.card-body -->
         </div>
         <!-- /.card -->
         <div class="card bg-soft-leaf mb-6">
-          <div class="card-body d-flex flex-row">
-            <div>
+          <div>
+              <div class="card-body d-flex flex-row">
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
             </div>
             <div>

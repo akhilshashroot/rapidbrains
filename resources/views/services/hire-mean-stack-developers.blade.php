@@ -402,7 +402,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in Angular</h3>
-              <p class="mb-0">Proficiency in Angular framework for creating dynamic and responsive user interfaces.</p>
+              <p class="mb-0">Proficiency in <a class="text-reset" href=" https://www.rapidbrains.com/hire-angular-developers">Angular</a> framework for creating dynamic and responsive user interfaces.</p>
             </div>
           </div>
           <!-- /.card-body -->

@@ -389,7 +389,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Strong JavaScript Fundamentals</h3>
-              <p class="mb-0">Essential for remote React Native devs: strong JavaScript foundation ,functional & async programming proficiency. Enables robust React Native app development.</p>
+              <p class="mb-0">Essential for remote React Native devs: strong <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a>  foundation ,functional & async programming proficiency. Enables robust React Native app development.</p>
             </div>
           </div>
           <!-- /.card-body -->

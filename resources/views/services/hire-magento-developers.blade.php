@@ -389,7 +389,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2"> Knowledge of PHP and MySQL</h3>
-              <p class="mb-0"> Magento is built on PHP and MySQL as its database, so it's crucial to find developers with a solid understanding of PHP code and have experience working with MySQL databases.</p>
+              <p class="mb-0"> Magento is built on <a class="text-reset" href=" https://www.rapidbrains.com/hire-php-developers">PHP</a> and MySQL as its database, so it's crucial to find developers with a solid understanding of <a class="text-reset" href=" https://www.rapidbrains.com/hire-php-developers">PHP</a> code and have experience working with MySQL databases.</p>
             </div>
           </div>
           <!-- /.card-body -->

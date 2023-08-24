@@ -389,7 +389,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Knowledge of JavaScript and TypeScript</h3>
-              <p class="mb-0">Proficient in JavaScript and TypeScript to optimize code, implement algorithms, and maintain scalable codebases</p>
+              <p class="mb-0">Proficient in  <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> and TypeScript to optimize code, implement algorithms, and maintain scalable codebases</p>
             </div>
           </div>
           <!-- /.card-body -->

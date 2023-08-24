@@ -376,7 +376,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in Java and Kotlin</h3>
-              <p class="mb-0">Android devs must master Java & Kotlin, write clean code, use libraries/APIs, and manage memory effectively.</p>
+              <p class="mb-0">Android devs must master <a class="text-reset" href="https://www.rapidbrains.com/hire-java-developers">Java</a> & <a class="text-reset" href="https://www.rapidbrains.com/hire-kotlin-developers">Kotlin</a>, write clean code, use libraries/APIs, and manage memory effectively.</p>
             </div>
           </div>
           <!-- /.card-body -->

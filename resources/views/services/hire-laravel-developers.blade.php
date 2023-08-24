@@ -390,7 +390,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">	Strong PHP Development Skills</h3>
-              <p class="mb-0">In-depth understanding of PHP programming language, including object-oriented programming (OOP) concepts and best practices.</p>
+              <p class="mb-0">In-depth understanding of <a class="text-reset" href=" https://www.rapidbrains.com/hire-php-developers">PHP</a> programming language, including object-oriented programming (OOP) concepts and best practices.</p>
             </div>
           </div>
           <!-- /.card-body -->

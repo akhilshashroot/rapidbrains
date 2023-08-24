@@ -389,7 +389,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Knowledge of JavaScript</h3>
-              <p class="mb-0">Strong grasp of complex JavaScript concepts like closures and functional programming for scalable app</p>
+              <p class="mb-0">Strong grasp of complex <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers" >JavaScript</a> concepts like closures and functional programming for scalable app</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -402,7 +402,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Having used Express.js</h3>
-              <p class="mb-0">Seek developers with expertise in Express.js for scalable and reliable web app development</p>
+              <p class="mb-0">Seek developers with expertise in <a class="text-reset" href=" https://www.rapidbrains.com/hire-expressjs-developers"> Express.js</a> for scalable and reliable web app development</p>
             </div>
           </div>
           <!-- /.card-body -->

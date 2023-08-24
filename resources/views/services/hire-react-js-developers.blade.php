@@ -390,7 +390,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in JavaScript</h3>
-              <p class="mb-0"> Strong JavaScript skills are crucial as ReactJS heavily relies on JavaScript for building interactive user interfaces. JavaScript proficiency is for scalable ReactJS code</p>
+              <p class="mb-0"> Strong <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> skills are crucial as ReactJS heavily relies on <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> for building interactive user interfaces. <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> proficiency is for scalable ReactJS code</p>
             </div>
           </div>
           <!-- /.card-body -->

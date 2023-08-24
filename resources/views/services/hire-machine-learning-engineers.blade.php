@@ -376,7 +376,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in Python</h3>
-              <p class="mb-0">Mastery of Python programming for data manipulation, model development, and implementation of ML algorithms.</p>
+              <p class="mb-0">Mastery of <a class="text-reset" href=" https://www.rapidbrains.com/hire-python-developers">Python</a> programming for data manipulation, model development, and implementation of ML algorithms.</p>
             </div>
           </div>
           <!-- /.card-body -->

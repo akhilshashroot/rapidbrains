@@ -402,7 +402,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficient in React.js framework</h3>
-              <p class="mb-0">Expertise in React.js for creating dynamic and interactive user interfaces with optimal performance</p>
+              <p class="mb-0">Expertise in <a class="text-reset" href=" https://www.rapidbrains.com/hire-react-js-developers">React.js</a> for creating dynamic and interactive user interfaces with optimal performance</p>
             </div>
           </div>
           <!-- /.card-body -->

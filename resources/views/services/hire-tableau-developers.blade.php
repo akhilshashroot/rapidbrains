@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Front End Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Hire a front-end developer with experience in creating efficient and <br> user-friendly interfaces for web and mobile applications</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Tableau Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Advance Your Applications with Confidence Using Seamless Data Warehouses remastered by Our Skilled Tableau Developers</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Tableau " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-front-end.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-front-end.webp" alt="front-end Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-swift.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-swift.webp" alt="Swift Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Front End Developers from RapidBrains ?</h3>
-        <p> Hiring our RapidBrains team's skilled pool of remote front-end developers offers the advantage of their extensive expertise in front-end development. Our developers excel at building user-friendly and visually appealing interfaces, tailored to meet your unique business requirements and deliver exceptional user experiences</p>
+        <h3 class="display-2 mb-7">Why hire remote Tableau developers from RapidBrains ? </h3>
+        <p>Make use of the Skills of Our Remote Tableau Developers at SwiftIntellect to Enhance Productivity and Advance Your Projects. Our developers draw on their in-depth knowledge and practical experience in Tableau development to create outstanding data visualization solutions, simple user interfaces, and dynamic elements.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Front End developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Tableau developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Front End Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Tableau" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Tableau Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +363,21 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5"> Must-Have Skills to Look for When Hiring Remote Front End  Developers</h3>
-        <p class="mb-7">Organizations  aiming to develop exceptional user interfaces should meticulously choose developers with expertise in front-end development. However, finding competent and reliable remote front-end developers can be a challenging task. To assist you in the hiring process, here are some essential qualities to look for when seeking remote front-end developers.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=Golang" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Tableau developers</h3>
+        <p class="mb-7">Bringing to Light Key Skills for Tableau Success. Investigate the Qualities of Outstanding Tableau Developers to Encourage Innovation and Powerful Data visualization.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="design" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">HTML/CSS  Proficiency</h3>
-              <p class="mb-0"> Knowledge of HTML and CSS is required to build responsive and aesthetically pleasing web interfaces.</p>
+              <h3 class="fs-21 mb-2">Tableau Proficiency</h3>
+              <p class="mb-0">A strong command of Tableau's features, functionalities, and tools for creating interactive visualizations and dashboards.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,12 +386,13 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="settings" />
-              
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="server" />
+          
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong understanding of <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a></h3>
-              <p class="mb-0">For the development of interactive websites, a solid understanding of the JavaScript programming language.</p>
+              <h3 class="fs-21 mb-2">SQL Skills</h3>
+              <p class="mb-0">Strong understanding of SQL for data manipulation and extraction, as Tableau often interacts with databases to retrieve and process information.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -399,11 +401,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="refres" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Experience in CSS Frameworks</h3>
-              <p class="mb-0">	A working knowledge of well-known CSS frameworks like Bootstrap or Tailwind CSS.</p>
+              <h3 class="fs-21 mb-2">ETL Processes</h3>
+              <p class="mb-0"> Familiarity with Extract, Transform, Load (ETL) processes to clean, transform, and structure data from various sources for visualization.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -412,11 +415,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="web" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">JavaScript Frameworks</h3>
-              <p class="mb-0"> Strong Knowledge of front-end <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> frameworks like <a class="text-reset" href=" https://www.rapidbrains.com/hire-react-js-developers">React</a>,<a class="text-reset" href="https://www.rapidbrains.com/hire-vue-js-developers"> Vue.js</a>, or <a class="text-reset" href=" https://www.rapidbrains.com/hire-angular-developers">Angular</a>.</p>
+              <h3 class="fs-21 mb-2">Data Connection</h3>
+              <p class="mb-0">Ability to connect Tableau with various data sources such as databases, spreadsheets, APIs, and cloud-based services.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -426,11 +430,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="smartphone" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Responsive Design</h3>
-              <p class="mb-0">Ability to create responsive web designs that adapt to different screen sizes</p>
+              <h3 class="fs-21 mb-2">Calculation and Customization</h3>
+              <p class="mb-0">Proficiency in creating calculated fields, parameters, and sets, as well as customizing visualizations to meet specific project requirements.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -439,11 +444,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="shield" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle-2" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Testing and Debugging</h3>
-              <p class="mb-0">Knowledge of testing and debugging techniques to ensure code quality.</p>
+              <h3 class="fs-21 mb-2">Interactivity and Filters</h3>
+              <p class="mb-0">Skill in adding interactivity to dashboards using filters, actions, and parameters to allow users to explore data on their own.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -468,7 +474,7 @@
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -476,12 +482,13 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1"> What kind of support can I expect from RapidBrains during the development process?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">Why should I consider hiring a remote Tableau developer from RapidBrains? </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> RapidBrains is dedicated to providing comprehensive support throughout the development process for front end developers. They establish effective communication channels between you and their team, ensuring smooth collaboration. RapidBrains also assigns project managers who oversee the progress of your project, manage timelines, and address any concerns that may arise. Their goal is to create a productive and collaborative environment to ensure the success of your front end development project.</p>
+                     <p class="fs-14">RapidBrains offers a pool of highly skilled remote Tableau developers who can bring their expertise to your project without geographical limitations.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +497,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can I hire dedicated remote front end developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How can I ensure the quality of work from a remote Tableau developer?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Certainly! RapidBrains offers the option to hire dedicated remote front end developers for your project. Hiring dedicated developers guarantees their full commitment to your project's specific front end requirements, leading to efficient development and seamless collaboration.</p>
+                     <p class="fs-14">RapidBrains conducts thorough screenings and assessments of developers to ensure their skills and experience match your requirements.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +512,15 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How does the hiring process work for front end developers at RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Can I interview potential remote Tableau developers before hiring?
+                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> The hiring process for front end developers at RapidBrains is straightforward. Once you share your front end development requirements, their team evaluates them and presents you with profiles of skilled front end developers. You can review these profiles, conduct interviews, and select the developer who best fits your project. RapidBrains aims to streamline the onboarding process, ensuring a quick initiation of your front end development project.</p>
+                     <p class="fs-14">Yes, RapidBrains arranges interviews, allowing you to assess the developers' skills, experience, and cultural fit before making a decision.
+
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +529,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4"> Is the confidentiality of my project information ensured?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What time zone do RapidBrains' remote developers work in?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, RapidBrains understands the importance of confidentiality and data security for front end developers. They prioritize the protection of your project information and are open to signing non-disclosure agreements (NDAs) to safeguard the confidentiality and privacy of your sensitive front end development data.</p>
+                     <p class="fs-14">Our developers span various time zones, ensuring flexibility to match your project's schedule and allowing for efficient communication
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>

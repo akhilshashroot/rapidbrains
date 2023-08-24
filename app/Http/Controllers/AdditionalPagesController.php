@@ -597,5 +597,13 @@ class AdditionalPagesController extends Controller
         return view('services.hire-snowflake-developers',compact('data'));
     }
     
+    public function hireTableauDevelopers(){
+        $data['title']= "Hire Remote Tableau Developer in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Expertise in Creating Robust Data Visualization Solutions, Ability to Effectively Hire Skilled Tableau Developers for Remote Work | Start Your Search Today.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-tableau-developers";
+        return view('services.hire-tableau-developers',compact('data'));
+      
+    }
 
 }
