@@ -121,6 +121,7 @@ Route::get('/hire-keras-developers', [AdditionalPagesController::class, 'hireKer
 Route::get('/hire-kafka-developers', [AdditionalPagesController::class, 'hireKafkaDevelopers'])->name('hire-kafka-developers');
 Route::get('/hire-snowflake-developers', [AdditionalPagesController::class, 'hireSnowflakeDevelopers'])->name('hire-snowflake-developers');
 Route::get('/hire-tableau-developers',[AdditionalPagesController::class, 'hireTableauDevelopers'])->name('hire-tableau-developers');
+Route::get('/hire-logstash-developers',[AdditionalPagesController::class, 'hireLogstashDevelopers'])->name('hire-logstash-developers');
 
 
 

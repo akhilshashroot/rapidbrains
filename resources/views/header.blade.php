@@ -97,6 +97,7 @@
                             <li><a class="dropdown-item" tite="Keras Developer" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
                             <li><a class="dropdown-item" tite="Snowflake Developer" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                             <li><a class="dropdown-item" tite="Tableau Developer" href="{{route('hire-tableau-developers')}}">Tableau Developers</a></li>
+                            <li><a class="dropdown-item" tite="Logstash Developer" href="{{route('hire-logstash-developers')}}">Logstash Developers</a></li>
                       
                       
                       

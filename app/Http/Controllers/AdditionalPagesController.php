@@ -606,4 +606,13 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireLogstashDevelopers(){
+        $data['title']= "Hire Remote Logstash Developer in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Proficient Logstash Developer, Adept at Building Data Transformation Solutions, Skilled in Remote Team Building | Begin Your Search Now";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-logstash-developers";
+        return view('services.hire-logstash-developers',compact('data'));
+      
+    }
+
 }

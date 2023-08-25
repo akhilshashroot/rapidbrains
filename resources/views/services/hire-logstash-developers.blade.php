@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Slack Devlopers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Struggling to find skilled Slack developers for your remote team? We've got you covered! Hire top-notch remote Slack developers to streamline communication, boost productivity, and conquer collaboration challenges effortlessly.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=Slack " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Logstash Devlopers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Enhance Your Systems with Confidence Using Data Pipelines Designed by Our Skilled Logstash Developers </p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Logstash" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,14 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-slack.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-slack.webp" alt="slack Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-snowflake.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-snowflake.webp" alt="snowflake Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Slack developers from RapidBrains ? </h3>
-        <p>Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remote Slack Developers at RapidBrains. With their deep knowledge and experience in Slack Development, they are adept at crafting high-quality web applications, user interfaces, and interactive components.</p>
+        <h3 class="display-2 mb-7">Why hire remote Logstash developers from RapidBrains?</h3>
+        <p>Make the best Use of Our Remote Logstash Developers' Potential. Enhance Efficiency and Advance Your Projects. Our developers use their extensive knowledge and hands-on experience in Logstash development to build robust data pipelines, streamline processes, and ensure seamless data transformation.
+        </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Slack developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Logstash Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=Slack" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Slack Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Logstash" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Logstash Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +364,21 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Slack developers</h3>
-        <p class="mb-7"> Discover the essential skills for hiring Slack developers who can revolutionize your team's communication and drive productivity. Unearth top talents to create seamless collaboration and propel your projects to success!</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Logstash Developers.</h3>
+        <p class="mb-7">Illuminating Essential Proficiencies for Logstash Excellence. Explore the Traits of Exceptional Logstash Developers to Foster Innovation and Seamless Data Transformation.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Slack API Proficiency</h3>
-              <p class="mb-0"> Look for developers who have a deep understanding of the Slack API, its methods, and the various features it offers. </p>
+              <h3 class="fs-21 mb-2">Logstash Expertise              </h3>
+              <p class="mb-0">A fundamental requirement is deep proficiency in Logstash, encompassing a thorough understanding of its configuration, pipeline creation, filtering, and data transformation capabilities.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,12 +387,13 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="list" />
-          
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="settings-3" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Programming Languages</h3>
-              <p class="mb-0">A solid foundation in programming languages like JavaScript, Node.js, or  Python is essential for building Slack apps and integrations.</p>
+              <h3 class="fs-21 mb-2">Elasticsearch Integration</h3>
+              <p class="mb-0">Since Logstash often works in tandem with Elasticsearch, a developer should be skilled in integrating Logstash pipelines with Elasticsearch for efficient data storage and retrieval.
+
+                </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -399,11 +402,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/smartphone.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="smartphone" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/files.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="files" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">API Integration</h3>
-              <p class="mb-0"> Slack developers need third-party API integration skills for app development and interactions.</p>
+              <h3 class="fs-21 mb-2">Data Transformation</h3>
+              <p class="mb-0">Strong skills in data parsing, filtering, enrichment, and transformation are essential to ensure that data flows smoothly through the pipelines and is properly prepared for downstream processing.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -412,11 +416,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="list" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Real-time Communication</h3>
-              <p class="mb-0">Slack is all about real-time communication, so developers should be proficient in building and handling real-time functionalities.</p>
+              <h3 class="fs-21 mb-2">Scripting Languages</h3>
+              <p class="mb-0">Proficiency in scripting languages like Ruby, which is used for advanced Logstash configurations, can enhance the developer's ability to create complex transformations and manipulations.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -426,11 +431,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="shield" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Security Awareness</h3>
-              <p class="mb-0">Security is critical when handling sensitive data and interactions. Ensure that the developers you hire have a good understanding of security.</p>
+              <h3 class="fs-21 mb-2">Pipeline Optimization</h3>
+              <p class="mb-0">The developer should be capable of optimizing Logstash pipelines for performance, scalability, and efficient resource utilization, ensuring smooth data processing under varying loads.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -439,11 +445,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Problem-Solving Skills</h3>
-              <p class="mb-0">Slack developers should be excellent problem solvers, capable of understanding complex requirements.</p>
+              <h3 class="fs-21 mb-2">Linux Proficiency</h3>
+              <p class="mb-0">Since Logstash is often deployed on Linux systems, a developer should be comfortable working in a Linux environment, including managing services and configurations.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -462,13 +469,13 @@
 
 <!--Section Starts-->
 
-<section class="wrapper bg-soft-yellow">
+     <section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -476,12 +483,13 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I ensure data security while collaborating with remote Slack developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What experience do your Logstash developers have?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Data security is paramount when working with remote Slack developers. To protect sensitive information, select developers with a proven track record of handling data responsibly. Enforce strict access controls and encryption for data transmission. Consider using secure communication channels and signing non-disclosure agreements (NDAs) to safeguard your data.</p>
+                     <p class="fs-14"0>Our Logstash developers at RapidBrains have extensive experience in designing and implementing complex Logstash pipelines. They have worked on diverse projects, integrating various data sources and ensuring efficient data transformation.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +498,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How can I manage time zone differences when working with remote Slack developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How do your remote Logstash developers collaborate with clients?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Time zone differences can be challenging but manageable. Establish clear expectations for overlapping working hours to facilitate real-time communication. Leverage asynchronous communication tools to bridge the gap when immediate collaboration is not possible. Utilize project management software to monitor progress and keep everyone on the same page.</p>
+                     <p class="fs-14">Our developers are adept at remote collaboration. They communicate through various channels like video calls, emails, and messaging platforms. We ensure clear and timely updates on project progress to keep clients in the loop.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +513,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How do I track the progress and performance of remote Slack developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Can your Logstash developers integrate Logstash with other technologies like Elasticsearch and Kibana?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Tracking progress and performance is essential for project success. Use project management tools that provide visibility into tasks, milestones, and deliverables. Regular status updates and check-ins will help you stay informed about their work. Set clear performance metrics and communicate them to ensure accountability.</p>
+                     <p class="fs-14">Yes, our developers are well-versed in integrating Logstash with complementary technologies like Elasticsearch and Kibana. This enables comprehensive data storage, analysis, and visualization for a holistic solution.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +528,14 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How can I address communication and cultural differences with remote Slack developers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">How do you ensure the security of sensitive data in Logstash pipelines?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Effective communication is key to overcoming cultural and language barriers. Choose developers with strong English language skills and experience working in diverse teams. Encourage open and respectful communication, providing a platform for sharing ideas and clarifying any misunderstandings. Foster a culture of inclusivity and cultural sensitivity to promote a collaborative environment.</p>
+                     <p class="fs-14">
+                      Data security is a top priority. Our Logstash developers implement encryption protocols, access controls, and follow best practices to secure data flowing through the pipelines, ensuring compliance with data protection regulations.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
