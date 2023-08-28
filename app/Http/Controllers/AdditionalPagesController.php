@@ -199,7 +199,7 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireReactDevelopers() {
-        $data['title']= " Hire Remote ReactJs Developer in 24 hours from RapidBrains";
+        $data['title']= "Hire Remote ReactJs Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire react developer, hire remote react developer, hire React web development team, React software development, React application development, hire React web developer, hire React programmers, React web application programming, React app development, remote hiring solution";
 		$data['description']= "Hire remote ReactJS developers and supercharge your projects. RapidBrains offers top talent to meet your development needs. Level up your team today!";
         $data['canonical']= "https://www.rapidbrains.com/hire-react-js-developers";
@@ -615,4 +615,12 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireZeplinDesigners(){
+        $data['title']= "Hire Remote Zeplin Designer  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire Remote Zeplin Designer | Expert in UI/UX, Collaboration, and Team Coordination | Start Your Zeplin Journey Today";
+        $data['canonical']= " https://www.rapidbrains.com/hire-remote-zeplin-designers";
+        return view('services.hire-zeplin-designers',compact('data'));
+      
+    }
 }

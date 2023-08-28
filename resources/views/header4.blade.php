@@ -102,6 +102,8 @@
                             <li><a class="dropdown-item" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-tableau-developers')}}">Tableau Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-logstash-developers')}}">Logstash Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-zeplin-designer')}}">Zeplin Designer</a></li>
+                           
                       
 
 

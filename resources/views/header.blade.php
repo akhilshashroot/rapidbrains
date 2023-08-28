@@ -98,6 +98,7 @@
                             <li><a class="dropdown-item" tite="Snowflake Developer" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                             <li><a class="dropdown-item" tite="Tableau Developer" href="{{route('hire-tableau-developers')}}">Tableau Developers</a></li>
                             <li><a class="dropdown-item" tite="Logstash Developer" href="{{route('hire-logstash-developers')}}">Logstash Developers</a></li>
+                            <li><a class="dropdown-item" tite="Zeplin Designer" href="{{route('hire-zeplin-designer')}}">Zeplin Designer</a></li>
                       
                       
                       

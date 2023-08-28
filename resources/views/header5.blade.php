@@ -102,6 +102,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-snowflake-developers">Snowflake Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-tableau-developers">Tableau Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-logstash-developers">Logstash Developers</a></li>
+                          <li><a class="dropdown-item" href=" https://www.rapidbrains.com/hire-remote-zeplin-designers">Zeplin Designer</a></li>
 
 
 

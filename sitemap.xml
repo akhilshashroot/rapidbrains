@@ -842,4 +842,20 @@
         <image:title></image:title>
       </image:image>
   </url>
+
+
+
+  <url>
+    <loc>https://www.rapidbrains.com/hire-react-js-developers</loc>
+    <lastmod>2023-03-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.rapidbrains.com/assets/img/services/react.webp</image:loc>
+        <image:title></image:title>
+      </image:image>
+  </url>
+  
 </urlset>
+
+
