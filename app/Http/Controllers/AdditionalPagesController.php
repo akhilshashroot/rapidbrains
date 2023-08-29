@@ -366,7 +366,7 @@ class AdditionalPagesController extends Controller
     public function  hireRustDevelopers() {
         $data['title']= "Hire Remote Rust Developers in 24 Hours from RapidBrains";
 		$data['keywords']= " ";
-		$data['description']= "Fuel your projects with skilled remote Unreal Engine developers. Drive innovation, creativity, and captivating experiences. Find your experts now!";
+		$data['description']= "Fuel your projects with skilled remote Rust developers. Drive innovation, creativity, and captivating experiences. Find your experts now!";
         $data['canonical']= "https://www.rapidbrains.com/hire-rust-developers";
         return view('services.hire-rust-developers',compact('data'));
     }
@@ -464,7 +464,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote AI Developers in 24 Hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Unlock the potential of AI with our expert remote AI developers. Hire top talent at RapidBrains for cutting-edge solutions.";
-        $data['canonical']= "https://www.rapidbrains.com/hire-remote-artificia-intelligence-developers ";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-artificial-intelligence-developers";
         return view('services.hire-ai-developers',compact('data'));
     }
 
@@ -561,7 +561,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote Firebase Developers in 24 Hours from RapidBrains";
 		$data['keywords']= "hire Firebase developer, hire remote Firebase developer, hire Firebase web development team, Firebase software development, Firebase application development, hire Firebase web developer, hire Firebase programmers, Firebase web application programming,Firebase app development,Firebase hiring solution";
 		$data['description']= "Looking to hire skilled Firebase developers? Our experienced team specializes in creating real-time applications, leveraging the capabilities of Firebase to deliver seamless user experiences. Connect with us to bring your app ideas to life!";
-        $data['canonical']= " https://www.rapidbrains.com/hire-firebase-developers";
+        $data['canonical']= "https://www.rapidbrains.com/hire-firebase-developers";
         return view('services.hire-firebase-developers',compact('data'));
     }
     
@@ -619,7 +619,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote Zeplin Designer  in 24 hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Hire Remote Zeplin Designer | Expert in UI/UX, Collaboration, and Team Coordination | Start Your Zeplin Journey Today";
-        $data['canonical']= " https://www.rapidbrains.com/hire-remote-zeplin-designers";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-zeplin-designers";
         return view('services.hire-zeplin-designers',compact('data'));
       
     }
