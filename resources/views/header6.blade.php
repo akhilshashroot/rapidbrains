@@ -30,68 +30,106 @@
                             <h5 class="dropdown-header"  style="padding-left: 30px;font-size: 0.65rem;color:black;">Mobile App Developer</h5>
                             <ul class="list-unstyled">
                               <li><a class="dropdown-item" href="{{route('hire-android-developers')}}">Android Developer</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-ios-developers')}}">IOS Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-swift-developers')}}">Swift Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-kotlin-developers')}}">Kotlin Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-react-native-developers')}}"> React Native Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-app-developers')}}">App Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-remote-flutter-developers')}}"> Flutter Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-xamarin-developers')}}">Xamarin Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-ios-developers')}}">IOS Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-ionic-developers')}}">Ionic Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-kotlin-developers')}}">Kotlin Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-mobile-developers')}}">Mobile Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-react-native-developers')}}">React Native Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-swift-developers')}}">Swift Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-xamarin-developers')}}">Xamarin Developers</a></li>
                               </ul>
                               <h5 class="dropdown-header mt-2"  style="padding-left: 30px;font-size: 0.65rem;color:black;">DevOps</h5>
                               <ul class="list-unstyled">
+                                
+                                <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
                                   <li><a class="dropdown-item" href="{{route('hire-devops-developers')}}">DevOps Engineers</a></li>
-                                  <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-docker-developers')}}">Docker Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-grafana-developers')}}">Grafana Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-kafka-developers')}}">Kafka Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-kubernetes-developers')}}">Kubernetes Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-logstash-developers')}}">Logstash Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-rabbitmq-developers')}}">RabbitMQ Developers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-redis-developers')}}">Redis Developers</a></li>
                               </ul>
                           </div>
                           <!--/column -->
                           <div class="col-lg-3"  style="border: none;">
                             <h5 class="dropdown-header"  style="padding-left: 30px;font-size: 0.65rem;color:black;">Front End Developer</h5>
                             <ul class="list-unstyled">
-                              <li><a class="dropdown-item" href="{{route('hire-ionic-developers')}}">Ionic Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
-                              <li><a class="dropdown-item"  href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-mean-stack-developers')}}">MEAN Stack Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>                        
-                              <li><a class="dropdown-item" href="{{route('hire-mern-stack-developers')}}">MERN Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-angular-developers')}}">Angular Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-drupal-developers')}}">Drupal Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-firebase-developers')}}">Firebase Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-front-end-developers')}}">Front End Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-full-stack-developers')}}">Full stack Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-mean-stack-developers')}}">MEAN Stack Developers</a></li>                     
+                              <li><a class="dropdown-item" href="{{route('hire-mern-stack-developers')}}">MERN Developers</a></li>
+                              <li><a class="dropdown-item"  href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-react-node-developers')}}">React Node Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-tableau-developers')}}">Tableau Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-typescript-developers')}}">TypeScript Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-zeplin-designer')}}">Zeplin Designer</a></li>
                             </ul>
                               <h5 class="dropdown-header mt-2"  style="padding-left: 30px;font-size: 0.65rem;color:black;">Artificial Intelligence</h5>
                               <ul class="list-unstyled">
-                                <li><a class="dropdown-item" href="{{route('hire-machine-learning-engineers')}}">ML Engineers</a></li>
-                                <li><a class="dropdown-item" href="{{route('hire-ai-developers')}}">AI Developers</a></li>  
+                                <li><a class="dropdown-item" href="{{route('hire-ai-developers')}}">AI Developers</a></li> 
+                                <li><a class="dropdown-item" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
+                                <li><a class="dropdown-item" href="{{route('hire-machine-learning-engineers')}}">ML Engineers</a></li> 
+                                <li><a class="dropdown-item" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>
+                                <li><a class="dropdown-item" href="{{route('hire-tensorflow-developers')}}">TensorFlow Developers</a></li>
                               </ul>
                           </div>
                           <!--/column -->
                           <div class="col-lg-3"  style="border: none;">
                             <h5 class="dropdown-header"  style="padding-left: 30px;font-size: 0.65rem;color:black;">Back End Developer</h5>
                             <ul class="list-unstyled">
-                              <li><a class="dropdown-item" href="{{route('hire-php-developers')}}">PHP Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-laravel-developers')}}">Laravel Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-java-developers')}}">Java Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-asp-dot-net-developers')}}">ASP.NET Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-ruby-on-rails-developers')}}">Ruby on rails Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-node-js-developers')}}">Node.js Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-flask-developers')}}">Flask Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-back-end-developers')}}">Back End Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-blockchain-developers')}}">Blockchain Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-c-sharp-developers')}}">Csharp Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-codeigniter-developers')}}">CodeIgniter Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-django-developers')}}">Django Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-expressjs-developers')}}">ExpressJS Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-flask-developers')}}">Flask Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-golang-developers')}}">Golang Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-java-developers')}}">Java Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-laravel-developers')}}">Laravel Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-mongodb-developers')}}">MongoDB Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-node-js-developers')}}">Node.js Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-oracle-developers')}}">Oracle Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-php-developers')}}">PHP Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-postgresql-developers')}}">Postgresql Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-rust-developers')}}">Rust Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-ruby-on-rails-developers')}}">Ruby on Rails Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-springboot-developers')}}">Spring Boot Developers</a></li>
                             </ul>
                           </div>
                           <!--/column -->
                           <div class="col-lg-3"  style="border: none;">
                             <h5 class="dropdown-header"  style="padding-left: 30px;font-size: 0.65rem;color:black;">Other Services</h5>
                             <ul class="list-unstyled">
-                              <li><a class="dropdown-item" href="{{route('hire-vapt-testers')}}">VAPT Testers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-software-testers')}}">Software Testers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-wordpress-developers')}}"> WordPress Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
-                              <li><a class="dropdown-item" href="{{route('hire-javascript-developers')}}">Javascript Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-aws-developers')}}">AWS Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-javascript-developers')}}">Javascript Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-magento-developers')}}">Magento Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-shopify-developers')}}"> Shopify Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-seo-specialists')}}">SEO Specialists</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-software-testers')}}">Software Testers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-sap-developers')}}">SAP Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-ui-ux-designers')}}">UX/UI Designers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-unreal-engine-developers')}}">Unreal Engine Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-unity-developers')}}">Unity Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-vapt-testers')}}">VAPT Testers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-wordpress-developers')}}"> WordPress Developers</a></li>
                             </ul>
                           </div>
                           <!--/column -->
