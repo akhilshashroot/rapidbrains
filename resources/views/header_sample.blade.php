@@ -68,6 +68,8 @@
                     <li class="dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">DevOps </a>
                       <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="{{route('hire-devops-developers')}}">DevOps Engineers</a></li>
+                        <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
+
                       </ul>
                     </li>
                     <li class="dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">Artificial Intelligence</a>
