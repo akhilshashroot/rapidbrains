@@ -50,6 +50,7 @@
                             <ul class="list-unstyled">
                               <li><a class="dropdown-item" href="{{route('hire-ionic-developers')}}">Ionic Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
+                              <li><a class="dropdown-item"  href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
                               <li><a class="dropdown-item" href="{{route('hire-mean-stack-developers')}}">MEAN Stack Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>                        
                               <li><a class="dropdown-item" href="{{route('hire-mern-stack-developers')}}">MERN Developers</a></li>
@@ -84,9 +85,11 @@
                             <ul class="list-unstyled">
                               <li><a class="dropdown-item" href="{{route('hire-vapt-testers')}}">VAPT Testers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-software-testers')}}">Software Testers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-wordpress-developers')}}"> WordPress Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-javascript-developers')}}">Javascript Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-aws-developers')}}">AWS Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-ui-ux-designers')}}">UX/UI Designers</a></li>
                             </ul>
