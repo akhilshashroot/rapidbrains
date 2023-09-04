@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Ruby on Rails Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Calling all Ruby on Rails developers! <br>Exciting remote opportunities available.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=ruby_on_rails" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote BigCommerce Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Achieve E-commerce Excellence with Our Dedicated BigCommerce Development Team </p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=BigCommerce" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,14 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" alt="Ruby_rails Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-BigCommerce.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-BigCommerce.webp" alt="rapidbrains-BigCommerce Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Ruby on Rails Developers from RapidBrains?</h3>
-        <p>Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remoteRuby on Rails Developers at RapidBrains. With their deep knowledge and experience in Ruby on Rails Development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
+        <h3 class="display-2 mb-7">Why hire remote BigCommerce Developers from RapidBrains?</h3>
+        <p>Advance the productivity of your projects and transform your online business by taking advantage of our BigCommerce development team to the utmost extent possible. To build dynamic e-commerce sites and guarantee customer satisfaction, our developers draw on extensive expertise and practical experience in BigCommerce.
+        </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Ruby on Rails Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote BigCommerce Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=ruby_on_rails" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Ruby on Rails Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=BigCommerce" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire BigCommerce Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,8 +364,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring RemoteRuby on Rails Developers.</h3>
-        <p class="mb-7">Navigate the complexities of Ruby on Rails development with confidence. Seek expertise in MVC, RESTful APIs, testing, and database management to find the Ruby on Rails developers who will build robust and scalable web applications.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote BigCommerce Developers.</h3>
+        <p class="mb-7">Implementing Key Skills for BigCommerce Excellence Discover the characteristics of exceptional BigCommerce developers who promote creativity and provide open e-commerce solutions.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -375,8 +376,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency in Ruby Programming</h3>
-              <p class="mb-0">Strong command over Ruby language and its syntax, including object-oriented programming concepts and best practices.</p>
+              <h3 class="fs-21 mb-2">BigCommerce Proficiency</h3>
+              <p class="mb-0">Look for developers with a deep understanding of the BigCommerce platform, including its features, functionality, and capabilities.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,11 +387,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle "/>
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Experience with Ruby on Rails Framework</h3>
-              <p class="mb-0">In-depth knowledge of Rails framework, understanding how to build web applications, implement MVC architecture, and leverage Rails conventions.</p>
+              <h3 class="fs-21 mb-2">E-commerce Experience</h3>
+              <p class="mb-0">  Prior experience in e-commerce development is crucial. Developers should be well-versed in online retail best practices.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -401,8 +404,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2"> Familiarity with Front-End Technologies</h3>
-              <p class="mb-0"> Understanding of HTML, CSS, and JavaScript to collaborate effectively with front-end developers and ensure seamless integration between front-end and back-end components.</p>
+              <h3 class="fs-21 mb-2">Front-End Development</h3>
+              <p class="mb-0">Proficiency in HTML, CSS, and JavaScript is vital for customizing the look and feel of your online store.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +415,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Database Management Skills</h3>
-              <p class="mb-0">Expertise in working with relational databases like PostgreSQL or MySQL, including querying, indexing, and optimizing database performance.</p>
+              <h3 class="fs-21 mb-2">Back-End Development</h3>
+              <p class="mb-0">Knowledge of server-side scripting languages (e.g., PHP), databases, and server management is essential for building and maintaining a robust online store.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +430,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="shield" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Test-Driven Development (TDD)</h3>
-              <p class="mb-0">Proficiency in writing test cases using frameworks like RSpec or MiniTest, ensuring code quality, and maintaining robust test coverage.</p>
+              <h3 class="fs-21 mb-2">API Integration</h3>
+              <p class="mb-0">BigCommerce often requires integrating with various third-party services, so developers should be skilled in API integration.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +444,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="rocket " />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/menu.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="menu" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2"> Version Control and Collaboration</h3>
-              <p class="mb-0">Experience with Git and understanding of collaborative workflows like GitHub, enabling effective teamwork and code version control in a collaborative development environment.</p>
+              <h3 class="fs-21 mb-2">Customization Skills</h3>
+              <p class="mb-0">Developer should have a track record of customizing themes and plugins to meet specific business needs.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -475,13 +482,16 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I hire Ruby on Rails developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
+                    What is RapidBrains and why should I hire a BigCommerce developer from your team?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">To hire Ruby on Rails developers from RapidBrains, you can visit their website and explore their talent pool. RapidBrains may have a dedicated section or page where you can browse through profiles, assess skills, and contact potential candidates for further discussion.
-                      </p>
+                     <p class="fs-14"0>
+                      RapidBrains is a highly experienced development agency specializing in e-commerce solutions, including BigCommerce. Our team of BigCommerce experts brings a wealth of knowledge, creativity, and dedication to every project. We offer tailored solutions to meet your specific business needs, ensuring a seamless and successful development experience.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +500,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What is the experience level of Ruby on Rails developers available at RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
+                    How do you handle customization and design for BigCommerce stores?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">The experience level of Ruby on Rails developers at RapidBrains may vary. You can find developers with different levels of expertise, ranging from junior developers with entry-level experience to senior developers with extensive industry knowledge and expertise in complex projects.</p>
+                     <p class="fs-14">
+                      Our BigCommerce developers are skilled in customizing themes, plugins, and designing user-friendly, visually appealing online stores. We work closely with clients to understand their brand and business goals, ensuring that the design and functionality align with their vision.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +518,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Are there any additional services provided by RapidBrains apart from Ruby on Rails development?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
+                    How do you ensure the security of BigCommerce websites and customer data?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains may offer additional services such as frontend development, mobile app development, UI/UX design, quality assurance, and project management. You can inquire about their full range of services to determine if they can cater to your specific needs. </p>
+                     <p class="fs-14">
+                      Security is a top priority for us. We follow industry-standard security protocols, employ secure coding practices, and regularly update and monitor your BigCommerce site to protect against potential threats, ensuring a safe and trustworthy online shopping experience.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +536,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I see examples of past projects or client testimonials from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
+                    How do you handle communication and collaboration with clients during the development process?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, you can request RapidBrains to provide examples of their past projects or client testimonials. They may have a portfolio section on their website where you can find information about the projects they have worked on and the feedback received from clients.</p>
+                     <p class="fs-14">
+                      We believe in open and transparent communication. We use project management tools, regular status updates, and meetings to keep clients informed and involved throughout the development process. Your feedback and input are highly valued.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>

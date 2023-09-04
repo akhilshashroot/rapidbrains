@@ -319,5 +319,42 @@ figure img {
         <!--FAQ ENDS-->
         
   </div>
+
+
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Why do we need RapidBrains?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you want to hire an employee in other countries, you need to set up an entity, open office space, open a local bank account, send a team there to run the operations and learn the labour law, HR policies, Payroll, taxes and other compliances. With RapidBrains you can hire any employee around the world without having to set up a local entity. We do hiring, onboarding, and HR activities and comply with the local labour law like termination, maternity leave, minimum wage, TDS, PF, health insurance and so on."
+    }
+  },{
+    "@type": "Question",
+    "name": "How does RapidBrains work?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "All employees will be on the payroll of RapidBrains who work dedicatedly for your company just like your own employees. When RapidBrains onboards any employee, we will sign a localised contract with all details of their roles and responsibilities of the company they are going to work for. RapidBrains will raise invoices to the company on the 1st of every month which includes the salary of the employees and our service charge. Paying salaries, taxes, social contributions etc comes under the responsibility of RapidBrains."
+    }
+  },{
+    "@type": "Question",
+    "name": "What are the employer's costs?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Employer's cost varies from country to country including government requirements, benefits, taxes, government fees, provident fund, mandatory medical insurance etc which depends on salary and changes every year. Apart from that, RapidBrains take care of all employee cost including employee wage, payroll processing, severance payouts and legal fees"
+    }
+  },{
+    "@type": "Question",
+    "name": "What is Employer of Record (EOR)?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An Employer of Record (EOR) is a third-party company that hires and pays employees on behalf of another company and takes responsibility for all legal and formal employment processes. This way the companies can hire talents without having to set up a local entity or risk violating local employment laws. RapidBrains provide services way beyond EOR and handle the recruitment process, screenings, interviews, training and onboarding."
+    }
+  }]
+}
+</script>
   @include('services.logo')
 @endsection

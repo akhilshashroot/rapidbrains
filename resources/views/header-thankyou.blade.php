@@ -97,6 +97,12 @@
                             <li><a class="dropdown-item" href="{{route('hire-logstash-developers')}}">Logstash Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-zeplin-designer')}}">Zeplin Designer</a></li>
                       
+
+                            <li><a class="dropdown-item" href="{{route('hire-woocommerce-developers')}}">WooCommerce Developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-prestashop-developers')}}">PrestaShop Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-bigcommerce-developers')}}">BigCommerce Developer</a></li>
+
+                           
                       
                             
                       

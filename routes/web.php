@@ -123,6 +123,10 @@ Route::get('/hire-snowflake-developers', [AdditionalPagesController::class, 'hir
 Route::get('/hire-tableau-developers',[AdditionalPagesController::class, 'hireTableauDevelopers'])->name('hire-tableau-developers');
 Route::get('/hire-logstash-developers',[AdditionalPagesController::class, 'hireLogstashDevelopers'])->name('hire-logstash-developers');
 Route::get('/hire-zeplin-designer',[AdditionalPagesController::class, 'hireZeplinDesigners'])->name('hire-zeplin-designer');
+Route::get('/hire-woocommerce-developers',[AdditionalPagesController::class, 'hireWooCommerceDevelopers'])->name('hire-woocommerce-developers');
+Route::get('/hire-prestashop-developers',[AdditionalPagesController::class, 'hirePrestaShopDevelopers'])->name('hire-prestashop-developers');
+Route::get('/hire-bigcommerce-developers',[AdditionalPagesController::class, 'hireBigCommerceDevelopers'])->name('hire-bigcommerce-developers');
+
 
 
 

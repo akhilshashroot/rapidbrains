@@ -623,4 +623,31 @@ class AdditionalPagesController extends Controller
         return view('services.hire-zeplin-designers',compact('data'));
       
     }
+
+    public function hireWooCommerceDevelopers(){
+        $data['title']= "Hire Remote WooCommerce Developer  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire a WooCommerce developer today to power your online business! E-commerce master for efficient online stores";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-WooCommerce-developers";
+        return view('services.hire-woocommerce-developers',compact('data'));
+      
+    }
+
+    public function hirePrestaShopDevelopers(){
+        $data['title']= "Hire Remote Prestashop developers in 24 Hours!";
+		$data['keywords']= "";
+		$data['description']= "Find the best remote Prestashop developers who have expertise and excellence in e commerce success.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-prestashop-developers";
+        return view('services.hire-prestashop-developers',compact('data'));
+      
+    }
+
+    public function hireBigCommerceDevelopers(){
+        $data['title']= "Hire Remote BigCommerce Developer  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Invest in a talented BigCommerce developer to maximize the potential of your online business.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-bigcommerce-developers";
+        return view('services.hire-bigcommerce-developers',compact('data'));
+      
+    }
 }

@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Ruby on Rails Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Calling all Ruby on Rails developers! <br>Exciting remote opportunities available.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=ruby_on_rails" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote WooCommerce Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Maximise Your E-commerce Success with Our Team's WooCommerce Development Experience</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=WooCommerce" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,14 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-ruby-on-rails.webp" alt="Ruby_rails Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-WooCommerce.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-WooCommerce.webp" alt="rapidbrains-WooCommerce Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Ruby on Rails Developers from RapidBrains?</h3>
-        <p>Maximize your productivity and accelerate your projects by harnessing the skills and talent of our remoteRuby on Rails Developers at RapidBrains. With their deep knowledge and experience in Ruby on Rails Development, they are adept at crafting high-quality web applications, user interfaces, and interactive components</p>
+        <h3 class="display-2 mb-7">Why hire remote WooCommerce developers from RapidBrains?</h3>
+        <p>Make the most of our WooCommerce development team's potential: Enhance project effectiveness and improve your online business. To create dynamic online stores, automate operations, and guarantee customer satisfaction, our developers draw on their in-depth knowledge and practical experience in WooCommerce development.
+        </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Ruby on Rails Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote WooCommerce Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=ruby_on_rails" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Ruby on Rails Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=WooCommerce" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire WooCommerce Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,8 +364,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring RemoteRuby on Rails Developers.</h3>
-        <p class="mb-7">Navigate the complexities of Ruby on Rails development with confidence. Seek expertise in MVC, RESTful APIs, testing, and database management to find the Ruby on Rails developers who will build robust and scalable web applications.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote WooCommerce Developers.</h3>
+        <p class="mb-7">Presenting Key Skills for WooCommerce Mastery. To inspire innovation and deliver transparent e-commerce solutions, learn the characteristics of exceptional WooCommerce developers.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -375,8 +376,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency in Ruby Programming</h3>
-              <p class="mb-0">Strong command over Ruby language and its syntax, including object-oriented programming concepts and best practices.</p>
+              <h3 class="fs-21 mb-2">WooCommerce Expertise</h3>
+              <p class="mb-0">Look for developers with a deep understanding of WooCommerce, including its core functionalities, extensions, and customization options.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,11 +387,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="check" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Experience with Ruby on Rails Framework</h3>
-              <p class="mb-0">In-depth knowledge of Rails framework, understanding how to build web applications, implement MVC architecture, and leverage Rails conventions.</p>
+              <h3 class="fs-21 mb-2">WordPress Proficiency</h3>
+              <p class="mb-0">WooCommerce is built on top of WordPress, so your developer should be well-versed in WordPress development, including themes, plugins, and customizations.
+                </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -398,11 +401,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2"> Familiarity with Front-End Technologies</h3>
-              <p class="mb-0"> Understanding of HTML, CSS, and JavaScript to collaborate effectively with front-end developers and ensure seamless integration between front-end and back-end components.</p>
+              <h3 class="fs-21 mb-2">PHP and MySQL Knowledge</h3>
+              <p class="mb-0">WooCommerce is developed using PHP and relies on MySQL databases. Your developer should have strong skills in both to work with WooCommerce effectively.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -411,11 +415,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="list" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Database Management Skills</h3>
-              <p class="mb-0">Expertise in working with relational databases like PostgreSQL or MySQL, including querying, indexing, and optimizing database performance.</p>
+              <h3 class="fs-21 mb-2">Front-End Development</h3>
+              <p class="mb-0">A good WooCommerce developer should be proficient in front-end technologies like HTML, CSS, and JavaScript to create visually appealing and user-friendly online stores.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -425,11 +430,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="shield" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check-list" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Test-Driven Development (TDD)</h3>
-              <p class="mb-0">Proficiency in writing test cases using frameworks like RSpec or MiniTest, ensuring code quality, and maintaining robust test coverage.</p>
+              <h3 class="fs-21 mb-2">Customization Abilities</h3>
+              <p class="mb-0">Ensure the developer can customize WooCommerce to meet your specific project requirements, including modifying themes, templates, and adding new features.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -438,11 +444,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="rocket " />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2"> Version Control and Collaboration</h3>
-              <p class="mb-0">Experience with Git and understanding of collaborative workflows like GitHub, enabling effective teamwork and code version control in a collaborative development environment.</p>
+              <h3 class="fs-21 mb-2">Plugin Integration</h3>
+              <p class="mb-0">WooCommerce often requires integrating various plugins for additional functionality. Your developer should be adept at choosing the appropriate plugins and seamlessly pairing them.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -475,13 +482,16 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I hire Ruby on Rails developers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
+                    What types of WooCommerce projects can I find developers for on RapidBrains?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">To hire Ruby on Rails developers from RapidBrains, you can visit their website and explore their talent pool. RapidBrains may have a dedicated section or page where you can browse through profiles, assess skills, and contact potential candidates for further discussion.
-                      </p>
+                     <p class="fs-14"0>
+                      RapidBrains provides access to a wide range of WooCommerce developers, including those skilled in building new online stores, customizing existing ones, and handling various e-commerce project sizes.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +500,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What is the experience level of Ruby on Rails developers available at RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
+                    How does RapidBrains ensure the quality of the WooCommerce developers in its network?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">The experience level of Ruby on Rails developers at RapidBrains may vary. You can find developers with different levels of expertise, ranging from junior developers with entry-level experience to senior developers with extensive industry knowledge and expertise in complex projects.</p>
+                     <p class="fs-14">
+                      We carefully vet our developers, assessing their skills, experience, and portfolio before they join our platform. Additionally, client reviews and ratings help maintain transparency and quality.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +518,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">Are there any additional services provided by RapidBrains apart from Ruby on Rails development?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
+                    What is the typical timeline for hiring a WooCommerce developer through RapidBrains?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">RapidBrains may offer additional services such as frontend development, mobile app development, UI/UX design, quality assurance, and project management. You can inquire about their full range of services to determine if they can cater to your specific needs. </p>
+                     <p class="fs-14">
+                      The timeline varies depending on your project's complexity and your selection process. You can start receiving developer applications within days of posting your job, and the final hiring decision is up to you.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +536,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I see examples of past projects or client testimonials from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
+                    Can I hire WooCommerce developers for short-term or long-term projects on RapidBrains?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, you can request RapidBrains to provide examples of their past projects or client testimonials. They may have a portfolio section on their website where you can find information about the projects they have worked on and the feedback received from clients.</p>
+                     <p class="fs-14">
+                      Yes, you can find developers for both short-term and long-term projects on our platform, allowing flexibility to match your project's duration.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
