@@ -104,7 +104,13 @@
                             <li><a class="dropdown-item" href="{{route('hire-woocommerce-developers')}}">WooCommerce Developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-prestashop-developers')}}">PrestaShop Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-bigcommerce-developers')}}">BigCommerce Developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-prometheus-developers')}}">Prometheus Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-pandas-developers')}}">Pandas Developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-confluence-developers')}}">Confluence Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-data-scientists')}}">Data Scientists</a></li>
 
+
+                           
                            
                       
                       

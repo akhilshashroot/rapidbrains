@@ -586,5 +586,54 @@
       </div>
       <!-- /.container -->
     </section>
+
+
+
+
+    
+{{-- cutom schema  --}}
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "What type of company is RapidBrains?",
+        "url": "https://www.rapidbrains.com/about",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.rapidbrains.com/about{search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+      </script>
+
+
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [{
+          "@type": "Question",
+          "name": "What is the mission of RapidBrains?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To make companies more profitable by reducing the employee cost through remote talents around the world."
+          }
+        },{
+          "@type": "Question",
+          "name": "What is the vision of RapidBrains?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To create opportunity for everyone by connecting the right talents to the right organisations"
+          }
+        }]
+      }
+      </script>
+
+{{-- end of cutom schema  --}}
+
+
+
     @include('services.logo')
 @endsection

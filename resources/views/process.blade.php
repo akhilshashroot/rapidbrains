@@ -320,6 +320,8 @@ figure img {
         
   </div>
 
+  
+  {{-- cutom schema  --}}
 
   <script type="application/ld+json">
 {
@@ -356,5 +358,11 @@ figure img {
   }]
 }
 </script>
+
+
+{{--end of cutom schema  --}}
+
+
+
   @include('services.logo')
 @endsection

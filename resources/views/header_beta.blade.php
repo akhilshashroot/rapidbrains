@@ -126,7 +126,12 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-WooCommerce-developers">WooCommerce Developer</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-prestashop-developers">PrestaShop Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-bigcommerce-developers">BigCommerce Developer</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-prometheus-developers">Prometheus Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-pandas-developers">Pandas Developer</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-confluence-developers">Confluence Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-data-scientists">Data Scientists</a></li>
 
+          
                       
 
 

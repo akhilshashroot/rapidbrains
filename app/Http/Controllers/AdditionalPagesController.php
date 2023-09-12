@@ -650,4 +650,46 @@ class AdditionalPagesController extends Controller
         return view('services.hire-bigcommerce-developers',compact('data'));
       
     }
+
+    
+    public function hirePrometheusDevelopers(){
+        $data['title']= "Hire Remote Prometheus Developer in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find your expert Prometheus developer today! Hire remote Prometheus developer in just 24 hours with RapidBrains";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-prometheus-developers";
+        return view('services.hire-prometheus-developers',compact('data'));
+      
+    }
+
+    
+    public function hirePandasDevelopers(){
+        $data['title']= "Hire Remote Pandas Developer  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find the best Pandas Developers who are ready to remotely optimize your data. Improve your efficiency and insights right now!";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-pandas-developers";
+        return view('services.hire-pandas-developers',compact('data'));
+      
+    }
+
+
+    public function hireConfluenceDevelopers(){
+        $data['title']= "Hire Remote Confluence Developers rapidly in 24 hours";
+		$data['keywords']= "";
+		$data['description']= "Hire Confluence Developers remotely in 24 hours for fast project workflow and effective communication. Improve your project cooperation right now.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-confluence-developers";
+        return view('services.hire-confluence-developers',compact('data'));
+      
+    }
+
+    
+    public function hireDataScientists(){
+        $data['title']= "Hire Remote Data Scientist in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire remote data scientists for your project. Discover skilled professionals ready to drive your data initiatives remotely.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-data-scientists";
+        return view('services.hire-data-scientists',compact('data'));
+      
+    }
+
+
 }

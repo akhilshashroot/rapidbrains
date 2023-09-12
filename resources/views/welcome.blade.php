@@ -1068,7 +1068,7 @@
       <!--/.card -->
 
 
-
+{{-- cutom schema  --}}
 
 
       <script type="application/ld+json">
@@ -1123,7 +1123,10 @@
           }
           </script>
 
+
           
+
+          {{-- end of cutom schema  --}}
 
 
 

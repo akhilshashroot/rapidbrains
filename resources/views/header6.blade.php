@@ -43,7 +43,7 @@
                               <h5 class="dropdown-header mt-2"  style="padding-left: 30px;font-size: 0.65rem;color:black;">DevOps</h5>
                               <ul class="list-unstyled">
                                 
-                                <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
                                   <li><a class="dropdown-item" href="{{route('hire-devops-developers')}}">DevOps Engineers</a></li>
                                   <li><a class="dropdown-item" href="{{route('hire-docker-developers')}}">Docker Developers</a></li>
                                   <li><a class="dropdown-item" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
@@ -90,6 +90,7 @@
                               <li><a class="dropdown-item" href="{{route('hire-asp-dot-net-developers')}}">ASP.NET Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-back-end-developers')}}">Back End Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-blockchain-developers')}}">Blockchain Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-bigcommerce-developers')}}">BigCommerce Developer</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-c-sharp-developers')}}">Csharp Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-codeigniter-developers')}}">CodeIgniter Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-django-developers')}}">Django Developers</a></li>
@@ -102,6 +103,7 @@
                               <li><a class="dropdown-item" href="{{route('hire-node-js-developers')}}">Node.js Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-oracle-developers')}}">Oracle Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-php-developers')}}">PHP Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-prestashop-developers')}}">PrestaShop Developers</a></li>  
                               <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-postgresql-developers')}}">Postgresql Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-rust-developers')}}">Rust Developers</a></li>
@@ -109,6 +111,8 @@
                               <li><a class="dropdown-item" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                               <li><a class="dropdown-item" href="{{route('hire-springboot-developers')}}">Spring Boot Developers</a></li>
+                              <li><a class="dropdown-item" href="{{route('hire-woocommerce-developers')}}">WooCommerce Developer</a></li>
+
                             </ul>
                           </div>
                           <!--/column -->

@@ -126,6 +126,10 @@ Route::get('/hire-zeplin-designer',[AdditionalPagesController::class, 'hireZepli
 Route::get('/hire-woocommerce-developers',[AdditionalPagesController::class, 'hireWooCommerceDevelopers'])->name('hire-woocommerce-developers');
 Route::get('/hire-prestashop-developers',[AdditionalPagesController::class, 'hirePrestaShopDevelopers'])->name('hire-prestashop-developers');
 Route::get('/hire-bigcommerce-developers',[AdditionalPagesController::class, 'hireBigCommerceDevelopers'])->name('hire-bigcommerce-developers');
+Route::get('/hire-prometheus-developers',[AdditionalPagesController::class, 'hirePrometheusDevelopers'])->name('hire-prometheus-developers');
+Route::get('/hire-pandas-developers',[AdditionalPagesController::class, 'hirePandasDevelopers'])->name('hire-pandas-developers');
+Route::get('/hire-confluence-developers',[AdditionalPagesController::class, 'hireConfluenceDevelopers'])->name('hire-confluence-developers');
+Route::get('/hire-data-scientists',[AdditionalPagesController::class, 'hireDataScientists'])->name('hire-data-scientists');
 
 
 

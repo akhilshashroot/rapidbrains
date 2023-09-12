@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote WooCommerce Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Maximise Your E-commerce Success with Our Team's WooCommerce Development Experience</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=WooCommerce" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Data Scientists in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Enhance Your Systems with Confidence Using Data Pipelines Designed by Our Skilled Logstash Developers</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=data_scientist " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,19 +175,19 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-woocommerce.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-woocommerce.webp" alt="rapidbrains-WooCommerce Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" alt="rapidbrains-Pandas Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote WooCommerce developers from RapidBrains?</h3>
-        <p>Make the most of our WooCommerce development team's potential: Enhance project effectiveness and improve your online business. To create dynamic online stores, automate operations, and guarantee customer satisfaction, our developers draw on their in-depth knowledge and practical experience in WooCommerce development.
+        <h3 class="display-2 mb-7">Why hire remote Data Scientists from RapidBrains ? </h3>
+        <p>Exploit the Full Potential of Our Committed Data Science Team. Increase efficiency and confidently propel your projects to new heights. Our data scientists use their deep expertise and hands-on experience to methodically create strong data pipelines, simplify workflows, and ensure flawless data transformations customized to your unique needs.
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
               <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
-            </div>
+            </div> 
             <!--/.card-header -->
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div class="card-body">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote WooCommerce Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Data Scientists.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=WooCommerce" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire WooCommerce Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=data_scientist" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Data Scientists <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,21 +364,22 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote WooCommerce Developers.</h3>
-        <p class="mb-7">Presenting Key Skills for WooCommerce Mastery. To inspire innovation and deliver transparent e-commerce solutions, learn the characteristics of exceptional WooCommerce developers.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Data Scientists</h3>
+        <p class="mb-7">Shining a Light on Crucial Skills for Data Science Excellence. Discover the Qualities of Outstanding Data Scientists to Cultivate Innovation and Effortless Data Transformation.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">WooCommerce Expertise</h3>
-              <p class="mb-0">Look for developers with a deep understanding of WooCommerce, including its core functionalities, extensions, and customization options.
-               </p>
+              <h3 class="fs-21 mb-2">Strong Analytical Skills</h3>
+              <p class="mb-0">
+                Data scientists should have a solid foundation in mathematics, statistics, and the ability to analyze complex data sets to extract meaningful insights.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -387,12 +388,14 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="tools" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="tools" />
+          
             </div>
             <div>
-              <h3 class="fs-21 mb-2">WordPress Proficiency</h3>
-              <p class="mb-0">WooCommerce is built on top of WordPress, so your developer should be well-versed in WordPress development, including themes, plugins, and customizations.
-                </p>
+              <h3 class="fs-21 mb-2">Data Manipulation</h3>
+              <p class="mb-0">
+                Skills in data cleaning, transformation, and preprocessing are vital. Familiarity with tools like Pandas and NumPy is often required.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -401,11 +404,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">PHP and MySQL Knowledge</h3>
-              <p class="mb-0">WooCommerce is developed using PHP and relies on MySQL databases. Your developer should have strong skills in both to work with WooCommerce effectively.
+              <h3 class="fs-21 mb-2">Machine Learning Expertise</h3>
+              <p class="mb-0">
+                A deep understanding of machine learning algorithms, their implementation, and the ability to select and fine-tune models for specific tasks.
               </p>
             </div>
           </div>
@@ -415,11 +419,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="list" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Front-End Development</h3>
-              <p class="mb-0">A good WooCommerce developer should be proficient in front-end technologies like HTML, CSS, and JavaScript to create visually appealing and user-friendly online stores.
+              <h3 class="fs-21 mb-2">Data Visualization</h3>
+              <p class="mb-0">
+                Proficiency in data visualization tools like Matplotlib, Seaborn, or Tableau to communicate findings effectively.
               </p>
             </div>
           </div>
@@ -430,11 +435,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="check-list" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Customization Abilities</h3>
-              <p class="mb-0">Ensure the developer can customize WooCommerce to meet your specific project requirements, including modifying themes, templates, and adding new features.
+              <h3 class="fs-21 mb-2">Big Data Technologies</h3>
+              <p class="mb-0">
+                Depending on your data infrastructure, experience with big data technologies like Hadoop, Spark, or NoSQL databases can be valuable.
               </p>
             </div>
           </div>
@@ -444,11 +450,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/expand.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="expand" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Plugin Integration</h3>
-              <p class="mb-0">WooCommerce often requires integrating various plugins for additional functionality. Your developer should be adept at choosing the appropriate plugins and seamlessly pairing them.
+              <h3 class="fs-21 mb-2">Ethical Awareness</h3>
+              <p class="mb-0">
+                An understanding of ethical considerations in data collection, usage, and decision-making, especially when handling sensitive data.
               </p>
             </div>
           </div>
@@ -468,13 +475,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -483,14 +490,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    What types of WooCommerce projects can I find developers for on RapidBrains?
+                    What is RapidBrains, and how does it work for clients seeking developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"0>
-                      RapidBrains provides access to a wide range of WooCommerce developers, including those skilled in building new online stores, customizing existing ones, and handling various e-commerce project sizes.
+                     <p class="fs-14">
+                      RapidBrains is a talent acquisition and development platform that connects clients with highly skilled developers who have undergone rigorous training and certification. Clients can find developers suitable for their projects through the platform.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -501,14 +508,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    How does RapidBrains ensure the quality of the WooCommerce developers in its network?
-                  </button>
+                    How does RapidBrains source and select data scientists for clients?
+                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      We carefully vet our developers, assessing their skills, experience, and portfolio before they join our platform. Additionally, client reviews and ratings help maintain transparency and quality.
+                      RapidBrains employs a rigorous vetting process for data scientists. We assess their qualifications, industry experience, and project-specific skills to ensure they meet your requirements.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -519,14 +526,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    What is the typical timeline for hiring a WooCommerce developer through RapidBrains?
-                  </button>
+                    How flexible are the engagement models and pricing options when hiring data scientists through RapidBrains?
+                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      The timeline varies depending on your project's complexity and your selection process. You can start receiving developer applications within days of posting your job, and the final hiring decision is up to you.
+                      We offer flexible engagement models to fit your project's unique needs, whether it's a short-term project or a long-term partnership. Pricing is competitive and adaptable to your budget.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -537,15 +544,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    Can I hire WooCommerce developers for short-term or long-term projects on RapidBrains?
-                  </button>
+                    What if I encounter any issues with the data scientist's performance during the project?
+                    </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, you can find developers for both short-term and long-term projects on our platform, allowing flexibility to match your project's duration.
-                      </p>
+                      RapidBrains values client satisfaction. If issues arise, we will work diligently to resolve them. If necessary, we can assist in finding a suitable replacement data scientist to ensure the project's success.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
