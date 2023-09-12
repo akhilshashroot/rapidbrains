@@ -145,10 +145,10 @@
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
         <div class="row position-relative">
           <div class="col-lg-8 col-xxl-7 mx-auto position-relative">
-            <div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/pie.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+            <!--<div class="position-absolute shape grape w-5 d-none d-lg-block" style="top: -5%; left: -15%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/pie.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div class="position-absolute shape violet w-10 d-none d-lg-block" style="bottom: 30%; left: -20%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/scribble.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
-            <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
+            <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>-->
             <div data-cues="slideInDown" data-group="page-title">
               <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">Talent marketplace to hire best remote<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
               <p class="lead fs-24 mb-8">Build your remote team, Rapidly! </p>
