@@ -146,7 +146,7 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire ReactJs Developers Remotely in 24 Hours!</h1>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote ReactJs Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Revolutionize your app development process with our <br>top-tier ReactJS developers.</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
@@ -176,7 +176,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/react.webp" srcset="https://www.rapidbrains.com/assets/img/services/react.webp" alt="React Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/react.webp" srcset="https://www.rapidbrains.com/assets/img/services/react.webp" alt="React Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -390,7 +390,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in JavaScript</h3>
-              <p class="mb-0"> Strong JavaScript skills are crucial as ReactJS heavily relies on JavaScript for building interactive user interfaces. JavaScript proficiency is for scalable ReactJS code</p>
+              <p class="mb-0"> Strong <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> skills are crucial as ReactJS heavily relies on <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> for building interactive user interfaces. <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> proficiency is for scalable ReactJS code</p>
             </div>
           </div>
           <!-- /.card-body -->

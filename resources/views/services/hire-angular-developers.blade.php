@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-angular.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-angular.webp" alt="Angular Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-angular.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-angular.webp" alt="Angular Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -389,7 +389,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Knowledge of JavaScript and TypeScript</h3>
-              <p class="mb-0">Proficient in JavaScript and TypeScript to optimize code, implement algorithms, and maintain scalable codebases</p>
+              <p class="mb-0">Proficient in  <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> and TypeScript to optimize code, implement algorithms, and maintain scalable codebases</p>
             </div>
           </div>
           <!-- /.card-body -->

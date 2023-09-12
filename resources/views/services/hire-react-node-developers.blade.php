@@ -145,7 +145,7 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best  React Node Developers </h1>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote React Node Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Are you searching for top-notch React Node developers who can bring your vision to life? Our exclusive focus on hiring the best-of-the-best ensures that you can access a curated pool of highly skilled and experienced React Node developers.</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=react-node" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-node.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-node.webp" alt="react_Node Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-node.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-react-node.webp" alt="react_Node Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -376,7 +376,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Proficiency in JavaScript</h3>
-              <p class="mb-0">Mastery of JavaScript, the foundation for React Node development, including modern ES6+ syntax and concepts.</p>
+              <p class="mb-0">Mastery of <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a>, the foundation for React Node development, including modern ES6+ syntax and concepts.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -390,7 +390,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">React.js Expertise</h3>
-              <p class="mb-0">Strong understanding of React.js library, including component-based architecture, state management, and virtual DOM manipulation.</p>
+              <p class="mb-0">Strong understanding of <a class="text-reset" href=" https://www.rapidbrains.com/hire-react-js-developers">React.js</a> library, including component-based architecture, state management, and virtual DOM manipulation.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -403,15 +403,15 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Node.js Knowledge</h3>
-              <p class="mb-0">In-depth knowledge of Node.js runtime environment, including event-driven, non-blocking I/O operations, and server-side development.</p>
+              <p class="mb-0">In-depth knowledge of <a class="text-reset" href=" https://www.rapidbrains.com/hire-python-developers">Node.js</a> runtime environment, including event-driven, non-blocking I/O operations, and server-side development.</p>
             </div>
           </div>
           <!-- /.card-body -->
         </div>
         <!-- /.card -->
         <div class="card bg-soft-leaf mb-6">
-          <div class="card-body d-flex flex-row">
-            <div>
+          <div>
+              <div class="card-body d-flex flex-row">
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
             </div>
             <div>

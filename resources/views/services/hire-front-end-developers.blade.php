@@ -145,7 +145,7 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Front End Developers Remotely in 24 Hours!</h1>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Front End Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Hire a front-end developer with experience in creating efficient and <br> user-friendly interfaces for web and mobile applications</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=front-end" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-front-end.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-front-end.webp" alt="front-end Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-front-end.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-front-end.webp" alt="front-end Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -389,7 +389,7 @@
               
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong understanding of JavaScript</h3>
+              <h3 class="fs-21 mb-2">Strong understanding of <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a></h3>
               <p class="mb-0">For the development of interactive websites, a solid understanding of the JavaScript programming language.</p>
             </div>
           </div>
@@ -416,7 +416,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">JavaScript Frameworks</h3>
-              <p class="mb-0"> Strong Knowledge of front-end JavaScript frameworks like React, Vue.js, or Angular.</p>
+              <p class="mb-0"> Strong Knowledge of front-end <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers">JavaScript</a> frameworks like <a class="text-reset" href=" https://www.rapidbrains.com/hire-react-js-developers">React</a>,<a class="text-reset" href="https://www.rapidbrains.com/hire-vue-js-developers"> Vue.js</a>, or <a class="text-reset" href=" https://www.rapidbrains.com/hire-angular-developers">Angular</a>.</p>
             </div>
           </div>
           <!-- /.card-body -->

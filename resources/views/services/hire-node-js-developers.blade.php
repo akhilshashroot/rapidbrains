@@ -145,7 +145,7 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Node.JS Developers Remotely in 24 Hours!</h1>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Node.JS Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Improve the quality of your app development with the help of our superb Node.js developers, who are skilled in creating creative solutions.</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=nodejs" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/nodejs.webp" srcset="https://www.rapidbrains.com/assets/img/services/nodejs.webp" alt="NodeJs Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/nodejs.webp" srcset="https://www.rapidbrains.com/assets/img/services/nodejs.webp" alt="NodeJs Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -389,7 +389,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Knowledge of JavaScript</h3>
-              <p class="mb-0">Strong grasp of complex JavaScript concepts like closures and functional programming for scalable app</p>
+              <p class="mb-0">Strong grasp of complex <a class="text-reset" href=" https://www.rapidbrains.com/hire-javascript-developers" >JavaScript</a> concepts like closures and functional programming for scalable app</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -402,7 +402,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Having used Express.js</h3>
-              <p class="mb-0">Seek developers with expertise in Express.js for scalable and reliable web app development</p>
+              <p class="mb-0">Seek developers with expertise in <a class="text-reset" href=" https://www.rapidbrains.com/hire-expressjs-developers"> Express.js</a> for scalable and reliable web app development</p>
             </div>
           </div>
           <!-- /.card-body -->

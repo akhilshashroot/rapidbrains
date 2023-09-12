@@ -120,6 +120,13 @@ Route::get('/hire-rabbitmq-developers', [AdditionalPagesController::class, 'hire
 Route::get('/hire-keras-developers', [AdditionalPagesController::class, 'hireKerasDevelopers'])->name('hire-keras-developers');
 Route::get('/hire-kafka-developers', [AdditionalPagesController::class, 'hireKafkaDevelopers'])->name('hire-kafka-developers');
 Route::get('/hire-snowflake-developers', [AdditionalPagesController::class, 'hireSnowflakeDevelopers'])->name('hire-snowflake-developers');
+Route::get('/hire-tableau-developers',[AdditionalPagesController::class, 'hireTableauDevelopers'])->name('hire-tableau-developers');
+Route::get('/hire-logstash-developers',[AdditionalPagesController::class, 'hireLogstashDevelopers'])->name('hire-logstash-developers');
+Route::get('/hire-zeplin-designer',[AdditionalPagesController::class, 'hireZeplinDesigners'])->name('hire-zeplin-designer');
+Route::get('/hire-woocommerce-developers',[AdditionalPagesController::class, 'hireWooCommerceDevelopers'])->name('hire-woocommerce-developers');
+Route::get('/hire-prestashop-developers',[AdditionalPagesController::class, 'hirePrestaShopDevelopers'])->name('hire-prestashop-developers');
+Route::get('/hire-bigcommerce-developers',[AdditionalPagesController::class, 'hireBigCommerceDevelopers'])->name('hire-bigcommerce-developers');
+
 
 
 

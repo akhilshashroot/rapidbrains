@@ -145,8 +145,8 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Just the Best Kotlin Devlopers</h1>
-                 <p class="lead fs-18 mb-8"> Hire a highly experienced Flutter developer to build effective and user-friendly apps for web and mobile platforms.Employ a Kotlin developer who has experience creating intuitive and effective mobile applications and software solutions.</p>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Kotlin Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Employ a Kotlin developer who has experience creating intuitive and effective mobile applications and software solutions.</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=kotlin" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-kotlin.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-kotlin.webp" alt="Kotlin Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-kotlin.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-kotlin.webp" alt="Kotlin Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
@@ -402,7 +402,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Development of Android</h3>
-              <p class="mb-0">Experience in developing Android applications using Kotlin and Android Studio.</p>
+              <p class="mb-0">Experience in developing <a class="text-reset" href=" https://www.rapidbrains.com/hire-android-developers">Android</a> applications using Kotlin and Android Studio.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -415,7 +415,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Java Interoperability</h3>
-              <p class="mb-0">Grasping of how to integrate existing codebases with Kotlin and Java seamlessly.</p>
+              <p class="mb-0">Grasping of how to integrate existing codebases with Kotlin and <a class="text-reset" href="https://www.rapidbrains.com/hire-java-developers">Java</a> seamlessly.</p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -442,7 +442,7 @@
             </div>
             <div>
               <h3 class="fs-21 mb-2">Android Jetpack</h3>
-              <p class="mb-0">Understanding and utilization of Android Jetpack components and libraries.</p>
+              <p class="mb-0">Understanding and utilization of <a class="text-reset" href=" https://www.rapidbrains.com/hire-android-developers">Android</a> Jetpack components and libraries.</p>
             </div>
           </div>
           <!-- /.card-body -->

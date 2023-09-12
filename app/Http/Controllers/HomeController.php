@@ -14,7 +14,7 @@ class HomeController extends Controller
         return view('welcome',compact('data'));
     }
     public function about() {
-        $data['title']= "About us | RapidBrains";
+        $data['title']= "RapidBrains Company | A talent marketplace to build remote teams";
 		$data['keywords']= "remote team, remote hiring, talent marketplace, build remote team, top talents, remote talents ";
 		$data['description']= "Learn about RapidBrains and how we can help your business efficiently build and manage your remote teams. We offer the easiest way to hire the best remote talent.";
         $data['canonical']= "https://www.rapidbrains.com/about";

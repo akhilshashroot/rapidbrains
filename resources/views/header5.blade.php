@@ -87,6 +87,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-artificia-intelligence-developers">AI Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-software-tester">Software Testers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-vapt-testers">VAPT Testers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-meteor-developers">Meteor Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-automation-tester">Automation Testers</a></li>
                           <li><a class="dropdown-item" href=" https://www.rapidbrains.com/hire-slack-developers">Slack Testers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-tailwind-css-developer">Tailwind CSS Developers</a></li>
@@ -100,6 +101,17 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-Keras-developers">Keras Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-kafka-developers">Kafka Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-snowflake-developers">Snowflake Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-tableau-developers">Tableau Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-logstash-developers">Logstash Developers</a></li>
+                          <li><a class="dropdown-item" href=" https://www.rapidbrains.com/hire-remote-zeplin-designers">Zeplin Designer</a></li>
+
+                          
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-WooCommerce-developers">WooCommerce Developer</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-prestashop-developers">PrestaShop Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-bigcommerce-developers">BigCommerce Developer</a></li>
+
+
+                      
 
 
 

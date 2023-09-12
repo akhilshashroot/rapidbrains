@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Automation Testers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Supercharge Your App Development with Expert Automation Testers. Ensure Strong Quality Assurance and Gain Confidence in Your Software. Partner for Top-Notch Automation Testing Services.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=automation_tester" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Zeplin Designers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Transform Your Digital Landscape with Confidence, Crafted by Our Expert Zeplin Designers</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=zeplin " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,18 +175,18 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; heighr: 500px;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-automation-tester.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-automation-tester.webp" alt="Automation Tester Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-zeplin.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-zeplin.webp" alt="rapidbrains-zeplin Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote  Automation Testers from RapidBrains?</h3>
-        <p>Enhance Your Productivity and Accelerate Projects with our Remote Automation Testers at RapidBrains. With their Proficiency in Automation Testing, they Craft High-Quality Software Solutions, Seamless User Experiences, and Interactive Components.</p>
+        <h3 class="display-2 mb-7">Why hire remote Zeplin Designers from RapidBrains ? </h3>
+        <p>With the knowledge of our remote Zeplin designers at RapidBrains, increase efficiency and advance your projects. They excel at producing top-notch user interfaces, interactive designs, and seamless digital experiences by utilizing their broad skill set in Zeplin.</p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
               <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
-            </div>
+            </div> 
             <!--/.card-header -->
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div class="card-body">
@@ -337,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote  Automation Testers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Zeplin Designers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=automation_tester" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire  Automation Testers<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=zeplin" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Zeplin Designers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +363,21 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote  Automation Testers</h3>
-        <p class="mb-7">Harness the Power of Automation Testing with Highly Skilled Remote Testers. Discover the Expertise That Sets Apart Outstanding Automation Testers, Ensuring Quality Software Solutions and Project Success.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Zeplin Designers</h3>
+        <p class="mb-7">Bringing to Light Key Skills for Zeplin Brilliance. Learn the traits of Outstanding Zeplin Designers to Spark Innovation and Perfect UI/UX Creation.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="rocket" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Version Control Systems</h3>
-              <p class="mb-0">Proficiency in using version control tools like Git to efficiently manage and collaborate on test automation scripts.</p>
+              <h3 class="fs-21 mb-2">Proficiency in Zeplin</h3>
+              <p class="mb-0">An obvious prerequisite, they should be highly skilled in using Zeplin to effectively communicate design specifications to developers and collaborate seamlessly.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,12 +386,13 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="web" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="design" />
+          
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cross-Browser Testing</h3>
-              <p class="mb-0">  Experience in conducting automated tests across multiple browsers, ensuring seamless compatibility.
-                </p>
+              <h3 class="fs-21 mb-2">UI/UX Design Expertise</h3>
+              <p class="mb-0">Strong understanding of user-centered design principles, creating intuitive and visually appealing user interfaces that enhance the user experience.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -399,11 +401,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/crop.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="crop" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Load Testing</h3>
-              <p class="mb-0"> Familiarity with load testing tools such as JMeter or Gatling for performance testing and scalability analysis.</p>
+              <h3 class="fs-21 mb-2">Visual Design Skills</h3>
+              <p class="mb-0">Ability to create aesthetically pleasing designs with a keen eye for typography, color theory, and layout composition.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -412,11 +415,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="shield" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="web" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Security Testing</h3>
-              <p class="mb-0">Knowledge of security testing concepts and tools like OWASP ZAP or Burp Suite to identify vulnerabilities.            </p>
+              <h3 class="fs-21 mb-2">Responsive Design</h3>
+              <p class="mb-0">Proficiency in designing for various screen sizes and devices, ensuring a consistent and optimal experience across platforms.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -426,11 +430,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="settings" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Agile Methodology</h3>
-              <p class="mb-0"> Understanding of Agile practices and the ability to seamlessly integrate test automation into Agile workflows.</p>
+              <h3 class="fs-21 mb-2">Interaction Design</h3>
+              <p class="mb-0">Capability to design interactive elements, transitions, and animations that enhance usability and engagement.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -439,11 +444,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle-2" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Regression Testing</h3>
-              <p class="mb-0"> Proficiency in creating and maintaining automated regression test suites to ensure software stability.</p>
+              <h3 class="fs-21 mb-2">Wireframing and Prototyping</h3>
+              <p class="mb-0">Skill in creating wireframes and interactive prototypes to demonstrate design concepts and user flows. 
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -462,13 +468,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -476,12 +482,13 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">How can I get started with hiring automation testers from RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What is RapidBrains and their expertise in Zeplin design?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"0>Getting started is simple! Share your project requirements and automation testing needs with us, and our team will assist you throughout the hiring process to find the perfect automation testers for your projects.</p>
+                     <p class="fs-14">RapidBrains is a renowned platform connecting clients with top-notch Zeplin designers. Our designers possess extensive expertise in Zeplin, excelling in UI/UX design, collaboration, and remote work coordination.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +497,13 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">Can I scale up or down my automation testing team as per project requirements? </button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">How can I be assured of the designer's competence?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Yes, we offer flexibility in scaling your automation testing team based on project demands. You can easily add or reduce resources as needed for optimal resource allocation</p>
+                     <p class="fs-14">We meticulously vet our designers, evaluating their portfolios, experience, and skills. Our rigorous selection process ensures that you're connected with highly competent Zeplin designers who match your project's needs.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +512,15 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How do automation testers at RapidBrains stay updated with the latest testing trends and technologies?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How is communication managed with remote designers?
+                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"> Our automation testers are committed to continuous learning and professional development. They regularly participate in training sessions and stay updated with the latest testing tools and techniques.</p>
+                     <p class="fs-14">Effective communication is a priority. Our Zeplin designers are experienced in remote work, and we encourage transparent communication through various channels, ensuring seamless project coordination.
+
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +529,14 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can I expect detailed test reports and insights from automation testers at RapidBrains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">What if I have specific project requirements or preferences?</button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Absolutely! Our automation testers provide comprehensive test reports with detailed insights into test results, highlighting any identified defects and recommendations for improvement.</p>
+                     <p class="fs-14">Your project's uniqueness is understood. Our designers adapt to your requirements, offering tailored solutions while infusing their creative expertise to deliver exceptional results.
+
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>

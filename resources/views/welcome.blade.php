@@ -140,6 +140,7 @@
 <section class="wrapper overflow-hidden image-wrapper" data-image-src="url({{asset('assets/img/photos/rapidbrains-cover.webp')}})"  style="background-image: url({{asset('assets/img/photos/rapidbrains-cover.webp')}});padding-bottom: 90px" >
 
 
+  
 
 <div class="container pt-19 pt-md-21 text-center position-relative new-mar">
         <div class="position-absolute" style="top: -15%; left: 50%; transform: translateX(-50%);" data-cue="fadeIn"></div>
@@ -1065,6 +1066,85 @@
         <!--/.card-body -->
       </div>
       <!--/.card -->
+
+
+
+
+
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.rapidbrains.com/"
+          },
+          "headline": "What is the mission of RapidBrains?",
+          "description": "To make companies more profitable by reducing the employee cost through remote talents around the world.",
+          "image": "",  
+          "author": {
+            "@type": "",
+            "name": ""
+          },  
+          "publisher": {
+            "@type": "Organization",
+            "name": "",
+            "logo": {
+              "@type": "ImageObject",
+              "url": ""
+            }
+          },
+          "datePublished": ""
+        }
+        </script>
+
+
+
+        <script type="application/ld+json">
+          {
+            "@context": "https://schema.org/", 
+            "@type": "BreadcrumbList", 
+            "itemListElement": [{
+              "@type": "ListItem", 
+              "position": 1, 
+              "name": "RapidBrains: Hire Best Remote Software Developers",
+              "item": "https://www.rapidbrains.com/"  
+            },{
+              "@type": "ListItem", 
+              "position": 2, 
+              "name": "How do you hire remote talents from RapidBrains?",
+              "item": "https://talents.rapidbrains.com/"  
+            },{
+              "@type": "ListItem", 
+              "position": 3, 
+              "name": "How do I get job from Turing?",
+              "item": "https://jobs.rapidbrains.com/"  
+            }]
+          }
+          </script>
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
