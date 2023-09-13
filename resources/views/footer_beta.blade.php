@@ -62,8 +62,8 @@
               <li class="ft-pad"><a href="https://www.rapidbrains.com/about">About Us</a></li>
               <li class="ft-pad"><a href="https://www.rapidbrains.com/benefits">Our Benefits</a></li>
               <li class="ft-pad"><a href="https://www.rapidbrains.com/process">The Process</a></li>
-                <li class="ft-pad"><a href="https://articles.rapidbrains.com">Articles</a></li>
-                <!-- <li class="ft-pad"><a href="https://www.rapidbrains.com/blog/">Blog</a></li> -->
+                {{-- <li class="ft-pad"><a href="https://articles.rapidbrains.com">Articles</a></li> --}}
+              <li class="ft-pad"><a href="https://www.rapidbrains.com/blog/">Blog</a></li> 
               <li><a href="https://www.rapidbrains.com/contact">Contact Us</a></li>
             </ul>
           </div>
