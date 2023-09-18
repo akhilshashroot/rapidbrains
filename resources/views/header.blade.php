@@ -108,6 +108,7 @@
                             <li><a class="dropdown-item" tite="Pandas Developer" href="{{route('hire-pandas-developers')}}">Pandas Developer</a></li>
                             <li><a class="dropdown-item" tite="Confluence Developer" href="{{route('hire-confluence-developers')}}">Confluence Developers</a></li>
                             <li><a class="dropdown-item" tite="Data Scientists" href="{{route('hire-data-scientists')}}">Data Scientists</a></li>
+                            <li><a class="dropdown-item" tite="Cloud Engineers" href="{{route('hire-cloud-engineers')}}">Cloud Engineers</a></li>
 
                            
                       

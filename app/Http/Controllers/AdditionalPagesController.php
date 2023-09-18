@@ -691,5 +691,14 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireCloudEngineers(){
+        $data['title']= "Hire Remote Cloud Engineers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire Remote Cloud Engineers for Your Project. Find Experienced Professionals Ready to Drive Your Cloud Initiatives Remotely.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-cloud-engineers";
+        return view('services.hire-cloud-engineers',compact('data'));
+      
+    }
+
 
 }

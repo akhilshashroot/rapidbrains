@@ -113,6 +113,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-pandas-developers">Pandas Developer</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-confluence-developers">Confluence Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-data-scientists">Data Scientists</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-cloud-engineers">Cloud Engineers</a></li>
 
           
 

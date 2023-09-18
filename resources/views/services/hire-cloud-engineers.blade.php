@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Data Scientists in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Enhance Your Systems with Confidence Using Data Pipelines Designed by Our Skilled Data Scientists</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=data_scientist " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Cloud Engineers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Optimize Your Cloud Infrastructure with Confidence by Leveraging the Expertise of Our Remote Cloud Engineers</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Cloud Engineer" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,19 +175,19 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" alt="rapidbrains-Pandas Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" alt="rapidbrains-cloud_engineers Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Data Scientists from RapidBrains ? </h3>
-        <p>Exploit the Full Potential of Our Committed Data Science Team. Increase efficiency and confidently propel your projects to new heights. Our data scientists use their deep expertise and hands-on experience to methodically create strong data pipelines, simplify workflows, and ensure flawless data transformations customized to your unique needs.
+        <h3 class="display-2 mb-7">Why hire remote Cloud Engineers from RapidBrains?</h3>
+        <p>Make the Best Use of Our Dedicated Remote Cloud Engineers. With Confidence, Increase efficiency, and Propel Your Projects to New Heights. Our Cloud Engineers apply their extensive knowledge and hands-on experience to methodically construct powerful cloud solutions, streamline operations, and ensure flawless cloud integrations tailored to your specific needs.
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
               <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
-            </div> 
+            </div>
             <!--/.card-header -->
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div class="card-body">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Data Scientists.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Cloud Engineers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=data_scientist" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Data Scientists <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Cloud Engineer" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Cloud Engineers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,22 +364,22 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Data Scientists</h3>
-        <p class="mb-7">Shining a Light on Crucial Skills for Data Science Excellence. Discover the Qualities of Outstanding Data Scientists to Cultivate Innovation and Effortless Data Transformation.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Cloud Engineers.</h3>
+        <p class="mb-7">Spotlighting Key Proficiencies for Remote Cloud Engineering Excellence. Explore the Traits of Exceptional Cloud Engineers to Foster Innovation and Seamless Cloud Solutions.</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Analytical Skills</h3>
+              <h3 class="fs-21 mb-2">Cloud Platform Proficiency</h3>
               <p class="mb-0">
-                Data scientists should have a solid foundation in mathematics, statistics, and the ability to analyze complex data sets to extract meaningful insights.
-              </p>
+                Ensure they have expertise in the specific cloud platforms your organization uses, such as AWS, Azure, Google Cloud, or others.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -388,13 +388,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="tools" />
-          
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="tools"/>
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Manipulation</h3>
-              <p class="mb-0">
-                Skills in data cleaning, transformation, and preprocessing are vital. Familiarity with tools like Pandas and NumPy is often required.
+              <h3 class="fs-21 mb-2">Infrastructure as Code (IaC)</h3>
+              <p class="mb-0"> 
+                Look for experience with IaC tools like Terraform or AWS CloudFormation to automate and manage cloud infrastructure.
               </p>
             </div>
           </div>
@@ -404,12 +403,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/web.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="web" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Machine Learning Expertise</h3>
+              <h3 class="fs-21 mb-2">Networking Knowledge</h3>
               <p class="mb-0">
-                A deep understanding of machine learning algorithms, their implementation, and the ability to select and fine-tune models for specific tasks.
+                Assess their understanding of cloud networking concepts, including VPCs, subnets, load balancers, and security groups.
               </p>
             </div>
           </div>
@@ -419,12 +418,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="shield" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Visualization</h3>
+              <h3 class="fs-21 mb-2">Security Expertise</h3>
               <p class="mb-0">
-                Proficiency in data visualization tools like Matplotlib, Seaborn, or Tableau to communicate findings effectively.
+                Ensure they have a strong grasp of cloud security best practices, including identity and access management, encryption, and compliance.
               </p>
             </div>
           </div>
@@ -435,12 +434,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Big Data Technologies</h3>
+              <h3 class="fs-21 mb-2">Containerization and Orchestration</h3>
               <p class="mb-0">
-                Depending on your data infrastructure, experience with big data technologies like Hadoop, Spark, or NoSQL databases can be valuable.
+                If relevant, check for familiarity with containerization platforms like Docker and container orchestration tools like Kubernetes.
               </p>
             </div>
           </div>
@@ -450,12 +449,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/expand.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="expand" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Ethical Awareness</h3>
+              <h3 class="fs-21 mb-2">Serverless Computing</h3>
               <p class="mb-0">
-                An understanding of ethical considerations in data collection, usage, and decision-making, especially when handling sensitive data.
+                If your projects involve serverless architecture, verify their experience with serverless computing services like AWS Lambda or Azure Functions.
               </p>
             </div>
           </div>
@@ -475,13 +474,13 @@
 
 <!--Section Starts-->
 
-<section class="wrapper bg-soft-yellow">
+     <section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -490,14 +489,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    What is RapidBrains, and how does it work for clients seeking developers?
+                    What services does RapidBrains offer in terms of hiring cloud engineers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">
-                      RapidBrains is a talent acquisition and development platform that connects clients with highly skilled developers who have undergone rigorous training and certification. Clients can find developers suitable for their projects through the platform.
+                     <p class="fs-14"0>
+                      RapidBrains specializes in providing skilled and experienced cloud engineers for a wide range of cloud-related tasks. Whether you need assistance with cloud architecture, migration, security, or ongoing management, we have a pool of talented engineers ready to meet your specific needs.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -508,14 +507,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    How does RapidBrains source and select data scientists for clients?
-                   </button>
+                    How does RapidBrains source and vet cloud engineers?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains employs a rigorous vetting process for data scientists. We assess their qualifications, industry experience, and project-specific skills to ensure they meet your requirements.
+                      We employ a rigorous selection process to ensure that the cloud engineers we recommend to clients are highly qualified. Our process includes comprehensive technical assessments, interviews, and reference checks. We only recommend engineers with the skills and experience necessary to excel in their roles.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -526,14 +525,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    How flexible are the engagement models and pricing options when hiring data scientists through RapidBrains?
-                   </button>
+                    What level of experience do your cloud engineers typically have?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      We offer flexible engagement models to fit your project's unique needs, whether it's a short-term project or a long-term partnership. Pricing is competitive and adaptable to your budget.
+                      Our cloud engineers range from junior to senior levels, with varying years of experience. You can choose the level of experience that aligns with your project's complexity and requirements. We ensure that even junior engineers have the necessary skills and training to deliver value.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -544,15 +543,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    What if I encounter any issues with the data scientist's performance during the project?
-                    </button>
+                    Do the cloud engineers work remotely or on-site?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains values client satisfaction. If issues arise, we will work diligently to resolve them. If necessary, we can assist in finding a suitable replacement data scientist to ensure the project's success.
-                    </p>
+                      At RapidBrains, we offer flexible options. Depending on your project's requirements and your preferences, you can hire cloud engineers who work remotely or on-site at your location. We aim to accommodate your needs for remote collaboration or on-site support.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
