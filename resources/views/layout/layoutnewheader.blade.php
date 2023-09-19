@@ -37,7 +37,7 @@
   
 } */
 .rgt{
-  --bs-dropdown-min-width: 11rem  !important;
+  --bs-dropdown-min-width: 14rem  !important;
 }
 }
 
@@ -240,10 +240,7 @@
       <!--Header Starts  -->
       <!--Header Starts  -->
 
-      @include('header4
-      
-      
-      ')
+      @include('header_sample')
 
    @yield('section')
 

@@ -290,7 +290,7 @@ figure img {
           <div>
             <h4>What are the employer's costs?</h4>
             <p class="mb-0">Employer's cost varies from country to country including government requirements, benefits, taxes, government fees, provident fund, mandatory medical insurance etc which depends on salary and changes every year. Apart from that, RapidBrains take care of all employee cost including employee wage, payroll processing, severance payouts and legal fees
-</p>
+            </p>
                 
             </div>
         </div>
@@ -304,6 +304,68 @@ figure img {
           <div>
             <h4>What is Employer of Record (EOR)?</h4>
             <p class="mb-0">An Employer of Record (EOR) is a third-party company that hires and pays employees on behalf of another company and takes responsibility for all legal and formal employment processes. This way the companies can hire talents without having to set up a local entity or risk violating local employment laws. RapidBrains provide services way beyond EOR and handle the recruitment process, screenings, interviews, training and onboarding.
+</p>
+                  </div>
+        </div>
+      </div>
+      <!-- /column -->
+
+      <div class="col-lg-6">
+        <div class="d-flex flex-row">
+          <div>
+            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+          </div>
+          <div>
+            <h4>What's the process for finding an ideal talent for our team?</h4>
+            <p class="mb-0">Below are the steps we implement to ensure a seamless selection and onboarding process:
+
+              <br>1. Requirement Gathering: Understand the specific job requirements by thoroughly reviewing and comprehending the job description.
+              <br> 2. Tap the Talent Pool: Identify suitable candidates from our pool of pre-screened and background-verified resources.
+              <br> 3. Interview Scheduling: Prepare candidates for your interviews/tests and ensure their availability for the scheduled interviews.
+              <br>4. Negotiations: Engage in discussions with selected candidates regarding rates, working hours, and other specifics aligned with your requirements.
+              <br>5. Onboarding & Talent Management: Manage the entire lifecycle of resources, including upskilling, mentoring, and overseeing projects.
+              <br>6. Contract Preparation: Prepare employment contracts and Non-Disclosure Agreements (NDAs) in the best interests of your company.
+              <br>7. Timesheet Processing: Collect timesheets for efficient payroll processing and project tracking.
+              <br>8. Payroll Management: Enroll the candidates in our payroll system, handling salaries and other benefits.
+              <br>9. Tax Compliance: Ensure compliance with local tax and employment laws, including income tax, insurance, and social contributions.
+              <br>10. Contract Termination: Facilitate a smooth transition of resources upon project completion, handling necessary statutory declarations, conflicts, and renewals or terminations as needed.
+</p>
+                  </div>
+        </div>
+      </div>
+      <!-- /column -->
+
+     
+   
+       <div class="col-lg-6">
+        <div class="d-flex flex-row">
+          <div>
+            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+          </div>
+          <div>
+            <h4>How is our Intellectual Property secured?</h4>
+            <p class="mb-0">Security is a top priority for us. We take several measures to ensure the protection of your intellectual property (IP)
+              . We employ a multi-faceted approach to protect your sensitive data.
+              
+              <br>a) We've had the privilege of working with many Fortune 500 companies who provide restricted mode laptops for their remote developers, equipped with monitoring software for Security Threat Protection.
+              
+              <br>b) We strictly enforce Non-Disclosure Agreements (NDAs) with all our talents, and these NDAs and Contracts are legally bound by their home country as the jurisdiction. This ensures the Confidentiality, Non-Solicitation, and Non-Compete clauses are upheld, safeguarding your IP.
+              
+              <br>c) We maintain stringent background verification criteria. This minimizes the risk of any unauthorized sharing or misuse of your IP. For projects involving sensitive data, we rely on experienced talents with a track record of confidentiality with our previous projects
+</p>
+                  </div>
+        </div>
+      </div>
+      <!-- /column -->
+
+      <div class="col-lg-6">
+        <div class="d-flex flex-row">
+          <div>
+            <span class="icon btn btn-sm btn-circle btn-primary pe-none me-5"><i class="uil uil-comment-exclamation"></i></span>
+          </div>
+          <div>
+            <h4>Where are your developers located?</h4>
+            <p class="mb-0">Our pool of developers is spread across the globe, with a significant number of them based in India. This allows us to offer competitive and affordable rates with a wide range of skills and expertise without compromising on quality. Rest assured, we can help you find developers with the specific skills you require, no matter where they are located.
 </p>
                   </div>
         </div>
