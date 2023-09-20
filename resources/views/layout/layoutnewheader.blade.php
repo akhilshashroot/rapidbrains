@@ -240,7 +240,7 @@
       <!--Header Starts  -->
       <!--Header Starts  -->
 
-      @include('header_sample')
+      @include('header7')
 
    @yield('section')
 

@@ -700,5 +700,23 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hirePuppetDevelopers(){
+        $data['title']= " Hire Remote Puppet Developer in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hiring the best Puppet developers from RapidBrains who got expertise in IT automation, top-quality security, and flexible engagement models for your projects.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-puppet-developers";
+        return view('services.hire-puppet-developers',compact('data'));
+      
+    }
+
+    public function hireNumpyDevelopers(){
+        $data['title']= "Hire Remote NumPY Developer  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire outstanding remote NumPy developers. Work with competent people to accelerate your machine learning and data analysis projects.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-numpy-developer";
+        return view('services.hire-numpy-developers',compact('data'));
+      
+    }
+
 
 }
