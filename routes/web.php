@@ -136,6 +136,8 @@ Route::get('/hire-data-scientists',[AdditionalPagesController::class, 'hireDataS
 Route::get('/hire-cloud-engineers',[AdditionalPagesController::class, 'hireCloudEngineers'])->name('hire-cloud-engineers');
 Route::get('/hire-puppet-developers', [AdditionalPagesController::class, 'hirePuppetDevelopers'])->name('hire-puppet-developers');
 Route::get('/hire-numpy-developers',[AdditionalPagesController::class, 'hireNumpyDevelopers'])->name('hire-numpy-developers');
+Route::get('/hire-scikit-learn-developers',[AdditionalPagesController::class, 'hireScikitLearnDevelopers'])->name('hire-scikit-learn-developers');
+Route::get('/hire-lamp-developers',[AdditionalPagesController::class, 'hireLampDevelopers'])->name('hire-lamp-developers');
 
 
 

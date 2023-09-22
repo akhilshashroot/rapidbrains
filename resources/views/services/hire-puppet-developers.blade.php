@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Data Scientists in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Enhance Your Systems with Confidence Using Data Pipelines Designed by Our Skilled Data Scientists</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=data_scientist " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Puppet developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Gain confidence in your Puppet development abilities by using our skillfully designed modules and setups by our knowledgeable Puppet developers.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Puppet " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -180,9 +180,8 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Data Scientists from RapidBrains ? </h3>
-        <p>Exploit the Full Potential of Our Committed Data Science Team. Increase efficiency and confidently propel your projects to new heights. Our data scientists use their deep expertise and hands-on experience to methodically create strong data pipelines, simplify workflows, and ensure flawless data transformations customized to your unique needs.
-        </p>
+        <h3 class="display-2 mb-7">Why hire remote Puppet developers from RapidBrains ? </h3>
+        <p>Release All of Our Remote Puppet Developers' Potential. Improve Efficiency and Take Your Projects to the Next Level. To create solid configurations, enhance workflows, and guarantee flawless infrastructure management, our developers draw on their extensive knowledge and practical experience in Puppet development. </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -338,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Data Scientists.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Puppet developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=data_scientist" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Data Scientists <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Puppet" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Puppet developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,8 +363,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Data Scientists</h3>
-        <p class="mb-7">Shining a Light on Crucial Skills for Data Science Excellence. Discover the Qualities of Outstanding Data Scientists to Cultivate Innovation and Effortless Data Transformation.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Puppet developers</h3>
+        <p class="mb-7">For your IT projects, hiring remote Puppet developers can be a game-changer, but success may depend on your ability to prioritize the skills to look for.The abilities listed below not only enable them to be adept in Puppet but also to communicate effectively with other essential remote technologies, assuring the success of your projects.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -376,10 +375,10 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Analytical Skills</h3>
+              <h3 class="fs-21 mb-2">Puppet Expertise</h3>
               <p class="mb-0">
-                Data scientists should have a solid foundation in mathematics, statistics, and the ability to analyze complex data sets to extract meaningful insights.
-              </p>
+                Look for candidates with a strong understanding of Puppet, including manifest writing, module development, and infrastructure automation using Puppet.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -392,10 +391,10 @@
           
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Manipulation</h3>
+              <h3 class="fs-21 mb-2">Infrastructure as Code (IaC)</h3>
               <p class="mb-0">
-                Skills in data cleaning, transformation, and preprocessing are vital. Familiarity with tools like Pandas and NumPy is often required.
-              </p>
+                Ensure they have experience with IaC principles and tools, as Puppet is often used to implement IaC practices.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -404,12 +403,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Machine Learning Expertise</h3>
+              <h3 class="fs-21 mb-2">Scripting and Coding</h3>
               <p class="mb-0">
-                A deep understanding of machine learning algorithms, their implementation, and the ability to select and fine-tune models for specific tasks.
+                Proficiency in scripting languages like Ruby and a good grasp of coding best practices is vital for effective Puppet development.
               </p>
             </div>
           </div>
@@ -419,13 +418,13 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Visualization</h3>
+              <h3 class="fs-21 mb-2">System Administration</h3>
               <p class="mb-0">
-                Proficiency in data visualization tools like Matplotlib, Seaborn, or Tableau to communicate findings effectively.
-              </p>
+                Knowledge of Linux/Unix systems and server administration is crucial for configuring and managing infrastructure with Puppet.
+               </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -435,12 +434,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="server" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="rocket" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Big Data Technologies</h3>
+              <h3 class="fs-21 mb-2">Version Control</h3>
               <p class="mb-0">
-                Depending on your data infrastructure, experience with big data technologies like Hadoop, Spark, or NoSQL databases can be valuable.
+                Familiarity with version control systems such as Git to manage Puppet code efficiently.
               </p>
             </div>
           </div>
@@ -450,12 +449,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/expand.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="expand" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Ethical Awareness</h3>
+              <h3 class="fs-21 mb-2">Troubleshooting and Problem-Solving</h3>
               <p class="mb-0">
-                An understanding of ethical considerations in data collection, usage, and decision-making, especially when handling sensitive data.
+                Assess their ability to diagnose and resolve configuration issues and system problems, which is essential for maintaining a reliable Puppet environment.
               </p>
             </div>
           </div>
@@ -490,14 +489,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    What is RapidBrains, and how does it work for clients seeking developers?
+                    How do you ensure the quality of Puppet code and configurations developed by your team?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains is a talent acquisition and development platform that connects clients with highly skilled developers who have undergone rigorous training and certification. Clients can find developers suitable for their projects through the platform.
+                      We maintain rigorous code review processes and adhere to best practices to ensure high-quality Puppet code. Additionally, we conduct testing and validation to guarantee the reliability of configurations.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -508,14 +507,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    How does RapidBrains source and select data scientists for clients?
-                   </button>
+                    What measures do you have in place to address security concerns when managing infrastructure with Puppet?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains employs a rigorous vetting process for data scientists. We assess their qualifications, industry experience, and project-specific skills to ensure they meet your requirements.
+                      Security is a top priority for us. Our developers are well-versed in Puppet security best practices, and we implement measures to protect your infrastructure and data.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -526,14 +525,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    How flexible are the engagement models and pricing options when hiring data scientists through RapidBrains?
-                   </button>
+                    How do you handle documentation and knowledge transfer for Puppet configurations developed by your team?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      We offer flexible engagement models to fit your project's unique needs, whether it's a short-term project or a long-term partnership. Pricing is competitive and adaptable to your budget.
+                      We provide comprehensive documentation for all Puppet configurations and code developed. Knowledge transfer sessions can also be arranged to ensure your team can maintain and understand the infrastructure.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -544,14 +543,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    What if I encounter any issues with the data scientist's performance during the project?
-                    </button>
+                    What is the typical turnaround time for implementing Puppet solutions for clients?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains values client satisfaction. If issues arise, we will work diligently to resolve them. If necessary, we can assist in finding a suitable replacement data scientist to ensure the project's success.
+                      Turnaround times can vary based on project complexity and scope. We work closely with clients to establish realistic timelines and milestones to meet their specific needs.
                     </p>
                    </div>
                    <!-- /.card-body -->

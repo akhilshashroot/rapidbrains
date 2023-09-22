@@ -718,5 +718,23 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireScikitLearnDevelopers(){
+        $data['title']= "Hire Remote Scikit-learn developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Visit RapidBrains and find out about interesting opportunities for Scikit-Learn developers. Join our team to work on ground-breaking machine learning projects and influence the direction of data science.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-scikit-learn-developers";
+        return view('services.hire-scikit-learn-developers',compact('data'));
+      
+    }
+
+    public function hireLampDevelopers(){
+        $data['title']= "Hire Remote LAMP developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= " Explore Exciting Roles for LAMP Developers at RapidBrains and Contribute to Innovative Web Development Projects";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-lamp-developers";
+        return view('services.hire-lamp-developers',compact('data'));
+      
+    }
+
 
 }

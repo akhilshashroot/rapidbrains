@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote NumPY Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Hire outstanding remote NumPy Developers. Work with competent people to accelerate your machine learning and data analysis projects</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=NumPY" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Scikit-Learn Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Our skillfully designed tools and solutions, supported by our skilled team of Scikit-learn developers, Improve your Scikit-learn development skills.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Scikit-Learn " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,19 +175,18 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" alt="rapidbrains-cloud_engineers Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" alt="rapidbrains-Pandas Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote NumPY Developers from RapidBrains?</h3>
-        <p>Exploit the full power of your data with the help of our talented NumPy developers. Improve data processing, analysis, and machine learning capabilities by utilizing their in-depth experience. Improve your data-driven projects while remaining confident.
-        </p>
+        <h3 class="display-2 mb-7">Why hire remote Scikit-Learn Developers from RapidBrains ? </h3>
+        <p>Reveal All of Our Remote Scikit-learn Developers' Potential. Raise Productivity and Advance Your Projects. Our developers use their in-depth knowledge and practical Scikit-learn experience to create robust models, streamline processes, and ensure efficient data science infrastructure management. </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
               <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Cost-effective</button>
-            </div>
+            </div> 
             <!--/.card-header -->
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div class="card-body">
@@ -338,14 +337,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote NumPY Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Scikit-Learn Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=NumPY" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire NumPY Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Scikit-Learn" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Scikit-Learn Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,22 +363,23 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote NumPY Developers.</h3>
-        <p class="mb-7">Introducing Key Skills for NumPy Developers. Investigate the Knowledge and Qualities That Drive Data Excellence, Strengthening Your Data Science and Analysis Efforts.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Scikit-Learn Developers</h3>
+        <p class="mb-7">Adding remote Scikit-learn developers to your team can have a big influence on your data science projects. Prioritizing the core skills to seek for, however, is the key to success. The following skills enable them to succeed with Scikit-learn and create productive collaboration with other crucial technologies, ensuring the success of your projects.
+        </p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency in Python</h3>
+              <h3 class="fs-21 mb-2">Proficiency in Scikit-learn</h3>
               <p class="mb-0">
-                NumPy is a Python library, so a strong command of the Python programming language is fundamental.
-               </p>
+                Seek developers proficient in Scikit-learn for model implementation, data preprocessing, and effective performance evaluation.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -388,12 +388,13 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/menu.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="menu"/>
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="tools" />
+          
             </div>
             <div>
-              <h3 class="fs-21 mb-2">NumPy Expertise</h3>
-              <p class="mb-0"> 
-                Extensive knowledge of the NumPy library, including its functions, data structures, and best practices for data manipulation and numerical computing.
+              <h3 class="fs-21 mb-2">Python Expertise</h3>
+              <p class="mb-0">
+                Scikit-learn is a Python library, so a developer should be proficient in Python programming. Ensure they can write clean, efficient, and maintainable Python code.
               </p>
             </div>
           </div>
@@ -403,12 +404,12 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Analysis</h3>
+              <h3 class="fs-21 mb-2">Machine Learning Fundamentals</h3>
               <p class="mb-0">
-                Ability to work with large datasets, perform data cleaning, manipulation, and analysis using NumPy.
+                They must grasp machine learning fundamentals, select suitable algorithms, optimize hyperparameters, and tackle common ML challenges.
               </p>
             </div>
           </div>
@@ -418,12 +419,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Mathematical and Statistical Skills</h3>
+              <h3 class="fs-21 mb-2">Data Preprocessing</h3>
               <p class="mb-0">
-                Familiarity with machine learning frameworks and libraries such as scikit-learn that often complement NumPy for building machine learning models.
+                Proficient developers should adeptly prepare data for machine learning, addressing missing data, encoding categories, and scaling features.
               </p>
             </div>
           </div>
@@ -434,13 +435,13 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="rocket" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Machine Learning</h3>
+              <h3 class="fs-21 mb-2">Model Evaluation</h3>
               <p class="mb-0">
-                Familiarity with machine learning frameworks and libraries such as scikit-learn that often complement NumPy for building machine learning models.
-               </p>
+                Evaluate a developer's ability to assess the performance of machine learning models through metrics like accuracy, F1-score, and ROC curves.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -449,12 +450,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Data Visualization</h3>
               <p class="mb-0">
-                Proficiency in data visualization libraries like Matplotlib or Seaborn is required to present data effectively.
+                Proficiency in data visualization libraries such as Matplotlib and Seaborn is valuable for conveying insights from data and model results effectively.
               </p>
             </div>
           </div>
@@ -474,13 +475,13 @@
 
 <!--Section Starts-->
 
-     <section class="wrapper bg-soft-yellow">
+<section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
              <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience.</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -489,14 +490,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    What is RapidBrains, and how can it help me find NumPy developers for my project?
+                    How can I be sure that your remote Scikit-learn developers will be a good fit for my project?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14"0>
-                      RapidBrains is a platform that connects clients with highly skilled NumPy developers. We streamline the hiring process, making it easier for you to find the right developer for your project.
+                     <p class="fs-14">
+                      We carefully match our developers' skills and experience with your project's requirements. You'll have the opportunity to interview and assess potential team members to ensure a perfect fit.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -507,14 +508,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    Can I interview and assess candidates before making a selection?
+                    What are the engagement models you offer for hiring remote Scikit-learn developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, we facilitate interviews and assessments to ensure you find the best fit for your project. You can discuss specific requirements and assess a developer's skills before making a decision.
+                      We offer flexible engagement models tailored to your project needs. You can choose from full-time, part-time, or project-based arrangements to suit your requirements and budget.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -525,15 +526,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    What types of projects are NumPy developers suitable for?
+                    How do you ensure the security and confidentiality of my data and project details when working with remote developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      NumPy developers excel in data analysis, scientific computing, and machine learning projects. They can also contribute to tasks involving numerical computations and data manipulation.
-                     </p>
+                      We take data security seriously. Our team follows strict security protocols, including secure communication channels and data access controls, to protect your sensitive information.
+                      </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -543,14 +544,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    Can I request a team of NumPy developers for a larger project?
+                    Can your Scikit-learn developers work in different time zones to accommodate our project schedule?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, you can assemble a team of NumPy developers with complementary skills if your project demands it. We can help you build a tailored team.
+                      Absolutely! We have developers available in different time zones to ensure seamless collaboration and progress on your project, regardless of your location.
                     </p>
                    </div>
                    <!-- /.card-body -->

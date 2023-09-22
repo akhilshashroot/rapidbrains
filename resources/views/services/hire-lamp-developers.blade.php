@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote NumPY Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Hire outstanding remote NumPy Developers. Work with competent people to accelerate your machine learning and data analysis projects</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=NumPY" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote LAMP developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Your LAMP Stack Development Proficiency is Elevated by Our Expertly Crafted Tools and Solutions, Supported by Our Skilled Team of LAMP Developers.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=LAMP" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -180,8 +180,8 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote NumPY Developers from RapidBrains?</h3>
-        <p>Exploit the full power of your data with the help of our talented NumPy developers. Improve data processing, analysis, and machine learning capabilities by utilizing their in-depth experience. Improve your data-driven projects while remaining confident.
+        <h3 class="display-2 mb-7">Why hire remote LAMP developers from RapidBrains?</h3>
+        <p>Learn about the prospects of our remote LAMP developers. Increase productivity to make your initiatives more successful. Our programmers use their extensive understanding and real-world experience with the LAMP stack to build robust apps, rework procedures, and ensure the effective maintenance of web infrastructure.
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote NumPY Developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote LAMP developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=NumPY" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire NumPY Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=LAMP" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire LAMP developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,8 +364,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote NumPY Developers.</h3>
-        <p class="mb-7">Introducing Key Skills for NumPy Developers. Investigate the Knowledge and Qualities That Drive Data Excellence, Strengthening Your Data Science and Analysis Efforts.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote LAMP developers.</h3>
+        <p class="mb-7">Incorporating remote LAMP developers into your team can significantly impact your web development projects. However, the key to success lies in prioritizing essential skills. The following competencies empower them to excel with the LAMP stack and foster effective collaboration with other pivotal technologies, ultimately ensuring the success of your projects.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -376,10 +376,10 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency in Python</h3>
+              <h3 class="fs-21 mb-2">LAMP Stack Proficiency</h3>
               <p class="mb-0">
-                NumPy is a Python library, so a strong command of the Python programming language is fundamental.
-               </p>
+                A strong command of Linux, Apache, MySQL, and PHP, which are the core technologies in the LAMP stack.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -388,12 +388,12 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/menu.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="menu"/>
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="browser"/>
             </div>
             <div>
-              <h3 class="fs-21 mb-2">NumPy Expertise</h3>
+              <h3 class="fs-21 mb-2">Web Development</h3>
               <p class="mb-0"> 
-                Extensive knowledge of the NumPy library, including its functions, data structures, and best practices for data manipulation and numerical computing.
+                Skills in web development technologies such as HTML, CSS, JavaScript, and front-end frameworks for building interactive web applications
               </p>
             </div>
           </div>
@@ -406,9 +406,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Analysis</h3>
+              <h3 class="fs-21 mb-2">Database Management</h3>
               <p class="mb-0">
-                Ability to work with large datasets, perform data cleaning, manipulation, and analysis using NumPy.
+                Expertise in designing, optimizing, and managing databases using MySQL or other relational database systems.
               </p>
             </div>
           </div>
@@ -418,12 +418,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Mathematical and Statistical Skills</h3>
+              <h3 class="fs-21 mb-2">Server Configuration</h3>
               <p class="mb-0">
-                Familiarity with machine learning frameworks and libraries such as scikit-learn that often complement NumPy for building machine learning models.
+                The ability to configure, secure, and maintain web servers running on the Linux operating system
               </p>
             </div>
           </div>
@@ -437,10 +437,10 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Machine Learning</h3>
+              <h3 class="fs-21 mb-2">Coding and Scripting</h3>
               <p class="mb-0">
-                Familiarity with machine learning frameworks and libraries such as scikit-learn that often complement NumPy for building machine learning models.
-               </p>
+                Proficiency in PHP for server-side scripting and automating tasks within web applications
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -449,12 +449,12 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="shield" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Data Visualization</h3>
+              <h3 class="fs-21 mb-2">Security Awareness</h3>
               <p class="mb-0">
-                Proficiency in data visualization libraries like Matplotlib or Seaborn is required to present data effectively.
+                Knowledge of web security best practices to protect applications from vulnerabilities and cyber threats
               </p>
             </div>
           </div>
@@ -489,14 +489,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    What is RapidBrains, and how can it help me find NumPy developers for my project?
+                    How do you ensure the quality of work delivered by your remote LAMP developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14"0>
-                      RapidBrains is a platform that connects clients with highly skilled NumPy developers. We streamline the hiring process, making it easier for you to find the right developer for your project.
+                      We maintain a rigorous selection process and provide ongoing support and monitoring to ensure that our developers consistently meet high-quality standards. We also encourage regular communication and collaboration.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -507,14 +507,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    Can I interview and assess candidates before making a selection?
+                    What is RapidBrains, and how do you connect clients with remote LAMP developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, we facilitate interviews and assessments to ensure you find the best fit for your project. You can discuss specific requirements and assess a developer's skills before making a decision.
+                      RapidBrains is a platform that specializes in connecting clients with skilled remote LAMP developers. We have a pool of experienced developers ready to work on your projects.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -525,15 +525,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    What types of projects are NumPy developers suitable for?
+                    What sets your LAMP developers apart from others in the market?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">
-                      NumPy developers excel in data analysis, scientific computing, and machine learning projects. They can also contribute to tasks involving numerical computations and data manipulation.
-                     </p>
+                    <p class="fs-14">
+                      Our LAMP developers are carefully vetted and have a proven track record of working with the LAMP stack. They bring expertise, experience, and a commitment to delivering high-quality results.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -543,14 +543,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    Can I request a team of NumPy developers for a larger project?
+                    Are your remote LAMP developers available for short-term and long-term projects?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, you can assemble a team of NumPy developers with complementary skills if your project demands it. We can help you build a tailored team.
+                      Yes, our developers are available for both short-term and long-term engagements, depending on your project requirements.
                     </p>
                    </div>
                    <!-- /.card-body -->
