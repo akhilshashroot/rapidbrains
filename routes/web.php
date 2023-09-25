@@ -138,6 +138,7 @@ Route::get('/hire-puppet-developers', [AdditionalPagesController::class, 'hirePu
 Route::get('/hire-numpy-developers',[AdditionalPagesController::class, 'hireNumpyDevelopers'])->name('hire-numpy-developers');
 Route::get('/hire-scikit-learn-developers',[AdditionalPagesController::class, 'hireScikitLearnDevelopers'])->name('hire-scikit-learn-developers');
 Route::get('/hire-lamp-developers',[AdditionalPagesController::class, 'hireLampDevelopers'])->name('hire-lamp-developers');
+Route::get('/hire-mevm-stack-developers',[AdditionalPagesController::class, 'hireMevmStackDevelopers'])->name('hire-mevm-stack-developers');
 
 
 

@@ -736,5 +736,16 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireMevmStackDevelopers(){
+        $data['title']= "Hire Remote MEVN Stack developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Explore Exciting MEVN Stack Developer Opportunities at RapidBrains and Lead Innovative Web Projects to Success";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-mevn-stack-developers";
+        return view('services.hire-mevm-stack-developers',compact('data'));
+      
+    }
+
+    
+
 
 }

@@ -134,6 +134,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-numpy-developer">NumPY Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-scikit-learn-developers">Scikit-learn Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-lamp-developers">LAMP Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-mevn-stack-developers">MEVN Stack Developers</a></li>
                          
                       
                       
