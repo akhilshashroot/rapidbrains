@@ -139,6 +139,7 @@ Route::get('/hire-numpy-developers',[AdditionalPagesController::class, 'hireNump
 Route::get('/hire-scikit-learn-developers',[AdditionalPagesController::class, 'hireScikitLearnDevelopers'])->name('hire-scikit-learn-developers');
 Route::get('/hire-lamp-developers',[AdditionalPagesController::class, 'hireLampDevelopers'])->name('hire-lamp-developers');
 Route::get('/hire-mevm-stack-developers',[AdditionalPagesController::class, 'hireMevmStackDevelopers'])->name('hire-mevm-stack-developers');
+Route::get('/hire-quantum-computing-developers',[AdditionalPagesController::class, 'hireQuantumComputingDevelopers'])->name('hire-quantum-computing-developers');
 
 
 

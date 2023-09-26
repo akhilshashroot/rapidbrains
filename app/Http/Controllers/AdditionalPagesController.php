@@ -745,6 +745,14 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireQuantumComputingDevelopers(){
+        $data['title']= "Hire Remote Quantum Computing Developers  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Access Top Remote Quantum Computing Developers for Your Innovation Needs at RapidBrains";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-quantum-computing-developers";
+        return view('services.hire-quantum-computing-developers',compact('data'));
+      
+    }
     
 
 
