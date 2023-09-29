@@ -115,6 +115,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-lamp-developers')}}">LAMP Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-mevm-stack-developers')}}">MEVN Stack developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-quantum-computing-developers')}}">Quantum Computing developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-serverless-developers')}}">Serverless developer</a></li>
                             
 
                            

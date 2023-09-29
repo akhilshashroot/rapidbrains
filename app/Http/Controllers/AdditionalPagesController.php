@@ -754,6 +754,16 @@ class AdditionalPagesController extends Controller
       
     }
     
+    public function hireServerlessDevelopers(){
+        $data['title']= "Hire Remote Serverless Developers  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Are you in search of remote serverless developers? Rapidbrains can help you find the best developers in 24 hours.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-serverless-developers";
+        return view('services.hire-serverless-developers',compact('data'));
+      
+    }
+    
+
 
 
 }
