@@ -141,6 +141,7 @@ Route::get('/hire-lamp-developers',[AdditionalPagesController::class, 'hireLampD
 Route::get('/hire-mevm-stack-developers',[AdditionalPagesController::class, 'hireMevmStackDevelopers'])->name('hire-mevm-stack-developers');
 Route::get('/hire-quantum-computing-developers',[AdditionalPagesController::class, 'hireQuantumComputingDevelopers'])->name('hire-quantum-computing-developers');
 Route::get('/hire-serverless-developers',[AdditionalPagesController::class, 'hireServerlessDevelopers'])->name('hire-serverless-developers');
+Route::get('/hire-scrum-master-developers',[AdditionalPagesController::class, 'hireScrumMasterDevelopers'])->name('hire-scrum-master-developers');
 
 
 

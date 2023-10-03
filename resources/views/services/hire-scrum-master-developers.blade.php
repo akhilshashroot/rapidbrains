@@ -79,7 +79,7 @@
        padding-left: 0.1rem !important;
    }
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -94,7 +94,7 @@
    @media (min-width: 720px){
 
    #sect-bg{
-     background-image:  url(https://www.rapidbrains.com/assets/img/photos/rapidbrains-cover.webp);
+     background-image:  url(https://www.rapidbrains.com/assets/img/common/rapidbrains-cover3.webp);
 
    }
    #sect-bg1{
@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote DevOps Engineers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Our top-notch DevOps Engineers can help you improve the quality of your app development because they are adept at coming up with original ideas.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote  Scrum Master developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Hunting for Best Remote Scrum Master Developers? Exploit the Expertise of Our Committed Team for Your Projects                </p>
+                 <a href="https://talents.rapidbrains.com/filter?skill= Scrum Master" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,14 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-devops.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-devops.webp" alt="DevOps Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" alt="rapidbrains-cloud_engineers Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote DevOps Engineers from RapidBrains?</h3>
-        <p>Unleash the expertise of our remote DevOps experts to turn your ideas into profitable companies. Utilize their wealth of experience to increase output and streamline processes. Trust our experienced staff to work smoothly with your current employees, ensuring extraordinary achievements and impressive results.</p>
+        <h3 class="display-2 mb-7">Why hire remote  Scrum Master developers from RapidBrains?</h3>
+        <p>Explore Our Remote Scrum Master Developers' Expertise to Enhance the Success of Your Agile Initiatives. Our developers use their in-depth expertise and practical Scrum experience to drive innovation, restructure workflows, and provide exceptional Scrum solutions.
+        </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
             <div class="card-header" id="headingOne">
@@ -337,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled DevOps Engineers</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Scrum Master developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=devops" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire DevOps Engineers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill= Scrum Master" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire  Scrum Master developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -363,20 +364,22 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote DevOps Engineers</h3>
-        <p class="mb-7">Your Roadmap to Essential Skills for Remote DevOps Developer Opportunities. Explore the Expertise that Distinguishes Exceptional Remote DevOps Engineers, Accelerating Project Success.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Scrum Master developers.</h3>
+        <p class="mb-7">Master Key Skills and Unlock the Potential of Scrum Master Expertise. Explore the Abilities that Distinguish Outstanding Scrum Masters and Pave the Path to Project Excellence          .</p>
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="Browser" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Software Development Experience</h3>
-              <p class="mb-0">Strong software dev understanding & effective collaboration for streamlined development.</p>
+              <h3 class="fs-21 mb-2">Scrum Methodology Expertise</h3>
+              <p class="mb-0">
+                Look for candidates with a deep understanding of Scrum principles, practices, and frameworks.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -385,12 +388,13 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="Tools" />
-              
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="list"/>
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Familiarity with Automation Tools</h3>
-              <p class="mb-0">Automation tools for efficient software delivery. Expertise in build, test, and deployment pipelines.</p>
+              <h3 class="fs-21 mb-2">Effective Communication</h3>
+              <p class="mb-0"> 
+                Scrum masters need strong communication skills to facilitate collaboration among team members and stakeholders, especially in a remote setting.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -399,11 +403,13 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="Implementation" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2"> Implementation Management</h3>
-              <p class="mb-0">Proficiency in config management for automated provisioning and scalable infrastructure.</p>
+              <h3 class="fs-21 mb-2">Problem-Solving Abilities</h3>
+              <p class="mb-0">
+                Assess their ability to identify and address issues within the team and the project, ensuring a smooth workflow.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -412,11 +418,13 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src=" https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="cloud-computing" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cloud Computing and Infrastructure as Code</h3>
-              <p class="mb-0">Cloud platform experience & Infrastructure as Code proficiency for resource provisioning and management.</p>
+              <h3 class="fs-21 mb-2">Adaptability and Flexibility</h3>
+              <p class="mb-0">
+                Remote work environments often change rapidly; Scrum Masters should be adaptable and capable of adjusting to evolving circumstances.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -426,11 +434,13 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/minimize.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="minimize" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Containerization and Orchestration</h3>
-              <p class="mb-0">Docker and Kubernetes expertise for containerization, deployment, and scaling automation.</p>
+              <h3 class="fs-21 mb-2">Conflict Resolution</h3>
+              <p class="mb-0">
+                Evaluate their proficiency in managing conflicts and promoting a positive team dynamic, even when team members are dispersed.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -439,11 +449,13 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/computer.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="computer" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="referesh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Monitoring and Logging</h3>
-              <p class="mb-0">Monitoring proficiency for proactive issue identification and resolution. Effective setup of monitoring and logging.</p>
+              <h3 class="fs-21 mb-2">Continuous Improvement</h3>
+              <p class="mb-0">
+                Seek candidates who are committed to continuous learning and improvement, as this is integral to the Scrum philosophy.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -462,13 +474,13 @@
 
 <!--Section Starts-->
 
-<section class="wrapper bg-soft-yellow">
+     <section class="wrapper bg-soft-yellow">
        <div class="container py-14 py-md-16">
          <div class="row gx-lg-8 gx-xl-12 gy-10">
            <div class="col-lg-6 mb-0">
              <h2 class="fs-15 text-uppercase text-primary mb-3">FAQ</h2>
-             <h3 class="display-3 mb-4">Get the answers you need,<br> fast and easy..</h3>
-             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, <br>covering a range of topics and expertly crafted for your convenience</p>
+             <h3 class="display-3 mb-4">Get the answers you need, fast and easy..</h3>
+             <p class="lead mb-6">Save time and find solutions with our comprehensive FAQs, covering a range of topics and expertly crafted for your convenience</p>
              <!--<a href="#" class="btn btn-primary rounded-pill">All FAQ</a>-->
            </div>
            <!--/column -->
@@ -476,12 +488,16 @@
              <div id="accordion-3" class="accordion-wrapper">
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">What is Rapid Brains, and how can they help with hiring remote DevOps engineers?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
+                    can I customize the skill set I'm looking for in a remote Scrum Master developer?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Rapid Brains is an online platform that connects businesses with skilled professionals in various fields, including DevOps engineering. By leveraging their network of experienced remote DevOps engineers, Rapid Brains can help your organization find the right candidate to meet your specific needs, streamlining the hiring process and ensuring that you get access to top talent from around the world.</p>
+                     <p class="fs-14"0>
+                      Absolutely! We work closely with you to understand your specific project needs and tailor the skill set of Scrum Master developers accordingly.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -490,12 +506,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">What are the benefits of hiring a remote DevOps engineer through Rapid Brains?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
+                    How does the hiring process work when I want to bring a remote Scrum Master developer on board?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Hiring a remote DevOps engineer through Rapid Brains offers several benefits, including access to a global talent pool, cost savings due to reduced overhead expenses, and increased flexibility in terms of work hours and availability. Additionally, Rapid Brains can streamline the hiring process by pre-screening candidates and providing support throughout the onboarding process, saving you time and effort.</p>
+                     <p class="fs-14">
+                      Our process is streamlined. After you share your requirements, we present you with suitable candidates, arrange interviews for  selected developer.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -504,12 +524,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">How does Rapid Brains ensure the quality of remote DevOps engineers in their talent pool?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
+                    What is the communication and collaboration process like with remote Scrum Master developers?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">Rapid Brains ensures the quality of remote DevOps engineers by thoroughly vetting candidates through a rigorous selection process. This process may include evaluating their technical skills, work experience, and problem-solving abilities, as well as conducting interviews and background checks. By maintaining a high standard of quality for their talent pool, Rapid Brains ensures that you have access to top-tier DevOps engineers for your organization's needs.</p>
+                    <p class="fs-14">
+                      We facilitate effective communication through various channels, including video conferencing, project management tools, and regular progress updates.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -518,12 +542,16 @@
                <!-- /.card -->
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
-                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">Can Rapid Brains help with onboarding and training of the hired remote DevOps engineer?</button>
+                   <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
+                    What is the pricing structure for hiring remote Scrum Master developers from RapidBrains?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
-                     <p class="fs-14">While specific services may vary, Rapid Brains typically offers support throughout the onboarding and training process for remote DevOps engineers. This support may include assistance with setting up communication and collaboration tools, facilitating introductions to your team, and providing access to any necessary training resources. Rapid Brains aims to ensure a smooth transition for both the remote DevOps engineer and your organization.</p>
+                     <p class="fs-14">
+                      Our pricing is competitive and tailored to your specific needs. We offer flexible engagement models to fit your budget.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>

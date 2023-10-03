@@ -763,6 +763,15 @@ class AdditionalPagesController extends Controller
       
     }
     
+    public function hireScrumMasterDevelopers(){
+        $data['title']= "Hire Remote Scrum Master Developers  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Looking for Remote Scrum Master Developers? Hire Top Talent in 24 Hours with Rapidbrains.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-scrum-master-developers";
+        return view('services.hire-scrum-master-developers',compact('data'));
+      
+    }
+    
 
 
 
