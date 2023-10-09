@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Serverless developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Are you searching to Hire Remote Serverless Developers? Utilize the Experience of Our Dedicated Team for Your Projects.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=Serverless " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Power Platform Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Enhance Your Business with Our Top-tier Power Platform Developers.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Power Platform " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -175,13 +175,13 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-serverless.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-serverless.webp" alt="rapidbrains-Pandas Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" alt="rapidbrains-Pandas Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Serverless developers from RapidBrains ? </h3>
-        <p>Explore Our Remote Serverless Developers' Expertise. Elevate the Success of Your Serverless Projects Our developers use their extensive knowledge and hands-on experience in serverless computing to drive innovation, optimize algorithms, and provide solid serverless solutions.
+        <h3 class="display-2 mb-7">Why hire remote Power Platform Developers from RapidBrains ? </h3>
+        <p>Discover the brilliance of our remote Power Platform developers. Custom solutions, improved procedures, and data-driven insights can help you grow your organization. Explore the power of RapidBrains.
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Serverless developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Power Platform Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=Serverless" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Serverless developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Power Platform" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Power Platform Developers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,8 +364,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Serverless developers</h3>
-        <p class="mb-7">Excel in these Essential skills tap into the pPower of Serverless Development. Examine the Skills that set exceptional serverless developers apart and lead the way to project success.
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Power Platform Developers</h3>
+        <p class="mb-7">Excel in these crucial abilities to realize the full potential of Power Platform development. Investigate the characteristics that define excellent Power Platform developers and pave the way for project success.
         </p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
@@ -377,9 +377,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Serverless Computing Expertise</h3>
+              <h3 class="fs-21 mb-2">Microsoft Power Platform Proficiency</h3>
               <p class="mb-0">
-                Candidates should have a strong understanding of serverless architecture and how to design, deploy, and manage serverless applications using various platforms
+                Candidates should have a solid understanding of the Power Platform portfolio, which includes Power Apps, Power Automate, Power BI, and Power Virtual Agents, in order to design end-to-end solutions.
               </p>
             </div>
           </div>
@@ -393,9 +393,9 @@
           
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Programming Languages</h3>
+              <h3 class="fs-21 mb-2">Data Modeling and Integration</h3>
               <p class="mb-0">
-                Proficiency in programming languages commonly used in serverless development, such as JavaScript, Python, or TypeScript, is crucial.
+                A thorough understanding of data modeling, data integration, and data manipulation is required to create efficient applications and procedures that can link to multiple data sources effortlessly.
               </p>
             </div>
           </div>
@@ -408,9 +408,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">API Gateway</h3>
+              <h3 class="fs-21 mb-2">Problem-Solving and Creativity</h3>
               <p class="mb-0">
-                Knowledge of API gateway services like AWS API Gateway or Azure API Management to create and manage APIs for serverless functions
+                Strong problem-solving abilities are required to address difficult business challenges and devise new solutions using the Power Platform capabilities.
               </p>
             </div>
           </div>
@@ -420,12 +420,12 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/cloud-computing-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cloud Services</h3>
+              <h3 class="fs-21 mb-2"> Programming skill</h3>
               <p class="mb-0">
-                Familiarity with the cloud provider's ecosystem, including cloud storage, databases, authentication, and other relevant services, is important.
+                While not necessarily necessary, knowledge of programming languages such as JavaScript or Power Query can be useful for extending the capabilities of Power Platform applications.
               </p>
             </div>
           </div>
@@ -436,12 +436,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/shield.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Event-Driven Architecture</h3>
+              <h3 class="fs-21 mb-2">Security and compliance</h3>
               <p class="mb-0">
-                Ability to design and implement event-driven architectures using services like AWS EventBridge or Azure Event Grid.
+                To secure sensitive data and maintain regulatory compliance, Remote Power Platform developers should be well-versed in installing security measures and following to compliance requirements.
               </p>
             </div>
           </div>
@@ -454,9 +454,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">CI/CD and Automation</h3>
+              <h3 class="fs-21 mb-2"> Adaptability</h3>
               <p class="mb-0">
-                Experience with setting up continuous integration and continuous deployment (CI/CD) pipelines to automate the deployment of serverless applications
+                Because technology is constantly improving, Power Platform developers must be versatile and prepared to learn new features and functionalities as they are introduced.
               </p>
             </div>
           </div>
@@ -491,14 +491,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    How do you ensure the quality of remote serverless developers at RapidBrains?
+                    What exactly is the Microsoft Power Platform, and how can it help my company?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      We follow a rigorous selection process that includes technical assessments, coding challenges, and interviews to identify top talent. Our developers have a strong background in serverless development and are continuously updated on the latest industry trends.
+                      The Microsoft Power Platform is a complete set of low-code/no-code technologies that enable businesses to create unique business applications, automate processes, and do in-depth data analysis. It can greatly benefit your organization by increasing productivity, streamlining workflows, and making data-driven decision-making more accessible.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -509,14 +509,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    Can I interview and choose specific developers for my project?
+                    Why should I contemplate hiring remote Power Platform developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, you have the opportunity to interview and select developers based on your project requirements. We believe in transparent communication and collaboration, ensuring that you're comfortable with the team working on your project.
+                      Using remote Power Platform developers has various advantages, including lower costs, access to a worldwide talent pool, and increased flexibility. This method enables you to access into specialized expertise, cut overhead costs, and quickly grow your initiatives as needed. Furthermore, remote developers can collaborate across time zones, increasing project efficiency and assuring smooth collaboration.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -527,14 +527,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    How do you handle security and confidentiality for remote serverless development projects?
+                    Is it possible to collaborate effectively between remote Power Platform engineers and our in-house team?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      We take data security and confidentiality seriously. Our developers adhere to strict security protocols, and we can sign non-disclosure agreements (NDAs) to protect your intellectual property and sensitive information.
+                      Indeed, by utilizing various online communication and collaboration methods, remote Power Platform developers can efficiently collaborate with your in-house team. Regular updates, video conferencing, and the usage of project management software can assist in bridging any geographical divide and facilitating smooth teamwork.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -545,14 +545,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    What types of pricing models are available for hiring remote serverless developers from RapidBrains? 
+                    What is the standard method for hiring and onboarding remote Power Platform developers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      We offer various pricing models, including hourly rates, fixed-price contracts, and dedicated team arrangements. Our goal is to provide flexibility and transparency in pricing to meet your budget and project requirements.
+                      Posting job postings, holding interviews to assess individuals' abilities and experience, and selecting the best fit for your team are typical steps. Remote developers can be onboarded smoothly after being hired by providing online orientation sessions, access to project material, and maintaining open lines of contact.
                     </p>
                    </div>
                    <!-- /.card-body -->

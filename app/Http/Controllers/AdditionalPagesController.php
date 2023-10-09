@@ -771,6 +771,15 @@ class AdditionalPagesController extends Controller
         return view('services.hire-scrum-master-developers',compact('data'));
       
     }
+
+    public function hirePowerPlatformDevelopers(){
+        $data['title']= "Hire Remote Power Platform Developers | Expert Business Solutions";
+		$data['keywords']= "";
+		$data['description']= "Looking for the best remote Power Platform developers? RapidBrains can match you with top talent within 24 hours.";
+        $data['canonical']= "https://www.rapidbrains.com/remote-power-platform-developers";
+        return view('services.hire-power-platform-developers',compact('data'));
+      
+    }
     
 
 

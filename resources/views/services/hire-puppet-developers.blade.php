@@ -175,7 +175,7 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-pandas.webp" alt="rapidbrains-Pandas Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-puppet.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-puppet.webp" alt="rapidbrains-Pandas Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">

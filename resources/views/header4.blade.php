@@ -119,6 +119,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-quantum-computing-developers')}}">Quantum Computing developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-serverless-developers')}}">Serverless developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-scrum-master-developers')}}">Scrum Master developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-power-platform-developers')}}">Power Platform developer</a></li>
                             
 
                            

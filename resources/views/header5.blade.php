@@ -122,6 +122,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-quantum-computing-developers">Quantum Computing Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-serverless-developers">Serverless Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-scrum-master-developers">Scrum Master Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/remote-power-platform-developers">Power Platform Developers</a></li>
                          
           
 
