@@ -145,8 +145,8 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Data Scientists in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Enhance Your Systems with Confidence Using Data Pipelines Designed by Our Skilled Data Scientists</p>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Data Engineers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Enhance Your Systems with Confidence Using Data Pipelines Designed by Our Skilled Data Engineers</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=data_scientist " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
@@ -180,8 +180,8 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Data Scientists from RapidBrains ? </h3>
-        <p>Exploit the Full Potential of Our Committed Data Science Team. Increase efficiency and confidently propel your projects to new heights. Our data scientists use their deep expertise and hands-on experience to methodically create strong data pipelines, simplify workflows, and ensure flawless data transformations customized to your unique needs.
+        <h3 class="display-2 mb-7">Why hire remote Data Engineers from RapidBrains ? </h3>
+        <p>Exploit the Full Potential of Our Committed Data Engineer Team. Increase efficiency and confidently propel your projects to new heights. Our Data Engineers use their deep expertise and hands-on experience to methodically create strong data pipelines, simplify workflows, and ensure flawless data transformations customized to your unique needs.
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Data Scientists.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Data Engineers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=data_scientist" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Data Scientists <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=data_scientist" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Data Engineers <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,8 +364,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Data Scientists</h3>
-        <p class="mb-7">Shining a Light on Crucial Skills for Data Science Excellence. Discover the Qualities of Outstanding Data Scientists to Cultivate Innovation and Effortless Data Transformation.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Data Engineers</h3>
+        <p class="mb-7">Shining a Light on Crucial Skills for Data Science Excellence. Discover the Qualities of Outstanding Data Engineers to Cultivate Innovation and Effortless Data Transformation.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -378,7 +378,7 @@
             <div>
               <h3 class="fs-21 mb-2">Strong Analytical Skills</h3>
               <p class="mb-0">
-                Data scientists should have a solid foundation in mathematics, statistics, and the ability to analyze complex data sets to extract meaningful insights.
+                Data Engineers should have a solid foundation in mathematics, statistics, and the ability to analyze complex data sets to extract meaningful insights.
               </p>
             </div>
           </div>
@@ -508,14 +508,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    How does RapidBrains source and select data scientists for clients?
+                    How does RapidBrains source and select Data Engineers for clients?
                    </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains employs a rigorous vetting process for data scientists. We assess their qualifications, industry experience, and project-specific skills to ensure they meet your requirements.
+                      RapidBrains employs a rigorous vetting process for Data Engineers. We assess their qualifications, industry experience, and project-specific skills to ensure they meet your requirements.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -526,7 +526,7 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    How flexible are the engagement models and pricing options when hiring data scientists through RapidBrains?
+                    How flexible are the engagement models and pricing options when hiring Data Engineers through RapidBrains?
                    </button>
                  </div>
                  <!-- /.card-header -->
@@ -544,14 +544,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    What if I encounter any issues with the data scientist's performance during the project?
+                    What if I encounter any issues with the data engineer's performance during the project?
                     </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      RapidBrains values client satisfaction. If issues arise, we will work diligently to resolve them. If necessary, we can assist in finding a suitable replacement data scientist to ensure the project's success.
+                      RapidBrains values client satisfaction. If issues arise, we will work diligently to resolve them. If necessary, we can assist in finding a suitable replacement data engineer to ensure the project's success.
                     </p>
                    </div>
                    <!-- /.card-body -->

@@ -682,12 +682,12 @@ class AdditionalPagesController extends Controller
     }
 
     
-    public function hireDataScientists(){
-        $data['title']= "Hire Remote Data Scientist in 24 hours from RapidBrains";
+    public function hireDataEngineers(){
+        $data['title']= "Hire Remote Data Engineers in 24 hours from RapidBrains";
 		$data['keywords']= "";
-		$data['description']= "Hire remote data scientists for your project. Discover skilled professionals ready to drive your data initiatives remotely.";
-        $data['canonical']= "https://www.rapidbrains.com/hire-remote-data-scientists";
-        return view('services.hire-data-scientists',compact('data'));
+		$data['description']= "Hire remote Data Engineers for your project. Discover skilled professionals ready to drive your data initiatives remotely.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-data-engineers";
+        return view('services.hire-data-engineers',compact('data'));
       
     }
 

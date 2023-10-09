@@ -112,7 +112,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-prometheus-developers">Prometheus Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-pandas-developers">Pandas Developer</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-confluence-developers">Confluence Developers</a></li>
-                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-data-scientists">Data Scientists</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-data-engineers">Data Engineers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-cloud-engineers">Cloud Engineers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-puppet-developers">Puppet Developer</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-numpy-developer">NumPY Developers</a></li>

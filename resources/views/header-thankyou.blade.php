@@ -104,7 +104,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-prometheus-developers')}}">Prometheus Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-pandas-developers')}}">Pandas Developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-confluence-developers')}}">Confluence Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-data-scientists')}}">Data Scientists</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-data-engineers')}}">Data Engineers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-cloud-engineers')}}">Cloud Engineers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-puppet-developers')}}">Puppet Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-numpy-developers')}}">NumPY Developers</a></li>
