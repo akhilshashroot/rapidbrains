@@ -118,6 +118,8 @@
                             <li><a class="dropdown-item" tite="Serverless Developer" href="{{route('hire-serverless-developers')}}">Serverless developer</a></li>
                             <li><a class="dropdown-item" tite="Scrum Master developer" href="{{route('hire-scrum-master-developers')}}">Scrum Master developer</a></li>
                             <li><a class="dropdown-item" tite="Power Platform developer" href="{{route('hire-power-platform-developers')}}">Power Platform developer</a></li>
+                            <li><a class="dropdown-item" tite="Jupyter developer" href="{{route('hire-remote-jupyter-developers')}}">Jupyter Developers</a></li>
+                            <li><a class="dropdown-item" tite="ServiceNow developer" href="{{route('hire-remote-servicenow-developers')}}">ServiceNow Developers</a></li>
                             
                            
                       

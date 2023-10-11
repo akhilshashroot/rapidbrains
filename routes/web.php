@@ -143,6 +143,8 @@ Route::get('/hire-quantum-computing-developers',[AdditionalPagesController::clas
 Route::get('/hire-serverless-developers',[AdditionalPagesController::class, 'hireServerlessDevelopers'])->name('hire-serverless-developers');
 Route::get('/hire-scrum-master-developers',[AdditionalPagesController::class, 'hireScrumMasterDevelopers'])->name('hire-scrum-master-developers');
 Route::get('/hire-power-platform-developers',[AdditionalPagesController::class, 'hirePowerPlatformDevelopers'])->name('hire-power-platform-developers');
+Route::get('/hire-remote-jupyter-developers',[AdditionalPagesController::class, 'hireJupyterDevelopers'])->name('hire-remote-jupyter-developers');
+Route::get('/hire-remote-servicenow-developers',[AdditionalPagesController::class, 'hireServiceNowDevelopers'])->name('hire-remote-servicenow-developers');
 
 
 

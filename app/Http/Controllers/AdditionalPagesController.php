@@ -780,6 +780,24 @@ class AdditionalPagesController extends Controller
         return view('services.hire-power-platform-developers',compact('data'));
       
     }
+
+    public function hireJupyterDevelopers(){
+        $data['title']= "Hire Remote Jupyter Developers in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Are you looking for talented remote Jupyter developers? RapidBrains can match you with professional developers in as little as 24 hours. Make use of Jupyter for your projects right away.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-jupyter-developers";
+        return view('services.hire-remote-jupyter-developers',compact('data'));
+      
+    }
+
+    public function hireServiceNowDevelopers(){
+        $data['title']= "Hire Remote ServiceNow developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "For effective IT service management, hire  remote ServiceNow developers now .";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-servicenow-developers";
+        return view('services.hire-remote-servicenow-developers',compact('data'));
+      
+    }
     
 
 

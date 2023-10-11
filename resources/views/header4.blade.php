@@ -115,11 +115,13 @@
                             <li><a class="dropdown-item" href="{{route('hire-numpy-developers')}}">NumPY Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-scikit-learn-developers')}}">Scikit-learn Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-lamp-developers')}}">LAMP Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-mevm-stack-developers')}}">MEVN Stack developer</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-quantum-computing-developers')}}">Quantum Computing developer</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-serverless-developers')}}">Serverless developer</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-scrum-master-developers')}}">Scrum Master developer</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-power-platform-developers')}}">Power Platform developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-mevm-stack-developers')}}">MEVN Stack Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-quantum-computing-developers')}}">Quantum Computing Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-serverless-developers')}}">Serverless Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-scrum-master-developers')}}">Scrum Master Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-power-platform-developers')}}">Power Platform Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-remote-jupyter-developers')}}">Jupyter Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-remote-servicenow-developers')}}">ServiceNow Developers</a></li>
                             
 
                            
