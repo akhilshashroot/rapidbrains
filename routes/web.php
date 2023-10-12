@@ -145,6 +145,7 @@ Route::get('/hire-scrum-master-developers',[AdditionalPagesController::class, 'h
 Route::get('/hire-power-platform-developers',[AdditionalPagesController::class, 'hirePowerPlatformDevelopers'])->name('hire-power-platform-developers');
 Route::get('/hire-remote-jupyter-developers',[AdditionalPagesController::class, 'hireJupyterDevelopers'])->name('hire-remote-jupyter-developers');
 Route::get('/hire-remote-servicenow-developers',[AdditionalPagesController::class, 'hireServiceNowDevelopers'])->name('hire-remote-servicenow-developers');
+Route::get('/hire-remote-atg-developers',[AdditionalPagesController::class, 'hireAtgDevelopers'])->name('hire-remote-atg-developers');
 
 
 

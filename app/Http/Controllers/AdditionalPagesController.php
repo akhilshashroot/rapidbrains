@@ -798,6 +798,15 @@ class AdditionalPagesController extends Controller
         return view('services.hire-remote-servicenow-developers',compact('data'));
       
     }
+
+    public function hireAtgDevelopers(){
+        $data['title']= "Hire Remote ATG  Developers  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Are you in search of remote ATG developers? Rapidbrains can help you find the best developers in 24 hours.";
+        $data['canonical']= "";
+        return view('services.hire-remote-atg-developers',compact('data'));
+      
+    }
     
 
 

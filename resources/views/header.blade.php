@@ -120,6 +120,7 @@
                             <li><a class="dropdown-item" tite="Power Platform developer" href="{{route('hire-power-platform-developers')}}">Power Platform developer</a></li>
                             <li><a class="dropdown-item" tite="Jupyter developer" href="{{route('hire-remote-jupyter-developers')}}">Jupyter Developers</a></li>
                             <li><a class="dropdown-item" tite="ServiceNow developer" href="{{route('hire-remote-servicenow-developers')}}">ServiceNow Developers</a></li>
+                            <li><a class="dropdown-item" tite="ATG developer" href="{{route('hire-remote-atg-developers')}}">ATG Developers</a></li>
                             
                            
                       
