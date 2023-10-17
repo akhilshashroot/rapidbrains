@@ -121,6 +121,8 @@
                             <li><a class="dropdown-item" href="{{route('hire-remote-jupyter-developers')}}">Jupyter Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-servicenow-developers')}}">ServiceNow Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-atg-developers')}}">ATG Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-remote-chatbot-developers')}}">Chatbot Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-remote-symfony-developers')}}">Symfony Developers</a></li>
                             
 
                            

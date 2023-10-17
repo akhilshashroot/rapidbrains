@@ -146,6 +146,8 @@ Route::get('/hire-power-platform-developers',[AdditionalPagesController::class, 
 Route::get('/hire-remote-jupyter-developers',[AdditionalPagesController::class, 'hireJupyterDevelopers'])->name('hire-remote-jupyter-developers');
 Route::get('/hire-remote-servicenow-developers',[AdditionalPagesController::class, 'hireServiceNowDevelopers'])->name('hire-remote-servicenow-developers');
 Route::get('/hire-remote-atg-developers',[AdditionalPagesController::class, 'hireAtgDevelopers'])->name('hire-remote-atg-developers');
+Route::get('/hire-remote-chatbot-developers',[AdditionalPagesController::class, 'hireChatbotDevelopers'])->name('hire-remote-chatbot-developers');
+Route::get('/hire-remote-symfony-developers',[AdditionalPagesController::class, 'hireSymfonyDevelopers'])->name('hire-remote-symfony-developers');
 
 
 

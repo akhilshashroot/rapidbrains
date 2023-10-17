@@ -803,8 +803,28 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote ATG  Developers  in 24 hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Are you in search of remote ATG developers? Rapidbrains can help you find the best developers in 24 hours.";
-        $data['canonical']= "";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-atg-developers";
         return view('services.hire-remote-atg-developers',compact('data'));
+      
+    }
+    
+    
+    public function hireSymfonyDevelopers(){
+        $data['title']= "Hire Remote Symfony  developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire Remote Symfony Developers and Lead Innovative Web Projects to Success with RapidBrains";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-symfony-developers";
+        return view('services.hire-remote-symfony-developers',compact('data'));
+      
+    }
+    
+    
+    public function hireChatbotDevelopers(){
+        $data['title']= "Chatbot Development Powered by AI | Your Conversational AI Partner";
+		$data['keywords']= "";
+		$data['description']= "With our AI chatbots, you can explore the future of consumer interactions. Create clever agents to increase efficiency and delight with us.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-Chatbot-developers";
+        return view('services.hire-remote-Chatbot-developers',compact('data'));
       
     }
     
