@@ -133,7 +133,7 @@
                 <li class="dropdown dropdown-submenu dropend"><a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">Artificial Intelligence </a>
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="{{route('hire-ai-developers')}}">AI Developers</a></li> 
-                    <li><a class="dropdown-item" href="{{route('hire-data-scientists')}}">Data Scientists</a></li>
+                    <li><a class="dropdown-item" href="{{route('hire-data-engineers')}}">Data Scientists</a></li>
                     <li><a class="dropdown-item" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
                     <li><a class="dropdown-item" href="{{route('hire-machine-learning-engineers')}}">ML Engineers</a></li> 
                     <li><a class="dropdown-item" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>

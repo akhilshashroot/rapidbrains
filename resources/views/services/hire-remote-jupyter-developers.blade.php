@@ -148,7 +148,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote  Jupyter Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">In just 24 hours, you may hire a remote Jupyter Developer! Our devoted team is ready to add expertise to your tasks.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill= Jupyter" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill= Jupyter" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Jupyter Developers with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -346,7 +346,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill= Jupyter" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire  Jupyter Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill= Jupyter" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Redis Developers with rates  <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>

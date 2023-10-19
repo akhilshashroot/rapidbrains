@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Shopify Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Hiring a skilled Shopify developer enables you to create a customized and thriving e-commerce platform that meets your business requirements.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Developers <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Shopify developers with rates<i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Shopify Developers <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=shopify" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Shopify developers with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
