@@ -146,7 +146,7 @@
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote ASP.NET Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Are you struggling to find skilled ASP.NET developers to join your team? Do you need reliable and experienced professionals who can work remotely and deliver top-notch results? Look no further! Our dedicated ASP.NET developers are here to provide the expertise you need to meet your project goals.</p>
+                 <p class="lead fs-18 mb-8">Are you struggling to find skilled ASP.NET developers to join your team?  Look no further! Our dedicated ASP.NET developers are here to provide the expertise you need to meet your project goals.</p>
                  <a href="https://talents.rapidbrains.com/filter?skill=asp-dot-net" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all ASP.NET Developers with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
