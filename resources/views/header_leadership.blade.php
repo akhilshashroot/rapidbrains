@@ -144,6 +144,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-atg-developers">Atg Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-symfony-developers">Symfony Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-Chatbot-developers">Chatbot Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-openai-developers">Open AI Developers</a></li>
                          
           
                       

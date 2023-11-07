@@ -827,6 +827,16 @@ class AdditionalPagesController extends Controller
         return view('services.hire-remote-Chatbot-developers',compact('data'));
       
     }
+
+    public function hireSOpenAiDevelopers(){
+        $data['title']= "Hire Remote Open AI Developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "RapidBrains can help you hire top OpenAI engineers in as little as 24 hours. Our skilled team can help you accelerate your AI projects.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-openai-developers";
+        return view('services.hire-remote-openai-developers',compact('data'));
+      
+    }
+
     
 
 
