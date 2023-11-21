@@ -25,143 +25,21 @@
               <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
             <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
-          
-          
-            <ul class="navbar-nav">
-            <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="true">All Jobs</a>
-                  <div class="dropdown-menu dropdown-lg" data-bs-popper="static">
-                    <div class="dropdown-lg-content">
-                      <div>
-                        <ul class="list-unstyled">
-                        <li >
-                <a class="dropdown-item"  href="{{route('jobList.index')}}">All Jobs</a>
+                <ul class="navbar-nav">
+                <a class="nav-link"  href="{{route('jobList.index')}}">All Jobs</a>
                     
                     </li>
-                    <li>
-                      <a class="dropdown-item" href="{{route('remote.index')}}">Remote Jobs</a>
+                    <li class="nav-item ">
+                      <a class="nav-link " href="{{route('remote.index')}}">Remote Jobs</a>
                       
                     </li>
-                    <li>
-                      <a class="dropdown-item"  href="{{route('onsite.index')}}">Onsite Jobs</a>
+                    <li class="nav-item ">
+                      <a class="nav-link"  href="{{route('onsite.index')}}">Onsite Jobs</a>
                       
                     </li>
                    
-                           </ul>
-                      </div>
-                      <!-- /.column -->
-                      <div>
-                       
-                      </div>
-                      <!-- /.column -->
-                    </div>
-                    <!-- /auto-column -->
-                  </div>
-                </li>
-                <li class="nav-item dropdown dropdown-mega">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hire Talents</a>
-                  <ul class="dropdown-menu mega-menu">
-                    <li class="mega-menu-content" style="margin-right: 30px;">
-                      <ul class="row row-cols-1 row-cols-lg-6 gx-0 gx-lg-6 gy-lg-1 list-unstyled">
-                      <li><a class="dropdown-item" href="{{route('hire-react-js-developers')}}">React.js Developers </a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-python-developers')}}">Python Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-angular-developers')}}">Angular Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-node-js-developers')}}">Node.js Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-devops-developers')}}">DevOps Engineers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-mern-stack-developers')}}">MERN Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-php-developers')}}">PHP Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-android-developers')}}">Android Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-ionic-developers')}}">Ionic Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-react-native-developers')}}"> React Native Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-shopify-developers')}}"> Shopify Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-remote-flutter-developers')}}"> Flutter Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-wordpress-developers')}}"> WordPress Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-kotlin-developers')}}">Kotlin Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-xamarin-developers')}}">Xamarin Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-mean-stack-developers')}}">MEAN Stack Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-ios-developers')}}">IOS Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-java-developers')}}">Java Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-magento-developers')}}">Magento Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-ui-ux-designers')}}">UX/UI Designers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-seo-specialists')}}">SEO Specialists</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-laravel-developers')}}">Laravel Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-aws-developers')}}">AWS Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-golang-developers')}}">Golang Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-django-developers')}}">Django Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-machine-learning-engineers')}}">ML Engineers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-asp-dot-net-developers')}}">ASP.NET Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-c-sharp-developers')}}">Csharp Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-react-node-developers')}}">React Node Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-back-end-developers')}}">Back End Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-front-end-developers')}}">Front End Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-mobile-developers')}}">Mobile Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-postgresql-developers')}}">Postgresql Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-full-stack-developers')}}">Full stack Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-javascript-developers')}}">Javascript Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-app-developers')}}">App Developers</a></li>
-
-                            <li><a class="dropdown-item" href="{{route('hire-blockchain-developers')}}">Blockchain Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-ruby-on-rails-developers')}}">Ruby on rails Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-drupal-developers')}}">Drupal Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-sap-developers')}}">SAP Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
-
-
-                      </ul>
-                      <!--/.row -->
-                    </li>
-                    <!--/.mega-menu-content-->
-                  </ul>
-                  <!--/.dropdown-menu -->
-                </li>
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Company</a>
-                    <ul class="dropdown-menu">
-                    <li class="nav-item"><a class="dropdown-item" href="{{route('about')}}" >About RapidBrains</a></li>
-                      <li class="nav-item"><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
-                      <li class="nav-item"><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
-
-                    </ul>
-                  </li>
-                  <li class="nav-item ">
-                    <a class="nav-link" href="{{route('customsearch.index')}}">Rate Card</a>
-                  </li> -->
-                  <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="true">About Company</a>
-                  <div class="dropdown-menu dropdown-lg" data-bs-popper="static">
-                    <div class="dropdown-lg-content">
-                      <div>
-                        <h6 class="dropdown-header"  style="padding-left: 25px;font-size: 0.65rem;color: #605dba;"> Who we are</h6>
-                        <ul class="list-unstyled">
-                          <li><a class="dropdown-item" href="{{route('about')}}">About Us</a></li>
-                          <li><a class="dropdown-item" href="{{route('ceoMessage')}}">CEO Message</a></li>
-                          <li><a class="dropdown-item" href="{{route('leaderShip')}}">Leadership</a></li>
-                          <li><a class="dropdown-item" href="{{route('globalFootprint')}}">Locations</a></li>
-                          <li><a class="dropdown-item" href="{{route('contact')}}">Contact</a></li>
-                          <!-- <li><a class="dropdown-item" href="https://articles.rapidbrains.com/">Articles </a></li> -->
-                        </ul>
-                      </div>
-                      <!-- /.column -->
-                      <div>
-                        <h6 class="dropdown-header"  style="padding-left: 25px;font-size: 0.65rem;color: #605dba;">How we work</h6>
-                        <ul class="list-unstyled">
-                          <li><a class="dropdown-item" href="{{route('process')}}">The Process</a></li>
-                          <li><a class="dropdown-item"  href="{{route('benefits')}}">Our Benefits</a></li>
-                          <li><a class="dropdown-item"  href="{{route('globalApproach')}}">Global Approach</a></li>
-                          <li><a class="dropdown-item"  href="{{route('capAbilities')}}">Capabilities</a></li>
-
-                          <li><a class="dropdown-item" href="https://jobs.rapidbrains.com/">Jobs at RapidBrains</a></li>
-                          <!-- <li><a class="dropdown-item" href="../../single-project4.html">Single Project IV</a></li> -->
-                        </ul>
-                      </div>
-                      <!-- /.column -->
-                    </div>
-                    <!-- /auto-column -->
-                  </div>
-                </li>
-                  <li class="nav-item ">
-                    <a class="nav-link" href="https://talents.rapidbrains.com/">Talent Cloud</a>
-                  </li>
+                    
+                
                 </ul>
                 <!-- /.navbar-nav -->
                 <div class="offcanvas-footer d-lg-none">

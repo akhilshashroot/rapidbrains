@@ -144,7 +144,9 @@ thead {
   td:nth-of-type(4):before {
     content: "Position";
   }
-
+  /* td:nth-of-type(5):before {
+    content: "Skills";
+  } */
   td:nth-of-type(5):before {
     content: "Location";
   }
@@ -221,16 +223,16 @@ thead {
   <table class="table table-hover" id="filterTable" style="width: 100%;" >
       <thead class="tdhcc">
         <tr style="text-align: left;">
-        <th scope="col" style="width: 15px;">#</th>
+        <th scope="col" style="width: 20px;">#</th>
           <th scope="col" style="width: 76px;" >Date</th>
-          <th scope="col" style="width: 51px;">Job ID</th>
-          <th style="width: 137px;"  >Position  </th>
-          <!-- <th scope="col" >Skills Required  </th> -->
+          <th scope="col" style="width: 80px;">Job ID</th>
+          <th style="width: 170px;"  >Position  </th>
+          <!-- <th scope="col" >Skills  </th> -->
           <!-- <th scope="col"  >Experience </th>
           <th scope="col" >Job Type </th> -->
-          <th scope="col" >Location  </th>
-          <th scope="col" >Salary  </th>
-          <th scope="col" >Type  </th>
+          <th scope="col"  >Location  </th>
+          <th scope="col" style="width: 150px;">Salary  </th>
+          <th scope="col" style="width: 64px;">Type  </th>
           <th scope="col" >Action </th>
      
         </tr>
@@ -266,7 +268,7 @@ thead {
       {{$dat['position']}}
      
        </td>
-
+  
          
           <td >{{$dat['location']}}
             
@@ -279,7 +281,7 @@ thead {
      
         <td >
      
-       <a class="btn btn-primary btn-sm checker" id="apply" style="color: #fff;" data-id="{{$dat['job_id']}}" href="/job?id={{$dat['job_id']}}">Apply Job</a>
+       <a class="btn btn-primary btn-sm checker" id="apply" style="color: #fff;" data-id="{{$dat['job_id']}}" href="/job?id={{$dat['job_id']}}">Apply</a>
       
 
        </td> 
