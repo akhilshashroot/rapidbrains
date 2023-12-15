@@ -113,17 +113,18 @@
                             <li><a class="dropdown-item" tite="NumPY Developer" href="{{route('hire-numpy-developers')}}">NumPY Developers</a></li>
                             <li><a class="dropdown-item" tite="Scikit-learn Developer" href="{{route('hire-scikit-learn-developers')}}">Scikit-learn Developers</a></li>
                             <li><a class="dropdown-item" tite="LAMP Developer" href="{{route('hire-lamp-developers')}}">LAMP Developers</a></li>
-                            <li><a class="dropdown-item" tite="MEVN Stack Developer" href="{{route('hire-mevm-stack-developers')}}">MEVN Stack developer</a></li>
-                            <li><a class="dropdown-item" tite="Quantum Computing Developer" href="{{route('hire-quantum-computing-developers')}}">Quantum Computing developer</a></li>
-                            <li><a class="dropdown-item" tite="Serverless Developer" href="{{route('hire-serverless-developers')}}">Serverless developer</a></li>
-                            <li><a class="dropdown-item" tite="Scrum Master developer" href="{{route('hire-scrum-master-developers')}}">Scrum Master developer</a></li>
-                            <li><a class="dropdown-item" tite="Power Platform developer" href="{{route('hire-power-platform-developers')}}">Power Platform developer</a></li>
-                            <li><a class="dropdown-item" tite="Jupyter developer" href="{{route('hire-remote-jupyter-developers')}}">Jupyter Developers</a></li>
-                            <li><a class="dropdown-item" tite="ServiceNow developer" href="{{route('hire-remote-servicenow-developers')}}">ServiceNow Developers</a></li>
-                            <li><a class="dropdown-item" tite="ATG developer" href="{{route('hire-remote-atg-developers')}}">ATG Developers</a></li>
-                            <li><a class="dropdown-item" tite="Chatbot developer" href="{{route('hire-remote-chatbot-developers')}}">Chatbot Developers</a></li>
-                            <li><a class="dropdown-item" tite="Symfony developer" href="{{route('hire-remote-symfony-developers')}}">Symfony Developers</a></li>
-                            <li><a class="dropdown-item" tite="Open AI developer" href="{{route('hire-remote-openai-developers')}}">Open AI Developers</a></li>
+                            <li><a class="dropdown-item" tite="MEVN Stack Developer" href="{{route('hire-mevm-stack-developers')}}">MEVN Stack Developer</a></li>
+                            <li><a class="dropdown-item" tite="Quantum Computing Developer" href="{{route('hire-quantum-computing-developers')}}">Quantum Computing Developer</a></li>
+                            <li><a class="dropdown-item" tite="Serverless Developer" href="{{route('hire-serverless-developers')}}">Serverless Developer</a></li>
+                            <li><a class="dropdown-item" tite="Scrum Master Developer" href="{{route('hire-scrum-master-developers')}}">Scrum Master Developer</a></li>
+                            <li><a class="dropdown-item" tite="Power Platform Developer" href="{{route('hire-power-platform-developers')}}">Power Platform Developer</a></li>
+                            <li><a class="dropdown-item" tite="Jupyter Developer" href="{{route('hire-remote-jupyter-developers')}}">Jupyter Developer</a></li>
+                            <li><a class="dropdown-item" tite="ServiceNow Developer" href="{{route('hire-remote-servicenow-developers')}}">ServiceNow Developers</a></li>
+                            <li><a class="dropdown-item" tite="ATG Developer" href="{{route('hire-remote-atg-developers')}}">ATG Developers</a></li>
+                            <li><a class="dropdown-item" tite="Chatbot Developer" href="{{route('hire-remote-chatbot-developers')}}">Chatbot Developers</a></li>
+                            <li><a class="dropdown-item" tite="Symfony Developer" href="{{route('hire-remote-symfony-developers')}}">Symfony Developers</a></li>
+                            <li><a class="dropdown-item" tite="Open AI Developer" href="{{route('hire-remote-openai-developers')}}">Open AI Developers</a></li>
+                            <li><a class="dropdown-item" tite="Azure AI Engineers" href="{{route('hire-remote-azure-ai-engineers')}}">Azure AI Engineers</a></li>
                             
                            
                       

@@ -828,12 +828,21 @@ class AdditionalPagesController extends Controller
       
     }
 
-    public function hireSOpenAiDevelopers(){
+    public function hireOpenAiDevelopers(){
         $data['title']= "Hire Remote Open AI Developers in 24 hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "RapidBrains can help you hire top OpenAI engineers in as little as 24 hours. Our skilled team can help you accelerate your AI projects.";
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-openai-developers";
         return view('services.hire-remote-openai-developers',compact('data'));
+      
+    }
+
+    public function hireAzureAiEngineers(){
+        $data['title']= "Hire Remote Azure AI Engineer  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Looking to hire remote Azure AI Engineers ? Rapidbrains can find the best engineers for you within 24 hours";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-azure-ai-engineers";
+        return view('services.hire-remote-azure-ai-developers',compact('data'));
       
     }
 

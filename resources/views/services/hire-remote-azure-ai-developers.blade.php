@@ -145,9 +145,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Symfony  developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Exploit the knowledge of our remote Symfony developers to confidently optimize your Symfony development.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=Symfony " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Symfony Developers with rates <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Azure AI Engineers Remotely in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Take advantage of the skilled Azure AI Engineers to improve your apps. Our committed team is ready to take your ideas to new heights.</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=azure ai " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Azure AI Engineers with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -180,8 +180,8 @@
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote Symfony developers from RapidBrains ? </h3>
-        <p>Develop Our dedicated Remote Symfony Developers to Their Full Potential. Increase your productivity and take your Symfony projects to new heights with assurance. Our Symfony Developers methodically build sturdy Symfony solutions, optimize operations, and ensure flawless Symfony integrations tailored to your specific requirements using their in-depth knowledge and practical expertise.
+        <h3 class="display-2 mb-7">Why hire remote Azure AI Engineers from RapidBrains ? </h3>
+        <p>Exploit the wisdom of our specialized Azure AI experts at RapidBrains for greater productivity and accelerate your projects forward. Our engineers can design remarkable responses, simple user interfaces, and dynamic components by building on their expertise in Azure AI development. We guarantee exceptional outcomes for your projects because they have many years of expertise and hands-on experience with Azure AI.
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
@@ -338,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Symfony  developers.</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Azure AI Engineers .</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=Symfony" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Symfony Developers with rates  <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=azure ai" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Azure AI Engineers with rates  <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -364,8 +364,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Symfony  developers</h3>
-        <p class="mb-7">Highlighting key competencies for excellence in remote Symfony development Master to Develop Effortless Symfony Solutions by Observing the Qualities of Outstanding Symfony Developers
+        <h3 class="display-3 mb-5"> Must-Have Skills to Look for When Hiring Remote Azure AI Engineers</h3>
+        <p class="mb-7">Crucial Skills for Azure AI Excellence. Explore the most important skills that identify excellent Azure AI engineers, promote innovation, and enable effective artificial intelligence solutions and their operation.
         </p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
@@ -377,10 +377,10 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Symfony Proficiency</h3>
+              <h3 class="fs-21 mb-2">Azure AI Services Proficiency</h3>
               <p class="mb-0">
-                A strong grasp of the Symfony framework, including its components, best practices, and the ability to develop and maintain Symfony-based applications
-              </p>
+              This skill involves a deep understanding and hands-on experience with various Azure AI services, including but not limited to Azure Machine Learning for model training and deployment, Azure Cognitive Services for tasks like vision and language recognition, and Azure Bot Service for building intelligent bots.
+            </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -389,14 +389,14 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="list" />
+            <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="list" />
           
             </div>
             <div>
-              <h3 class="fs-21 mb-2">PHP</h3>
+              <h3 class="fs-21 mb-2">Machine Learning and Data Science Skills</h3>
               <p class="mb-0">
-                Strong knowledge of PHP, as Symfony is written in PHP, and the ability to write clean and efficient PHP code.
-              </p>
+              Azure AI engineers should possess a robust foundation in machine learning, encompassing the ability to design and implement machine learning algorithms. Data science skills, such as data preprocessing, feature engineering, and statistical analysis, are crucial for extracting meaningful insights from data.
+            </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -405,13 +405,13 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" /> 
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" /> 
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Database Management</h3>
+              <h3 class="fs-21 mb-2">Programming Languages</h3>
               <p class="mb-0">
-                Knowledge of working with databases, including SQL, and familiarity with Doctrine for object-relational mapping in Symfony
-              </p>
+              Proficiency in programming languages like Python and R is essential. These languages are widely used in the Azure AI ecosystem for developing machine learning models, data manipulation, and integrating AI solutions into applications.
+            </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -420,13 +420,13 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="settings" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Front-End Development</h3>
+              <h3 class="fs-21 mb-2">Deep Learning Frameworks</h3>
               <p class="mb-0">
-                Understanding of front-end technologies such as HTML, CSS, and JavaScript to integrate them effectively with Symfony applications
-              </p>
+              A solid grasp of deep learning frameworks such as TensorFlow or PyTorch is crucial for engineers working on complex AI projects. These frameworks enable the development of sophisticated neural networks and deep learning models.
+            </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -439,10 +439,10 @@
             <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Security Practices</h3>
+              <h3 class="fs-21 mb-2">Natural Language Processing (NLP)</h3>
               <p class="mb-0">
-                Awareness of security best practices and the ability to implement measures to protect Symfony applications against common web vulnerabilities
-              </p>
+              NLP skills are vital for engineers working on applications that involve understanding and processing human language. This includes tasks such as sentiment analysis, language translation, and chatbot development. Proficiency in NLP frameworks and libraries enhances an engineer's ability to create intelligent, language-aware applications.
+            </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -451,13 +451,13 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/rocket.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Version Control</h3>
+              <h3 class="fs-21 mb-2">Cloud Computing Skills</h3>
               <p class="mb-0">
-                Competence in version control systems, like Git, for efficient code management and collaboration in software development projects
-              </p>
+              Given the prevalence of cloud computing in modern AI development, Azure AI engineers should be well-versed in cloud concepts. This includes understanding how to deploy and manage AI solutions in the Azure cloud, utilizing services like Azure Kubernetes Service (AKS) for containerized deployments, and optimizing resources for scalability and efficiency.
+            </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -491,14 +491,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                    Can I hire Symfony developers remotely from RapidBrains? 
+                   How quickly can I hire remote Azure AI engineers through RapidBrains?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Yes, you can hire Symfony developers who work remotely. We provide talented Symfony developers who can join your team, whether on-site or working from a remote location.
+                     RapidBrains is designed for speed and efficiency. In many cases, you can find and hire suitable Azure AI engineers within a short timeframe, typically within a 24 hours
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -509,14 +509,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                    What is the experience level of your Symfony developers?
+                   Can I interview and assess candidates before making a decision?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Our Symfony developers have a range of experience levels, from junior to senior developers. You can choose developers based on your project's requirements and complexity.
+                     Yes, RapidBrains facilitates the interview and assessment process. You can conduct interviews with shortlisted candidates to ensure they meet your specific project requirements.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -527,14 +527,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    How do you ensure the quality of code and adherence to best practices in Symfony development?
+                   What kind of support does RapidBrains provide during the hiring process?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      Our Symfony developers follow industry best practices and conduct code reviews to ensure the highest quality. We also use testing and debugging techniques to maintain code integrity.
+                     RapidBrains offers support at every stage of the hiring process. From candidate selection to onboarding, you'll receive assistance to ensure a smooth and successful integration of Azure AI engineers into your project.
                     </p>
                    </div>
                    <!-- /.card-body -->
@@ -545,14 +545,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                    What is the process for hiring Symfony developers from RapidBrains?
+                   How does RapidBrains ensure the quality of remote Azure AI engineers?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                      The process typically involves discussing your project needs, selecting developers with the required skills, and finalizing the terms of the engagement. We make the hiring process as smooth as possible.
+                     RapidBrains follows a rigorous selection process, screening candidates for their technical skills, experience, and ability to work remotely. This ensures that you get access to high-quality Azure AI engineers.
                     </p>
                    </div>
                    <!-- /.card-body -->
