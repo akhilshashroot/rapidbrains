@@ -178,12 +178,12 @@ Route::get('/talent-enquiry', [HomeController::class, 'enquiryPage'])->name('enq
 
 ///job .rapidbrains com
 
-// Route::get('/jobs', [App\Http\Controllers\AllJobController::class, 'jobList'])->name('jobList.index');
-// Route::get('/job',[App\Http\Controllers\JobViewController::class, 'index'])->name('career.job');
-// Route::post('/job-apply',[App\Http\Controllers\JobViewController::class, 'applyJob'])->name('apply.job');
-// Route::get('/apply-job',[App\Http\Controllers\JobViewController::class, 'applyJobPage'])->name('apply.index');
+Route::get('/jobs', [App\Http\Controllers\AllJobController::class, 'jobList'])->name('jobList.index');
+Route::get('/job',[App\Http\Controllers\JobViewController::class, 'index'])->name('career.job');
+Route::post('/job-apply',[App\Http\Controllers\JobViewController::class, 'applyJob'])->name('apply.job');
+Route::get('/apply-job',[App\Http\Controllers\JobViewController::class, 'applyJobPage'])->name('apply.index');
 
 // Route::get('/all-jobs',[App\Http\Controllers\AllJobController::class, 'jobList'])->name('jobList.index');
-// Route::get('/onsite-jobs',[App\Http\Controllers\OnsiteSearchController::class, 'index'])->name('onsite.index');
-// Route::get('/remote-jobs',[App\Http\Controllers\RemoteSearchController::class, 'index'])->name('remote.index');
-// Route::post('mail-talent', [App\Http\Controllers\MailController::class, 'MailFunction'])->name('talent.mail');
+Route::get('/onsite-jobs',[App\Http\Controllers\OnsiteSearchController::class, 'index'])->name('onsite.index');
+Route::get('/remote-jobs',[App\Http\Controllers\RemoteSearchController::class, 'index'])->name('remote.index');
+Route::post('mail-talent', [App\Http\Controllers\MailController::class, 'MailFunction'])->name('talent.mail');

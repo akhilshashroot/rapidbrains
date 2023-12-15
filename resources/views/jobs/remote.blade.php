@@ -145,7 +145,7 @@ thead {
     content: "Position";
   }
   /* td:nth-of-type(5):before {
-    content: "Skills Required";
+    content: "Skills";
   } */
   td:nth-of-type(5):before {
     content: "Location";
@@ -224,7 +224,7 @@ thead {
           <th scope="col" >Date</th>
           <th scope="col" >Job ID</th>
           <th scope="col" >Position  </th>
-          <!-- <th scope="col" >Skills Required  </th> -->
+          <!-- <th scope="col" >Skills  </th> -->
           <!-- <th scope="col"  >Experience </th>
           <th scope="col" >Job Type </th> -->
           <th scope="col" >Location  </th>

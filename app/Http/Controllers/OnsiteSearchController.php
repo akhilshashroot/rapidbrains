@@ -45,8 +45,8 @@ class OnsiteSearchController extends Controller
             'permanent_jobs.experience','permanent_jobs.skill','permanent_jobs.jobType',
             'permanent_jobs.location','permanent_jobs.salary','permanent_jobs.feature','permanent_jobs.priority',
             DB::raw('DATE_FORMAT(permanent_jobs.created_at, "%d-%m-%Y") as date'))
-            ->where('permanent_jobs.is_deleted',0)->where('permanent_jobs.site','Onsite')
-           ->where('permanent_jobs.status',1)->orderby('permanent_jobs.updated_at','desc')->orderby($col,$dec);
+            ->where('permanent_jobs.site','Onsite')
+            ->where('permanent_jobs.status',1)->where('permanent_jobs.is_view',1)->where('permanent_jobs.is_deleted',0)->orderby('permanent_jobs.updated_at','desc')->orderby($col,$dec);
             return Datatables::of($data)
                     ->addIndexColumn()
                     
@@ -129,7 +129,7 @@ class OnsiteSearchController extends Controller
                     
                       
                       
-                        $btn = '<a  class="btn btn-primary btn-sm checker" id="apply" style="color: #fff;" data-id='.$row['jobid'].'   href='.env('APP_URL').'/job?id='.$row['jobid'].'>Apply Job</a>';
+                        $btn = '<a  class="btn btn-primary btn-sm checker" id="apply" style="color: #fff;" data-id='.$row['jobid'].'   href='.env('APP_URL').'/job?id='.$row['jobid'].'>Apply</a>';
                         //   $btn='<input type="checkbox" class="checkbox-change" data-id='.$row['employee_id'].' id="buttonID" onchange="valueChanged()" name="enquiry" value='.$row['employee_id'].'>';
                          return $btn;
 

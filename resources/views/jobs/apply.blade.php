@@ -283,6 +283,39 @@ input[type=file]::file-selector-button {
   <!-- /.content-wrapper -->
             <!--Hashroot Ends-->
             
+
+            <section class="wrapper bg-light" style="margin-top:100px;">
+    
+    <div class="container py-20 py-md-20" style="adding-top: 10rem !important;
+      padding-bottom: 1rem !important;">
+        
+      
+       <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}" style="background-image: url(&quot;http://127.0.0.1:8000/assets/img/photos/RapidBrains-footerbg.webp&quot;);">
+          <div class="card-body">
+            <div class="row text-center">
+              <div class="col-xl-11 col-xxl-9 mx-auto">
+                <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
+                <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
+  
+              </div>
+              <!--/column -->
+            </div>
+            <!-- /.row -->
+            <div class="d-flex justify-content-center">
+              <span><a class="btn btn-white rounded csk" id="callbackreq">Request a call back</a></span>
+            </div>
+          </div>
+          <!--/.card-body -->
+        </div>
+        <!--/.card -->
+               
+                          
+              
+               
+      
+    </div>
+    </section>
+
             @include('footer')
 
 
@@ -294,7 +327,6 @@ input[type=file]::file-selector-button {
 <!---- Enquire now popup start-->
 
 
-
 <div class="modal fade" id="enquirenow" role="dialog">
   <div class="modal-dialog modal-dialog-centered modal-sm">
                      <div class="modal-content text-center">
@@ -304,6 +336,7 @@ input[type=file]::file-selector-button {
                          <p class=" text-muted">Please provide the following details and we will get back to you</p>
                     
                          <form method="post" id="enquirenowForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
+                            @csrf
                <input type="hidden" id="type" name="enquirenow" value="enquirenow">
             
                <div class="row">
@@ -316,7 +349,7 @@ input[type=file]::file-selector-button {
                        </div>
                      </div>
                     
-                     <div class="col-md-12">
+                     <div class="col-md-12" id="emaildiv">
                        <div class="form-floating">
                        <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
                          <label for="email" class="form-label">Your Email *</label>
@@ -324,11 +357,11 @@ input[type=file]::file-selector-button {
                      </div>
                      <div class="col-md-12">
                        <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" >
+                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" required>
                          <label for="phone" class="form-label">Your Phone No.</label>
                        </div>
                      </div>
-                     <div class="col-md-12">
+                     <div class="col-md-12" id="skilldiv">
                       <div class="form-floating">
                         <textarea id="skill" name="skill" class="form-control" placeholder="Skillset Required" style="height: 100px"  spellcheck="false"></textarea>
                         <label for="skill" class="form-label">Skills Required *</label>
@@ -338,7 +371,8 @@ input[type=file]::file-selector-button {
                    </div>
                  </div>
                </div>
-            
+
+
  
               <div class="btn-container mx-auto pt-5">
                 <button class="btn btn-primary d-block w-100" id="submit" type="submit">Enquire Now</button>
@@ -367,69 +401,6 @@ input[type=file]::file-selector-button {
 
 
 
-<div class="modal fade" id="gettouch" role="dialog">
-  <div class="modal-dialog modal-dialog-centered modal-sm">
-                     <div class="modal-content text-center">
-                       <div class="modal-body">
-                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                         <h2 class="mb-3 text-start"></h2>
-                         <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
-                         <form method="post" id="gettouchForm" class="text-start mb-3" novalidate="novalidate"  enctype="multipart/form-data">
-               <input type="hidden" id="type" name="enquirenow" value="gettouch">
-            
-               <div class="row">
-                 <div class="col-xl-12">
-                   <div class="row gy-3 gx-3">
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control"  id="name" name="name"  placeholder="Name *" required="">
-                         <label for="name" class="form-label">Your Name *</label>
-                       </div>
-                     </div>
-                    
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control" id="email" name="email" placeholder="Email *" required="">
-                         <label for="email" class="form-label">Your Email *</label>
-                       </div>
-                     </div>
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone" >
-                         <label for="phone" class="form-label">Your Phone No.</label>
-                       </div>
-                     </div>
-                     <div class="col-md-12">
-                      <div class="form-floating">
-                        <textarea id="skill" name="skill" class="form-control" placeholder="Skillset Required" style="height: 100px"  spellcheck="false"></textarea>
-                        <label for="skill" class="form-label">Skills Required *</label>
-
-                      </div>
-                    </div>
-                   </div>
-                 </div>
-               </div>
-            
- 
-              <div class="btn-container mx-auto pt-5">
-                <button class="btn btn-primary d-block w-100" id="submit" type="submit">Get in Touch</button>
- 
-                  </div>
- 
-                                     
-                                 </div></form>
-                         <!--/.social -->
-                       </div>
-                       <!--/.modal-content -->
-                     </div>
-                     <!--/.modal-body -->
-                   </div>
-  
-  
-  
-            </div>
-  
 
 
 
@@ -438,60 +409,6 @@ input[type=file]::file-selector-button {
 
 <!---- Request a call back  popup start-->
 
-
-
-<div class="modal fade" id="callback" role="dialog">
-  <div class="modal-dialog modal-dialog-centered modal-sm">
-                     <div class="modal-content text-center">
-                       <div class="modal-body">
-                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                         <h2 class="mb-3 text-start"></h2>
-                         <p class=" text-muted">Please provide the following details and we will get back to you</p>
-                    
-                         <form method="post" id="callbackForm" class="text-start mb-3" novalidate="novalidate" action="#" enctype="multipart/form-data">
-               <input type="hidden" id="type" name="enquirenow" value="callback">
-            
-               <div class="row">
-                 <div class="col-xl-12">
-                   <div class="row gy-3 gx-3">
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control"  id="name" name="name"  placeholder="Name *" required="">
-                         <label for="name" class="form-label">Your Name *</label>
-                       </div>
-                     </div>
-                    
-                     <div class="col-md-12">
-                       <div class="form-floating">
-                       <input type="text" class="form-control" id="phone" name="phone" placeholder="Your Phone Nmber *" required="">
-                         <label for="email" class="form-label">Your Phone No. *</label>
-                       </div>
-                     </div>
-                    
-                    
-                   </div>
-                 </div>
-               </div>
-            
- 
-              <div class="btn-container mx-auto pt-5">
-                <button class="btn btn-primary d-block w-100" >Request a call back</button>
- 
-                  </div>
- 
-                                     
-                                 </div></form>
-                         <!--/.social -->
-                       </div>
-                       <!--/.modal-content -->
-                     </div>
-                     <!--/.modal-body -->
-                   </div>
-  
-  
-  
-            </div>
-  
 
 
 
@@ -526,6 +443,18 @@ input[type=file]::file-selector-button {
 
 
 <script>
+
+  
+$(document).on('click','#callbackreq',function(e) {
+    
+    $('#enquirenow').modal('show');
+    $('#type').val('callback');
+    $('#submit').html('Request a call back');
+    $('#emaildiv').hide();
+    $('#skilldiv').hide();
+});
+
+
     const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const job_id = urlParams.get('id')
@@ -609,7 +538,163 @@ processData: false,
             });
         });
 </script>
+<script>
+    $("#enquirenowForm").validate({
+ rules: {
+ name: {
+ required: true,
+ maxlength: 50
+ },
+ email: {
+ required: true,
+ maxlength: 50,
+ email: true,
+ },  
+   
+ },
+ messages: {
+ name: {
+ required: "Please enter name",
+ maxlength: "Your name maxlength should be 50 characters long."
+ },
+ email: {
+ required: "Please enter valid email",
+ email: "Please enter valid email",
+ maxlength: "The email name should less than or equal to 50 characters",
+ },
+ },
+ success: function (label, element) {
+      //  grecaptcha.execute();
+        },
+ submitHandler: function(form) {
+ $.ajaxSetup({
+ headers: {
+ 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+ }
+ });
+ $('#submit').html('Please Wait...');
 
+ $("#submit"). attr("disabled", true);
+ $.ajax({
+ url: "{{route('enquire')}}",
+ type: "POST",
+ data: $('#enquirenowForm').serialize(),
+ success: function( response ) {
+    if(response.status == 'notok') {
+        $('#submit').html('Submit');
+        $("#submit"). attr("disabled", false);
+        if(response.data['g-recaptcha-response']) {
+            var msg = response.data['g-recaptcha-response'][0];
+        } else {
+            var msg = 'something went wrong';
+        }
+ swal({
+ title: 'Sorry',
+ text: msg,
+ type: 'error',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });
+    } else {
+        $('#submit').html('Submit');
+ $("#submit"). attr("disabled", false);
+ //alert('Ajax form has been submitted successfully');
+ document.getElementById("enquirenowForm").reset(); 
+ swal({
+ title: 'We will get back to you at the earliest.',
+ text: "You won't be able to revert this!",
+ type: 'success',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });        
+ $('#enquirenow').modal('hide');
+  $('body').removeClass('modal-open');
+    }
+ 
+
+ 
+  
+ }
+ });
+ }
+ })
+
+ $("#callbackForm").validate({
+ rules: {
+ name: {
+ required: true,
+ maxlength: 50
+ },
+ phone: {
+ required: true,
+ 
+ },  
+   
+ },
+ messages: {
+ name: {
+ required: "Please enter name",
+ maxlength: "Your name maxlength should be 50 characters long."
+ },
+ phone: {
+ required: "Please enter phone number",
+
+ },   
+
+ },
+ success: function (label, element) {
+    console.log('hi');
+       // grecaptcha.execute();
+        },
+ submitHandler: function(form) {
+ $.ajaxSetup({
+ headers: {
+ 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+ }
+ });
+ $('#callbacksubmit').html('Please Wait...');
+ $("#callbacksubmit"). attr("disabled", true);
+ $.ajax({
+ url: "{{route('enquire')}}",
+ type: "POST",
+ data: $('#callbackForm').serialize(),
+ success: function( response ) {
+    if(response.status == 'notok') {
+        $('#callbacksubmit').html('Submit');
+        $("#callbacksubmit"). attr("disabled", false);
+        if(response.data['g-recaptcha-response']) {
+            var msg = response.data['g-recaptcha-response'][0];
+        } else {
+            var msg = 'something went wrong';
+        }
+ swal({
+ title: 'Sorry',
+ text: msg,
+ type: 'error',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });
+    } else {
+        $('#callbacksubmit').html('Submit');
+ $("#callbacksubmit"). attr("disabled", false);
+ //alert('Ajax form has been submitted successfully');
+ document.getElementById("callbackForm").reset(); 
+ swal({
+ title: 'We will get back to you at the earliest.',
+ text: "You won't be able to revert this!",
+ type: 'success',
+ showConfirmButton:true,
+ confirmButtonText: 'Okay'
+ });        
+ $('#callback').modal('hide');
+  $('body').removeClass('modal-open');
+    }
+  
+ }
+ });
+ }
+ })
+ </script>
 <script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "e8a50fb1948e401c9a980efd4bddfc162c3573e2a4fc425eecfcba4ac759b357c91048c69334de286a88564a5a798944", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
 
 </body>

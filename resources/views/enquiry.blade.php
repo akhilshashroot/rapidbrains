@@ -479,14 +479,14 @@
                        <label for="form_email" class="error" id="mail-err" style="margin-top: -6px;">Please enter your email</label>
                        <label for="form_email" class="error" id="iemail" style="display:none;margin-top: -6px;">Invalid email address</label>
 
-                         <label for="email" class="form-label">Email ID *</label>
+                         <label for="email" class="form-label">Official Email ID *</label>
                        </div>
                      </div>
                     
                      <div class="col-md-6">
                        <div class="form-floating d2">
                        <input type="text" class="form-control ssform" id="company" name="company" placeholder="Your company Name *">
-                         <label for="company" class="form-label">Company Name.</label>
+                         <label for="company" class="form-label">Company Name</label>
                        </div>
                      </div>
                      <div class="col-md-6">

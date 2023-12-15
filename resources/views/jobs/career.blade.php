@@ -180,7 +180,37 @@ font-weight: 400 !important;
     </section>
 
 
-
+    <section class="wrapper bg-light" style="margin-top:100px;">
+    
+    <div class="container py-20 py-md-20" style="adding-top: 10rem !important;
+      padding-bottom: 1rem !important;">
+        
+      
+       <div class="card image-wrapper shadow-lg mt-n21 mt-md-n23 bg-full bg-image mb-14" data-image-src="{{asset('assets/img/photos/RapidBrains-footerbg.webp')}}" style="background-image: url(&quot;http://127.0.0.1:8000/assets/img/photos/RapidBrains-footerbg.webp&quot;);">
+          <div class="card-body">
+            <div class="row text-center">
+              <div class="col-xl-11 col-xxl-9 mx-auto">
+                <h2 class="fs-16 text-uppercase text-black mb-3">Join Our Community</h2>
+                <h3 class="display-2 mb-8 px-lg-8 text-black">Let us know the skills you need and we'll find the best talent for you</h3>
+  
+              </div>
+              <!--/column -->
+            </div>
+            <!-- /.row -->
+            <div class="d-flex justify-content-center">
+              <span><a class="btn btn-white rounded csk" id="callbackreq">Request a call back</a></span>
+            </div>
+          </div>
+          <!--/.card-body -->
+        </div>
+        <!--/.card -->
+               
+                          
+              
+               
+      
+    </div>
+    </section>
 
 
 
@@ -391,7 +421,7 @@ const job_id = urlParams.get('id')
  },
  },
  success: function (label, element) {
-        grecaptcha.execute();
+      //  grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -472,7 +502,7 @@ const job_id = urlParams.get('id')
  },
  success: function (label, element) {
     console.log('hi');
-        grecaptcha.execute();
+        //grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -548,7 +578,7 @@ const job_id = urlParams.get('id')
  },
  success: function (label, element) {
     console.log('hi');
-        grecaptcha.execute();
+       // grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -624,7 +654,7 @@ function enableBtn(){
  }
      },
      success: function (label, element) {
-        grecaptcha.execute();
+   //     grecaptcha.execute();
         }
  })
 
@@ -676,7 +706,7 @@ function enableBtn(){
  message: " Please enter message",
      },
      success: function (label, element) {
-        grecaptcha.execute();
+      //  grecaptcha.execute();
         }
  })
  </script>

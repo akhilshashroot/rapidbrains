@@ -17,6 +17,18 @@
     @yield('css_after')
 </head>
 <style>
+
+
+
+/* @media (min-width: 1400px){
+  .container-ccr {
+    max-width: 1461px!important;
+}
+
+
+} */
+
+
 .error{
   color:#ff0000 !important;
   padding: 1.6rem 1rem !important;
@@ -269,7 +281,7 @@ input[type=search]:focus {
         <div class="row">
           <div class="col-md-10 col-xl-8 mx-auto">
             <div class="post-header">
-            <h3 class="display-1 mb-3" id="pos">Jobs </h3>
+            <h3 class="display-1 mb-3" id="pos">All Jobs </h3>
               <!-- /.post-meta -->
             </div>
             <!-- /.post-header -->
@@ -282,7 +294,7 @@ input[type=search]:focus {
     </section>
 <!-- /section -->
 <section class="wrapper bg-light">
-      <div class="container pb-14 pb-md-16">
+      <div class="container pb-14 pb-md-16 container-ccr" >
         <div class="row">
           <div class="col-lg-12 mx-auto">
             <div class="blog single mt-n17">
@@ -545,7 +557,7 @@ $(function(){
       {
         "columnDefs": [
           {
-"targets": 0,
+"targets": [0,7],
 "orderable": false
 } 
 ],
@@ -553,7 +565,7 @@ $(function(){
         scrollX: true,
         "pageLength": 25,
         language: {
-          searchPlaceholder: "Search for position,skills here",
+          searchPlaceholder: "Search for position here",
         search: "",
         emptyTable: "No jobs available",
         }
@@ -602,7 +614,7 @@ $(".dataTables_filter").prepend('');
  },
  },
  success: function (label, element) {
-        grecaptcha.execute();
+      //  grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -683,7 +695,7 @@ $(".dataTables_filter").prepend('');
  },
  success: function (label, element) {
     console.log('hi');
-        grecaptcha.execute();
+       // grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -759,7 +771,7 @@ $(".dataTables_filter").prepend('');
  },
  success: function (label, element) {
     console.log('hi');
-        grecaptcha.execute();
+     //   grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -835,7 +847,7 @@ function enableBtn(){
  }
      },
      success: function (label, element) {
-        grecaptcha.execute();
+      //  grecaptcha.execute();
         }
  })
 
@@ -887,7 +899,7 @@ function enableBtn(){
  message: " Please enter message",
      },
      success: function (label, element) {
-        grecaptcha.execute();
+       // grecaptcha.execute();
         }
  })
  </script>

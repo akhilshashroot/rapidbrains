@@ -17,6 +17,21 @@
     @yield('css_after')
 </head>
 <style>
+  @media (min-width: 1400px){
+  .container-ccr {
+    max-width: 1461px!important;
+}
+
+
+}
+@media (min-width: 768px){
+  .body-ccr {
+    padding-left:10px !important;
+    padding-right:10px!important;
+}
+
+
+}
 .error{
   color:#ff0000 !important;
   padding: 1.6rem 1rem !important;
@@ -287,7 +302,7 @@ input[type=search]:focus {
           <div class="col-lg-12 mx-auto">
             <div class="blog single mt-n17">
               <div class="card shadow-lg">
-                <div class="card-body">
+                <div class="card-body ">
              
                 @include('jobs.remote') 
 
@@ -548,7 +563,7 @@ $(function () {
         scrollX: true,
         "pageLength": 25,
         language: {
-        searchPlaceholder: "Search for title or tech stack here",
+        searchPlaceholder: "Search for position here",
         search: "",
         emptyTable: "No profiles available",
 
@@ -564,16 +579,17 @@ $(function () {
             }
         },
         columns: [
-            { data: 'DT_RowIndex', DT_RowIndex: 'DT_RowIndex',  orderable: false, searchable: false },
-            {data: 'date',  width: '140px',name: 'date'},
+          { data: 'DT_RowIndex', DT_RowIndex: 'DT_RowIndex',  orderable: false, searchable: false },
+            {data: 'date',  width: '100px',name: 'date'},
 
             {data: 'JobId',  width: '100px',name: 'JobId'},
             // {data: 'oneto3', width: '210px', name: 'oneto3'},
-               {data: 'position', width: '220px', name: 'position'},
-            {data: 'location', width:'100px',name: 'location'},
-            {data: 'salary', name: 'salary', width:'80px'},
-            {data: 'action',width:'100px',  name: 'action',  orderable: false,  searchable: false},
-        
+               {data: 'position', width: '200px', name: 'position'},
+              //  {data: 'skill', width: '220px', name: 'skill'},
+
+            {data: 'location', width:'110px',name: 'location'},
+            {data: 'salary', name: 'salary', width:'150px'},
+            {data: 'action',width:'120px',  name: 'action',  orderable: false,  searchable: false},
          
             
         ]
@@ -622,7 +638,7 @@ $(function () {
  },
  },
  success: function (label, element) {
-        grecaptcha.execute();
+        //.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -703,7 +719,7 @@ $(function () {
  },
  success: function (label, element) {
     console.log('hi');
-        grecaptcha.execute();
+     //   grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -779,7 +795,7 @@ $(function () {
  },
  success: function (label, element) {
     console.log('hi');
-        grecaptcha.execute();
+        //grecaptcha.execute();
         },
  submitHandler: function(form) {
  $.ajaxSetup({
@@ -855,7 +871,7 @@ function enableBtn(){
  }
      },
      success: function (label, element) {
-        grecaptcha.execute();
+      //  grecaptcha.execute();
         }
  })
 
@@ -907,7 +923,7 @@ function enableBtn(){
  message: " Please enter message",
      },
      success: function (label, element) {
-        grecaptcha.execute();
+    //    grecaptcha.execute();
         }
  })
  </script>

@@ -45,7 +45,6 @@ class RemoteSearchController extends Controller
             'jobs.experience','jobs.skill','jobs.jobType',
             'jobs.location','jobs.salary','jobs.feature','jobs.priority',
             DB::raw('DATE_FORMAT(jobs.created_at, "%d-%m-%Y") as date'))
-            
             ->where('jobs.is_deleted',0)->where('jobs.location','Remote')->where('jobs.status',1)->orderby('jobs.updated_at','desc')->orderby($col,$dec);
             return Datatables::of($data)
                     ->addIndexColumn()
@@ -129,7 +128,7 @@ class RemoteSearchController extends Controller
                     
                       
                       
-                        $btn = '<a  class="btn btn-primary btn-sm checker" id="apply" style="color: #fff;" data-id='.$row['jobid'].'   href='.env('APP_URL').'/job?id='.$row['jobid'].'>Apply Job</a>';
+                        $btn = '<a  class="btn btn-primary btn-sm checker" id="apply" style="color: #fff;" data-id='.$row['jobid'].'   href='.env('APP_URL').'/job?id='.$row['jobid'].'>Apply</a>';
                         //   $btn='<input type="checkbox" class="checkbox-change" data-id='.$row['employee_id'].' id="buttonID" onchange="valueChanged()" name="enquiry" value='.$row['employee_id'].'>';
                          return $btn;
 

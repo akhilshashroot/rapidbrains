@@ -8,6 +8,7 @@ use App\Models\StakefieldUser;
 use Illuminate\Support\Facades\Log;
 use App\Models\EnquiryData;
 use Illuminate\Support\Facades\Mail;
+use App\Mail\InternalMail;
 use App\Mail\TalentCommonMail;
 use Validator;
 use App\Models\Job;
@@ -65,12 +66,15 @@ class JobViewController extends Controller
             $talentidgenerated = 10000+$talentid_Count+1;
             $user = new StakefieldUser;
             $job = new JobApplication;
+            $type="remote";
+
         }else{
             $talentid_Count = PermanentStakefieldUser::count();
             $talentidgenerated = 20000+$talentid_Count+1;
             $talentidgenerated = "S".$talentidgenerated;
             $user = new PermanentStakefieldUser;
             $job = new JobApplicationPermanent;
+            $type="onsite";
         }
      
    // Log::info( $request);
@@ -133,11 +137,20 @@ class JobViewController extends Controller
       $result= $this->curlAdd($data); 
         }
 
-        try {
+       try {
             $mail_data['email']=$request->email;
             $mail_data['name']=$request->name;
             $mail_data['talent_id']= $talentidgenerated ;
+            $mail_data['skill']=$request->skill ;
+            $mail_data['job_id']=$request->job_id ;
+            $mail_data['experience']=(is_numeric($request->experience))?$request->experience.' Years' :$request->experience;
+            $mail_data['availability']=$request->availability ;
+            $mail_data['phone']=$request->phone ;
+            $mail_data['resume']=($fileNameToStore_user)?env('APP_URL').'/storage/resume/'.$fileNameToStore_user:"" ;
+            $mail_data['type']=$type ;
+            $mail_data['rate']=$request->ectc.' '.$request->price ;
             Mail::send(new JobReturnMail($mail_data));
+            Mail::send(new InternalMail($mail_data));
            } catch (\Exception $e){
             
             return response()->json([ 
