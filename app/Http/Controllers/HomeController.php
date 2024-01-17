@@ -14,7 +14,7 @@ class HomeController extends Controller
         return view('welcome',compact('data'));
     }
     public function about() {
-        $data['title']= "RapidBrains Company | A talent marketplace to build remote teams";
+        $data['title']= "Rapidbrains a talent marketplace to build remote teams, rapidly!";
 		$data['keywords']= "remote team, remote hiring, talent marketplace, build remote team, top talents, remote talents ";
 		$data['description']= "Learn about RapidBrains and how we can help your business efficiently build and manage your remote teams. We offer the easiest way to hire the best remote talent.";
         $data['canonical']= "https://www.rapidbrains.com/about";
@@ -57,7 +57,7 @@ class HomeController extends Controller
         return view('non-disclosure-agreement',compact('data'));
     }
     public function acceptableUserPolicy() {
-        $data['title']= "Acceptable User Policy | RapidBrains: Responsible Usage Guidelines";
+        $data['title']= "Acceptable User Policy | Responsible Usage Guidelines";
 		$data['keywords']= "remote engineers, remote developers, remote talents, hire contractors, talent marketplace, affordable, hire engineers, hire developers, hire talents, hire contractors, fulltime employees, partime employees";
 		$data['description']= "Learn about our responsible usage guidelines in the Acceptable User Policy. Prohibited actions, user obligations, and consequences for violations.";
         $data['canonical']= "https://www.rapidbrains.com/acceptable-user-policy";

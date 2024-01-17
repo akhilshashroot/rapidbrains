@@ -150,7 +150,7 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireMLDevelopers() {
-        $data['title']= "Hire Remote Machine Learning Engineers in 24 Hours from RapidBrains";
+        $data['title']= "Hire Remote ML Engineers in 24 Hours from RapidBrains";
 		$data['keywords']= ": hire machine learning engineer, hire remote machine learning engineer, Machine learning solutions, Machine learning services, Machine learning consulting, hire Machine learning consultant, Machine learning technology, Machine learning development, Machine learning algorithms, talent cloud";
 		$data['description']= "Hire remote machine learning engineers for your projects. Find top talent at RapidBrains and unleash the power of machine learning engineers in your business.";
         $data['canonical']= "https://www.rapidbrains.com/hire-machine-learning-engineers";
