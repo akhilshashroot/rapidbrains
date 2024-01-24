@@ -81,14 +81,14 @@
         <div class="swiper-container clients mb-0" data-margin="30" data-dots="false" data-loop="true" data-autoplay="true" data-autoplaytime="1" data-drag="false" data-speed="5000" data-items-xxl="7" data-items-xl="6" data-items-lg="5" data-items-md="4" data-items-xs="2">
           <div class="swiper">
             <div class="swiper-wrapper ticker">
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/1.webp" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/2.png" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/3.png" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/4.webp" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/5.webp" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/6.webp" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/7.png" alt="" /></div>
-              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/8.webp" alt="" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/1.webp" alt="client1" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/2.png"  alt="client2" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/3.png"  alt="client3" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/4.webp" alt="client4" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/5.webp" alt="client5" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/6.webp" alt="client6" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/7.png"  alt="client7" /></div>
+              <div class="swiper-slide px-5"><img src="https://www.rapidbrains.com/assets/img/clients/8.webp" alt="client8" /></div>
             </div>
             <!--/.swiper-wrapper -->
           </div>
@@ -212,35 +212,35 @@
           <div class="col-lg-8" style="padding-top: 72px;">
             <div class="row row-cols-2 row-cols-md-4 gx-0 gx-md-8 gx-xl-12 gy-12">
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Apple-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Apple-logo.webp" alt="Apple" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Microsoft-logo.webp" alt="Microsoft" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Google-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Google-logo.webp" alt="Google" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Meta-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Meta-logo.webp" alt="Meta" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Amazon-logo.webp" alt="Amazon" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Oracle-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Oracle-logo.webp" alt="Oracle" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/IBM-logo.webp" alt="IBM" /></figure>
               </div>
               <!--/column -->
               <div class="col">
-                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Deloitte-logo.webp" alt="" /></figure>
+                <figure class="px-3 px-md-0 px-xxl-2"><img src="https://rapidbrains.com/assets/img/company-logo/Deloitte-logo.webp" alt="Deloitte" /></figure>
               </div>
               <!--/column -->
             </div>
@@ -306,7 +306,7 @@
           <div class="swiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="clutch" />
                 <h4 class="mb-1">Clutch's top 100 IT firms of 2021</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>
@@ -317,7 +317,7 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="ccss" />
                 <h4 class="mb-1">Crown Commercial Service Supplier</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-linkedin"></i></a>
@@ -328,7 +328,7 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="bizz" />
                 <h4 class="mb-1">The BIZZ Award by WorldCob, USA</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>
@@ -339,7 +339,7 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" alt="iqc" />
                 <h4 class="mb-1">International Quality Crown Award</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-twitter"></i></a>
@@ -350,7 +350,7 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" alt="consultants" />
                 <h4 class="mb-1">Consultant of the <br>Year 2015</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-facebook-f"></i></a>
@@ -361,7 +361,7 @@
               </div>
                <!--/.swiper-slide -->
                <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" alt="cip" />
                 <h4 class="mb-1">International Gold Star Millenium Award</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>
@@ -372,7 +372,7 @@
               </div>
                <!--/.swiper-slide -->
                <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" alt="iac" />
                 <h4 class="mb-1">Global Achievers Award for Business Excellence</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>
@@ -383,7 +383,7 @@
               </div>
                <!--/.swiper-slide -->
                <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" alt="iedra" />
                 <h4 class="mb-1">Fastest Growing Indian Company Excellence Award</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>
@@ -394,7 +394,7 @@
               </div>
                <!--/.swiper-slide -->
                <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" alt="cool startup" />
                 <h4 class="mb-1">Siliconindia 50 cool startups of the year</h4>
                 <!--<nav class="nav social justify-content-center text-center mb-0">
                   <a href="#"><i class="uil uil-youtube"></i></a>

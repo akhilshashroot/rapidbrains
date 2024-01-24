@@ -127,7 +127,7 @@
   <div class="container pt-12 pt-md-16 text-center">
     <div class="row">
       <div class="col-lg-8 col-xxl-7 mx-auto text-center" data-cues="slideInDown" data-group="page-title" data-delay="600">
-        <h1 class="display-1 fs-58 mb-7">Build your remote team, rapidly!</h1>
+        <h2 class="display-1 fs-58 mb-7">Build your remote team, rapidly!</h2>
         <div class="d-flex justify-content-center" data-cues="slideInDown" data-group="page-title-buttons" data-delay="900">
           <span><a href="https://talents.rapidbrains.com/" class="btn btn-lg btn btn-primary me-2">Hire Now</a></span>
         </div>
@@ -888,7 +888,7 @@
                     <div class="swiper">
                       <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/clutch-01.svg" alt="clutch" />
                           <h4 class="mb-1">Clutch's top 100 IT firms of 2021</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-youtube"></i></a>
@@ -899,7 +899,7 @@
                         </div>
                         <!--/.swiper-slide -->
                         <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/ccss-01.svg" alt="ccss" />
                           <h4 class="mb-1">Crown Commercial Service Supplier, UK</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-linkedin"></i></a>
@@ -910,7 +910,7 @@
                         </div>
                         <!--/.swiper-slide -->
                         <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/bizz.svg" alt="bizz" />
                           <h4 class="mb-1">The BIZZ Award by WorldCob, USA</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-youtube"></i></a>
@@ -921,7 +921,7 @@
                         </div>
                         <!--/.swiper-slide -->
                         <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IQC-01.svg" alt="IQC" />
                           <h4 class="mb-1">International Quality Crown Award, London</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-twitter"></i></a>
@@ -932,7 +932,7 @@
                         </div>
                         <!--/.swiper-slide -->
                         <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/consultants-01.svg" alt="consultants" />
                           <h4 class="mb-1">Consultant of the <br>Year 2015</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-facebook-f"></i></a>
@@ -943,7 +943,7 @@
                         </div>
                          <!--/.swiper-slide -->
                          <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/CIP-01.svg" alt="CIP" />
                           <h4 class="mb-1">International Gold Star Millenium Award</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-youtube"></i></a>
@@ -954,7 +954,7 @@
                         </div>
                          <!--/.swiper-slide -->
                          <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IAC-01.svg" alt="IAC" />
                           <h4 class="mb-1">Global Achievers Award for Business Excellence</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-youtube"></i></a>
@@ -965,7 +965,7 @@
                         </div>
                          <!--/.swiper-slide -->
                          <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/IEDRA-01-01.svg" alt="iedra" />
                           <h4 class="mb-1">Fastest Growing Indian Company Excellence Award</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-youtube"></i></a>
@@ -976,7 +976,7 @@
                         </div>
                          <!--/.swiper-slide -->
                          <div class="swiper-slide">
-                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" alt="" />
+                          <img class="rounded-circle w-20 mx-auto mb-4" src="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" srcset="https://www.rapidbrains.com/assets/img/awards/svg/cool%20startup-01.svg" alt="startup" />
                           <h4 class="mb-1">Siliconindia 50 cool startups of the year</h4>
                           <!--<nav class="nav social justify-content-center text-center mb-0">
                             <a href="#"><i class="uil uil-youtube"></i></a>

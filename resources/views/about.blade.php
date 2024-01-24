@@ -181,7 +181,7 @@
           <div class="col-md-6">
             <div class="d-flex flex-row">
               <div>
-                <img src="./assets/img/icons/lineal/target.svg" class="svg-inject icon-svg icon-svg-sm me-4" alt="" />
+                <img src="./assets/img/icons/lineal/target.svg" class="svg-inject icon-svg icon-svg-sm me-4" alt="target" />
               </div>
               <div>
                 <h4 class="mb-1">Our Mission</h4>
@@ -193,7 +193,7 @@
           <div class="col-md-6">
             <div class="d-flex flex-row">
               <div>
-                <img src="./assets/img/icons/lineal/award-2.svg" class="svg-inject icon-svg icon-svg-sm me-4" alt="" />
+                <img src="./assets/img/icons/lineal/award-2.svg" class="svg-inject icon-svg icon-svg-sm me-4" alt="award" />
               </div>
               <div>
                 <h4 class="mb-1">Vision</h4>
