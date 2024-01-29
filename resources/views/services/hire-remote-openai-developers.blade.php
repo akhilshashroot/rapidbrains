@@ -148,7 +148,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire the best Open AI Developers Remotely in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">With our experienced team of OpenAI developers, you may transform your AI development path.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=openai" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Open AI Developers with rates  <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=openai" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Open AI Developers with rates  <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -346,7 +346,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=openai" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Open AI Developers with rates <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=openai" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Open AI Developers with rates <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -368,7 +368,7 @@
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Open AI Developers.</h3>
         <p class="mb-7">With our Guide to Essential Developer Skills, you can Unlock the Magic of OpenAI. Investigate the expertise that distinguishes excellent OpenAI developers, enabling game-changing AI initiatives.
         </p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">

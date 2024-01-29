@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote PyTorch Developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Maximize AI Excellence - Secure Proficient PyTorch Developers from RapidBrains! Capitalize on Comprehensive PyTorch Proficiency with Our Accomplished Team.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=PyTorch " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Pytorch Developers with rates<i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=PyTorch " class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Pytorch Developers with rates<i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=PyTorch" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Pytorch Developers with rates<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=PyTorch" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Pytorch Developers with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -365,7 +365,7 @@
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote PyTorch developers</h3>
         <p class="mb-7">Harness Profound PyTorch Expertise through our In-Depth Analysis of Crucial Developer Proficiencies. Delve into the Competencies that Set Exceptional PyTorch Developers Apart, Paving the Path to AI Excellence.</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">

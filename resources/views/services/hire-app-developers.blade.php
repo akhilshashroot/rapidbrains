@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote App developersin 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">We provide the chance to hire remote app developers who are specialists in <br> producing highquality, user-friendly applications </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=app" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all App Developers with rates<i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=app" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all App Developers with rates<i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=App" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all App Developers with rates<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=App" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all App Developers with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -365,7 +365,7 @@
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote App Developers</h3>
         <p class="mb-7">Companies aiming to build exceptional software solutions should carefully choose Drupal developers with expertise in web development. However, finding competent and reliable remote Drupal developers can be a challenging task. To assist you in the hiring process, here are some essential qualities to look for when seeking remote Drupal developers</p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">

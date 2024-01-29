@@ -147,7 +147,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Serverless developers in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Are you searching to Hire Remote Serverless Developers? Utilize the Experience of Our Dedicated Team for Your Projects.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=Serverless " class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Serverless developers with rates <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=Serverless " class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Serverless developers with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -345,7 +345,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=Serverless" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">List all Serverless developers with rates <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Serverless" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Serverless developers with rates <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -367,7 +367,7 @@
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Serverless developers</h3>
         <p class="mb-7">Excel in these Essential skills tap into the pPower of Serverless Development. Examine the Skills that set exceptional serverless developers apart and lead the way to project success.
         </p>
-        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end" style="color: #fff;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
+        <!--<a href="https://talents.rapidbrains.com/filter?skill=blockchain" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
       <div class="col-lg-6 ms-auto">
