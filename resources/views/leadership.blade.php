@@ -182,7 +182,7 @@
                   <div class="card-body">
                     <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" alt="" />
                     <h4 class="mb-1">Arjun Narayanan</h4>
-                    <div class="meta mb-2 fs-12">Vice President - Business Operations</div>
+                    <div class="meta mb-2 fs-12">Chief Growth Officer</div>
                     <!-- /.social -->
                   </div>
                   <!--/.card-body -->
