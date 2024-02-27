@@ -68,9 +68,6 @@
                             <li><a class="dropdown-item" href="{{route('hire-drupal-developers')}}">Drupal Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-sap-developers')}}">SAP Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-salesforce-developers')}}">Salesforce Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-expressjs-developers')}}">ExpressJS Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-unreal-engine-developers')}}">Unreal Engine Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-typescript-developers')}}">TypeScript Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-rust-developers')}}">Rust Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-vue-js-developers')}}">Vue.js Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-unity-developers')}}">Unity Developers</a></li>
@@ -83,25 +80,33 @@
                             <li><a class="dropdown-item" href="{{route('hire-codeigniter-developers')}}">CodeIgniter Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-mongodb-developers')}}">MongoDB Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-elasticsearch-developers')}}">Elasticsearch Developers</a></li>
+                            
                             <li><a class="dropdown-item" href="{{route('hire-ai-developers')}}">AI Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-remote-azure-ai-engineers')}}">Azure AI Engineers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-cloud-engineers')}}">Cloud Engineers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-data-engineers')}}">Data Engineers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-expressjs-developers')}}">ExpressJS Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-typescript-developers')}}">TypeScript Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-unreal-engine-developers')}}">Unreal Engine Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-software-testers')}}">Software Testers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-woocommerce-developers')}}">WooCommerce Developer</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
+
                             <li><a class="dropdown-item" href="{{route('hire-vapt-testers')}}">VAPT Testers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-meteor-developers')}}">Meteor Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-automation-testers')}}">Automation Testers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-slack-developers')}}">Slack Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-tailwind-css-developers')}}">Tailwind CSS Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-pytorch-developers')}}">PyTorch Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-tensorflow-developers')}}">TensorFlow Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-ci-cd-engineers')}}">CI/CD Engineers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-redis-developers')}}">Redis Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-firebase-developers')}}">Firebase Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-grafana-developers')}}">Grafana Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-rabbitmq-developers')}}">RabbitMQ Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-keras-developers')}}">Keras Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-kafka-developers')}}">Kafka Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-snowflake-developers')}}">Snowflake Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-tableau-developers')}}">Tableau Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-woocommerce-developers')}}">WooCommerce Developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-logstash-developers')}}">Logstash Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-prestashop-developers')}}">PrestaShop Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-zeplin-designer')}}">Zeplin Designer</a></li>
@@ -109,8 +114,6 @@
                             <li><a class="dropdown-item" href="{{route('hire-prometheus-developers')}}">Prometheus Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-pandas-developers')}}">Pandas Developer</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-confluence-developers')}}">Confluence Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-data-engineers')}}">Data Engineers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-cloud-engineers')}}">Cloud Engineers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-puppet-developers')}}">Puppet Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-numpy-developers')}}">NumPY Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-scikit-learn-developers')}}">Scikit-learn Developers</a></li>
@@ -126,7 +129,6 @@
                             <li><a class="dropdown-item" href="{{route('hire-remote-chatbot-developers')}}">Chatbot Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-symfony-developers')}}">Symfony Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-openai-developers')}}">Open AI Developers</a></li>
-                            <li><a class="dropdown-item" href="{{route('hire-remote-azure-ai-engineers')}}">Azure AI Engineers</a></li>
 
 
                             

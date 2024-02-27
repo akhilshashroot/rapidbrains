@@ -497,7 +497,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote Automation Tester in 24 Hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Experience the Power of Automation Testing with RapidBrains' Exceptional Remote Testers. Explore Our Skilled Team of Automation Testing Professionals and Ensure Seamless Quality Assurance for Your Projects!";
-        $data['canonical']= "https://www.rapidbrains.com/hire-automation-tester";
+        $data['canonical']= "https://www.rapidbrains.com/hire-automation-testers";
         return view('services.hire-automation-testers',compact('data'));
     }
 
@@ -513,7 +513,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote Tailwind CSS Developers in 24 Hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Find skilled Tailwind CSS developers at RapidBrains for your project. Optimize your project with top-notch CSS expertise";
-        $data['canonical']= "https://www.rapidbrains.com/hire-tailwind-css-developer";
+        $data['canonical']= "https://www.rapidbrains.com/hire-tailwind-css-developers";
         return view('services.hire-tailwind-css-developers',compact('data'));
     }
 
@@ -628,7 +628,7 @@ class AdditionalPagesController extends Controller
         $data['title']= "Hire Remote WooCommerce Developer  in 24 hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Hire a WooCommerce developer today to power your online business! E-commerce master for efficient online stores";
-        $data['canonical']= "https://www.rapidbrains.com/hire-remote-WooCommerce-developers";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-woocommerce-developers";
         return view('services.hire-woocommerce-developers',compact('data'));
       
     }
