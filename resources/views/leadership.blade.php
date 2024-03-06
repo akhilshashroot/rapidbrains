@@ -209,22 +209,7 @@
               <!-- /div -->
             </div>
             <!--/column -->
-            <div class="col-md-6 col-lg-3">
-              <div class="position-relative">
-                <div class="shape rounded bg-soft-yellow rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
-                <div class="card">
-                  <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/jabbar.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/jabbar.jpg" alt="" />
-                    <h4 class="mb-1">Abdul Jabbar</h4>
-                    <div class="meta mb-2 fs-12">Head of Training & Development</div>
-                    <!-- /.social -->
-                  </div>
-                  <!--/.card-body -->
-                </div>
-                <!-- /.card -->
-              </div><br><br>
-              <!-- /div -->
-            </div>
+            
             <!--/column -->
             <div class="col-md-6 col-lg-3">
               <div class="position-relative">
@@ -268,6 +253,57 @@
                     <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/azim.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/azim.jpg" alt="" />
                     <h4 class="mb-1">Azim Kadersha</h4>
                     <div class="meta mb-2 fs-12">Director of Operations - Australia</div>
+                    <!-- /.social -->
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div>
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-yellow rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <div class="card-body">
+                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/aadhil.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/aadhil.jpg" alt="" />
+                    <h4 class="mb-1">Aadhil Bin Ashraf</h4>
+                    <div class="meta mb-2 fs-12">Manager - Operations</div>
+                    <!-- /.social -->
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div>
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-yellow rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <div class="card-body">
+                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/javed.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/javed.jpg" alt="" />
+                    <h4 class="mb-1">Javed K</h4>
+                    <div class="meta mb-2 fs-12">Manager - Quality Assurance</div>
+                    <!-- /.social -->
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div>
+              <!-- /div -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-yellow rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <div class="card-body">
+                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/christina.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/christina.jpg" alt="" />
+                    <h4 class="mb-1">Christina Margreat</h4>
+                    <div class="meta mb-2 fs-12">Manager - Talent Operations</div>
                     <!-- /.social -->
                   </div>
                   <!--/.card-body -->
