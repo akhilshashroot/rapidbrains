@@ -228,7 +228,7 @@
               <!-- /div -->
             </div>
             <!--/column -->
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-6 col-lg-3 d-none">
               <div class="position-relative">
                 <div class="shape rounded bg-soft-blue rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
                 <div class="card">
