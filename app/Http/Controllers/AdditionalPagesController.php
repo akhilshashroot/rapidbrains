@@ -521,7 +521,7 @@ class AdditionalPagesController extends Controller
         $data['title']= " Hire Remote PyTorch Developer in 24 Hours from RapidBrains";
 		$data['keywords']= "";
 		$data['description']= "Elevate Your AI Solutions with Skilled Remote PyTorch Developers. Partner with RapidBrains to Infuse Expertise into Your Team.";
-        $data['canonical']= "https://www.rapidbrains.com/hire-remote-pytorch-developer";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-pytorch-developers";
         return view('services.hire-pytorch-developers',compact('data'));
     }
 
@@ -782,9 +782,9 @@ class AdditionalPagesController extends Controller
     }
 
     public function hireJupyterDevelopers(){
-        $data['title']= "Hire Remote Jupyter Developers in 24 Hours from RapidBrains";
+        $data['title']= "Hire Remote Jupyter developer from Rapidbrains in just 24 hours";
 		$data['keywords']= "";
-		$data['description']= "Are you looking for talented remote Jupyter developers? RapidBrains can match you with professional developers in as little as 24 hours. Make use of Jupyter for your projects right away.";
+		$data['description']= "Get the best Jupyter developer for your dream team or project. Rapidbrains is your trusted partner to hire the best remote Jupyter Developer in just 24 hours.";
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-jupyter-developers";
         return view('services.hire-remote-jupyter-developers',compact('data'));
       

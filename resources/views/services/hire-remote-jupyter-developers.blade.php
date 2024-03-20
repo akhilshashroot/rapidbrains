@@ -176,13 +176,14 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" srcset="https://www.rapidbrains.com/assets/img/services/rapidbrains-cloud_engineers.webp" alt="rapidbrains-cloud_engineers Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/jupyter_developer.webp" srcset="https://www.rapidbrains.com/assets/img/services/jupyter_developer.webp" alt="jupyter_developer Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
         <h3 class="display-2 mb-7">Why hire remote  Jupyter Developers from RapidBrains?</h3>
-        <p>RapidBrains' remote Jupyter developers can help you achieve unprecedented productivity and accelerate your projects. With considerable Jupyter development experience, our talented team excels in creating high-performance solutions, optimizing cloud environments, and leveraging the power of Jupyter notebooks for data-driven innovation. 
+        <p>RapidBrains' remote Jupyter developers can enhance your productivity and speed up your projects. Our team has extensive experience in Jupyter development, ensuring top-notch solutions, efficient cloud environment optimization, and harnessing Jupyter notebooks for innovative, data-driven outcomes
+
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
           <div class="card plain accordion-item">
@@ -263,7 +264,7 @@
       <div class="col-lg-5">
         <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
         <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
-        <p>RapidBrains enables you to hire employees effortlessly, eliminating the need for setting up a local entity. We handle hiring, onboarding, HR tasks, and ensure compliance with local labor laws, including minimum wage, taxes, health insurance, and termination procedures.</p>
+        <p>RapidBrains offers Smooth employee hiring solutions, removing the necessity of establishing a local entity. We manage the entire hiring process, from onboarding to HR functions, ensuring compliance with local labor regulations, including minimum wage, taxes, health insurance, and termination protocols.</p>
             <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
       </div>
       <!--/column -->
@@ -366,7 +367,7 @@
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
         <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Jupyter Developers.</h3>
-        <p class="mb-7">It's critical to discover the abilities that will set your team apart when employing remote Jupyter developers. Look for these must-have abilities to ensure project success</p>
+        <p class="mb-7">When building your remote development team, finding the right Jupyter developers is crucial. These professionals play a key role in data science, analytics, and machine learning projects. To ensure you hire the best talent, consider these must-have skills and qualities in remote Jupyter developers.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
