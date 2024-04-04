@@ -107,6 +107,9 @@ Route::get('/hire-codeigniter-developers', [AdditionalPagesController::class, 'h
 Route::get('/hire-mongodb-developers', [AdditionalPagesController::class, 'hireMongoDBDevelopers'])->name('hire-mongodb-developers');
 Route::get('/hire-elasticsearch-developers', [AdditionalPagesController::class, 'hireElasticsearchDevelopers'])->name('hire-elasticsearch-developers');
 Route::get('/hire-remote-artificial-intelligence-developers', [AdditionalPagesController::class, 'hireAIDevelopers'])->name('hire-ai-developers');
+// Route::get('/hire-ai-developers', [AdditionalPagesController::class, 'hireAIDevelopers'])->name('hire-ai-developers');
+
+
 Route::get('/hire-software-testers', [AdditionalPagesController::class, 'hireSoftwareTesters'])->name('hire-software-testers');
 Route::get('/hire-vapt-testers', [AdditionalPagesController::class, 'hireVaptTesters'])->name('hire-vapt-testers');
 Route::get('/hire-meteor-developers', [AdditionalPagesController::class, 'hireMeteorDevelopers'])->name('hire-meteor-developers');
@@ -187,3 +190,5 @@ Route::get('/apply-job',[App\Http\Controllers\JobViewController::class, 'applyJo
 Route::get('/onsite-jobs',[App\Http\Controllers\OnsiteSearchController::class, 'index'])->name('onsite.index');
 Route::get('/remote-jobs',[App\Http\Controllers\RemoteSearchController::class, 'index'])->name('remote.index');
 Route::post('mail-talent', [App\Http\Controllers\MailController::class, 'MailFunction'])->name('talent.mail');
+
+Route::get('/sitemap', [HomeController::class, 'sitemap'])->name('sitemap');

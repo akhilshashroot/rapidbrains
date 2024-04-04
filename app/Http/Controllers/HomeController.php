@@ -162,5 +162,12 @@ class HomeController extends Controller
         $data['canonical']= "https://www.rapidbrains.com/talent-enquiry";
         return view('enquiry',compact('data'));
     }
+    public function sitemap() {
+        $data['title']= "";
+		$data['keywords']= "";
+		$data['description']= "";
+        $data['canonical']= "https://www.rapidbrains.com/sitemap";
+        return view('sitemap',compact('data'));
+    }
     
 }
