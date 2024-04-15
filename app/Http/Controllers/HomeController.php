@@ -163,9 +163,9 @@ class HomeController extends Controller
         return view('enquiry',compact('data'));
     }
     public function sitemap() {
-        $data['title']= "";
+        $data['title']= "Rapidbrains sitemap | Explore our website easily";
 		$data['keywords']= "";
-		$data['description']= "";
+		$data['description']= "Explore the complete sitemap of RapidBrains website to easily find the information you're looking for. Discover our services, blog posts, and more.";
         $data['canonical']= "https://www.rapidbrains.com/sitemap";
         return view('sitemap',compact('data'));
     }

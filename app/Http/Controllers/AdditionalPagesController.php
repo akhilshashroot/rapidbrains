@@ -812,7 +812,7 @@ class AdditionalPagesController extends Controller
     public function hireSymfonyDevelopers(){
         $data['title']= "Hire Remote Symfony  developers in 24 hours from RapidBrains";
 		$data['keywords']= "";
-		$data['description']= "Hire Remote Symfony Developers and Lead Innovative Web Projects to Success with RapidBrains";
+		$data['description']= "Transform your web projects with RapidBrains' Remote Symfony Developers. Innovate and succeed with our expert team. Hire now for exceptional results";
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-symfony-developers";
         return view('services.hire-remote-symfony-developers',compact('data'));
       
@@ -824,7 +824,7 @@ class AdditionalPagesController extends Controller
 		$data['keywords']= "";
 		$data['description']= "With our AI chatbots, you can explore the future of consumer interactions. Create clever agents to increase efficiency and delight with us.";
         $data['canonical']= "https://www.rapidbrains.com/hire-remote-Chatbot-developers";
-        return view('services.hire-remote-Chatbot-developers',compact('data'));
+        return view('services.hire-remote-chatbot-developers',compact('data'));
       
     }
 
