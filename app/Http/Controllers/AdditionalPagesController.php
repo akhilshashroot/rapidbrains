@@ -846,6 +846,15 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireHamlDevelopers(){
+        $data['title']= "Hire Remote Haml Developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find top HAML developers for your projects from RapidBrains. Our skilled developers specialize in HAML, ensuring efficient and high-quality web development.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-haml-developers";
+        return view('services.hire-remote-haml-developers',compact('data'));
+      
+    }
+
     
 
 

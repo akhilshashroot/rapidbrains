@@ -125,6 +125,7 @@
                             <li><a class="dropdown-item" tite="Symfony Developer" href="{{route('hire-remote-symfony-developers')}}">Symfony Developers</a></li>
                             <li><a class="dropdown-item" tite="Open AI Developer" href="{{route('hire-remote-openai-developers')}}">Open AI Developers</a></li>
                             <li><a class="dropdown-item" tite="Azure AI Engineers" href="{{route('hire-remote-azure-ai-engineers')}}">Azure AI Engineers</a></li>
+                            <li><a class="dropdown-item" tite="HAML Developers" href="{{route('hire-remote-haml-developers')}}">HAML Developers</a></li>
                             
                            
                       
