@@ -855,6 +855,15 @@ class AdditionalPagesController extends Controller
       
     }
 
+    public function hireInformaticaDevelopers(){
+        $data['title']= "Hire Remote Informatica Developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find skilled Informatica developers for your projects on RapidBrains. Our experts specialize in ETL, data integration, and data warehousing. Hire now.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-informatica-developers";
+        return view('services.hire-remote-informatica-developers',compact('data'));
+      
+    }
+
     
 
 

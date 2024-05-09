@@ -154,6 +154,7 @@ Route::get('/hire-remote-symfony-developers',[AdditionalPagesController::class, 
 Route::get('/hire-remote-openai-developers',[AdditionalPagesController::class, 'hireOpenAiDevelopers'])->name('hire-remote-openai-developers');
 Route::get('/hire-remote-azure-ai-engineers',[AdditionalPagesController::class, 'hireAzureAiEngineers'])->name('hire-remote-azure-ai-engineers');
 Route::get('/hire-remote-haml-developers',[AdditionalPagesController::class, 'hireHamlDevelopers'])->name('hire-remote-haml-developers');
+Route::get('/hire-remote-informatica-developers',[AdditionalPagesController::class, 'hireInformaticaDevelopers'])->name('hire-remote-informatica-developers');
 
 
 
