@@ -132,6 +132,7 @@
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-azure-ai-engineers">Azure AI Engineers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-haml-developers">HAML Developers</a></li>
                           <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-informatica-developers">Informatica Developers</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/hire-remote-ruby-developers">Ruby Developers</a></li>
                          
           
 

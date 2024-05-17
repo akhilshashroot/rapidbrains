@@ -77,7 +77,7 @@ Route::get('/hire-react-native-developers', [AdditionalPagesController::class, '
 
 Route::get('/hire-python-developers', [AdditionalPagesController::class, 'hirePythonDevelopers'])->name('hire-python-developers');
 Route::get('/hire-postgresql-developers', [AdditionalPagesController::class, 'hirePostgresqlDevelopers'])->name('hire-postgresql-developers');
-Route::get('/hire-ruby-on-rails-developers', [AdditionalPagesController::class, 'hireRubyDevelopers'])->name('hire-ruby-on-rails-developers');
+Route::get('/hire-ruby-on-rails-developers', [AdditionalPagesController::class, 'hireRubyonRailsDevelopers'])->name('hire-ruby-on-rails-developers');
 Route::get('/hire-ui-ux-designers', [AdditionalPagesController::class, 'hireUiUxDevelopers'])->name('hire-ui-ux-designers');
 Route::get('/hire-shopify-developers', [AdditionalPagesController::class, 'hireShopifyDevelopers'])->name('hire-shopify-developers');
 Route::get('/hire-seo-specialists', [AdditionalPagesController::class, 'hireSeoDevelopers'])->name('hire-seo-specialists');
@@ -155,6 +155,7 @@ Route::get('/hire-remote-openai-developers',[AdditionalPagesController::class, '
 Route::get('/hire-remote-azure-ai-engineers',[AdditionalPagesController::class, 'hireAzureAiEngineers'])->name('hire-remote-azure-ai-engineers');
 Route::get('/hire-remote-haml-developers',[AdditionalPagesController::class, 'hireHamlDevelopers'])->name('hire-remote-haml-developers');
 Route::get('/hire-remote-informatica-developers',[AdditionalPagesController::class, 'hireInformaticaDevelopers'])->name('hire-remote-informatica-developers');
+Route::get('/hire-remote-ruby-developers',[AdditionalPagesController::class, 'hireRubyDevelopers'])->name('hire-remote-ruby-developers');
 
 
 

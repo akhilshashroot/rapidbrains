@@ -146,9 +146,9 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote  Jupyter Developers in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">In just 24 hours, you may hire a remote Jupyter Developer! Our devoted team is ready to add expertise to your tasks.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill= Jupyter" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Jupyter Developers with rates <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Ruby Developers in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">Need Ruby talent fast? Hire our remote Ruby developers in just 24 hours! Expertise in Rails, Sinatra, and more. Get started now!</p>
+                 <a href="https://talents.rapidbrains.com/filter?skill=ruby" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Ruby Developers with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -176,13 +176,15 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/jupyter_developer.webp" srcset="https://www.rapidbrains.com/assets/img/services/jupyter_developer.webp" alt="jupyter_developer Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 80%;" src="https://www.rapidbrains.com/assets/img/services/rubysql.webp" srcset="https://www.rapidbrains.com/assets/img/services/rubysql.webp" alt="Ruby_developer Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why hire remote  Jupyter Developers from RapidBrains?</h3>
-        <p>RapidBrains' remote Jupyter developers can enhance your productivity and speed up your projects. Our team has extensive experience in Jupyter development, ensuring top-notch solutions, efficient cloud environment optimization, and harnessing Jupyter notebooks for innovative, data-driven outcomes
+        <h3 class="display-2 mb-7">Why hire Ruby Developers ?</h3>
+        <p>
+        
+        Explore the benefits of hiring remote Ruby developers. With expertise in Ruby on Rails, Sinatra, and other frameworks, our talented professionals offer flexibility, scalability, and cost-effectiveness. Collaborate with our team to enhance your web development projects and meet your goals efficiently. Experience the convenience of remote work without compromising on quality. Hire remote Ruby developers today and streamline your development process.
 
         </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
@@ -263,8 +265,8 @@
         <!--/column -->
       <div class="col-lg-5">
         <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
-        <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
-        <p>RapidBrains offers Smooth employee hiring solutions, removing the necessity of establishing a local entity. We manage the entire hiring process, from onboarding to HR functions, ensuring compliance with local labor regulations, including minimum wage, taxes, health insurance, and termination protocols.</p>
+        <h3 class="display-4 mb-5">Our service is carefully crafted to meet your unique needs and specifications</h3>
+        <p>RapidBrains simplifies the employee hiring process by eliminating the need to establish a local entity. We handle all hiring, onboarding, and HR responsibilities, ensuring compliance with local labor laws, including minimum wage, taxes, health insurance, and termination protocols.</p>
             <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
       </div>
       <!--/column -->
@@ -339,15 +341,15 @@
   <div class="container py-14 py-md-16">
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
-        <h2 class="fs-16 text-uppercase text-black mb-3">Connect with Top Talent Worldwide!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Jupyter Developers.</h3>
+        <h2 class="fs-16 text-uppercase text-black mb-3"> Connect with Top Talent Worldwide: Join our Global Network</h2>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled remote Ruby Developers.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill= Jupyter" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Jupyter Developers with rates  <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=ruby" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Ruby Developers with rates  <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -366,8 +368,8 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Jupyter Developers.</h3>
-        <p class="mb-7">When building your remote development team, finding the right Jupyter developers is crucial. These professionals play a key role in data science, analytics, and machine learning projects. To ensure you hire the best talent, consider these must-have skills and qualities in remote Jupyter developers.</p>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring Remote Ruby Developers.</h3>
+        <p class="mb-7">When hiring remote Ruby developers, it's crucial to look for specific skills that ensure they can effectively contribute to your projects. By assessing candidates based on their experience with Ruby frameworks, understanding of MVC architecture, proficiency in database management, and ability to collaborate effectively in a remote setting, you can find developers who are well-equipped to meet your project's needs and deliver high-quality solutions.</p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=rubi" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
       </div>
       <!-- /column -->
@@ -378,9 +380,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency in the Jupyter Ecosystem</h3>
+              <h3 class="fs-21 mb-2">Proficiency in Ruby</h3>
               <p class="mb-0">
-              Your ideal candidate should be familiar with the Jupyter ecosystem, including Jupyter Notebook, Jupyter Lab, and related tools. They should be able to build, document, and share code and data in various settings with ease.
+              A strong understanding of the Ruby programming language, including its syntax, features, and best practices, is essential. Look for developers who have experience working with Ruby frameworks like Ruby on Rails.
               </p>
             </div>
           </div>
@@ -393,10 +395,10 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="list"/>
             </div>
             <div>
-              <h3 class="fs-21 mb-2">AI and Machine Learning</h3>
+              <h3 class="fs-21 mb-2">Experience with Ruby on Rails</h3>
               <p class="mb-0"> 
-              Seek developers with hands-on experience implementing and training machine learning models if you're working on machine learning or AI projects. It is advantageous to be familiar with popular ML libraries such as sci-kit-learn and TensorFlow.  
-            </p>
+              Ruby on Rails is a popular web application framework written in Ruby. Developers should have hands-on experience building web applications using Rails, as well as knowledge of its conventions and tools.
+              </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -408,9 +410,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Cloud Computing Knowledge</h3>
+              <h3 class="fs-21 mb-2">Understanding of MVC Architecture</h3>
               <p class="mb-0">
-              Cloud computing abilities are essential in a remote work environment. To deploy Jupyter notebooks, scale resources, and manage data, your Jupyter developer should be familiar with cloud platforms such as AWS, Azure, or Google Cloud.
+                Ruby on Rails follows the Model-View-Controller (MVC) architectural pattern. Developers should be familiar with this pattern and understand how it is implemented in Rails applications.
               </p>
             </div>
           </div>
@@ -420,13 +422,13 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/settings-3.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="server" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Controlling Versions</h3>
+              <h3 class="fs-21 mb-2">Database Knowledge</h3>
               <p class="mb-0">
-              Knowledge of version control systems such as Git is required for collaborative work. Your developer should be able to easily track changes, merge code, and settle conflicts.
-                </p>
+              Knowledge of database systems like MySQL, PostgreSQL, or MongoDB is important for storing and retrieving data in Rails applications. Developers should be able to write efficient database queries and understand database design principles. 
+             </p>
             </div>
           </div>
           <!-- /.card-body -->
@@ -436,12 +438,12 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Communication and cooperation</h3>
+              <h3 class="fs-21 mb-2">FrontEnd Development Skills</h3>
               <p class="mb-0">
-              Strong communication and teamwork abilities are required for remote employment. Look for developers who can use online collaboration tools to effectively convey ideas, collaborate with team members, and share insights.
+              While Ruby developers primarily focus on backend development, familiarity with frontend technologies like HTML, CSS, and JavaScript is beneficial. This enables them to work effectively with frontend developers and contribute to the overall user experience of the application.
               </p>
             </div>
           </div>
@@ -454,9 +456,9 @@
               <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="referesh" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Python knowledge</h3>
+              <h3 class="fs-21 mb-2">Testing and Debugging Skills</h3>
               <p class="mb-0">
-              Jupyter is primarily utilized with Python, so your developer should be well-versed in Python programming. They must be able to build clean, efficient, and maintainable Python code for data analysis, scientific computing, and other applications.
+              Proficiency in writing automated tests using tools like RSpec or MiniTest is essential for ensuring the quality and reliability of Ruby code. Developers should also be skilled in debugging and troubleshooting issues in Ruby applications
               </p>
             </div>
           </div>
@@ -491,15 +493,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                   What are the primary advantages of hiring remote Jupyter developers?
-                      </button>
+                   How quickly can RapidBrains provide us with remote Ruby developers?
+                     </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-1" class="collapse" aria-labelledby="accordion-heading-3-1" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14"0>
-                     Hiring remote Jupyter developers gives you access to a worldwide talent pool, cost savings, freedom in extending your workforce, and the ability to tap into particular expertise. Remote developers can work from any location, allowing for different teams and 24-hour development.
-                      </p>
+                     RapidBrains can provide you with remote Ruby developers within 24 hours of your request. We have a pool of pre-screened and skilled developers ready to start working on your project immediately.
+                    </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -509,15 +511,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
-                   How can I evaluate remote Jupyter developers' skills and knowledge during the hiring process?
-</button>
+                   What is the experience level of the remote Ruby developers available through RapidBrains?
+                    </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-2" class="collapse" aria-labelledby="accordion-heading-3-2" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                     Consider employing code tests, technical interviews, and portfolio reviews to evaluate the skills of remote Jupyter developers. Request that candidates demonstrate their knowledge of Jupyter, Python, data analysis, and any other abilities essential to your project. Check for applicable certificates and previous work experience as well.
-</p>
+                     Our remote Ruby developers have varying levels of experience, ranging from junior to senior levels. We carefully match the experience level of the developer to your project requirements to ensure the best fit.
+                        </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -527,15 +529,15 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                   What are the most prevalent tools and communication platforms for remote working with Jupyter developers?
+                   Can we interview the remote Ruby developers before hiring them?
                   </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-3" class="collapse" aria-labelledby="accordion-heading-3-3" data-bs-target="#accordion-3">
                    <div class="card-body">
                     <p class="fs-14">
-                    Remote cooperation with Jupyter developers is possible using a variety of technologies and platforms. For meetings, popular options include video conferencing platforms like Zoom or Microsoft Teams, real-time chat tools like Slack or Microsoft Teams, and project management tools like Trello or Asana. Version control solutions like Git and coding collaboration platforms like GitHub are also required.
-                    </p>
+                    Yes, you can interview the remote Ruby developers before making a hiring decision. We arrange interviews with shortlisted candidates to ensure they meet your technical and cultural requirements.
+                     </p>
                    </div>
                    <!-- /.card-body -->
                  </div>
@@ -545,14 +547,14 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
-                   Aside from technical capabilities, what attributes should I seek for in a remote Jupyter developer?
-</button>
+                   How does RapidBrains ensure the quality of remote Ruby developers?
+                  </button>
                  </div>
                  <!-- /.card-header -->
                  <div id="accordion-collapse-3-4" class="collapse" aria-labelledby="accordion-heading-3-4" data-bs-target="#accordion-3">
                    <div class="card-body">
                      <p class="fs-14">
-                     Look for attributes such as self-discipline, time management, and good communication in addition to technical ability. Remote work necessitates workers who can successfully manage their time, keep organized, and interact with both the development team and stakeholders. Remote developers should be adaptable to diverse time zones and have a proactive approach to problem-solving.
+                     RapidBrains follows a rigorous screening process to ensure that only the top candidates are selected. We assess their technical skills, experience, and communication abilities to ensure they meet our high standards.
                     </p>
                    </div>
                    <!-- /.card-body -->

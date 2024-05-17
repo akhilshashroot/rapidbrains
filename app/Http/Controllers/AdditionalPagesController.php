@@ -236,7 +236,7 @@ class AdditionalPagesController extends Controller
         return view('services.hire-postgresql-developers',compact('data'));
     }
 
-    public function hireRubyDevelopers() {
+    public function hireRubyonRailsDevelopers() {
         $data['title']= "Hire Remote Ruby on Rails Developer in 24 hours from RapidBrains";
 		$data['keywords']= "hire Ruby on Rails developer, hire remote Ruby on Rails developer, hire Ruby on Rails web development team, Ruby on Rails software development, Ruby on Rails application development, hire Ruby on Rails web developer, hire Ruby on Rails programmers, Ruby on Rails web application programming, Ruby on Rails app development, build remote team";
 		$data['description']= "Find the best remote Ruby on Rails developers at RapidBrains. Get top-notch, customized RoR solutions for your business. Hire the best talent today.";
@@ -864,7 +864,14 @@ class AdditionalPagesController extends Controller
       
     }
 
-    
+    public function hireRubyDevelopers() {
+        $data['title']= "Hire Remote Ruby Developers in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire the  best Ruby developers for your projects. Our experts excel in Ruby on Rails, Sinatra, and more. Hire today for efficient web development.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-remote-ruby-developers";
+        return view('services.hire-remote-ruby-developers',compact('data'));
+    }
+
 
 
 

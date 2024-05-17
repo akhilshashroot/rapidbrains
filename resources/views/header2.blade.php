@@ -134,6 +134,7 @@
                             <li><a class="dropdown-item" href="{{route('hire-remote-azure-ai-engineers')}}">Azure AI Engineers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-haml-developers')}}">HAML Developers</a></li>
                             <li><a class="dropdown-item" href="{{route('hire-remote-informatica-developers')}}">Informatica Developers</a></li>
+                            <li><a class="dropdown-item" href="{{route('hire-remote-ruby-developers')}}">Ruby Developers</a></li>
 
                            
                       
