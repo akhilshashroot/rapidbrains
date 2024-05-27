@@ -16,28 +16,34 @@
                       <blockquote class="icon fs-13">
                         <h2>CEO Message</h2><br>
                         <p class="text-justify">
-                            We consider our reputation and goodwill as one of our valuable assets of the company. 
-                            We as a team, work so hard to attain this position and achieve this honor that we enjoy as of today. 
-                            Its our honesty, courteous behaviour and fare dealing that pave the way to build a prominent reputation and trust in hearts of our clients. 
-                            Quality service and the team of exuberant employees are the area where in we give more empresses to.
+                            As the CEO of RapidBrains, it is my pleasure to share updates on our journey and vision. Our reputation and 
+                            goodwill are among the most valuable assets of our company, reflecting the dedication and integrity of our 
+                            entire team. We have worked tirelessly to reach the esteemed position we hold today, guided by our core 
+                            principles of honesty, courteous behavior, and fair dealings.
                         </p>
                         <p class="text-justify">
-                            All members of RapidBrains family are responsible and accountable towards their client with no differentiation and are obliged to maintain a high standard of integrity. 
-                            RapidBrains has its ethical and legal responsibilities with regards to all activities of employees that further include the dealings towards the client and their satisfaction. 
-                            By providing proper quality services, we just not aim at customer satisfaction alone but further make sure of our customers save their time and money and make their work much easier and effortless. 
-                            As we wish for the success of our customers, we always make sure no mistakes or omissions arise from our end.
+                            At RapidBrains, we emphasize the importance of delivering quality service and fostering a team of enthusiastic 
+                            and committed employees. Each member of the RapidBrains family is responsible and accountable to our clients, 
+                            ensuring we uphold the highest standards of integrity in every interaction. Our commitment to ethical and 
+                            legal responsibilities extends to all activities, particularly in our dealings with clients and our focus on 
+                            their satisfaction. We aim not only to meet our customers' needs but also to exceed their expectations by 
+                            providing superior services that save them time and money, making their work more efficient and effortless. 
+                            Our goal is to help our clients succeed, and we continually strive to eliminate any mistakes or omissions on our part.
                         </p>
                         <p class="text-justify">
-                          RapidBrains makes sure that the client achieves tangible, high impact results. Our approach to every work is simple and have
-given the clients with answers they need to make critical business decisions with greater certainty. <br>We have put up with the
-values of complete transparency, ethics and quality services, complimented by dynamic leadership & strong management.
-We offer you technique/strategy for your business <br>with innovation that could lead to growth while driving bottom-line
-benefits giving it a competitive edge.
+                            RapidBrains is dedicated to achieving tangible, high-impact results for our clients. Our straightforward approach
+                            <br> delivers the answers needed for critical business decisions with greater certainty. We uphold values of
+                              transparency, ethics, and quality service, supported by dynamic leadership and strong management. We offer
+                               innovative strategies <br>and techniques that drive growth and provide a competitive edge.
                         </p>
                         <p class="text-justify">
-                            Looking ahead, we are focused on accelerating the execution of our growth strategies <br>while continuing to
-build ourself as a prominent brand. Let's make its certain that through<br> integrity and quality service we
-should make our customers smile :-)
+                            Looking ahead, we are focused on accelerating the execution of our growth strategies and continuing <br>to build
+                            RapidBrains as a prominent brand. Let us ensure that through integrity and quality service,<br> we continue to make 
+                             our customers smile.
+                        </p>
+
+                        <p class="text-justify">
+                              Thank you for your continued support and trust in RapidBrains.
                         </p>
 
                         <div class="blockquote-details">

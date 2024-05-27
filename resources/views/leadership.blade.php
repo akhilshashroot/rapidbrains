@@ -139,6 +139,24 @@
               </div><br><br>
               <!-- /div -->
             </div>
+
+            <div class="col-md-6 col-lg-3">
+              <div class="position-relative">
+                <div class="shape rounded bg-soft-blue rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
+                <div class="card">
+                  <div class="card-body">
+                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" alt="" />
+                    <h4 class="mb-1">Arjun Narayanan</h4>
+                    <div class="meta mb-2 fs-12">Chief Growth Officer</div>
+                    <!-- /.social -->
+                  </div>
+                  <!--/.card-body -->
+                </div>
+                <!-- /.card -->
+              </div><br><br>
+              <!-- /div -->
+            </div>
+
             <!--/column -->
             <div class="col-md-6 col-lg-3">
               <div class="position-relative">
@@ -175,22 +193,7 @@
             </div>
             <!--/column -->
             
-            <div class="col-md-6 col-lg-3">
-              <div class="position-relative">
-                <div class="shape rounded bg-soft-blue rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
-                <div class="card">
-                  <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" srcset="https://www.rapidbrains.com/assets/img/leadership/arjun.jpg" alt="" />
-                    <h4 class="mb-1">Arjun Narayanan</h4>
-                    <div class="meta mb-2 fs-12">Chief Growth Officer</div>
-                    <!-- /.social -->
-                  </div>
-                  <!--/.card-body -->
-                </div>
-                <!-- /.card -->
-              </div><br><br>
-              <!-- /div -->
-            </div>
+            
             <!--/column -->
             <div class="col-md-6 col-lg-3">
               <div class="position-relative">
