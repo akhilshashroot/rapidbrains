@@ -151,7 +151,7 @@
             <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/tri.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
             <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="{{asset('assets/img/svg/circle.svg')}}" class="svg-inject icon-svg w-100 h-100" alt="" /></div>-->
             <div data-cues="slideInDown" data-group="page-title">
-              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">Talent marketplace to hire the top<br /><span class="rotator-fade text-primary">Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
+              <h1 class="display-1 fs-64 mb-5 mx-md-10 mx-lg-0">Talent marketplace to hire the top <br /><span class="rotator-fade text-primary"> Developers.,Architects.,Technical Leads.,Consultants.</span></h1>
               <p class="lead fs-24 mb-8">Build your global team, rapidly! </p>
               <div class="d-flex justify-content-center" data-cues="slideInDown"  >
               <span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>
@@ -178,7 +178,7 @@
   <div class="row mt-11">
 			<div class="col-lg-6 col-xl-53 mx-auto text-center">
 				<h2 class="display-6 mb-3">Yes, you are in good company!</h2>
-				<p class="lead mb-5 px-md-16 px-lg-33">With 14+ years of experience, we have served 1200+ companies from 80+ countries</p>
+				<p class="lead mb-5 px-md-16 px-lg-33">With 15+ years of experience, we have served 1500+ companies from 80+ countries</p>
 
 			</div>
 			<!-- /column -->
@@ -548,7 +548,7 @@
                     <div class="icon btn btn-circle btn-lg btn-soft-yellow pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-user-check"></i> </div>
                   </div>
                   <div>
-                    <h3 class="counter mb-1">1.2k+</h3>
+                    <h3 class="counter mb-1">1.5k+</h3>
                     <p class="mb-0">Happy Customers</p>
                   </div>
                 </div>
@@ -566,7 +566,7 @@
                     <div class="icon btn btn-circle btn-lg btn-soft-aqua pe-none mx-auto me-4 mb-lg-3 mb-xl-0"> <i class="uil uil-trophy"></i> </div>
                   </div>
                   <div>
-                    <h3 class="counter mb-1">14+</h3>
+                    <h3 class="counter mb-1">15+</h3>
                     <p class="mb-0">Years in Industry </p>
                   </div>
                 </div>

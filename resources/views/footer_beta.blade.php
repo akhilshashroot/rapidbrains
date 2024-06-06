@@ -58,7 +58,7 @@
             <h4 class="widget-title  mb-3">Learn More</h4>
             <ul class="list-unstyled text-reset mb-0">
               <li class="ft-pad"><a href="https://talents.rapidbrains.com/">Hire Talents</a></li>
-              <li class="ft-pad"><a href="https://jobs.rapidbrains.com/">Active Contracts</a></li>
+              <!-- <li class="ft-pad"><a href="https://jobs.rapidbrains.com/">Active Contracts</a></li> -->
               <li class="ft-pad"><a href="https://www.rapidbrains.com/about">About Us</a></li>
               <li class="ft-pad"><a href="https://www.rapidbrains.com/benefits">Our Benefits</a></li>
               <li class="ft-pad"><a href="https://www.rapidbrains.com/process">The Process</a></li>

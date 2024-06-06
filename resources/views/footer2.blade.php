@@ -57,7 +57,7 @@
             <h4 class="widget-title  mb-3">Learn More</h4>
             <ul class="list-unstyled text-reset mb-0">
               <li class="ft-pad"><a href="https://talents.rapidbrains.com/">Hire Talents</a></li>
-              <li class="ft-pad"><a href="https://jobs.rapidbrains.com/">Active Contracts</a></li>
+              <!-- <li class="ft-pad"><a href="https://jobs.rapidbrains.com/">Active Contracts</a></li> -->
               <li class="ft-pad"><a href="{{route('about')}}">About Us</a></li>
               <li class="ft-pad"><a href="{{route('benefits')}}">Our Benefits</a></li>
               <li class="ft-pad"><a href="{{route('process')}}">The Process</a></li>
