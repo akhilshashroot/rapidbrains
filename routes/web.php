@@ -159,6 +159,18 @@ Route::get('/hire-remote-ruby-developers',[AdditionalPagesController::class, 'hi
 
 
 
+Route::get('/hire-general-virtual-assistant',[AdditionalPagesController::class, 'hireGeneralVirtualAssistant'])->name('hire-general-virtual-assistant');
+Route::get('/hire-personal-assistant',[AdditionalPagesController::class, 'hirePersonalAssistant'])->name('hire-personal-assistant');
+Route::get('/hire-customer-service-representative',[AdditionalPagesController::class, 'hireCustomerServiceRepresentative'])->name('hire-customer-service-representative');
+Route::get('/hire-dedicated-receptionist',[AdditionalPagesController::class, 'hireDedicatedReceptionist'])->name('hire-dedicated-receptionist');    
+Route::get('/hire-digital-marketing-specialist',[AdditionalPagesController::class, 'hireDigitalMarketingSpecialist'])->name('hire-digital-marketing-specialist');    
+Route::get('/hire-social-media-manager',[AdditionalPagesController::class, 'hireSocialMediaManager'])->name('hire-social-media-manager');    
+Route::get('/hire-business-development-executive',[AdditionalPagesController::class, 'hireBusinessDevelopmentExecutive'])->name('hire-business-development-executive');    
+Route::get('/hire-lead-generation-specialist',[AdditionalPagesController::class, 'hireLeadGenerationSpecialist'])->name('hire-lead-generation-specialist');    
+Route::get('/hire-english-virtual-assistant',[AdditionalPagesController::class, 'hireEnglishVirtualAssistant'])->name('hire-english-virtual-assistant');    
+Route::get('/hire-spanish-virtual-assistant',[AdditionalPagesController::class, 'hireSpanishVirtualAssistant'])->name('hire-spanish-virtual-assistant');    
+
+
 
 Route::get('/hire-talents', [AdditionalPagesController::class, 'hireTalents'])->name('hire-app-deelopers');
 Route::get('/rates-usd', [App\Http\Controllers\CustomSearchController::class, 'index'])->name('customsearch.index');

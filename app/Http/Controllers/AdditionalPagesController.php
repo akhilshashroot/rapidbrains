@@ -872,6 +872,88 @@ class AdditionalPagesController extends Controller
         return view('services.hire-remote-ruby-developers',compact('data'));
     }
 
+    public function hireGeneralVirtualAssistant() {
+        $data['title']= "Hire Top virtual Assistants  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire General virtual assistants available 24/7 for affordable and comprehensive support. Get reliable help for your business needs round the clock";
+        $data['canonical']= "https://www.rapidbrains.com/hire-general-virtual-assistant";
+        return view('services.assistant.hire-general-virtual-assistant',compact('data'));
+    }
+
+    public function hirePersonalAssistant() {
+        $data['title']= "Top Personal Assistants for hire in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find professional personal assistants for hire with our 24/7 personal assistant service. Streamline your tasks with our dedicated personal assistant services from RapidBrains";
+        $data['canonical']= "https://www.rapidbrains.com/hire-personal-assistant";
+        return view('services.assistant.hire-personal-assistant',compact('data'));
+    }
+
+    public function hireDedicatedReceptionist() {
+        $data['title']= "Hire Dedicated Receptionist  in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find dedicated receptionists for hire with our 24/7 receptionist service. Streamline your front desk operations with our dedicated receptionist services from RapidBrains";
+        $data['canonical']= "https://www.rapidbrains.com/hire-dedicated-receptionist";
+        return view('services.assistant.hire-dedicated-receptionist',compact('data'));
+    }
+
+    public function hireCustomerServiceRepresentative() {
+        $data['title']= "Hire Customer Service Representative in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find professional customer service representatives for hire with our 24/7 service. Enhance your customer support with dedicated representatives from RapidBrains.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-customer-service-representative";
+        return view('services.assistant.hire-customer-service-representative',compact('data'));
+    }
+
+    public function hireDigitalMarketingSpecialist() {
+        $data['title']= "Digital marketing Specialist for hire in 24 hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire a top digital marketing specialist in 24 hours. Our affordable, remote digital marketing experts provide cost-effective solutions to boost your online presence";
+        $data['canonical']= "https://www.rapidbrains.com/hire-digital-marketing-specialist";
+        return view('services.assistant.hire-digital-marketing-specialist',compact('data'));
+    }
+
+    public function hireSocialMediaManager() {
+        $data['title']= "Social Media Manager for hire in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Affordable social media managers for hire! Enhance your brand's online presence, engage with audiences, and see real results. Hire remote experts in 24 hours";
+        $data['canonical']= "https://www.rapidbrains.com/hire-social-media-manager";
+        return view('services.assistant.hire-social-media-manager',compact('data'));
+    }
+
+
+    public function hireLeadGenerationSpecialist() {
+        $data['title']= "Grab the Top Lead generation experts from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Discover top lead generation specialists and services. Outsource to experts for effective B2B and B2C lead generation solutions. Boost your business growth today";
+        $data['canonical']= "https://www.rapidbrains.com/hire-lead-generation-specialist";
+        return view('services.assistant.hire-lead-generation-specialist',compact('data'));
+    }
+
+    public function hireBusinessDevelopmentExecutive() {
+        $data['title']= "Business Development Executive for Hire in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire Top-notch business development executive in just 24 hours. Our cost-effective, remote experts offer affordable solutions to accelerate your business growth and expand your market reach.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-business-development-executive";
+        return view('services.assistant.hire-business-development-executive',compact('data'));
+    }
+
+    public function hireEnglishVirtualAssistant() {
+        $data['title']= "Hire an English Virtual Assistant in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire a top English virtual assistant in 24 hours. Our affordable, remote English-speaking VAs provide cost-effective solutions for your business needs.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-english-virtual-assistant";
+        return view('services.assistant.hire-english-virtual-assistant',compact('data'));
+    }
+
+    public function hireSpanishVirtualAssistant() {
+        $data['title']= "Hire a Spanish Virtual Assistant in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire a top Spanish virtual assistant within 24 hours. Our affordable, multilingual remote experts offer cost-effective, tailored solutions for your business needs.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-spanish-virtual-assistant";
+        return view('services.assistant.hire-spanish-virtual-assistant',compact('data'));
+    }
+
+
 
 
 
