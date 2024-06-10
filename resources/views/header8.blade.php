@@ -267,7 +267,7 @@
                           <li><a class="dropdown-item"  href="{{route('globalApproach')}}">Global Approach</a></li>
                           <li><a class="dropdown-item"  href="{{route('capAbilities')}}">Capabilities</a></li>
 
-                          <li><a class="dropdown-item" href="https://jobs.rapidbrains.com/">Jobs at RapidBrains</a></li>
+                          <li><a class="dropdown-item" href="https://www.rapidbrains.com/jobs">Jobs at RapidBrains</a></li>
                           <!-- <li><a class="dropdown-item" href="../../single-project4.html">Single Project IV</a></li> -->
                         </ul>
                       </div>
