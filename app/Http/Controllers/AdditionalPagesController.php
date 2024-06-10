@@ -953,6 +953,26 @@ class AdditionalPagesController extends Controller
         return view('services.assistant.hire-spanish-virtual-assistant',compact('data'));
     }
 
+    public function hireGermanVirtualAssistant() {
+        $data['title']= "German Virtual Assistant for hire in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Secure a top German virtual assistant within 24 hours. Our multilingual, remote experts offer cost-effective, customized solutions for your business needs.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-german-virtual-assistant";
+        return view('services.assistant.hire-german-virtual-assistant',compact('data'));
+    }
+
+    public function hireFrenchVirtualAssistant() {
+        $data['title']= "Hire a French Virtual Assistant in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire a French virtual assistant quickly. Our remote professionals offer cost-effective solutions for your business needs.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-french-virtual-assistant";
+        return view('services.assistant.hire-french-virtual-assistant',compact('data'));
+    }
+
+
+
+
+
 
 
 

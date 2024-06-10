@@ -169,6 +169,8 @@ Route::get('/hire-business-development-executive',[AdditionalPagesController::cl
 Route::get('/hire-lead-generation-specialist',[AdditionalPagesController::class, 'hireLeadGenerationSpecialist'])->name('hire-lead-generation-specialist');    
 Route::get('/hire-english-virtual-assistant',[AdditionalPagesController::class, 'hireEnglishVirtualAssistant'])->name('hire-english-virtual-assistant');    
 Route::get('/hire-spanish-virtual-assistant',[AdditionalPagesController::class, 'hireSpanishVirtualAssistant'])->name('hire-spanish-virtual-assistant');    
+Route::get('/hire-german-virtual-assistant',[AdditionalPagesController::class, 'hireGermanVirtualAssistant'])->name('hire-german-virtual-assistant');    
+Route::get('/hire-french-virtual-assistant',[AdditionalPagesController::class, 'hireFrenchVirtualAssistant'])->name('hire-french-virtual-assistant');    
 
 
 

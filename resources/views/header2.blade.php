@@ -232,8 +232,8 @@
                               <ul class="list-unstyled">
                                 <li><a class="dropdown-item" href="{{route('hire-english-virtual-assistant')}}">English Virtual Assistant</a></li>
                                 <li><a class="dropdown-item" href="{{route('hire-spanish-virtual-assistant')}}">Spanish Virtual Assistant</a></li>
-                                <!-- <li><a class="dropdown-item" href="{{route('hire-vapt-testers')}}">French Virtual Assistant</a></li>
-                                <li><a class="dropdown-item" href="{{route('hire-grafana-developers')}}">German Virtual Assistant</a></li> -->
+                                <li><a class="dropdown-item" href="{{route('hire-german-virtual-assistant')}}">German Virtual Assistant</a></li>
+                                <li><a class="dropdown-item" href="{{route('hire-french-virtual-assistant')}}">French Virtual Assistant</a></li>
                                 
                               </ul>
                             </div>
