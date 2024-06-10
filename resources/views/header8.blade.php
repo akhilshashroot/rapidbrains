@@ -217,7 +217,7 @@
                               <h6 class="dropdown-header" style="padding-left: 25px; font-size: 0.65rem; white-space: nowrap;">Sales </h6>
                               <ul class="list-unstyled">
                                 <li><a class="dropdown-item" href="{{route('hire-lead-generation-specialist')}}">Lead Generation Specialist</a></li>
-                                <li><a class="dropdown-item" href="{{route('hire-business-development-executive')}}">Business Development Executives</a></li>
+                                <li><a class="dropdown-item" href="{{route('hire-business-development-executive')}}">Business Development </a></li>
                                
                               </ul>
                              
