@@ -969,12 +969,12 @@ class AdditionalPagesController extends Controller
         return view('services.assistant.hire-french-virtual-assistant',compact('data'));
     }
 
-
-
-
-
-
-
-
+    public function hireBookkeepingAssistant() {
+        $data['title']= "Top Bookkeeping Assistants for Hire in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find professional bookkeeping assistants for hire with our 24/7 bookkeeping assistant service. Streamline your financial tasks with our dedicated bookkeeping assistant services from RapidBrains.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-bookkeeping-assistant";
+        return view('services.assistant.hire-bookkeeping-assistant',compact('data'));
+    }
 
 }

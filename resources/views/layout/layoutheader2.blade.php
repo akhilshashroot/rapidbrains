@@ -112,10 +112,10 @@
       <!--Header Starts  -->
       <!--Header Starts  -->
       @if (Route::currentRouteName() == 'globalApproach')
-      @include('header5')
+      @include('header2')
 
       @else
-      @include('header5')
+      @include('header2')
      @endif
    @yield('section')
 

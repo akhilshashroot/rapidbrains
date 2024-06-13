@@ -390,7 +390,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/bar-chart.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="bar-chart" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Data Analysis</h3>
@@ -407,7 +407,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/email-3.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="email-3" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Email Marketing</h3>
@@ -423,7 +423,7 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="design" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="refresh" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Sales Funnel Optimization</h3>
@@ -441,7 +441,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/growth.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="growth" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Lead Nurturing</h3>
@@ -458,7 +458,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/touch-screen.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="touch-screen" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Technological Savvy</h3>

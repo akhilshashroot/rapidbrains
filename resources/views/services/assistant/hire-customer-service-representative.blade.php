@@ -441,7 +441,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/team.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="team" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Team Collaboration</h3>

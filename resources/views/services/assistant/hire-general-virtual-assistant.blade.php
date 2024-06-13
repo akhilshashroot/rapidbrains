@@ -395,7 +395,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="Browser" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/agenda.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="agenda" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Strong Organizational Skills</h3>
@@ -447,7 +447,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/server.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="server" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/clock.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="clock" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Time Management Skills</h3>
@@ -464,7 +464,7 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loyalty.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="loyalty" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Customer Service Skills</h3>

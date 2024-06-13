@@ -192,7 +192,7 @@
                               <ul class="list-unstyled">
                                 <li><a class="dropdown-item" href="{{route('hire-general-virtual-assistant')}}">General Virtual Assistant</a></li>
                                 <li><a class="dropdown-item"  href="{{route('hire-personal-assistant')}}">Personal Assistant </a></li>
-                                <!-- <li><a class="dropdown-item" href="{{route('hire-angular-developers')}}">Bookkeeping Assistant</a></li> -->
+                                <li><a class="dropdown-item" href="{{route('hire-bookkeeping-assistant')}}">Bookkeeping Assistant</a></li>
                               </ul>
                             </div>
                             <div class="col-lg-3">

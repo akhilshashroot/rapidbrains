@@ -373,7 +373,7 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/check-list.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="check-list" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Administrative Support</h3>
@@ -390,7 +390,7 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/chat.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="chat" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Communication</h3>
@@ -407,7 +407,7 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="tools" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/hourglass.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="hourglass" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Time Management</h3>
@@ -441,7 +441,7 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/refresh.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="refresh" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/agenda.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="agenda" />
             </div>
             <div>
               <h3 class="fs-21 mb-2">Organizational Skills</h3>
