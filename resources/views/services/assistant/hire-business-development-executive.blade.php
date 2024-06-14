@@ -334,7 +334,7 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">CONNECT WITH TOP TALENT WORLDWIDE!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Business Development Executives</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of Top Business Development Executives</h3>
       </div>
       <!-- /column -->
     </div>
@@ -360,7 +360,7 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Remote Business Development Executives</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Remote Business Development Executive</h3>
         <p class="mb-7">
 
         When hiring a remote business development executive, it's crucial to ensure they have the right skills. Look for proficiency in market research, sales strategies, relationship building, negotiation, and strategic planning. Additionally, expertise in CRM tools, excellent communication skills, and the ability to drive business growth are essential.

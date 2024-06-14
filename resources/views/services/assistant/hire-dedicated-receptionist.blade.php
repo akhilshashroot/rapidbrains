@@ -333,7 +333,7 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">CONNECT WITH TOP TALENT WORLDWIDE!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Dedicated Receptionists</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of Top Dedicated Receptionists</h3>
       </div>
       <!-- /column -->
     </div>
@@ -359,7 +359,7 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Dedicated Receptionists</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Dedicated Receptionist</h3>
         <p class="mb-7">
        
         When hiring a dedicated receptionist, look for excellent communication, strong organizational skills, technical proficiency with office and communication tools, problem-solving abilities, adaptability, time management, self-motivation, customer service, and data security awareness.

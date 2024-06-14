@@ -137,7 +137,7 @@
                  <p class="lead fs-18 mb-8">
                  Want assistance for your French-speaking customers? Secure an experienced French virtual assistant within 24 hours
                 </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=French Virtual Assistant" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all French Virtual Assistant with rates <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=french virtual assistant" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all French Virtual Assistant with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -336,14 +336,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">CONNECT WITH TOP TALENT WORLDWIDE!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled French Virtual Assistant</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of Top French Virtual Assistant</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center"> 
-      <a href="https://talents.rapidbrains.com/filter?skill=French Virtual Assistant" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all French Virtual Assistant with rates<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=french virtual assistant" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all French Virtual Assistant with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>

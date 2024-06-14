@@ -136,7 +136,7 @@
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Bookkeeping Assistant in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Experience our professional and reliable bookkeeping assistant service with remote bookkeeping assistants available 24/7. Hire top-notch assistance within 24 hours to streamline your financial tasks and boost productivity.
                   </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=Bookkeeping Assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Bookkeeping Assistants with rates <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=bookkeeping assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Bookkeeping Assistants with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -342,7 +342,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center"> 
-      <a href="https://talents.rapidbrains.com/filter?skill=Bookkeeping Assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all Bookkeeping Assistants with rates<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=bookkeeping assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all Bookkeeping Assistants with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -361,7 +361,7 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Remote Bookkeeping Assistants</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Remote Bookkeeping Assistant</h3>
         <p class="mb-7">
 
         When hiring a remote bookkeeping assistant, look for excellent communication, strong organizational skills, technical proficiency with accounting software, problem-solving abilities, adaptability, time management, self-motivation, customer service, and data security awareness.

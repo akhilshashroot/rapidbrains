@@ -345,7 +345,7 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">CONNECT WITH TOP TALENT WORLDWIDE!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled Personal Assistants</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of Top Personal Assistants</h3>
       </div>
       <!-- /column -->
     </div>

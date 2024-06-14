@@ -977,4 +977,30 @@ class AdditionalPagesController extends Controller
         return view('services.assistant.hire-bookkeeping-assistant',compact('data'));
     }
 
+    public function hireHelpdeskSupportTechnician() {
+        $data['title']= "Top Helpdesk Support Technicians for hire from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Find expert Helpdesk Support Technicians for hire 24/7 with RapidBrains. Our dedicated technicians offer IT troubleshooting, desktop support, and network solutions to streamline your operations.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-helpdesk-support-technician";
+        return view('services.assistant.hire-helpdesk-support-technician',compact('data'));
+    }
+
+    public function hireContentWriters() {
+        $data['title']= "Top Content Writers for Hire in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Top content writers for hire! Get professional writing services from skilled content writers at RapidBrains. Enhance your online presence with quality content.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-content-writers";
+        return view('services.assistant.hire-content-writers',compact('data'));
+    }
+
+    public function hireGraphicsDesigners() {
+        $data['title']= "Hire Top Graphics Designers in 24 Hours from RapidBrains";
+		$data['keywords']= "";
+		$data['description']= "Hire remote graphics designers available 24/7 for affordable and comprehensive support. Get reliable help for your design needs round the clock.";
+        $data['canonical']= "https://www.rapidbrains.com/hire-graphics-designer";
+        return view('services.assistant.hire-graphics-designer',compact('data'));
+    }
+
+
+
 }

@@ -200,7 +200,7 @@
                               <ul class="list-unstyled">
                                <li><a class="dropdown-item" href="{{route('hire-dedicated-receptionist')}}">Dedicated Receptionist</a></li>
                                 <li><a class="dropdown-item" href="{{route('hire-customer-service-representative')}}">Customer Service Representative</a></li>
-                                <!-- <li><a class="dropdown-item" href="{{route('hire-dedicated-receptionist')}}">Helpdesk Support Technician</a></li> -->
+                                <li><a class="dropdown-item" href="{{route('hire-helpdesk-support-technician')}}">Helpdesk Support Technician</a></li>
                                 
                               </ul>
                             </div>
@@ -209,8 +209,8 @@
                               <ul class="list-unstyled">
                                 <li><a class="dropdown-item" href="{{route('hire-digital-marketing-specialist')}}">Digital Marketing Specialist</a></li>
                                 <li><a class="dropdown-item" href="{{route('hire-social-media-manager')}}">Social Media Manager</a></li>                     
-                                <!-- <li><a class="dropdown-item" href="{{route('hire-full-stack-developers')}}">Content Writer</a></li>
-                                <li><a class="dropdown-item" href="{{route('hire-react-node-developers')}}">Graphic Designer</a></li> -->
+                                <li><a class="dropdown-item" href="{{route('hire-content-writers')}}">Content Writer</a></li>
+                                  <li><a class="dropdown-item" href="{{route('hire-graphics-designer')}}">Graphic Designer</a></li>
                               </ul>
                             </div>
                             <div class="col-lg-3">

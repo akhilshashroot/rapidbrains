@@ -135,7 +135,7 @@
                <div data-cues="slideInDown" data-group="page-title">
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">English Virtual Assistants For Hire in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8"> Need efficient administrative support? Hire an English virtual assistant in just 24 hours! Our affordable, remote VAs offer cost-effective solutions tailored to your business needs.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=English Virtual Assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all English Virtual Assistants with rates <i class="uil uil-arrow-up-right"></i></a>
+                 <a href="https://talents.rapidbrains.com/filter?skill=english virtual assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all English Virtual Assistants with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -334,14 +334,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">CONNECT WITH TOP TALENT WORLDWIDE!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of skilled English Virtual Assistants</h3>
+        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of Top English Virtual Assistants</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center"> 
-      <a href="https://talents.rapidbrains.com/filter?skill=English Virtual Assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all English Virtual Assistants with rates<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=english virtual assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all English Virtual Assistants with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -360,7 +360,7 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Remote English Virtual Assistants</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Remote English Virtual Assistant</h3>
         <p class="mb-7">
 
         When hiring a remote English virtual assistant, it's vital to ensure they have the necessary skills. Look for expertise in administrative support, strong communication abilities, efficient time management, and technical proficiency. Additionally, they should be skilled in office software, possess excellent organizational abilities, and be adaptable to various tasks.
