@@ -136,7 +136,7 @@
                  <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Top Spanish Virtual Assistants in 24 Hours!</h1>
                  <p class="lead fs-18 mb-8">Require effective assistance for your Spanish-speaking clientele? Secure a top-tier Spanish virtual assistant in just 24 hours! Our budget-friendly, multilingual remote professionals deliver tailored, cost-effective solutions to suit your business requirements.
                   </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=spanish virtual assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Spanish Virtual Assistants with rates <i class="uil uil-arrow-up-right"></i></a>
+                  <a href="https://talents.rapidbrains.com/filter?skill=" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Talents <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
                  <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
@@ -342,7 +342,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center"> 
-      <a href="https://talents.rapidbrains.com/filter?skill=spanish virtual assistants" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all Spanish Virtual Assistants with rates<i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Talents <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>

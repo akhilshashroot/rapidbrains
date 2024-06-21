@@ -55,6 +55,7 @@
                                 <li><a class="dropdown-item" href="{{route('hire-pandas-developers')}}">Pandas Developer</a></li>
                                 <li><a class="dropdown-item" href="{{route('hire-numpy-developers')}}">NumPY Developers</a></li>
                                 <li><a class="dropdown-item" href="{{route('hire-scikit-learn-developers')}}">Scikit-learn Developers</a></li>
+                                <li><a class="dropdown-item" href="{{route('hire-remote-openai-developers')}}">Open AI Developers</a></li>
                               </ul>
                             </div>
                             <div class="col-lg-2">
@@ -290,7 +291,7 @@
                   <div>
 
                     <a href="mailto:contact@rapidbrains.com" class="link-inverse">contact@rapidbrains.com</a>
-                    <br /> +91 97784 26317 <br />
+                    <br /> +44 (203) 808 8373 <br />
 
 
                     <nav class="nav social social-white mt-4">

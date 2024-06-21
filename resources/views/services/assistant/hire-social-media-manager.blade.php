@@ -138,7 +138,7 @@
                    Struggling to elevate your social media game? Hire a professional social media manager in just 24 hours! Our skilled, remote experts deliver personalized, budget-friendly strategies to meet your unique business needs and achieve your marketing goals.
 
                   </p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=social media manager" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Social Media Managers with rates<i class="uil uil-arrow-up-right"></i></a>
+                  <a href="https://talents.rapidbrains.com/filter?skill=" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Talents <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
                  
                </div>
@@ -344,7 +344,7 @@
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center">
-      <a href="https://talents.rapidbrains.com/filter?skill=social media manager" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all Social Media Managers with rates <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Talents <i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>

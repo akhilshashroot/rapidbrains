@@ -133,11 +133,16 @@
                <div class="position-absolute shape fuchsia w-6 d-none d-lg-block" style="top: 0%; right: -25%; transform: rotate(70deg);" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/tri.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div class="position-absolute shape yellow w-6 d-none d-lg-block" style="bottom: 25%; right: -17%;" data-cue="fadeIn" data-delay="1500"><img src="https://www.rapidbrains.com/assets/img/svg/circle.svg" class="svg-inject icon-svg w-100 h-100" alt="" /></div>
                <div data-cues="slideInDown" data-group="page-title">
-                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Dedicated Receptionist in 24 Hours!</h1>
-                 <p class="lead fs-18 mb-8">Experience our professional and reliable dedicated receptionist service with receptionists available 24/7. Hire top-notch assistance within 24 hours to streamline your front desk operations and boost efficiency.</p>
-                 <a href="https://talents.rapidbrains.com/filter?skill=" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Talents <i class="uil uil-arrow-up-right"></i></a>
+                 <h1 class="display-1 fs-62 mb-5 mx-md-10 mx-lg-0">Hire Remote Helpdesk Support Technician in 24 Hours!</h1>
+                 <p class="lead fs-18 mb-8">
+                  
+                 Experience effective helpdesk support with our round-the-clock remote technicians. Rapidly hire Helpdesk Support Technicians to optimize IT productivity
+
+                  </p>
+                 <a href="https://talents.rapidbrains.com/filter?skill= Helpdesk Support Technician" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">List all  Helpdesk Support Technician with rates <i class="uil uil-arrow-up-right"></i></a>
                  <div class="d-flex justify-content-center" data-cues="slideInDown"  >
-                 
+                 <!--<span><a class="btn btn-lg btn-primary rounded-xl mx-1" href="https://talents.rapidbrains.com/" style="color:#fff;">Hire Talents</a></span>-->
+                 <!-- <span><a class="btn btn-lg btn-fuchsia rounded-xl mx-1">Contact Us</a></span> -->
                </div>
                </div>
 
@@ -162,15 +167,15 @@
   <div class="container py-14 py-md-16">
     <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
       <div class="col-lg-5 order-lg-2">
-        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 100%;" src="https://www.rapidbrains.com/assets/img/services/receptionist.webp" srcset="https://www.rapidbrains.com/assets/img/services/receptionist.webp" alt="receptionist Logo" /></figure>
+        <figure><img class="w-auto" style="width: 500px; height: 500px; max-width: 100%;" src="https://www.rapidbrains.com/assets/img/services/hire-help-desk-support-technician.webp" srcset="https://www.rapidbrains.com/assets/img/services/hire-help-desk-support-technician.webp" alt="hire-help-desk-support-technician Logo" /></figure>
       </div>
       <!--/column -->
       <div class="col-lg-7">
         <h2 class="fs-15 text-uppercase text-line text-primary mb-3">Our Benefits</h2>
-        <h3 class="display-2 mb-7">Why Hire Dedicated Receptionist from RapidBrains?</h3>
+        <h3 class="display-2 mb-7">Why Hire Remote Helpdesk Support Technicians from RapidBrains?</h3>
         <p>
           
-        Looking for a dedicated receptionist for hire? Our service provides professional and reliable receptionists available 24/7. With RapidBrains, you can secure top-notch assistance within 24 hours, ensuring your front desk operates smoothly. Enhance productivity, enjoy unparalleled convenience, and experience flexibility with our dedicated receptionists. Hire from RapidBrains today for a seamless and efficient front desk management solution
+        Seeking expert helpdesk support? Our service provides dedicated remote Helpdesk Support Technicians, available 24/7. RapidBrains guarantees prompt assistance and efficient IT management for seamless operations. Benefit from flexibility, reliability, and expert service with our remote technicians.
 
       </p>
         <div class="accordion accordion-wrapper" id="accordionExample">
@@ -254,8 +259,8 @@
         <!--<h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>-->
         <h3 class="display-4 mb-5">Our Service Is Meticulously Tailored to Meet Your Specific Requirements</h3>
         <p>
-        
-        RapidBrains makes it easy to hire employees without the need for establishing a local entity. We manage the hiring process, onboarding, HR tasks, and ensure compliance with local labor laws, covering minimum wage, taxes, health insurance, and termination procedures.
+
+        RapidBrains simplifies the process of hiring remote Helpdesk Support Technicians, eliminating the need for setting up a local entity. We manage the complete hiring process, including onboarding, HR tasks, and ensure full compliance with labor laws, covering payroll, benefits, and termination procedures.
 
         </p>
             <a href="https://www.rapidbrains.com/process" class="btn btn-primary rounded-pill" style="color: #ffffff;">Learn More</a>
@@ -333,14 +338,14 @@
     <div class="row mb-8">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fs-16 text-uppercase text-black mb-3">CONNECT WITH TOP TALENT WORLDWIDE!</h2>
-        <h3 class="display-4 mb-0">Trusted by over 1.2K customers, we help you tap into a vast pool of Top Dedicated Receptionists</h3>
+        <h3 class="display-4 mb-0">Trusted by numerous clients, we provide access to a global network of Top Helpdesk Support Technicians.</h3>
       </div>
       <!-- /column -->
     </div>
     <!-- /.row -->
     <div class="row">
       <div class="col-lg-5 mx-auto text-center"> 
-      <a href="https://talents.rapidbrains.com/filter?skill=" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;">Hire Talents <i class="uil uil-arrow-up-right"></i></a>
+      <a href="https://talents.rapidbrains.com/filter?skill=Helpdesk Support Technician" class="btn btn-lg btn-primary btn-icon btn-icon-end mx-auto" style="color: #fff; max-width: 100%;" >List all  Helpdesk Support Technician with rates<i class="uil uil-arrow-up-right"></i></a>
       </div>
       <!-- /column -->
     </div>
@@ -359,10 +364,10 @@
   <div class="container py-14 py-md-16">
     <div class="row d-flex align-items-start gy-10">
       <div class="col-lg-5 position-lg-sticky" style="top: 8rem;">
-        <h3 class="display-3 mb-5">Must-Have Skills to Look for When Hiring a Dedicated Receptionist</h3>
+        <h3 class="display-3 mb-5">Must-Have Skills When Hiring a Remote Helpdesk Support Technician</h3>
         <p class="mb-7">
-       
-        When hiring a dedicated receptionist, look for excellent communication, strong organizational skills, technical proficiency with office and communication tools, problem-solving abilities, adaptability, time management, self-motivation, customer service, and data security awareness.
+
+        When hiring a remote Helpdesk Support Technician, it's crucial to look beyond basic qualifications. These professionals play a pivotal role in maintaining your IT infrastructure, requiring a diverse set of technical skills to ensure smooth operations
 
         </p>
         <!--<a href="https://talents.rapidbrains.com/filter?skill=react" class="btn btn-lg btn-primary btn-icon btn-icon-end">Hire Now <i class="uil uil-arrow-up-right"></i></a>-->
@@ -372,13 +377,13 @@
         <div class="card bg-soft-fuchsia mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/agenda.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="agenda" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-fuchsia me-5" alt="search-2" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Strong Organizational Skills</h3>
+              <h3 class="fs-21 mb-2">Technical Proficiency</h3>
               <p class="mb-0">
 
-              The ability to manage multiple tasks and priorities is crucial. Look for a candidate who excels in scheduling, time management, and maintaining order in a virtual workspace.
+              Expertise in diagnosing and resolving hardware and software issues promptly.
 
             </p>
             </div>
@@ -389,13 +394,13 @@
         <div class="card bg-soft-aqua mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/search-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="search" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md text-aqua me-5" alt="puzzle" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">CRM Software Knowledge</h3>
+              <h3 class="fs-21 mb-2">Network Troubleshooting</h3>
               <p class="mb-0">
                 
-              Familiarity with customer relationship management (CRM) systems like Salesforce or HubSpot.
+              Ability to troubleshoot network connectivity issues, including LAN/WAN, TCP/IP, DNS, DHCP.
 
               </p>
             </div>
@@ -406,13 +411,13 @@
         <div class="card bg-soft-yellow mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/clock.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="clock" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/design.svg" class="svg-inject icon-svg icon-svg-md text-yellow me-5" alt="design" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Time Management Skills</h3>
+              <h3 class="fs-21 mb-2">Operating Systems Knowledge</h3>
               <p class="mb-0">
                 
-              Effective time management is essential. Your receptionist must prioritize tasks, meet deadlines, and manage their time efficiently without direct supervision.
+              Proficiency in Windows, macOS, and possibly Linux environments.
 
             </div>
           </div>
@@ -422,13 +427,13 @@
         <div class="card bg-soft-leaf mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/chat.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="chat" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/tools.svg" class="svg-inject icon-svg icon-svg-md text-leaf me-5" alt="tools" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Proficiency with Communication Tools</h3>
+              <h3 class="fs-21 mb-2">Hardware Maintenance</h3>
               <p class="mb-0">
                 
-              Your receptionist should be skilled in using communication tools such as phone systems, email, and other relevant software to manage calls and messages efficiently.
+              Experience in hardware installation, configuration, and troubleshooting.
 
               </p>
             </div>
@@ -440,13 +445,13 @@
         <div class="card bg-soft-orange mb-6">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/telephone-2.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="telephone-2" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/browser.svg" class="svg-inject icon-svg icon-svg-md text-grape me-5" alt="browser" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Excellent Communication Skills</h3>
+              <h3 class="fs-21 mb-2">Software Applications</h3>
               <p class="mb-0">
   
-             A receptionist must be proficient in written and verbal communication to ensure clear and effective interaction with your team and clients.
+              Familiarity with business applications and troubleshooting software-related issues.
 
               </p>
             </div>
@@ -457,14 +462,13 @@
         <div class="card bg-soft-grape">
           <div class="card-body d-flex flex-row">
             <div>
-              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/loyalty.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="loyalty" />
+              <img src="https://www.rapidbrains.com/assets/img/icons/lineal/paper-plane.svg" class="svg-inject icon-svg icon-svg-md text-orange me-5" alt="paper plane" />
             </div>
             <div>
-              <h3 class="fs-21 mb-2">Customer Service Skills</h3>
+              <h3 class="fs-21 mb-2">Remote Desktop Services</h3>
               <p class="mb-0">
                 
-              If your receptionist will interact with clients, strong customer service skills are necessary. They should handle client inquiries and issues with professionalism and efficiency
-
+              Experience in providing remote assistance using tools like Remote Desktop Protocol (RDP) or similar.
 
               </p>
             </div>
@@ -500,9 +504,9 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-1">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-1" aria-expanded="false" aria-controls="accordion-collapse-3-1">
-                   
-                   How do you ensure data security and confidentiality?4
 
+                   What if I am not satisfied with the Helpdesk Support Technician provided?
+ 
                    </button>
                  </div>
                  <!-- /.card-header -->
@@ -510,7 +514,7 @@
                    <div class="card-body">
                      <p class="fs-14">
 
-                     RapidBrains takes data security and confidentiality very seriously. Our receptionists are trained in best practices for data management and security, and we have stringent measures in place to protect your sensitive information.
+                     Client satisfaction is our priority. If you're not satisfied with the assigned technician, we will promptly work with you to find a suitable replacement that better meets your needs
 
                     </p>
                    </div>
@@ -523,7 +527,7 @@
                  <div class="card-header" id="accordion-heading-3-2">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-2" aria-expanded="false" aria-controls="accordion-collapse-3-2">
                     
-                   What if I am not satisfied with the dedicated receptionist provided?
+                   How can I communicate with my Helpdesk Support Technician? 
                   
                   </button>
                  </div>
@@ -532,7 +536,7 @@
                    <div class="card-body">
                      <p class="fs-14">
                       
-                     At RapidBrains, client satisfaction is our priority. If you are not satisfied with the dedicated receptionist provided, we will work with you to understand the issues and provide a replacement that better fits your requirements.
+                     You can communicate with your assigned Helpdesk Support Technician through various channels, including email, phone calls, video conferencing, and project management tools. We accommodate communication preferences to ensure seamless collaboration.
 
                       </p>
                    </div>
@@ -544,9 +548,11 @@
                <div class="card accordion-item">
                  <div class="card-header" id="accordion-heading-3-3">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-3" aria-expanded="false" aria-controls="accordion-collapse-3-3">
-                    
-                   Are your receptionists available 24/7?
                   
+
+                   Can I customize the skill set of the Helpdesk Support Technician I hire?
+
+
                   </button>
                  </div>
                  <!-- /.card-header -->
@@ -554,7 +560,9 @@
                    <div class="card-body">
                      <p class="fs-14">
                       
-                     Yes, we offer receptionists who are available 24/7 to accommodate different time zones and ensure continuous support for your business operations. You can discuss your specific requirements with our team to find the best solution.
+                 
+                     Yes, we understand that different organizations have unique IT requirements. During the hiring process, we consider your specific needs and preferences to match you with a Helpdesk Support Technician whose skills align with your operational goals.
+
                     
                     </p>
                    </div>
@@ -567,8 +575,9 @@
                  <div class="card-header" id="accordion-heading-3-4">
                    <button class="collapsed fs-15" data-bs-toggle="collapse" data-bs-target="#accordion-collapse-3-4" aria-expanded="false" aria-controls="accordion-collapse-3-4">
                     
-                   Can I hire a receptionist for specific hours or on a long-term basis?
+                   What response time can I expect from a Helpdesk Support Technician?
 
+   
                   
                   </button>
                  </div>
@@ -577,7 +586,7 @@
                    <div class="card-body">
                      <p class="fs-14">
                       
-                     Yes, you can hire a receptionist from RapidBrains for specific hours, part-time, or on a long-term basis. Our flexible hiring options allow you to choose the arrangement that best suits your business needs.
+                     We prioritize prompt response times. Depending on your service level agreement (SLA), you can expect timely assistance from our Helpdesk Support Technicians, ensuring minimal disruption to your operations.
 
                      </p>
                    </div>
